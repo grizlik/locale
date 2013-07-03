@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-01 08:57+0000\n"
+"POT-Creation-Date: 2013-07-03 10:23+0000\n"
 "PO-Revision-Date: 2013-06-28 16:45+0200\n"
 "Last-Translator: portuguese <>\n"
 "Language-Team: \n"
@@ -1639,6 +1639,12 @@ msgstr ""
 "%s preparou o seu filtro de mensagem para que não possa enviar mensagens. "
 "<b>Envie-lhe uma prenda</b> e a restrição será removida. Ou tente conversar "
 "com outra pessoa."
+
+msgid "weSentYouLetter"
+msgstr ""
+
+msgid "testPhraseNotForTranslate"
+msgstr ""
 
 msgid "modelLoginFormEmailOrNick"
 msgstr "Correio Eletrónico"
@@ -4317,4 +4323,3 @@ msgstr ""
 
 msgid "systemExitConfirmNo"
 msgstr "Nãot&nbsp;terminar sessão"
-

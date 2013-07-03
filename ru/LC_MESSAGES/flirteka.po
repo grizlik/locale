@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lovetime\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-01 08:57+0000\n"
+"POT-Creation-Date: 2013-07-03 10:23+0000\n"
 "PO-Revision-Date: 2013-06-26 11:42+0200\n"
 "Last-Translator: Olesya <alesena@gmail.com>\n"
 "Language-Team: Ontoco <lunoxot@mail.ru>\n"
@@ -1623,6 +1623,12 @@ msgstr ""
 "%s настроила фильтр сообщений таким образом, что вы не можете написать ей. "
 "<b>Подарите ей подарок</b>, это снимет ограничение. Или попробуйте "
 "пообщаться с кем-нибудь другим."
+
+msgid "weSentYouLetter"
+msgstr ""
+
+msgid "testPhraseNotForTranslate"
+msgstr ""
 
 msgid "modelLoginFormEmailOrNick"
 msgstr "Email"
@@ -4312,4 +4318,3 @@ msgstr "В&nbsp;следующий раз тебе придётся вводит
 
 msgid "systemExitConfirmNo"
 msgstr "Не&nbsp;выходить"
-

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-01 08:56+0000\n"
+"POT-Creation-Date: 2013-07-03 10:22+0000\n"
 "PO-Revision-Date: 2013-07-01 08:44+0200\n"
 "Last-Translator: Spanish <>\n"
 "Language-Team: \n"
@@ -1620,6 +1620,12 @@ msgstr ""
 "posible para ti de enviarle mensajes. <b>Mándale un regalo</b> y esta "
 "restricción será omitida, así entonces podrás enviarle mensajes. Sino, "
 "intenta chatear con otra persona."
+
+msgid "weSentYouLetter"
+msgstr ""
+
+msgid "testPhraseNotForTranslate"
+msgstr ""
 
 msgid "modelLoginFormEmailOrNick"
 msgstr "Email"
@@ -4293,4 +4299,3 @@ msgstr ""
 
 msgid "systemExitConfirmNo"
 msgstr "Continuar&nsbp;en&nbsp;sesión"
-

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-01 08:57+0000\n"
+"POT-Creation-Date: 2013-07-03 10:23+0000\n"
 "PO-Revision-Date: 2013-06-26 10:38+0200\n"
 "Last-Translator: Olesya <alesena@gmail.com>\n"
 "Language-Team: \n"
@@ -1616,6 +1616,12 @@ msgstr ""
 "%s 는 당신이 메세지를 보내지 못하게 필터가 설정 되어있습니다.<b>그녀에게 선물"
 "을 보내세요</b>그리고 그것은 제약을 없애줄 것입니다. 또는 다른 누군가와 채팅"
 "을 시도해보세요."
+
+msgid "weSentYouLetter"
+msgstr ""
+
+msgid "testPhraseNotForTranslate"
+msgstr ""
 
 msgid "modelLoginFormEmailOrNick"
 msgstr "이메일"
@@ -4247,4 +4253,3 @@ msgstr "다음&nbsp;시간 &nbsp;다시 비밀번호를 입력하고 로그인 �
 
 msgid "systemExitConfirmNo"
 msgstr "하지않는다&nbsp;로그아웃"
-

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-01 08:57+0000\n"
+"POT-Creation-Date: 2013-07-03 10:23+0000\n"
 "PO-Revision-Date: 2013-07-01 09:09+0200\n"
 "Last-Translator: Olesya <alesena@gmail.com>\n"
 "Language-Team: \n"
@@ -1636,6 +1636,12 @@ msgstr ""
 "%s telah melakukan tapisan mesej dan pesanan anda tidak dapat dihantar. "
 "<b>Berikan dia hadiah</b> dan pesanan akan diterima olehnya. Atau teruskan "
 "berbual dengan pengguna yang lain."
+
+msgid "weSentYouLetter"
+msgstr ""
+
+msgid "testPhraseNotForTranslate"
+msgstr ""
 
 msgid "modelLoginFormEmailOrNick"
 msgstr "E-mel"
@@ -4284,4 +4290,3 @@ msgstr ""
 
 msgid "systemExitConfirmNo"
 msgstr "Tidak&nbsp;daftar keluar"
-

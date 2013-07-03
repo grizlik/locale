@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-01 08:56+0000\n"
+"POT-Creation-Date: 2013-07-03 10:22+0000\n"
 "PO-Revision-Date: 2013-05-03 10:41+0200\n"
 "Last-Translator: chinesetraditional <>\n"
 "Language-Team: \n"
@@ -1538,6 +1538,12 @@ msgid "chatFilterManGifts"
 msgstr ""
 
 msgid "chatFilterWomanGifts"
+msgstr ""
+
+msgid "weSentYouLetter"
+msgstr ""
+
+msgid "testPhraseNotForTranslate"
 msgstr ""
 
 msgid "modelLoginFormEmailOrNick"
@@ -4112,4 +4118,3 @@ msgstr "下一次&nbsp; 您需要重新登入並且再次&nbsp;輸入密碼."
 
 msgid "systemExitConfirmNo"
 msgstr "不&nbsp;登出"
-

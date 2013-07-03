@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-01 08:56+0000\n"
+"POT-Creation-Date: 2013-07-03 10:21+0000\n"
 "PO-Revision-Date: 2013-06-26 19:42+0200\n"
 "Last-Translator: chinesetraditional <>\n"
 "Language-Team: \n"
@@ -1566,6 +1566,12 @@ msgid "chatFilterWomanGifts"
 msgstr ""
 "%s 已設定了她的訊息過濾器，因此您無法傳送訊息給他她。 <b>送他一個禮物</b> 這"
 "將會移除此限制。或嘗試與其他人聊天。"
+
+msgid "weSentYouLetter"
+msgstr ""
+
+msgid "testPhraseNotForTranslate"
+msgstr ""
 
 msgid "modelLoginFormEmailOrNick"
 msgstr "電子郵件"
@@ -4142,4 +4148,3 @@ msgstr "下一次&nbsp; 您需要重新登入並且再次&nbsp;輸入密碼."
 
 msgid "systemExitConfirmNo"
 msgstr "不&nbsp;登出"
-
