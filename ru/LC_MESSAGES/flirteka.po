@@ -1,0 +1,4315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lovetime\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-01 08:57+0000\n"
+"PO-Revision-Date: 2013-06-26 11:42+0200\n"
+"Last-Translator: Olesya <alesena@gmail.com>\n"
+"Language-Team: Ontoco <lunoxot@mail.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /home/flirteka/wwwroot/trunk/protected\n"
+"X-Poedit-SearchPath-1: /Users/jowee/Development/flirteka/trunk\n"
+"X-Poedit-SearchPath-2: /Users/Irina/www/dev.flirteka.ru\n"
+
+msgid "lettersGiftTitle"
+msgstr "Вам подарили подарок на %s"
+
+msgid "lettersHelloName"
+msgstr "Здравствуйте, %s"
+
+msgid "messageNewPresentLookAtButton"
+msgstr "Посмотреть"
+
+msgid "lettersFindYourLoveMatch"
+msgstr "Найди свою любовь!"
+
+msgid "lettersUnsubscribe"
+msgstr ""
+"Если вы не хотите получать подобные уведомления просто <a href=\"%s\" style="
+"\"color: #0072bc;\">отпишитесь от рассылки</a>"
+
+msgid "lettersChangeDataByClickingTheLink"
+msgstr ""
+"Изменить данные вы можете, <a href=\"%s\" style=\"color: #0072bc;\">пройдя "
+"по ссылке</a>"
+
+msgid "lettersUserSentGift"
+msgstr "Пользователь <b><a href='%s'>%s</a></b> сделал Вам подарок."
+
+msgid "lettersBalanceIncreasedTitle"
+msgstr "Ваш баланс пополнен"
+
+msgid "lettersBalanceIncreased"
+msgid_plural "lettersBalanceIncreased"
+msgstr[0] "Ваш баланс пополнен на %s монету"
+msgstr[1] "Ваш баланс пополнен на %s монеты"
+msgstr[2] "Ваш баланс пополнен на %s монет"
+
+msgid "inviteCaptcha"
+msgstr "Защитный код"
+
+msgid "captchaNewCode"
+msgstr "Новый код"
+
+msgid "moderatorSpamers"
+msgstr "Спамеры"
+
+msgid "formSearch"
+msgstr "Найти"
+
+msgid "modelSpamersOneName"
+msgstr "Спамер"
+
+msgid "modelSpamersBack"
+msgstr "Назад к списку"
+
+msgid "modelSpamersBanTime"
+msgstr "Время бана"
+
+msgid "modelSpamersBanMessagesHeader"
+msgstr "Сообщения, за которые забанен"
+
+msgid "modelSpamersMessage"
+msgstr "Сообщение"
+
+msgid "modelSpamersTranslate"
+msgstr "Перевод"
+
+msgid "modelSpamersDate"
+msgstr "Время"
+
+msgid "moderatorBannedUsers"
+msgstr "Забаненые пользователи"
+
+msgid "moderatorBan"
+msgstr "Бан"
+
+msgid "moderatorUnban"
+msgstr "Разбанить"
+
+msgid "statisticsMailchartsbytemplatesTemplateTitle"
+msgstr "Шаблоны"
+
+msgid "statisticsMailchartsbytemplatesQuantityChartTitle"
+msgstr "Количество"
+
+msgid "statisticsMailchartsbytemplateQuantityChartYAxis"
+msgstr "количество"
+
+msgid "statisticsMailchartsbytemplatesPercentChartTitle"
+msgstr "Проценты"
+
+msgid "statisticsMailchartsbytemplatePercentChartYAxis"
+msgstr "проценты"
+
+msgid "moderatorStatisticMenuMailTotal"
+msgstr ""
+
+msgid "moderatorStatisticMenuEximStats"
+msgstr ""
+
+msgid "statisticsMailTodayTitle"
+msgstr "Данные по отправленым письмам за сегодня"
+
+msgid "statisticsMailDomainsTitle"
+msgstr "Домены"
+
+msgid "statisticsMailUniqueOpens"
+msgstr "уникальные открытия"
+
+msgid "statisticsMailUniqueClicks"
+msgstr "уникальные клики"
+
+msgid "statisticsMailAll"
+msgstr "всего"
+
+msgid "statisticsMailTemplateTitle"
+msgstr "Типы письма"
+
+msgid "statisticsMailchartsbydomainDisplayDomains"
+msgstr "Отображаемые домены"
+
+msgid "statisticsMailchartsbydomainAllDomains"
+msgstr "все"
+
+msgid "statisticsMailchartsbydomainDisplayCounters"
+msgstr "Показывать"
+
+msgid "statisticsMailchartsbydomainSubmitButton"
+msgstr "Обновить"
+
+msgid "statisticsMailchartsbydomainQuantityChartTitle"
+msgstr "Количество"
+
+msgid "statisticsMailchartsbydomainQuantityChartYAxis"
+msgstr "Количество"
+
+msgid "statisticsMailchartsbydomainPercentChartTitle"
+msgstr "Проценты"
+
+msgid "statisticsMailchartsbydomainPercentChartYAxis"
+msgstr "Проценты"
+
+msgid "moderatorRefusalOfInvitation"
+msgstr "Отказы от приглашений"
+
+msgid "moderatorComplaintAboutUsers"
+msgstr "Жалобы на пользователей"
+
+msgid "moderatorFeedBack"
+msgstr "Обратная связь"
+
+msgid "moderatorErrorMessages"
+msgstr "Сообщения об ошибках"
+
+msgid "moderatorUsers"
+msgstr "Пользователи"
+
+msgid "moderatorContactsExclusion"
+msgstr "Контакты-исключения"
+
+msgid "moderatorPhotos"
+msgstr "Фотографии"
+
+msgid "moderatorCarousel"
+msgstr "Фотолинейка"
+
+msgid "moderatorModeratingPhotos"
+msgstr "Модерирование фотографий"
+
+msgid "moderatorEmailNotifications"
+msgstr "Почтовые уведомления"
+
+msgid "moderatorBlackListForDeliveries"
+msgstr "Чёрный список для рассылки"
+
+msgid "moderatorUsernamesBlacklist"
+msgstr "Черный список имен пользователей"
+
+msgid "moderatorStatistic"
+msgstr "Статистика"
+
+msgid "moderatorStatisticOpenedClickedStats"
+msgstr ""
+
+msgid "moderatorStatisticMenuMailNumbers"
+msgstr "почта - данные статистики"
+
+msgid "moderatorStatisticMenuMailChartByDomain"
+msgstr "график по домену"
+
+msgid "moderatorStatisticMenuMailChartByTemplate"
+msgstr "график по шаблону"
+
+msgid "moderatorRemovedRestoredUsers"
+msgstr "Удаленные/восстановленные пользователи"
+
+msgid "Advertising statistics"
+msgstr ""
+
+msgid "moderatorBalanceBilling"
+msgstr "Биллинг"
+
+msgid "moderatorMenuItemProducts"
+msgstr "Продукты"
+
+msgid "moderatorMenuItemProductPresents"
+msgstr "Подарки"
+
+msgid "systemExit"
+msgstr "Выйти"
+
+msgid "systemUser"
+msgstr "Пользователь"
+
+msgid "moderatorRemoveRecord"
+msgstr "Удалить запись"
+
+msgid "moderatorMaxUsersOnline"
+msgstr "Максимальное кол-во пользователей online"
+
+msgid "moderatorRegisteredStatistic"
+msgstr ""
+
+msgid "moderatorAudienceOfSystem"
+msgstr "Аудитория системы"
+
+msgid "moderatorInAll"
+msgstr "Всего"
+
+msgid "moderatorQuantityOfBoys"
+msgstr "Количество мальчиков"
+
+msgid "moderatorQuantityOfGirls"
+msgstr "Количество девочек"
+
+msgid "moderatorVisitsToday"
+msgstr "Посещений за сегодня"
+
+msgid "moderatorVisitsOnWeek"
+msgstr "Посещений за неделю"
+
+msgid "moderatorVisitsOnMonth"
+msgstr "Посещений за месяц"
+
+msgid "moderatorUsersWithCoords"
+msgstr "пользователи с координатами"
+
+msgid "moderatorUsersFillProfile"
+msgstr "заполненные анкеты (больше базовой)"
+
+msgid "moderatorUsersWithPhoto"
+msgstr "Пользователей с фото"
+
+msgid "moderatorPhotosToday"
+msgstr "Фотографий сегодня"
+
+msgid "moderatorPhotosOnWeek"
+msgstr "Фотографий за неделю"
+
+msgid "moderatorPhotosOnMonth"
+msgstr "Фотографий за месяц"
+
+msgid "moderatorDialogs"
+msgstr "Диалоги"
+
+msgid "moderatorAverageNumberOfMessages"
+msgstr "Среднее число сообщений в диалогах"
+
+msgid "moderatorQuantityDialogsStartedBoys"
+msgstr "Количество диалогов, начатых мальчиками"
+
+msgid "moderatorQuantityDialogsStartedGirls"
+msgstr "Количество диалогов, начатых девочками"
+
+msgid "moderatorEmails"
+msgstr "Emails"
+
+msgid "moderatorEmailsConfirmed"
+msgstr "Подтверждено:"
+
+msgid "moderatorEmailsNotConfirmed"
+msgstr "Не подтверждено:"
+
+msgid "moderatorRemovedRestoredCauses"
+msgstr "Причины удаления"
+
+msgid "moderatorRemovedRestoredDivisionForSexAndTime"
+msgstr "Распределение по полу и времени"
+
+msgid "guestsToday"
+msgstr "Сегодня"
+
+msgid "guestsByWeek"
+msgstr "За неделю"
+
+msgid "guestsByMonth"
+msgstr "За месяц"
+
+msgid "male"
+msgstr ""
+
+msgid "female"
+msgstr ""
+
+msgid "moderatorProductPresentsTitle"
+msgstr "Подарок"
+
+msgid "yes"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "moderatorProductPresentsCreateTitle"
+msgstr "Создать новый подарок"
+
+msgid "moderatorProductPresentsUpdateTitle"
+msgstr "Обновить подарок"
+
+msgid "usersDeleteSelectedPhotos"
+msgstr "Удалить отмеченные"
+
+msgid "usersDeletePhotoConfirm"
+msgstr "Вы уверены, что хотите удалить фото?"
+
+msgid "moderatorBack"
+msgstr "Назад"
+
+msgid "moderatorNext"
+msgstr "Вперед"
+
+msgid "moderatorAddRecord"
+msgstr "Добавить запись"
+
+msgid "actionSave"
+msgstr "Сохранить"
+
+msgid "actionCancel"
+msgstr "Отменить"
+
+msgid "moderatorChangeRecord"
+msgstr "Изменить запись"
+
+msgid "moderatorRemove"
+msgstr "Удалить"
+
+msgid "formOperatorsBegin"
+msgstr "в начале каждой строки поиска"
+
+msgid "formOperatorsEnd"
+msgstr "Вы можете использовать операторы сравнения"
+
+msgid "formAdvancedSearch"
+msgstr "Расширенный поиск"
+
+msgid "moderatorActionBanQuestion"
+msgstr "Забанить гада?"
+
+msgid "formCreate"
+msgstr "Создать элемент"
+
+msgid "formRequired"
+msgstr "Поля, помеченные знаком * обязательны для заполнения"
+
+msgid "formNoactive"
+msgstr "Нет"
+
+msgid "formActive"
+msgstr "Да"
+
+msgid "systemModerator"
+msgstr "Модератор"
+
+msgid "anketaPersonalsCustomLabel"
+msgstr "Другое"
+
+msgid "coin"
+msgid_plural "coins"
+msgstr[0] "монета"
+msgstr[1] "монеты"
+msgstr[2] "монет"
+
+msgid "moderatorUserFormBalanceChangeAlt"
+msgstr "баланс"
+
+msgid "formSave"
+msgstr "Сохранить изменения"
+
+msgid "formManage"
+msgstr "Управление элементами"
+
+msgid "formUpdate"
+msgstr "Редактировать элемент"
+
+msgid "formDelete"
+msgstr "Удалить элемент"
+
+msgid "systemLogin"
+msgstr "Войти"
+
+msgid "moderatorComplaintsResolved"
+msgstr "Решена"
+
+msgid "moderatorComplaintsNew"
+msgstr "Новая"
+
+msgid "sexFemale"
+msgstr "Женский"
+
+msgid "sexMale"
+msgstr "Мужской"
+
+msgid "formList"
+msgstr "Список элементов"
+
+msgid "formView"
+msgstr "Просмотр элемента"
+
+msgid "moderatorSlider"
+msgstr "Слайдер"
+
+msgid "moderatorMosaic"
+msgstr "Мозаика"
+
+msgid "photosStatusNew"
+msgstr "Новое"
+
+msgid "moderatorActions"
+msgstr "Действия"
+
+msgid "moderatorAccept"
+msgstr "Принять"
+
+msgid "moderatorRefuse"
+msgstr "Отклонить"
+
+msgid "moderatorModerating"
+msgstr ""
+
+msgid "moderatorPhotosVersions"
+msgstr "версии фотографии"
+
+msgid "moderatorStatus"
+msgstr "статус"
+
+msgid "userID"
+msgstr "ID пользователя"
+
+msgid "moderatorPhotosSearchInTheWeb"
+msgstr "Поиск в сети"
+
+msgid "modelUsersSex"
+msgstr "Пол"
+
+msgid "searchGo"
+msgstr "Найти"
+
+msgid "moderatorRefuseReason"
+msgstr "причина отклонения"
+
+msgid "moderatorLastEditName"
+msgstr ""
+
+msgid "moderatorBalanceBillingGlobalCountersRegistrations"
+msgstr "Регистраций в системе/подтвержденных/платников"
+
+msgid "moderatorBalanceBillingGlobalCountersExpense"
+msgstr "Расход юзеров всего, за всю жизнь"
+
+msgid "moderatorBalanceBillingGlobalCountersCurrent"
+msgstr "Текущая сумма на балансе у пользователей"
+
+msgid "moderatorBalanceSetTitle"
+msgstr "Изменение баланса пользователя"
+
+msgid "moderatorBalanceSetSuccessful"
+msgstr "Баланс успешно изменен"
+
+msgid "moderatorBalanceUserStatTitle"
+msgstr "Статистика изменений баланса"
+
+msgid "moderatorBalanceUserStatTableFieldTime"
+msgstr "Дата"
+
+msgid "moderatorBalanceUserStatTableFieldDescription"
+msgstr "Описание"
+
+msgid "moderatorBalanceUserStatTableFieldAmount"
+msgstr "Величина"
+
+msgid "moderatorBalanceUserStatTableFieldCurrent"
+msgstr "Баланс"
+
+msgid "moderatorRegisteredToday"
+msgstr "Всего зарегистрировано сегодня"
+
+msgid "bannedSecondChance"
+msgstr ""
+"Понятно, я больше не буду нарушать, <a href='%s'>разблокируйте меня</a>"
+
+msgid "bannedForever"
+msgstr ""
+
+msgid "actionTranslate"
+msgstr "перевести"
+
+msgid "chatSendByClickOn"
+msgstr "отправлять по"
+
+msgid "formPleaseFixErrors"
+msgstr "Необходимо исправить следующие ошибки:"
+
+msgid "userBalloonAddToFavorite"
+msgstr "Добавить в избранное"
+
+msgid "ofPair"
+msgstr "Пару"
+
+msgid "visitor"
+msgid_plural "visitors"
+msgstr[0] "посетитель"
+msgstr[1] "посетителя"
+msgstr[2] "посетителей"
+
+msgid "signupMe"
+msgstr "Я"
+
+msgid "signupIAmSearching"
+msgstr "Ищу"
+
+msgid "bannedInfoTitle"
+msgstr ""
+"Ваш аккаунт заблокирован. Скорее всего это произошло по одной из следующих "
+"причин:"
+
+msgid "bannedInfoCauseSendSpam"
+msgstr "&mdash; массовая рассылка рекламы или спама;"
+
+msgid "bannedInfoCauseSendContacts"
+msgstr ""
+"&mdash; массовая рассылка контактных данных в сообщениях (телефон, "
+"электронная почта, skype);"
+
+msgid "bannedInfoCauseWrongProfile"
+msgstr "&mdash; недопустимое содержание профиля (реклама и т.д.);"
+
+msgid "bannedInfoCauseRudeAttitude"
+msgstr "&mdash; грубость по отношению к другим участникам сайта;"
+
+msgid "bannedInfoRecommendation"
+msgstr ""
+"Рекомендуем вам перечитать наши правила <a href=\"http://lovetime.com/pages/"
+"rules\">lovetime.com/pages/rules</a>"
+
+msgid "bannedInfoCreateNewAccount"
+msgstr ""
+"Заведите новый аккаунт и уже в нем не повторяйте вышеуказанные действия. В "
+"противном случае мы опять вынуждены будем заблокировать вас."
+
+msgid "bannedInfoSendEmail"
+msgstr ""
+"Если вы считаете, что вас заблокировали по ошибке, напишите нам на <a href="
+"\"mailto:info@lovetime.com?subject=Ошибочно заблокирован пользователь %id%"
+"\">info@lovetime.com</a>"
+
+msgid "loginErrorUserBanned"
+msgstr "Доступ запрещён. Пользователь %s забанен."
+
+msgid "messageFilterTitle"
+msgstr "Фильтр сообщений"
+
+msgid "messageFilterSuggestion"
+msgstr "Устанавливает, какие сообщения вы хотите получать..."
+
+msgid "messageFilterReceiveFromAll"
+msgstr "Получать сообщения ото всех"
+
+msgid "messageFilterReceiveFromWoman"
+msgstr "Получать сообщения только от девушек"
+
+msgid "messageFilterReceiveFromMen"
+msgstr "Получать сообщения только от парней"
+
+msgid "messageFilterWithPhotoOnly"
+msgstr "Только с фото"
+
+msgid "messageFilterAgedFrom"
+msgstr "Возраст пользователей от"
+
+msgid "messageFilterAgedTo"
+msgstr "до"
+
+msgid "messageFilterFromMyCountry"
+msgstr "Только из моей страны"
+
+msgid "modelUsersFilterSex"
+msgstr "Фильтрация по полу"
+
+msgid "modelUsersFilterPhoto"
+msgstr "Только с фото"
+
+msgid "modelUsersFilterAgeFrom"
+msgstr "Только от пользователей в возрасте от"
+
+msgid "modelUsersFilterAgeTo"
+msgstr "до"
+
+msgid "modelUsersFilterCountry"
+msgstr "Только из моей страны"
+
+msgid "chatFilterMan"
+msgstr ""
+"настроил фильтр сообщений таким образом, что вы не можете написать ему. "
+"Попробуйте пообщаться с кем-нибудь другим."
+
+msgid "chatFilterWoman"
+msgstr ""
+"настроила фильтр сообщений таким образом, что вы не можете написать ей. "
+"Попробуйте пообщаться с кем-нибудь другим."
+
+msgid "chatImpossibleCompanionBanned"
+msgstr ""
+"Вы не можете отправлять сообщения в этом чате, так как пользователь %s был "
+"заблокирован модератором или удалил свою анкету."
+
+msgid "lettersHiAndWelcome"
+msgstr "Привет, %name%! Вас приветствует администрация %host%."
+
+msgid "lettersAlmostDone"
+msgstr "Осталось совсем немного..."
+
+msgid "lettersConfirm"
+msgstr "Подтвердить"
+
+msgid "lettersPersonalData"
+msgstr "Ваши персональные данные:"
+
+msgid "lettersNick"
+msgstr "Ник:"
+
+msgid "lettersEmail"
+msgstr "Email:"
+
+msgid "lettersAboutSite"
+msgstr ""
+"На нашем сайте вы сможете найти свою вторую половинку, построить "
+"романтические отношения, анонимно флиртовать со знакомыми и друзьями."
+
+msgid "lettersTryIt"
+msgstr ""
+"<a href=\"%s\" style=\"color: #0072BC;\">Попробуйте!</a> Это очень "
+"увлекательно!"
+
+msgid "lettersTellAboutUs"
+msgstr "Расскажите про этот сайт всем своим друзьям."
+
+msgid "lettersThankYou"
+msgstr "Спасибо."
+
+msgid "lettersYouCanChangeData"
+msgstr "Изменить данные вы можете в персональном разделе:"
+
+msgid "removingProfileRemovingProfile"
+msgstr "Удаление анкеты"
+
+msgid "removingProfileRemoveProfileAction"
+msgstr "Удалить анкету"
+
+msgid "removingProfileQuestion"
+msgstr "Вы уверены, что хотите удалить свою анкету?"
+
+msgid "removingProfileCauseManagedFindYourSoulMate"
+msgstr "Да, мне удалось найти свою половинку!"
+
+msgid "removingProfileCauseICanNotFindAnyone"
+msgstr "Я уже давно здесь, но мне не удается никого найти"
+
+msgid "removingProfileCauseIPlanGoBack"
+msgstr "Это временно, я планирую вернуться"
+
+msgid "removingProfileCauseIHaveAnotherProfile"
+msgstr "У меня есть другая анкета"
+
+msgid "removingProfileCauseIWasInsultedByAnother"
+msgstr "Меня оскорбил другой пользователь"
+
+msgid "removingProfileCauseIReceiveOffersEroticServices"
+msgstr "Мне поступают предложения интим-услуг"
+
+msgid "removingProfileCauseOther"
+msgstr "Другое"
+
+msgid "removingProfileIChangedMyMindAction"
+msgstr "Я передумал"
+
+msgid "removingProfileNotification"
+msgstr ""
+"После нажатия на кнопку «Удалить» на ваш e-mail (%email%) будет отправлено "
+"письмо со ссылкой, перейдя по которой, вы подтвердите свое намерение удалить "
+"свою страницу. После того, как ваша анкета будет удалена, в течение 30 дней "
+"вы сможете полностью восстановить анкету (включая фотографии и список ваших "
+"контактов)."
+
+msgid "removingProfileRemoveAction"
+msgstr "Удалить"
+
+msgid "removingProfileCanselAction"
+msgstr "Отмена"
+
+msgid "removingProfileEmailSendNotification"
+msgstr ""
+"На ваш e-mail адрес выслано письмо с инструкцией по удаления аккаунта. Чтобы "
+"удалить аккаунт, перейдите по ссылке в письме."
+
+msgid "removingProfileNextAction"
+msgstr "Далее"
+
+msgid "removingProfileEnterEmailAndCode"
+msgstr "Введите e-mail и код письма"
+
+msgid "removingProfileEmail"
+msgstr "Email"
+
+msgid "removingProfileEnterEmail"
+msgstr "Введите e-mail"
+
+msgid "removingProfileCodeOfPost"
+msgstr "Код письма"
+
+msgid "removingProfileEnterCodeOfPost"
+msgstr "Введите код письма"
+
+msgid "removingProfileDoNotGo"
+msgstr "Не уходи! Эти люди будут скучать по тебе!"
+
+msgid "removingProfileCancelRemovingAction"
+msgstr "Отменить удаление"
+
+msgid "removingProfileContinueAction"
+msgstr "Все равно продолжить"
+
+msgid "removingProfileRemovedStatus"
+msgstr "Статус вашей анкеты &mdash; удалена"
+
+msgid "removingProfileRemovedMessage"
+msgstr ""
+"Ваша страница помечена на сайте как удаленная. Вся ваша переписка, контакт-"
+"листы, а также все фотографии и настройки будут храниться 30 дней с момента "
+"удаления."
+
+msgid "removingProfileRestoreProfileAction"
+msgstr "Восстановить анкету"
+
+msgid "modelUsersHobbies"
+msgstr "О себе"
+
+msgid "balanceChangesBuyProductDecreaseProductId"
+msgstr "Продукт"
+
+msgid "balanceChangesByAdminUserId"
+msgstr "Пользователь"
+
+msgid "balanceChangesPSIncreasePSId"
+msgstr "Платежная система"
+
+msgid "BalanceIncreaseErrorTitle"
+msgstr "Ошибка увеличения баланса"
+
+msgid "everyDayBalanceIncreasingDesc"
+msgstr "Ежедневное увеличение баланса"
+
+msgid "invisibleSettingsFormButton"
+msgstr "Сохранить"
+
+msgid "invisibleSettingsPageText"
+msgstr ""
+"Мы советуем вам не пользоваться этим режимом слишком часто. Конечно, перед "
+"этим сложно устоять, но помните - у тех, кого видят другие, больше шансов на "
+"новые знакомства, чем у невидимых пользователей."
+
+msgid "invisibleSettingsPageTitle"
+msgstr "Режим Невидимки"
+
+msgid "modelUsersBalance"
+msgstr "баланс"
+
+msgid "modelUsersInvisibleeWalk"
+msgstr "Не показывать меня в списке Посетители профиля у других пользователей"
+
+msgid "modelUsersInvisibleOnline"
+msgstr "Скрывать моё присутствие в сети от других пользователей"
+
+msgid "modelUsersInvisibleSuperstarStatus"
+msgstr "Не показывать другим пользователям, что у меня есть статус Superstar"
+
+msgid "moderatorProductPresentsAddButton"
+msgstr "Добавить подарок"
+
+msgid "monetizationInfoPageSearchText"
+msgstr "Увеличивая шансы на счастливые отношения"
+
+msgid "monetizationInfoPageSearchTitle"
+msgstr "1 место в результатах поиска"
+
+msgid "monetizationInfoPageSuperstarButton"
+msgstr "Стать Superstar"
+
+msgid "monetizationInfoPageSuperstarText"
+msgstr "Приоритетные показы в игре «Флирт»"
+
+msgid "monetizationInfoPageSuperstarTitle"
+msgstr "Статус Superstar"
+
+msgid "monetizationInfoPageText"
+msgstr ""
+"Вы можете <a href='#' id='%s'>покупать монеты</a> или находить их на сайте."
+
+msgid "monetizationInfoPageText2"
+msgstr "Мы дарим вам по одной монете в день."
+
+msgid "monetizationInfoPageTitle"
+msgstr "Используйте монеты, чтобы стать популярнее"
+
+msgid "monetizationInfoPageTopFacesButton"
+msgstr "Подняться в ТОП"
+
+msgid "monetizationInfoPageTopFacesText"
+msgstr ""
+"Мы анализируем ваши предпочтения и подбираем подходящих людей на основе "
+"уникального алгоритма"
+
+msgid "monetizationInfoPageTopFacesTitle"
+msgstr "Место в TOP-faces"
+
+msgid "monetizationAboutTopTitle"
+msgstr "Продвижение анкеты"
+
+msgid "monetizationAboutTopText"
+msgstr "Подняться в поиске и в фотолинейке"
+
+msgid "monetizationAboutTopButton"
+msgstr "Подняться в ТОП"
+
+msgid "monetizationAboutGiftsTitle"
+msgstr "Подарки"
+
+msgid "monetizationAboutGiftsText"
+msgstr "Обратить на себя внимание"
+
+msgid "monetizationAboutUnlimitedTitle"
+msgstr "Unlimited"
+
+msgid "monetizationAboutUnlimitedText"
+msgstr "Снять все ограничения"
+
+msgid "monetizationAboutUnlimitedButton"
+msgstr "Снять ограничения"
+
+msgid "monetizationAboutVipTitle"
+msgstr "VIP"
+
+msgid "monetizationAboutVipText"
+msgstr "Украсить свою анкету"
+
+msgid "monetizationAboutVipButton"
+msgstr "Стать VIP"
+
+msgid "monetizationAboutIncognitoTitle"
+msgstr "Инкогнито"
+
+msgid "monetizationAboutIncognitoText"
+msgstr "Скрыть свое присутствие на сайте"
+
+msgid "monetizationAboutIncognitoButton"
+msgstr "Скрыть мое присутствие"
+
+msgid "monetizationBalanceSendSMS"
+msgstr "Отправить SMS"
+
+msgid "monetizationBalanceSum"
+msgstr "Сумма платежа"
+
+msgid "monetizationBalancePhoneNumber"
+msgstr "Номер телефона"
+
+msgid "monetizationBalanceOrderNumber"
+msgstr "Номер заказа"
+
+msgid "monetizationBalanceYouPayOrder"
+msgstr "Вы оплачиваете заказ"
+
+msgid "monetizationBalanceCheckOrder"
+msgstr "Проверить платеж"
+
+msgid "monetizationBalanceOperator"
+msgstr "Оператор"
+
+msgid "monetizationBalanceUpText"
+msgstr ""
+"Для пополнения баланса на %s монет (стоимостью %s без НДС) необходимо "
+"отправить сообщение."
+
+msgid "monetizationBalanceNumber"
+msgstr "Номер"
+
+msgid "monetizationBalanceText"
+msgstr "Текст сообщения"
+
+msgid "paymentDialogMessageSuperstarForSearch"
+msgstr ""
+"Чтобы посмотреть профили, найденные через расширенный поиск, необходимо "
+"активировать статус Superstar"
+
+msgid "paymentDialogTitleDefault"
+msgstr "Пополнить баланс"
+
+msgid "paymentDialogTitleSuperstar"
+msgstr "Купить статус Superstar"
+
+msgid "paymentDialogTitleTopFaces"
+msgstr "Добавить в ТОП"
+
+msgid "paymentDialogWidgetBuy"
+msgstr "оплатить"
+
+msgid "paymentDialogWidgetTermsOfUse"
+msgstr "Условия использования"
+
+msgid "productPresentModelCodePatternMessage"
+msgstr ""
+"код продукта должен быть вида 'present-*', где * одна или больше цифр или "
+"строчных букв латинского алфавита"
+
+msgid "productPresentModelImageFieldLabel"
+msgstr "изображение"
+
+msgid "productSuperstar12PublicTitle"
+msgstr "Статус Superstar на 12 месяцев"
+
+msgid "productSuperstar1PublicTitle"
+msgstr "Статус Superstar на 1 месяц"
+
+msgid "productSuperstar3PublicTitle"
+msgstr "Статус Superstar на 3 месяца"
+
+msgid "productSuperstar6PublicTitle"
+msgstr "Статус Superstar на 6 месяцев"
+
+msgid "productSuperstarFriendly"
+msgstr "дружеские"
+
+msgid "productSuperstarStatusModelFieldPeriod"
+msgstr "период"
+
+msgid "productSuperstarStatusModelFieldType"
+msgstr "тип"
+
+msgid "productSuperstarTypeRomantic"
+msgstr "романтические"
+
+msgid "productTopFacesPublicTitle"
+msgstr "Добавить в ТОП"
+
+msgid "publicFlashNotifierWidgetPresentBalanceWasChanged"
+msgstr "Баланс был уменьшен на %d %s"
+
+msgid "publicFlashNotifierWidgetPresentNotice"
+msgstr "Вы выбрали подарок"
+
+msgid "sendGiftDialogCommentLabel"
+msgstr "Ваше послание или комплимент"
+
+msgid "sendGiftDialogHiddenFieldLabel"
+msgstr "Показывать подарок только получателю"
+
+msgid "sendGiftDialogSubmit"
+msgstr "Сделать подарок"
+
+msgid "sendGiftDialogText"
+msgstr "Это лучший способ обратить на себя внимание"
+
+msgid "sendGiftDialogTitle"
+msgstr "Дарите подарки"
+
+msgid "superstarModelAttributeBegin"
+msgstr "Начало"
+
+msgid "superstarModelAttributeFinish"
+msgstr "Окончание"
+
+msgid "superstarModelAttributeUser"
+msgstr "Пользователь"
+
+msgid "topFacesDialogNotice"
+msgstr "Стоимость услуги %d %s"
+
+msgid "userRatingAndBalanceWidgetBecameSuperstar"
+msgstr "Стать Superstar"
+
+msgid "userRatingAndBalanceWidgetRatingExtraLow"
+msgstr "оч.низкая"
+
+msgid "userRatingAndBalanceWidgetRatingLow"
+msgstr "низкая"
+
+msgid "userRatingAndBalanceWidgetRatingMiddle"
+msgstr "средняя"
+
+msgid "userRatingAndBalanceWidgetRatingHigh"
+msgstr "высокая"
+
+msgid "userRatingAndBalanceWidgetRatingExtraHigh"
+msgstr "оч.высокая"
+
+msgid "userRatingAndBalanceWidgetFillUpBalance"
+msgstr "пополнить"
+
+msgid "userRatingAndBalanceWidgetIncrease"
+msgstr "повысить"
+
+msgid "userRatingAndBalanceWidgetRatingAndVisitorsText"
+msgstr ""
+"Вы на <a href='%s'>%s</a> месте в поиске и сегодня у вас <a href='%s'>%d</a> "
+"%s"
+
+msgid "userRatingAndBalanceWidgetToTop"
+msgstr "Подняться в ТОП"
+
+msgid "userRatingAndBalanceWidgetYourRating"
+msgstr "Ваша популярность"
+
+msgid "userViewBalloonActivateSuperstar"
+msgstr "Активировать статус Superstar"
+
+msgid "userViewBalloonReturnToBasicSearch"
+msgstr "Вернуться к основному поиску"
+
+msgid "userViewBalloonTitle"
+msgstr ""
+"Чтобы посмотреть профили, найденные через расширенный поиск, необходимо "
+"активировать Супер Силу."
+
+msgid "walletBalanceChangesAmount"
+msgstr "величина"
+
+msgid "walletBalanceChangesBalance"
+msgstr "текущий баланс"
+
+msgid "walletBalanceChangesCode"
+msgstr "код"
+
+msgid "walletBalanceChangesDescription"
+msgstr "описание"
+
+msgid "walletBalanceChangesPrice"
+msgstr "цена"
+
+msgid "walletBalanceChangesProductId"
+msgstr "продукт"
+
+msgid "walletBalanceChangesTimestamp"
+msgstr "время"
+
+msgid "walletBalanceChangesUserId"
+msgstr "пользователь"
+
+msgid "walletProductsCode"
+msgstr "код"
+
+msgid "walletProductsCreatedAt"
+msgstr "дата создания"
+
+msgid "walletProductsCreatedBy"
+msgstr "кем создан"
+
+msgid "walletProductsDescription"
+msgstr "описание"
+
+msgid "walletProductsPrice"
+msgstr "цена"
+
+msgid "walletProductsTitle"
+msgstr "название"
+
+msgid "walletProductsUpdatedAt"
+msgstr "дата изменения"
+
+msgid "walletProductsUpdatedBy"
+msgstr "кем изменен"
+
+msgid "YourBalanceWasIncreasedText"
+msgstr "Ваш баланс был увеличен на %d %s. Текущий баланс %d %s."
+
+msgid "YourBalanceWasIncreasedTitle"
+msgstr "Увеличение баланса"
+
+msgid "YourPresentHasBeenSent"
+msgstr "Ваш подарок отправлен"
+
+msgid "sendGiftDialogFilterAll"
+msgstr "Все"
+
+msgid "sendGiftDialogFilterFriendly"
+msgstr "Дружеские"
+
+msgid "sendGiftDialogFilterRomantic"
+msgstr "Романтичные"
+
+msgid "paymentDialogBuyCoins"
+msgstr "Пополнить баланс"
+
+msgid "carouselNeedBuySuperstarNotice"
+msgstr ""
+"Что бы просматривать анкеты Вам необходимо <a href=\"%s\">купить</a> "
+"superstar"
+
+msgid "leftMenuSearchPosition"
+msgstr "место в поиске,"
+
+msgid "leftMenuVisitorsToday"
+msgstr "%s за сегодня"
+
+msgid "leftMenuButtonTop"
+msgstr "ТОП"
+
+msgid "leftMenuButtonSuperstar"
+msgstr "Superstar"
+
+msgid "leftMenuBalance"
+msgstr "Баланс"
+
+msgid "balanceChangeTitle"
+msgstr "Изменение баланса"
+
+msgid "balanceChangeBuyProductDecreaseTitle"
+msgstr "Покупка товара"
+
+msgid "balanceChangeByAdminTitle"
+msgstr "Изменение баланса администратором"
+
+msgid "balanceChangeDailyTitle"
+msgstr "Ежедневное увеличение баланса"
+
+msgid "balanceChangePSIncreaseTitle"
+msgstr "Пополнение баланса"
+
+msgid "userProfileAddPresentBaitF"
+msgstr "Сделайте ей подарок, и она вас заметит!"
+
+msgid "userProfileAddPresentBaitM"
+msgstr "Сделайте ему подарок, и он вас заметит!"
+
+msgid "mailTemplateTitleNewPresent"
+msgstr "%name%, вы получили новый подарок от %sender_name% на %host%"
+
+msgid "mailTemplateBodyNewPresent"
+msgstr ""
+"Пользователь <a href='%sender_profile_url%'>%sender_name%</a> сделал Вам "
+"подарок. Увидеть подарок Вы можете в своем <a href='%profile_url%'>профиле</"
+"a>."
+
+msgid "balanceChangeBuyProductSuperstarDecreaseTitle"
+msgstr "Списание за активацию статуса Суперстар"
+
+msgid "balanceChangeBuyProductPresentDecreaseTitle"
+msgstr "Списание за покупку подарка"
+
+msgid "balanceChangeBuyProductTopFacesDecreaseTitle"
+msgstr "Списание за добавление в ТОП"
+
+msgid "userTransactionsPageTitle"
+msgstr "На вашем счете %d %s"
+
+msgid "userTransactionsPageDescription"
+msgstr ""
+"История финансовых взаимоотношений между вами и нашей службой.<br />В "
+"разделе «Поступления» вы можете посмотреть список и состояния ваших счетов,"
+"<br />распечатать сопутствующие документы. В разделе «Списания» представлены "
+"ваши расходы."
+
+msgid "userTransactionsPageLinkTypeExpenses"
+msgstr "Поступления"
+
+msgid "userTransactionsPageLinkTypeIncomes"
+msgstr "Списания"
+
+msgid "userTransactionsPageTableHeaderCol1"
+msgstr "Операция"
+
+msgid "userTransactionsPageTableHeaderCol2"
+msgstr "Дата"
+
+msgid "userTransactionsPageTableHeaderCol3"
+msgstr "Сумма"
+
+msgid "userTransactionsPageLinkAll"
+msgstr "Показать все"
+
+msgid "monetizationInfoPageLinkTransactions"
+msgstr "Взаиморасчеты"
+
+msgid "SuperstarPaymentWasPurchasedTitle"
+msgstr "Вы успешно активировали статус суперстар!"
+
+msgid "monetizationInfoPageLinkRecharge"
+msgstr "Пополнить счет"
+
+msgid "messageNewPresentText"
+msgstr ""
+
+msgid "superstarInfoPageTitle"
+msgstr "Статус Суперстар!"
+
+msgid "superstarInfoPageTitleNotice"
+msgstr "Хотите знакомиться с ещё большим количеством людей ещё быстрее?"
+
+msgid "superstarInfoPageEncountersTitle"
+msgstr "С вами хотят встретиться"
+
+msgid "superstarInfoPageEncountersNotice"
+msgstr "Узнайте, кто сказал Да, увидев ваше фото в игре Знакомства"
+
+msgid "superstarInfoPageAdvancedSearchTitle"
+msgstr "Расширенный поиск"
+
+msgid "superstarInfoPageAdvancedSearchNotice"
+msgstr "Найдите среди миллионов людей именно тех, кто вам подходит"
+
+msgid "superstarInfoPageInvisibleModeTitle"
+msgstr "Режим Невидимки"
+
+msgid "superstarInfoPageInvisibleModeNotice"
+msgstr "Станьте Невидимкой и другие никогда не узнают, что вы к ним заходили"
+
+msgid "superstarInfoPageLimitsTitle"
+msgstr "Никаких ограничений"
+
+msgid "superstarInfoPageLimitsNotice"
+msgstr ""
+"Неограниченные показы в игре \"карусель\", никаких ограничений поиске и чате"
+
+msgid "superstarInfoPageButtonBuy"
+msgstr "Активировать Суперстар"
+
+msgid "superstarInfoPageButtonRun"
+msgstr "Попробовать бесплатно"
+
+msgid "or"
+msgstr "или"
+
+msgid "close"
+msgstr "Закрыть"
+
+msgid "YouHaveReceivedAGift"
+msgstr "Вы получили подарок"
+
+msgid "YouHaveMadeAGift"
+msgstr "Вы сделали подарок"
+
+msgid "paymentDialogWidgetTermsOfUseText"
+msgstr ""
+"Нажав кнопку '#button#', вы разрешаете #ltd# снять с вашего платежного "
+"средства #paySystemName# #moneyAmount# #moneyCurrency# за #starAmount# "
+"#coins# для использования на сайте #domain# и принимаете приведенные ниже "
+"Условия использования монет #siteName#. Вы можете изменить способ оплаты в "
+"любой момент в настройках платежей.<br/><br/>Условия использования монет "
+"#siteName#:<br/><br/>1. При покупке или получении монет вы не становитесь их "
+"владельцем. Вы лишь получаете право использовать монеты для приобретения "
+"услуг #siteName#, таких как Подарки, Суперстар и т.д.<br/>2. Деньги, "
+"потраченные на приобретение монет, не подлежат возврату.<br/>3. Мы имеем "
+"право изменить стоимость монет в любое время, а также способы их "
+"использования на сайте. Мы также оставляем за собой право прекратить выпуск "
+"монет.<br/>4. Монеты нельзя обменять на денежную сумму или на любую денежную "
+"величину, если мы не дадим на это разрешение в письменном виде.<br/>5. "
+"Неиспользованные монеты теряют силу через 6 месяцев.<br/>6. Если вы удалите "
+"аккаунт или он будет удалён модераторами #siteName# за нарушение Правил "
+"использования #siteName#, вы потеряете все накопленные монеты.<br/>7. Если "
+"вы получите бесплатные монеты в ходе рекламной акции, мы имеем право изъять "
+"их в любой момент.<br/><br/>Платежи обрабатываются #ltd#."
+
+msgid "payonlineTetmsOfUse"
+msgstr ""
+"<p>Окончательная сумма платежа, веб-адрес или наименование предприятия, "
+"идентификатор (номер) оплачиваемого поручения или заказа.</p><p>Указанная "
+"Вами персональная информация сохраняется исключительно в системе PayOnline. "
+"Мы гарантируем, что данная информация ни при каких обстоятельствах не будет "
+"разглашена третьим лицам, за исключением случаев, предусмотренных "
+"законодательством РФ, на основании письменного обращения органов "
+"государственной власти.</p><p>ООО ПэйОнлайн Систем» внесено в федеральный "
+"реестр операторов по сбору, хранению и обработке персональных данных "
+"физических лиц под регистрационным номером 10-0104880.</p><p>Данные Вашей "
+"банковской карты используются только в момент совершения операции и "
+"передаются по защищенному протоколу в банк-эквайер в зашифрованном виде. "
+"Реквизиты Вашей банковской карты не сохраняются в системе PayOnline и "
+"соответственно не могут быть переданы третьим лицам ни при каких "
+"обстоятельствах.</p><p>В случае возникновения вопросов при оплате, Вы можете "
+"обратиться в службу пользовательской поддержки по телефонам: 8 (800) 7000 "
+"729 (звонок по России бесплатный), +7 (495) 666 2143 или по e-mail "
+"support@payonline.ru.</p><p>Вы можете найти этот платеж в Вашей банковской "
+"выписке по идентификатору lovetime.com</p><p>Обращаем внимание, что Ваш IP-"
+"адрес будет сохранен с целью предотвращения несанкционированного "
+"использования персональной информации. Любые попытки несанкционированного "
+"использования персональной информации будут пресекаться и преследоваться "
+"самым серьезным образом.</p>"
+
+msgid "unsubscribeWrongEmail"
+msgstr "Неверный e-mail адрес"
+
+msgid "contestMain"
+msgstr ""
+
+msgid "contestFindYourLove"
+msgstr ""
+
+msgid "contestIncreaseChanceSuccess"
+msgstr ""
+
+msgid "contestOr"
+msgstr ""
+
+msgid "contestFindLove"
+msgstr ""
+
+msgid "contestResult"
+msgstr ""
+
+msgid "contestSelectAll"
+msgstr ""
+
+msgid "contestPhotoPhrase1"
+msgstr ""
+
+msgid "contestPhotoPhrase2"
+msgstr ""
+
+msgid "contestPhotoPhrase3"
+msgstr ""
+
+msgid "contestUploadPhoto"
+msgstr ""
+
+msgid "contestImportPhoto"
+msgstr ""
+
+msgid "contestFbProfile"
+msgstr ""
+
+msgid "contestGoogleProfile"
+msgstr ""
+
+msgid "contestInviteMorePhrase"
+msgstr ""
+
+msgid "contestAnnouncePhrase1"
+msgstr ""
+
+msgid "contestAnnouncePhrase2"
+msgstr ""
+
+msgid "contestAnnouncePhrase3"
+msgstr ""
+
+msgid "contestAnnouncePhrase4"
+msgstr ""
+
+msgid "contestAnnouncePhrase5"
+msgstr ""
+
+msgid "contestAnnouncePhrase6"
+msgstr ""
+
+msgid "contestAnnouncePhrase7"
+msgstr ""
+
+msgid "contestAnnouncePhrase8"
+msgstr ""
+
+msgid "contest"
+msgstr ""
+
+msgid "step1"
+msgstr ""
+
+msgid "step2"
+msgstr ""
+
+msgid "step3"
+msgstr ""
+
+msgid "contestInviteByOtherServices"
+msgstr ""
+
+msgid "cntTitle"
+msgstr ""
+
+msgid "cntRegister"
+msgstr ""
+
+msgid "cntInviteFriends"
+msgstr ""
+
+msgid "cntSamePrize"
+msgstr ""
+
+msgid "cntHigherChances"
+msgstr ""
+
+msgid "cntAddFriends"
+msgstr ""
+
+msgid "cntBannerUsersOnly"
+msgstr ""
+
+msgid "cntBannerParticipatePrizeDraw"
+msgstr ""
+
+msgid "cntBannerFbDescription"
+msgstr ""
+
+msgid "cntPhotoDrag"
+msgstr ""
+
+msgid "cntPhotoUpload"
+msgstr ""
+
+msgid "cntPhotoImport"
+msgstr ""
+
+msgid "cntNext"
+msgstr ""
+
+msgid "cntNotSelected"
+msgstr ""
+
+msgid "cntInvited"
+msgstr ""
+
+msgid "cntWinsSamePrize"
+msgstr ""
+
+msgid "cntIncreaseChances"
+msgstr ""
+
+msgid "cntDropHere"
+msgstr ""
+
+msgid "cntUnselectAll"
+msgstr ""
+
+msgid "cntSelectAll"
+msgstr ""
+
+msgid "cntHours"
+msgstr ""
+
+msgid "cntMinutes"
+msgstr ""
+
+msgid "cntSeconds"
+msgstr ""
+
+msgid "emailContestSubject"
+msgstr ""
+
+msgid "emailContestTitle"
+msgstr ""
+
+msgid "emailContestJoinUs"
+msgstr ""
+
+msgid "emailContestPrizesDescriptions"
+msgstr ""
+
+msgid "emailContestRegister"
+msgstr ""
+
+msgid "emailContestTerms"
+msgstr ""
+
+msgid "emailContestClickHere"
+msgstr ""
+
+msgid "emailContestPrizes"
+msgstr ""
+
+msgid "emailContestUnsubscribe"
+msgstr ""
+
+msgid "actionNote"
+msgstr "Сделать заметку"
+
+msgid "noteEdit"
+msgstr "Редактировать"
+
+msgid "noteRemove"
+msgstr "Удалить"
+
+msgid "noteSave"
+msgstr "Сохранить"
+
+msgid "noteConfirmDelete"
+msgstr "Вы действительно хотите удалить эту заметку?"
+
+msgid "lettersCheckSpamFolder"
+msgstr ""
+
+msgid "lettersMarkEmailNotSpam"
+msgstr ""
+
+msgid "pagesContacts"
+msgstr ""
+"<b>Адрес</b> <br /> Suite 2405, Progress Commercial Bldg, 9 Irving Street, "
+"Causeway Bay<br /><br /> Hong Kong Island, Hong Kong<br /><b>Email:</b><br /"
+"><a href=\"mailto:info@lovetime.com\">info@lovetime.com</a>"
+
+msgid "seocatalogTitleInCity"
+msgstr ""
+"сайт знакомств с девушками и женщинами, с мужчинами и парнями в городе "
+"%city_title%"
+
+msgid "seocatalogH1InCity"
+msgstr "Знакомство в городе %city_title%"
+
+msgid "seocatalogSeeking"
+msgstr "Ищу"
+
+msgid "seocatalogAge"
+msgstr "Возраст"
+
+msgid "seocatalogAppearance"
+msgstr "Внешность"
+
+msgid "seocatalogOther"
+msgstr "Другое"
+
+msgid "seocatalogNext"
+msgstr "Еще"
+
+msgid "seocatalogWoman"
+msgstr "Женщину"
+
+msgid "seocatalogMen"
+msgstr "Мужчину"
+
+msgid "seocatalogLesbian"
+msgstr "Лесбиянку"
+
+msgid "seocatalogGay"
+msgstr "Гея"
+
+msgid "seocatalogBisexual"
+msgstr "БИ"
+
+msgid "seocatalogFriendship"
+msgstr "Дружба и общение"
+
+msgid "seocatalogRomanticRelations"
+msgstr "Романтические отношения"
+
+msgid "seocatalogFlirt"
+msgstr "Флирт"
+
+msgid "seocatalogSex"
+msgstr "Секс"
+
+msgid "seocatalogBlondes"
+msgstr "Блондинки"
+
+msgid "seocatalogBrunettes"
+msgstr "Брюнетки"
+
+msgid "seocatalogBrownHair"
+msgstr "Шатенки"
+
+msgid "seocatalogAthletic"
+msgstr "Спортивную"
+
+msgid "seocatalogSlim"
+msgstr "Худую"
+
+msgid "seocatalogHeavy"
+msgstr "Полную"
+
+msgid "seocatalogForeigner"
+msgstr "Иностранца"
+
+msgid "seocatalogRich"
+msgstr "Богатую"
+
+msgid "seocatalogSingle"
+msgstr "Незамужнюю"
+
+msgid "seocatalogNoBadHabits"
+msgstr "Без вредных привычек"
+
+msgid "chatFilterManGifts"
+msgstr ""
+"%s настроил фильтр сообщений таким образом, что вы не можете написать ему. "
+"<b>Подарите ему подарок</b>, это снимет ограничение. Или попробуйте "
+"пообщаться с кем-нибудь другим."
+
+msgid "chatFilterWomanGifts"
+msgstr ""
+"%s настроила фильтр сообщений таким образом, что вы не можете написать ей. "
+"<b>Подарите ей подарок</b>, это снимет ограничение. Или попробуйте "
+"пообщаться с кем-нибудь другим."
+
+msgid "modelLoginFormEmailOrNick"
+msgstr "Email"
+
+msgid "modelLoginFormPassword"
+msgstr "Пароль"
+
+msgid "modelLoginFormAlien"
+msgstr "Чужой компьютер"
+
+msgid "loginErrorInvalidEmailOrPassword"
+msgstr "Неверный email или пароль"
+
+msgid "systemForgotPassword"
+msgstr "Забыли пароль"
+
+msgid "loginErrorUserNotVisible"
+msgstr "Доступ запрещён для пользователя %s."
+
+msgid "wrongEmail"
+msgstr "Неверный email"
+
+msgid "errorEmailExists"
+msgstr "Введите другой E-Mail"
+
+msgid "citationsDefault1"
+msgstr "Привет, как дела?"
+
+msgid "citationsDefault2"
+msgstr "Привет, чем занимаешься?"
+
+msgid "modelUsersValidateReservedNicks"
+msgstr "Выберите другой ник"
+
+msgid "registrationFormWrongDate"
+msgstr "Неверно введена дата"
+
+msgid "months1"
+msgstr "января"
+
+msgid "months2"
+msgstr "февраля"
+
+msgid "months3"
+msgstr "марта"
+
+msgid "months4"
+msgstr "апреля"
+
+msgid "months5"
+msgstr "мая"
+
+msgid "months6"
+msgstr "июня"
+
+msgid "months7"
+msgstr "июля"
+
+msgid "months8"
+msgstr "августа"
+
+msgid "months9"
+msgstr "сентября"
+
+msgid "months10"
+msgstr "октября"
+
+msgid "months11"
+msgstr "ноября"
+
+msgid "months12"
+msgstr "декабря"
+
+msgid "modelSmileCode"
+msgstr "Код"
+
+msgid "modelSmileImage"
+msgstr "Картинка"
+
+msgid "modelSmileVisible"
+msgstr "Видимость"
+
+msgid "Noactive"
+msgstr "Нет"
+
+msgid "modelSpamersName"
+msgstr "Спамер"
+
+msgid "modelUsersName"
+msgstr "Ник"
+
+msgid "modelUsersEmail"
+msgstr "Эл.почта (E-mail)"
+
+msgid "modelComplaintsStatus"
+msgstr "Статус"
+
+msgid "modelSpamersTime"
+msgstr "Время бана"
+
+msgid "modelSpamersMessages"
+msgstr "Сообщения"
+
+msgid "modelComplaintsSenderId"
+msgstr "Отправитедь"
+
+msgid "modelComplaintsCompanionId"
+msgstr "Обвиняемый"
+
+msgid "modelComplaintsReasonText"
+msgstr "Причина"
+
+msgid "modelComplaintsComment"
+msgstr "Комментарий"
+
+msgid "modelComplaintsCompanion"
+msgstr "Подсудимый"
+
+msgid "modelComplaintsSender"
+msgstr "Обвинитель"
+
+msgid "complainReason1"
+msgstr "Спам, реклама"
+
+msgid "complainReason2"
+msgstr "Мошенничество"
+
+msgid "complainReason3"
+msgstr "Непристойные предложения"
+
+msgid "complainReason4"
+msgstr "Хамство, угрозы"
+
+msgid "complainReason5"
+msgstr "Чужие фото"
+
+msgid "complainReason6"
+msgstr "Интим-услуги"
+
+msgid "photosRefuseReasonPicture"
+msgstr "рисунок, предмет или животное"
+
+msgid "photosRefuseReasonErotica"
+msgstr "эротика, оскорбление"
+
+msgid "photosRefuseReasonFamous"
+msgstr "известная персона"
+
+msgid "photosRefuseReasonSpam"
+msgstr "спам, реклама"
+
+msgid "photosRefuseReasonPoorQuality"
+msgstr "фото плохого качества"
+
+msgid "photosRefuseReasonOnlyYouMustBeSeen"
+msgstr "на фото должны быть только вы"
+
+msgid "photosRefuseReasonNotVisibleFace"
+msgstr "на фото не видно лица"
+
+msgid "photosRefuseReasonChildOnThePhoto"
+msgstr "на фото ребенок"
+
+msgid "photosRefuseReasonExcessiveDecoration"
+msgstr "чрезмерное оформление фотографии"
+
+msgid "photosStatusAccept"
+msgstr "Принято"
+
+msgid "photosStatusRefuse"
+msgstr "Отклонено"
+
+msgid "userName"
+msgstr "Имя"
+
+msgid "feedbackText"
+msgstr "Текст сообщения"
+
+msgid "userWrongOldPasswError"
+msgstr "Текущий пароль должен быть повторен в точности."
+
+msgid "userPasswTooShort"
+msgstr "Новый пароль слишком короткий (Минимум: {min} симв.)."
+
+msgid "dateFormat"
+msgstr "Значение должно быть в формате дд.мм.гггг"
+
+msgid "modelUsersValidateRequireMessage"
+msgstr "Поле %s обязательно для заполнения"
+
+msgid "modelUsersLookingFor"
+msgstr "Я ищу"
+
+msgid "modelUsersPassword"
+msgstr "Пароль"
+
+msgid "modelUsersOldPassword"
+msgstr "Текущий пароль"
+
+msgid "modelUsersNewPassword"
+msgstr "Новый пароль"
+
+msgid "modelUsersVisible"
+msgstr "Видимость"
+
+msgid "modelUsersRole"
+msgstr "Группа"
+
+msgid "modelUsersPhone"
+msgstr "Телефон"
+
+msgid "modelUsersVkId"
+msgstr "Id Vkontakte"
+
+msgid "modelUsersFacebookId"
+msgstr "Id Facebook"
+
+msgid "modelUsersTwitterId"
+msgstr "Id Twitter"
+
+msgid "modelUsersAvatar"
+msgstr "Аватар"
+
+msgid "modelUsersDefaultAvatar"
+msgstr "Стандартный аватар"
+
+msgid "modelUsersCity"
+msgstr "Город"
+
+msgid "modelUsersCountry"
+msgstr "Страна"
+
+msgid "modelUsersResidence"
+msgstr "Местоположение"
+
+msgid "modelUsersLat"
+msgstr "Широта"
+
+msgid "modelUsersLng"
+msgstr "Долгота"
+
+msgid "modelUsersAbout"
+msgstr "О себе"
+
+msgid "profileStatus"
+msgstr "Статус"
+
+msgid "modelUsersIntroduceMyself"
+msgstr "Я знакомлюсь"
+
+msgid "modelUsersWantToMeet"
+msgstr "Кого я хочу найти"
+
+msgid "modelUsersPreferredAge"
+msgstr "Желаемый возраст"
+
+msgid "dateofbirth"
+msgstr "День рождения"
+
+msgid "modelUsersHeight"
+msgstr "Рост"
+
+msgid "modelUsersWeight"
+msgstr "Вес"
+
+msgid "modelUsersPhysique"
+msgstr "Телосложение"
+
+msgid "modelUsersColor"
+msgstr "Волосы на голове"
+
+msgid "modelUsersColorEyes"
+msgstr "Цвет глаз"
+
+msgid "modelUsersSign"
+msgstr "Знак зодиака"
+
+msgid "modelUsersType"
+msgstr "Цель знакомства"
+
+msgid "modelUsersAcquainted"
+msgstr "Я знакомлюсь"
+
+msgid "modelUsersBed"
+msgstr "В постели я люблю"
+
+msgid "modelUsersExcites"
+msgstr "Меня возбуждает"
+
+msgid "modelUsersStatus"
+msgstr "Семейное положение"
+
+msgid "modelUsersChildren"
+msgstr "Дети"
+
+msgid "modelUsersOrientation"
+msgstr "Ориентация"
+
+msgid "modelUsersSmoking"
+msgstr "Курение"
+
+msgid "modelUsersAlcohol"
+msgstr "Алкоголь"
+
+msgid "modelUsersEducation"
+msgstr "Образование"
+
+msgid "modelUsersJob"
+msgstr "Работа"
+
+msgid "modelUsersIncome"
+msgstr "Доход"
+
+msgid "modelUsersLove_work"
+msgstr "Кто мне нравится на работе"
+
+msgid "modelUsersLove_institute"
+msgstr "Кто мне нравится в институте"
+
+msgid "modelUsersLove_go"
+msgstr "Люблю посещать"
+
+msgid "modelUsersLove_music"
+msgstr "Любимая музыка"
+
+msgid "modelUsersBan"
+msgstr "Бан"
+
+msgid "modelUsersSendEmails"
+msgstr "Получать уведомления по email"
+
+msgid "modelUsersSounds"
+msgstr "Включить звук в сообщениях"
+
+msgid "modelUsersShowPixeledImages"
+msgstr "Показывать замыленные фото незнакомым людям"
+
+msgid "modelUsersHideImages"
+msgstr "Скрыть фото"
+
+msgid "modelUsersTimeZone"
+msgstr "Часовой пояс"
+
+msgid "moduleUsersAutoSelectTimeZone"
+msgstr "Определять автоматически"
+
+msgid "modelUsersRegistered"
+msgstr "Зарегистрирован"
+
+msgid "modelUsersInvitedBy"
+msgstr "Приглашение"
+
+msgid "modelUsersLoginWithToken"
+msgstr "Автоматически входить по ссылкам в почте"
+
+msgid "physiqueSlim"
+msgstr "Худощавое"
+
+msgid "physiqueAverage"
+msgstr "Обычное"
+
+msgid "physiqueAthletic"
+msgstr "Спортивное"
+
+msgid "physiqueMuscular"
+msgstr "Мускулистое"
+
+msgid "physiqueHeavy"
+msgstr "Плотное"
+
+msgid "physiqueFull"
+msgstr "Полное"
+
+msgid "colorEyesBrown"
+msgstr "Янтарный"
+
+msgid "colorEyesGreen"
+msgstr "Зеленый"
+
+msgid "colorEyesBlue"
+msgstr "Голубой"
+
+msgid "colorEyesGray"
+msgstr "Серый"
+
+msgid "colorEyesBlack"
+msgstr "Черный"
+
+msgid "colorEyesHazel"
+msgstr "Карий"
+
+msgid "smokingDoNotSmoke"
+msgstr "Не курю"
+
+msgid "smokingRarely"
+msgstr "Редко"
+
+msgid "smokingGiving"
+msgstr "Бросаю"
+
+msgid "smokingOften"
+msgstr "Часто"
+
+msgid "alcoholDoNotDrink"
+msgstr "Не пью"
+
+msgid "alcoholILikeToDrink"
+msgstr "Люблю выпить"
+
+msgid "alcoholOnHolidays"
+msgstr "По праздникам"
+
+msgid "educationSecondary"
+msgstr "Среднее"
+
+msgid "educationTechnical"
+msgstr "Среднее-техническое"
+
+msgid "educationHigher"
+msgstr "Высшее"
+
+msgid "incomeLow"
+msgstr "Низкий"
+
+msgid "incomeMedium"
+msgstr "Средний"
+
+msgid "incomeHigh"
+msgstr "Высокий"
+
+msgid "systemAdministrator"
+msgstr "Администратор"
+
+msgid "childrenNo"
+msgstr "Нет"
+
+msgid "childrenYes"
+msgstr "Есть"
+
+msgid "signAries"
+msgstr "Овен"
+
+msgid "signTaurus"
+msgstr "Телец"
+
+msgid "signTwins"
+msgstr "Близнецы"
+
+msgid "signCancer"
+msgstr "Рак"
+
+msgid "signLion"
+msgstr "Лев"
+
+msgid "signVirgo"
+msgstr "Дева"
+
+msgid "signLibra"
+msgstr "Весы"
+
+msgid "signScorpio"
+msgstr "Скорпион"
+
+msgid "signSagittarius"
+msgstr "Стрелец"
+
+msgid "signCapricorn"
+msgstr "Козерог"
+
+msgid "signAquarius"
+msgstr "Водолей"
+
+msgid "signPisces"
+msgstr "Рыбы"
+
+msgid "changeFieldInSearch"
+msgstr "В поиске"
+
+msgid "changeFieldHasAFriend"
+msgstr "Есть друг / подруга"
+
+msgid "changeFieldMarried"
+msgstr "Замужем / Женат"
+
+msgid "changeFieldNotInSearch"
+msgstr "Никого не ищу"
+
+msgid "changeFieldBreaked"
+msgstr "В разводе"
+
+msgid "haircolorLight"
+msgstr "Светлые"
+
+msgid "haircolorDark"
+msgstr "Темные"
+
+msgid "haircolorRed"
+msgstr "Рыжие"
+
+msgid "haircolorTanned"
+msgstr "Мелированные"
+
+msgid "haircolorBright"
+msgstr "Яркие"
+
+msgid "haircolorWhite"
+msgstr "Седые"
+
+msgid "haircolorSkin"
+msgstr "Голова бритая наголо"
+
+msgid "haircolorBald"
+msgstr "Лысая голова"
+
+msgid "changeFieldHetero"
+msgstr "Гетеро"
+
+msgid "changeFieldGay"
+msgstr "Гей / Лесби"
+
+msgid "changeFieldBi"
+msgstr "Би"
+
+msgid "ofWoman"
+msgstr "Женщину"
+
+msgid "ofMan"
+msgstr "Мужчину"
+
+msgid "introduceMyselfOnlyMyself"
+msgstr "Один / Одна"
+
+msgid "introduceMyselfAsPair"
+msgstr "Как пара"
+
+msgid "changeFieldFriendship"
+msgstr "Дружба и общение"
+
+msgid "changeFieldFlirt"
+msgstr "Флирт"
+
+msgid "changeFieldRomantic"
+msgstr "Романтические отношения"
+
+msgid "changeFieldSex"
+msgstr "Секс"
+
+msgid "changeFieldAtWork"
+msgstr "На работе"
+
+msgid "changeFieldNeighbor"
+msgstr "По соседству"
+
+msgid "changeFieldSchool"
+msgstr "В школе / ВУЗе"
+
+msgid "changeFieldStreet"
+msgstr "На улице"
+
+msgid "changeFieldOral"
+msgstr "Оральный секс"
+
+msgid "changeFieldAnal"
+msgstr "Анальный секс"
+
+msgid "changeFieldGroup"
+msgstr "Групповой секс"
+
+msgid "changeFieldPublic"
+msgstr "Секс в необычных местах"
+
+msgid "changeFieldRoleplay"
+msgstr "Ролевые игры"
+
+msgid "changeFieldToys"
+msgstr "Игрушки"
+
+msgid "changeFieldBdsm"
+msgstr "Садо/Мазо"
+
+msgid "changeFieldClassicSex"
+msgstr "Классический секс"
+
+msgid "changeFieldSmells"
+msgstr "Запахи"
+
+msgid "changeFieldHighHair"
+msgstr "Повышенная волосатость"
+
+msgid "changeFieldTattoo"
+msgstr "Тату и пирсинг"
+
+msgid "changeFieldDarkskin"
+msgstr "Темный цвет кожи"
+
+msgid "changeFieldUnderwear"
+msgstr "Нижнее белье"
+
+msgid "changeFieldUniform"
+msgstr "Униформа"
+
+msgid "changeFieldStockings"
+msgstr "Чулки"
+
+msgid "changeFieldFootwear"
+msgstr "Обувь"
+
+msgid "changeFieldDominate"
+msgstr "Доминирование или подчинение"
+
+msgid "changeFieldBondage"
+msgstr "Связывание и ограничение подвижности"
+
+msgid "changeFieldPain"
+msgstr "Боль"
+
+msgid "monthsJan"
+msgstr "январь"
+
+msgid "monthsFeb"
+msgstr "февраль"
+
+msgid "monthsMar"
+msgstr "март"
+
+msgid "monthsApr"
+msgstr "апрель"
+
+msgid "monthsMay"
+msgstr "май"
+
+msgid "monthsJun"
+msgstr "июнь"
+
+msgid "monthsJul"
+msgstr "июль"
+
+msgid "monthsAug"
+msgstr "август"
+
+msgid "monthsSep"
+msgstr "сентябрь"
+
+msgid "monthsOct"
+msgstr "октябрь"
+
+msgid "monthsNov"
+msgstr "ноябрь"
+
+msgid "monthsDec"
+msgstr "декабрь"
+
+msgid "removingProfileCauseIPlaGoBack"
+msgstr "Это временно, я планирую вернуться"
+
+msgid "profileLastVisit"
+msgstr "Последний визит"
+
+msgid "dateToday"
+msgstr "сегодня"
+
+msgid "dateYesterday"
+msgstr "вчера"
+
+msgid "date2DaysAgo"
+msgstr "позавчера"
+
+msgid "profileLastVisitAt"
+msgstr "в"
+
+msgid "chatBigMessage"
+msgstr "Длина сообщения слишком большая. Максимальная длина - 2000 символов."
+
+msgid "errorFolderCreate"
+msgstr "У вас уже есть папка с таким именем"
+
+msgid "foldersDeleteError"
+msgstr "К сожалению, мы не смогли удалить выбранную папку :("
+
+msgid "noteErrorTooLong"
+msgstr "Длина заметки не должна превышать 1000 символов."
+
+msgid "noteErrorTags"
+msgstr "Заметка не должна содержать HTML теги."
+
+msgid "guestsWasMan"
+msgid_plural "guestsWasWoman"
+msgstr[0] "Смотрел"
+msgstr[1] "Смотрела"
+msgstr[2] "Смотрела"
+
+msgid "guestsYear"
+msgid_plural "guestsYears"
+msgstr[0] "%d год"
+msgstr[1] "%d года"
+msgstr[2] "%d лет"
+
+msgid "guestsMonth"
+msgid_plural "guestsMonths"
+msgstr[0] "%d месяц"
+msgstr[1] "%d месяца"
+msgstr[2] "%d месяцев"
+
+msgid "guestsDay"
+msgid_plural "guestsDays"
+msgstr[0] "%d день"
+msgstr[1] "%d дня"
+msgstr[2] "%d дней"
+
+msgid "guestsHour"
+msgid_plural "guestsHours"
+msgstr[0] "%s час"
+msgstr[1] "%s часа"
+msgstr[2] "%s часов"
+
+msgid "guestsMinute"
+msgid_plural "guestsMinutes"
+msgstr[0] "%s минуту"
+msgstr[1] "%s минуты"
+msgstr[2] "%s минут"
+
+msgid "guestsBack"
+msgstr "назад"
+
+msgid "topfacesMessageTooShort"
+msgstr ""
+"Текст сообщения слишком длинный. Максимальное количество символов - 140"
+
+msgid "topfaceStatusInvalidValue"
+msgstr "Поле \"статус\" содержит недопустимое значение"
+
+msgid "formErrorNewPasswRepeat"
+msgstr "Пароль должен быть повторен в точности."
+
+msgid "modelLoginFormEmail"
+msgstr "Эл. почта"
+
+msgid "modelForgotpassPassword"
+msgstr "Пароль"
+
+msgid "modelForgotpassPasswordRepeat"
+msgstr "Повторите пароль"
+
+msgid "modelFogotpassEmailExists"
+msgstr "Пользователь с таким email не существует"
+
+msgid "modelFogotpassInvalidLink"
+msgstr "Ссылка не валидна"
+
+msgid "modelFogotpassPassDoNotMatch"
+msgstr "Пароли не совпадают"
+
+msgid "visitors"
+msgstr ""
+
+msgid "facebookLikeShowUsYouLikeUs"
+msgstr "Покажите, что мы вам нравимся!"
+
+msgid "systemRegisterSmall"
+msgstr "Регистрация"
+
+msgid "chatMoveIn"
+msgstr "Переместить в"
+
+msgid "chatFoldersFirst"
+msgstr "Общая&nbsp;папка"
+
+msgid "chatFoldersSecond"
+msgstr "Избранное"
+
+msgid "chatFoldersThird"
+msgstr "Игнорируемые"
+
+msgid "langRussian"
+msgstr "Русский"
+
+msgid "yourPhotoHere"
+msgstr "Ваше фото здесь"
+
+msgid "topfacesAdd"
+msgstr "в&nbsp;ТОП"
+
+msgid "topfacesItsYou"
+msgstr "Это вы!"
+
+msgid "userBalloonChat"
+msgstr "Написать сообщение"
+
+msgid "userBalloonProfile"
+msgstr "Посмотреть анкету"
+
+msgid "topfacesDialogTitle"
+msgstr "Добавьте себя в&nbsp;топ!"
+
+msgid "topfacesDialogChoosePhoto"
+msgstr ""
+"Выберите одну из своих фотографий или <a href=\"/users/view/%s"
+"\">загрузите&nbsp;новую</a>"
+
+msgid "topfacesDialogTypeMessage"
+msgstr "Напишите небольшое сообщение"
+
+msgid "actionSend"
+msgstr "Отправить"
+
+msgid "topfacesDialogNoPhotos"
+msgstr ""
+"Чтобы добавить фотографии в&nbsp;топ, сначала <a href=\"/users/view/%s"
+"\">загрузите&nbsp;их</a> в&nbsp;свою анкету."
+
+msgid "TopFacesLimitExceeded"
+msgstr ""
+"Разрешено добавлять не&nbsp;более одной фотографии в&nbsp;час. Пожалуйста, "
+"подождите."
+
+msgid "emailConfirmPleaseTitle"
+msgstr ""
+"Ссылка для подтверждения регистрации была отправлена на e-mail. После "
+"подтверждения адреса вам будут доступны все возможности сайта. <a href='%link"
+"%'>Ссылка не пришла</a>?"
+
+msgid "emailConfirmCheckSpam"
+msgstr ""
+"Проверьте папку Спам/Сомнительное вашего почтового ящика, наше письмо могло "
+"по ошибке попасть туда. Если это так, пожалуйста, отметьте его как <b>Не "
+"спам</b>."
+
+msgid "emailConfirmPleaseNotice"
+msgstr "&nbsp;"
+
+msgid "socialLikeStr"
+msgstr "Нравится"
+
+msgid "complainHead"
+msgstr "Жалоба на"
+
+msgid "complainIgnore"
+msgstr "Заблокировать пользователя"
+
+msgid "complainIgnoreDescription"
+msgstr ""
+"Вы не будете получать сообщения от этого пользователя. Позже, при желании, "
+"эту операцию можно отменить."
+
+msgid "complainError1"
+msgstr "Укажите причину жалобы"
+
+msgid "complainSubmit"
+msgstr "Отправить"
+
+msgid "complainOr"
+msgstr "или"
+
+msgid "complainClose"
+msgstr "Отменить"
+
+msgid "menuFeedback"
+msgstr "Обратная связь"
+
+msgid "menuRules"
+msgstr "Правила сайта"
+
+msgid "menuContacts"
+msgstr "Контакты"
+
+msgid "menuHelpUs"
+msgstr "Помогите нам"
+
+msgid "flirtNear"
+msgstr "Кто рядом"
+
+msgid "menuAbout"
+msgstr "О проекте"
+
+msgid "menuSearch"
+msgstr "Поиск"
+
+msgid "flirtCarousel"
+msgstr "Встречи"
+
+msgid "menuChat"
+msgstr "Чат"
+
+msgid "mainTitle"
+msgstr "Приглашайте знакомых, коллег, соседей…"
+
+msgid "mainTitle2"
+msgstr "и флиртуйте с ними анонимно"
+
+msgid "menTitles1"
+msgstr "Понравилась соседка?"
+
+msgid "menTitles2"
+msgstr "Понравилась коллега?"
+
+msgid "menTitles3"
+msgstr "Хочешь пофлиртовать с бывшей знакомой?"
+
+msgid "menTitles4"
+msgstr "Скучаешь?"
+
+msgid "womanTitles1"
+msgstr "Понравился сосед?"
+
+msgid "womanTitles2"
+msgstr "Понравился коллега?"
+
+msgid "womanTitles3"
+msgstr "Хочешь пофлиртовать с бывшим знакомым?"
+
+msgid "womanTitles4"
+msgstr "Скучаешь?"
+
+msgid "menTexts1"
+msgstr ""
+"<a href=\"/\">Пригласи</a> ее открыткой. Положи открытку под лобовое стекло "
+"ее автомобиля или в почтовый ящик."
+
+msgid "menTexts2"
+msgstr "Узнай ее E-mail и <a href=\"/\">пригласи</a> на Lovetime. "
+
+msgid "menTexts3"
+msgstr ""
+"Узнай ее E-mail или номер телефона и <a href=\"/\">пригласи</a> на Lovetime."
+
+msgid "menTexts4"
+msgstr ""
+"Нажми на «<a href=\"/#flirt\" class=\"top-flirt\">Флиртануть</a>» и "
+"знакомься наугад."
+
+msgid "womanTexts1"
+msgstr ""
+"<a href=\"/\">Пригласи</a> его открыткой. Положи открытку под лобовое стекло "
+"его автомобиля или в почтовый ящик."
+
+msgid "womanTexts2"
+msgstr "Узнай его E-mail и <a href=\"/\">пригласи</a> на Lovetime."
+
+msgid "womanTexts3"
+msgstr ""
+"Узнай его E-mail или номер телефона и <a href=\"/\">пригласи</a> на Lovetime."
+
+msgid "womanTexts4"
+msgstr ""
+"Нажми на «<a href=\"/#flirt\" class=\"top-flirt\">Флиртануть</a>» и "
+"знакомься наугад."
+
+msgid "foldersTitle"
+msgstr "Введите название папки"
+
+msgid "foldersCancel"
+msgstr "Отмена"
+
+msgid "foldersCreate"
+msgstr "Создать"
+
+msgid "foldersRename"
+msgstr "Переименовать"
+
+msgid "userBalloonCarousel"
+msgstr "Встретиться"
+
+msgid "userBalloonExchange"
+msgstr "Обменяться полями"
+
+msgid "chatBalloonMove"
+msgstr "Переместить"
+
+msgid "chatBalloonSelect1"
+msgstr "Отмечен"
+
+msgid "chatBalloonSelect2"
+msgstr "Отмечено"
+
+msgid "chatBalloonSelect3"
+msgstr "Отмечено"
+
+msgid "errorFolderEmpty"
+msgstr "Пожалуйста, введите название папки"
+
+msgid "dateDaysBefore"
+msgstr "дней назад"
+
+msgid "dateMomentAgo"
+msgstr "только что"
+
+msgid "dateSecondAgo_plural_1"
+msgstr "секунду назад"
+
+msgid "dateSecondAgo_plural_2"
+msgstr "секунды назад"
+
+msgid "dateSecondAgo_plural_3"
+msgstr "секунд назад"
+
+msgid "dateMinuteAgo_plural_1"
+msgstr "минуту назад"
+
+msgid "dateMinuteAgo_plural_2"
+msgstr "минуты назад"
+
+msgid "dateMinuteAgo_plural_3"
+msgstr "минут назад"
+
+msgid "dateCoupleMinutesAgo"
+msgstr "пару минут назад"
+
+msgid "dateHourAgo_plural_1"
+msgstr "час назад"
+
+msgid "dateHourAgo_plural_2"
+msgstr "часа назад"
+
+msgid "dateHourAgo_plural_3"
+msgstr "часов назад"
+
+msgid "messages_plural_1"
+msgstr "сообщение"
+
+msgid "messages_plural_2"
+msgstr "сообщения"
+
+msgid "messages_plural_3"
+msgstr "сообщений"
+
+msgid "usersAddToFavorite"
+msgstr "Добавить в избранное"
+
+msgid "actionBlock"
+msgstr "Заблокировать"
+
+msgid "chatComplain"
+msgstr "Пожаловаться"
+
+msgid "usersRemoveFromFavorite"
+msgstr "Удалить из избранного"
+
+msgid "actionOr"
+msgstr "или"
+
+msgid "actionDelete"
+msgstr "Удалить"
+
+msgid "galleryClose"
+msgstr "Закрыть"
+
+msgid "galleryUploadError"
+msgstr ""
+"Во&nbsp;время загрузки произошла ошибка. Пожалуйста, повторите попытку позже."
+
+msgid "galleryUploadFilesName"
+msgstr "Файлы изображений"
+
+msgid "galleryUploadPossibleFiles"
+msgstr "Загружать можно только файлы изображений. Разрешённые форматы:"
+
+msgid "modelUsersHasPhoto"
+msgstr "Наличие фотографии"
+
+msgid "modelUsersHasPhotoCondition"
+msgstr "Только с&nbsp;фотографией"
+
+msgid "modelUsersHasNoPhotoCondition"
+msgstr "Без фото"
+
+msgid "searchHair"
+msgstr "Волосы"
+
+msgid "requireRegistration4MaleTitle"
+msgstr "%s рассказал о себе гораздо больше, чем вы."
+
+msgid "requireRegistration4FemaleTitle"
+msgstr "%s рассказала о себе гораздо больше, чем вы."
+
+msgid "requireRegistrationNote"
+msgstr "Чтобы просматривать чужие анкеты, вам нужно зарегистрироваться."
+
+msgid "requireRegistrationCancel"
+msgstr "Отменить"
+
+msgid "requireRegistrationRegister"
+msgstr "Зарегистрироваться"
+
+msgid "increaseInfoConfirmNote"
+msgstr ""
+"Чтобы просматривать чужие анкеты, вам нужно заполнить 50% своей анкеты."
+
+msgid "increaseInfoConfirmFillNow"
+msgstr "Заполнить сейчас"
+
+msgid "increaseInfoConfirmCancel"
+msgstr "Отменить"
+
+msgid "Credit Card"
+msgstr "Кредитная карта"
+
+msgid "registerHello"
+msgstr "Привет"
+
+msgid "registerForEnd"
+msgstr ""
+"Для завершения регистрации скажите, пожалуйста, есть ли у вас профиль на "
+"нашем сайте?"
+
+msgid "registerYes"
+msgstr "Да"
+
+msgid "registerNo"
+msgstr "Нет"
+
+msgid "registerForEndYes"
+msgstr "Пожалуйста, введите пароль вашего пользователя на сайте"
+
+msgid "registerBack"
+msgstr "Назад"
+
+msgid "registerForEndNo"
+msgstr "Проверьте правильность данных"
+
+msgid "registerUnderNick"
+msgstr "Не указывайте ваше настоящее имя или ник, по которому вас могут узнать"
+
+msgid "registerEmailTip"
+msgstr "Никто не видит"
+
+msgid "birthDay"
+msgstr "день"
+
+msgid "birthMonth"
+msgstr "месяц"
+
+msgid "birthYear"
+msgstr "год"
+
+msgid "systemLoginAllRight"
+msgstr "Всё верно"
+
+msgid "registerRequire"
+msgstr "Пожалуйста, заполните все обязательные поля"
+
+msgid "socialAuthFailed"
+msgstr "Не удалось выполнить авторизацию"
+
+msgid "registerAuthOk"
+msgstr ""
+"Авторизация прошла успешно. Сейчас вы будете перемещены на главную страницу. "
+"Или нажмите"
+
+msgid "registerAuthHere"
+msgstr "сюда"
+
+msgid "registerAuthNone"
+msgstr "Пользователь не найден"
+
+msgid "registerAlreadyYes"
+msgstr "Пользователь с таким почтовым ящиком уже зарегистрирован"
+
+msgid "registerAuthFailed"
+msgstr "Не удалось выполнить авторизацию"
+
+msgid "registerCreateFailed"
+msgstr ""
+"Не удалось создать пользователя. Проверьте, правильно ли вы заполнили все "
+"поля"
+
+msgid "authFacebook"
+msgstr "Авторизоваться через Facebook"
+
+msgid "authVkontakte"
+msgstr "Авторизоваться через Vkontakte"
+
+msgid "citationNotExist"
+msgstr "Цитата не найдена"
+
+msgid "citationAccessDenied"
+msgstr "Цитата не принадлежит вам"
+
+msgid "VIP"
+msgstr ""
+
+msgid "questRegister"
+msgstr "регистрация"
+
+msgid "balanceChangeInQuest"
+msgstr "Изменение баланса (квест)"
+
+msgid "superstarModelAttributeIsReseted"
+msgstr ""
+
+msgid "payonlinesystemError3"
+msgstr ""
+"платеж отклонен банком-эмитентом карты. Вам необходимо связаться с банком, "
+"выяснить причину отказа и повторить попытку оплаты"
+
+msgid "payonlinesystemError2"
+msgstr ""
+"провести платеж по банковской карте невозможно. Вам необходимо "
+"воспользоваться другим способом оплаты"
+
+msgid "payonlinesystemError1"
+msgstr "возникла техническая ошибка, повторите попытку оплаты позже"
+
+msgid "payonlinesystemError0"
+msgstr "невозможно осуществить платеж"
+
+msgid "seocatalogTitleDatingSite"
+msgstr "Сайт знакомств с девушками и мужчинами"
+
+msgid "seocatalogH1DatingSite"
+msgstr "Сайт знакомств"
+
+msgid "seocatalogH1CountriesAndCities"
+msgstr "Страны и города"
+
+msgid "seocatalogTitleDatingWithWomen"
+msgstr "знакомства с девушками, женщинами"
+
+msgid "seocatalogH1DatingWithWomen"
+msgstr "Сайт знакомств с женщинами"
+
+msgid "seocatalogTitleDatingWithMen"
+msgstr "знакомства с мужчинами"
+
+msgid "seocatalogH1DatingWithMen"
+msgstr "Сайт знакомств с мужчинами"
+
+msgid "seocatalogTitleDatingWithLesbian"
+msgstr "знакомства с лесбиянками"
+
+msgid "seocatalogH1DatingWithLesbian"
+msgstr "Сайт знакомств с лесбиянками"
+
+msgid "seocatalogTitleDatingWithGays"
+msgstr "знакомства с Геями"
+
+msgid "seocatalogH1DatingWithGays"
+msgstr "Сайт знакомств с геями"
+
+msgid "seocatalogTitleDatingWithBisexuals"
+msgstr "знакомства с бисексуалами"
+
+msgid "seocatalogH1DatingWithBisexuals"
+msgstr "Сайт знакомств с бисексуалами"
+
+msgid "seocatalogTitleGuysGirls_18_20"
+msgstr "женщины и мужчины от 18 до 20 лет"
+
+msgid "seocatalogH1GuysGirls_18_20"
+msgstr "Парни и девушки 18-20 лет"
+
+msgid "seocatalogTitleGuysGirls_21_25"
+msgstr "мужчины и женщины от 20 до 25 лет"
+
+msgid "seocatalogH1GuysGirls_21_25"
+msgstr "Парни и девушки 21-25 лет"
+
+msgid "seocatalogTitleGuysGirls_26_30"
+msgstr "женщины и мужчины от 25 до 30 лет"
+
+msgid "seocatalogH1GuysGirls_26_30"
+msgstr "Мужчины и женщины 26-30 лет"
+
+msgid "seocatalogTitleGuysGirls_31_35"
+msgstr "мужчины и женщины от 31 до 35 лет"
+
+msgid "seocatalogH1GuysGirls_31_35"
+msgstr "Мужчины и женщины 31-35 лет"
+
+msgid "seocatalogTitleGuysGirls_35_40"
+msgstr "женщины и мужчины от 35 до 40 лет"
+
+msgid "seocatalogH1GuysGirls_35_40"
+msgstr "Мужчины и женщины 35-40 лет"
+
+msgid "seocatalogTitleMeetingForCommunication"
+msgstr "знакомство с целью дружбы и общения"
+
+msgid "seocatalogH1MeetingForCommunication"
+msgstr "Знакомство для общения"
+
+msgid "seocatalogTitleMeetingRorRomanticRelations"
+msgstr "знакомство для романтических встреч"
+
+msgid "seocatalogH1MeetingRorRomanticRelations"
+msgstr "Знакомство для романтических встреч"
+
+msgid "seocatalogTitleMeetingForFlirt"
+msgstr "знакомство для флирта"
+
+msgid "seocatalogH1MeetingForFlirt"
+msgstr "Знакомство для флирта"
+
+msgid "seocatalogTitleMeetingForCloseRelations"
+msgstr "знакомство для близких, интимных отношений и секса"
+
+msgid "seocatalogH1MeetingForCloseRelations"
+msgstr "Знакомство для близких отношений"
+
+msgid "seocatalogTitleBlondes"
+msgstr "знакомство с блондинками и блондинами"
+
+msgid "seocatalogH1Blondes"
+msgstr "Блондины и блондинки"
+
+msgid "seocatalogTitleBrunettes"
+msgstr "знакомство с брюнетками и брюнетами"
+
+msgid "seocatalogH1Brunettes"
+msgstr "Брюнеты и брюнетки"
+
+msgid "seocatalogTitleBrownHaired"
+msgstr "знакомство с рыжими, шатенами и шатенками"
+
+msgid "seocatalogH1BrownHaired"
+msgstr "Шатены и шатенки"
+
+msgid "seocatalogTitleDatingWithAthletic"
+msgstr "знакомство с парнями и девушками спортивного телосложения"
+
+msgid "seocatalogH1DatingWithAthletic"
+msgstr "Знакомство со спотивными парнями и девушками"
+
+msgid "seocatalogTitleDatingWithSlim"
+msgstr "знакомство с парнями и девушками худощавого телосложения"
+
+msgid "seocatalogH1DatingWithSlim"
+msgstr "Знакомство с худощавыми парнями и девушками"
+
+msgid "seocatalogTitleDatingWithHeavy"
+msgstr "знакомство с парнями и девушками толстого телосложения"
+
+msgid "seocatalogH1DatingWithHeavy"
+msgstr "Знакомство с полными девушками и парнями"
+
+msgid "seocatalogTitleDatingWithForeigners"
+msgstr "знакомство с иностранцами"
+
+msgid "seocatalogH1DatingWithForeigners"
+msgstr "Знакомство с иностранцами"
+
+msgid "seocatalogTitleDatingWithRich"
+msgstr "знакомство с богатыми"
+
+msgid "seocatalogH1DatingWithRich"
+msgstr "Знакомство с богатыми людьми"
+
+msgid "seocatalogTitleDatingWithSingles"
+msgstr "знакомство с холостяками"
+
+msgid "seocatalogH1DatingWithSingles"
+msgstr "Знакомство с холостяками"
+
+msgid "seocatalogTitleDatingWithPeopleHavingNoBadHabits"
+msgstr "знакомство с людьми без вредных привычек"
+
+msgid "seocatalogH1DatingWithPeopleHavingNoBadHabits"
+msgstr "Люди без вредных привычек"
+
+msgid "searchShowMore"
+msgstr "Показать еще"
+
+msgid "seocatalogTitleCountriesAndCities"
+msgstr "страны и города"
+
+msgid "age"
+msgstr "Возраст"
+
+msgid "modelUsersSexWoman"
+msgstr "женский"
+
+msgid "modelUsersSexMan"
+msgstr "мужской"
+
+msgid "modelUsersSexAny"
+msgstr "не важно"
+
+msgid "searchUsersRegion"
+msgstr "Регион"
+
+msgid "actionFind"
+msgstr "Найти"
+
+msgid "mainTitle3Noa"
+msgstr "бесплатные знакомства онлайн "
+
+msgid "clockNavExactSearch"
+msgstr "Точный поиск"
+
+msgid "clockNavExactSearchSubtext"
+msgstr "Более <b>20-ти параметров</b> для поиска"
+
+msgid "clockNavMeetings"
+msgstr "Сегодня на свидание"
+
+msgid "clockNavMeetingsSubtext"
+msgstr "Пригласи и получи <b>согласие за 5 минут</b>"
+
+msgid "clockNavInstantCommunication"
+msgstr "Общайся сейчас"
+
+msgid "clockNavInstantCommunicationSubtext"
+msgstr "Найди собеседника <b>за 10 секунд</b>"
+
+msgid "clockNavWhosNear"
+msgstr "Знакомься рядом"
+
+msgid "clockNavWhosNearSubtext"
+msgstr "Найди <b>100 симпатичных</b> в радиусе 1км"
+
+msgid "clockNavHasContact"
+msgstr "Общайся с иностранцами"
+
+msgid "clockNavHasContactSubtext"
+msgstr "Переводчик в чате на <b>64 языка</b>"
+
+msgid "clockNavperfectCouple"
+msgstr "Знакомься в три клика"
+
+msgid "clockNavperfectCoupleSubtext"
+msgstr "<b>Готовые фразы</b> — знакомься за 30 секунд"
+
+msgid "peopleHere"
+msgstr "людей уже здесь!"
+
+msgid "carouselFillAnketa0"
+msgstr "Для игры в Карусель"
+
+msgid "carouselFillAnketa1"
+msgstr "пожалуйста, укажите"
+
+msgid "carouselFillAnketa2"
+msgstr "возраст, страну, город и загрузите фотографию"
+
+msgid "flirtSearch"
+msgstr "Поиск"
+
+msgid "pagesAbout"
+msgstr ""
+"Почти все хотя бы раз в жизни испытывали симпатию к своим знакомым. Но "
+"многие боялись говорить об этом напрямую из-за страха.<br/><br/> Сервис "
+"решает проблему, у вас есть возможность флиртовать, не боясь быть "
+"отвергнутым.<br/><br/>&bull; Сидишь рядом с коллегой по работе, но не знаешь "
+"как подойти к ней? Сервис поможет.<br/>&bull; Познакомиться со звездой школы "
+"или института? Легко.<br/>&bull; Понравилась соседка? Спроси ее, нравишься "
+"ли ты ей.<br/><br/>Что ищет ваш объект обожания… любовь или секс? Нравится "
+"ли ему кто-то на работе, в школе и т.д. Все это теперь можно узнать в один "
+"клик."
+
+msgid "pagesRulesTitle2"
+msgstr "Правила регистрации анкеты"
+
+msgid "pagesRules"
+msgstr ""
+"<h2>Размещая анкету на сайте Lovetime (далее Сайт) я выражаю свое согласие с "
+"нижеследующим:</h2><ol><li>Подтверждаю, что ознакомился с условиями Правил и "
+"готов их выполнять безусловно.</li><li>Гарантирую, что мой возраст не менее "
+"18 лет.</li><li>Несу личную ответственность за содержание информации и "
+"материалов, опубликованных мной на Сайте, за сохранность и "
+"конфиденциальность данных, необходимых для моей авторизации на Сайте.</"
+"li><li>Осознаю, что Сайт может содержать материалы, ориентированные только "
+"на совершеннолетних пользователей.</li><li>Обязуюсь использовать Сайт в "
+"соответствии с действующими и применимыми в данной области законами.</"
+"li><li>Обязуюсь не публиковать в открытом доступе адреса электронной почты, "
+"почтовые адреса, номера телефонов, ссылки и другие контакты.</"
+"li><li>Обязуюсь не публиковать оскорбления, клевету, нецензурные выражения, "
+"порнографические или иные аморальные материалы; материалы, демонстрирующие "
+"или пропагандирующие жестокость, террор или насилие; материалы, оскорбляющие "
+"человеческое достоинство; а также иные материалы, не соответствующие закону."
+"</li><li>Обязуюсь не вводить в заблуждение других пользователей, а также не "
+"преследовать их и не досаждать им.</li><li>Обязуюсь не использовать Сайт для "
+"привлечения внимания других пользователей к товарам, работам или услугам, "
+"производимым, реализуемым, выполняемым или оказываемым мною или иными "
+"лицами, не использовать Сайт для распространения рекламных материалов или "
+"материалов незаконной пропаганды.</li><li>Осознаю, что материалы, "
+"размещенные мной на Сайте, могут быть доступны другим пользователям сети "
+"Интернет, за действия которых администрация Сайта не несет ответственности.</"
+"li><li>Несу полную ответственность за возможные негативные последствия, "
+"вызванные отправкой мною анонимных приглашений.</li></ol><h2>Администрация "
+"Сайта не несет ответственности:</h2><ol><li>За содержание, достоверность и "
+"точность материалов, опубликованных пользователями.</li><li>За причинение "
+"вреда, ущерба, потерю информации или за причинение любых других убытков "
+"любым лицам, которые возникли при пользовании Сайтом, в том числе с "
+"использованием мобильных средств связи и иных средств телекоммуникаций.</"
+"li><li>За нарушение Пользователем авторских и иных прав третьих лиц путем "
+"опубликования материалов, несоответствующих действующему законодательству (в "
+"том числе авторскому), добавленных пользователем на Сайт.</li></"
+"ol><h2>Политика конфиденциальности</h2><ol><li>Администрация сайта хранит у "
+"себя только E-mail пользователей. Больше никаких личных данных мы не "
+"собираем.</li><li>Ваш E-mail будет использоваться только для идентификации "
+"на сайте и для отправки сервисных уведомлений (новые сообщения и т.д.).</"
+"li><li>Администрация сайта гарантирует вам, что не будет передавать "
+"запрашиваемый E-mail третьим лицам.</li><li>Администрация сайта гарантирует "
+"вам, что не будет использовать запрашиваемый E-mail в рекламных целях.</"
+"li><li>В любой момент времени пользователь может отказаться от получения "
+"сервисных писем в разделе «Мои настройки».</li><li>Любой момент времени "
+"пользователь может удалить или изменить регистрационные данные. Это можно "
+"сделать в разделе «Мои настройки».</li><li>Пользователь в любой момент может "
+"откаться от переписки с другими участниками. Для этого он может добавить "
+"собеседника в черный список.</li></ol><br/>Данная политика "
+"конфиденциальности легкодоступна для пользователей на всех станицах сайта "
+"до, во время и после регистрации. По всем вопросам пишите на почту "
+"администратора сайта lovetime@lovetime.com"
+
+msgid "error404"
+msgstr "Ошибка 404"
+
+msgid "pageNotFound"
+msgstr "Страница не найдена"
+
+msgid "formMustFill"
+msgstr "Нужно заполнить"
+
+msgid "feedbackFile"
+msgstr "Скриншот"
+
+msgid "feedbackFileTip"
+msgstr "Вы можете приложить к сообщению скриншот с ошибкой."
+
+msgid "siteCopyrightTh"
+msgstr "Lovetime.com"
+
+msgid "man"
+msgstr "мужчина"
+
+msgid "woman"
+msgstr "женщина"
+
+msgid "countrySelectName"
+msgstr "Страна"
+
+msgid "citySelectName"
+msgstr "Город"
+
+msgid "signupBirthDay"
+msgstr "День"
+
+msgid "signupBirthMonth"
+msgstr "Месяц"
+
+msgid "signupBirthYear"
+msgstr "Год рождения"
+
+msgid "systemRegister"
+msgstr "Зарегистрироваться"
+
+msgid "signupLicenseNote"
+msgstr ""
+"Нажимая кнопку &laquo;Зарегистрироваться&raquo; вы&nbsp;подтверждаете, что "
+"вам более 18&nbsp;лет и&nbsp;принимаете <a target=\"_blank\" href=\"/pages/"
+"rules\">Соглашение</a>"
+
+msgid "searchExcite"
+msgstr "Возбуждающие факторы"
+
+msgid "searchExcitesHe"
+msgstr "Его возбуждает"
+
+msgid "searchExcitesShe"
+msgstr "Её возбуждает"
+
+msgid "searchFrom"
+msgstr "от"
+
+msgid "searchTo"
+msgstr "до"
+
+msgid "searchSm"
+msgstr "(см)"
+
+msgid "searchKg"
+msgstr "(кг)"
+
+msgid "searchSkipCond"
+msgstr "Не учитывать это условие"
+
+msgid "sexYears"
+msgstr "лет"
+
+msgid "searchHave"
+msgstr "Есть"
+
+msgid "searchHaveNot"
+msgstr "Нет"
+
+msgid "searchHaveChildren"
+msgstr "Есть дети"
+
+msgid "searchHaveNotChildren"
+msgstr "Детей нет"
+
+msgid "searchLocationUndefined"
+msgstr "Любое местоположение"
+
+msgid "nearFilterOnline"
+msgstr "Онлайн"
+
+msgid "nearFilterNew"
+msgstr "Новенькие"
+
+msgid "nearFilterAll"
+msgstr "Все"
+
+msgid "searchAddParams"
+msgstr "Дополнительные параметры"
+
+msgid "searchAddToSearch"
+msgstr "Добавить к&nbsp;поиску"
+
+msgid "searchChooseAddParam"
+msgstr "Выберите дополнительный параметр"
+
+msgid "carouselYes"
+msgstr "Да!"
+
+msgid "carouselMaybeYes"
+msgstr "Возможно"
+
+msgid "carouselNo"
+msgstr "Нет"
+
+msgid "carouselLikeHim"
+msgstr "Хотите с&nbsp;ним встретиться?"
+
+msgid "carouselLikeHer"
+msgstr "Хотите с&nbsp;ней встретиться?"
+
+msgid "carouselMutualGreeting"
+msgstr "<strong>Поздравляем!</strong> Ваши симпатии взаимны"
+
+msgid "carouselMutualMessageFemale"
+msgstr "тоже хотела&nbsp;бы с&nbsp;вами встретиться"
+
+msgid "carouselMutualMessageMale"
+msgstr "тоже хотел&nbsp;бы с&nbsp;вами встретиться"
+
+msgid "chatWithHer"
+msgstr "Написать ей"
+
+msgid "chatWithHim"
+msgstr "Написать ему"
+
+msgid "chatMutualGreeting_female"
+msgstr ""
+"%s, с&nbsp;которой вы&nbsp;хотели встретиться, ответила, что тоже не&nbsp;"
+"против встретиться с&nbsp;вами! Она ждёт вашего сообщения, чтобы "
+"договориться о&nbsp;встрече!"
+
+msgid "chatMutualGreeting_male"
+msgstr ""
+"%s, с&nbsp;которым вы&nbsp;хотели встретиться, ответил, что тоже не&nbsp;"
+"против встретиться с&nbsp;вами! Он ждёт вашего сообщения, чтобы договориться "
+"о&nbsp;встрече!"
+
+msgid "gallerySingleUploadBtn"
+msgstr "Добавить фото"
+
+msgid "km"
+msgstr "км"
+
+msgid "profileMeet"
+msgstr "Встретиться"
+
+msgid "wannaMeet"
+msgstr "Хотите встретиться?"
+
+msgid "wannaMeetHer"
+msgstr "Хотите встретиться с&nbsp;ней?"
+
+msgid "wannaMeetHim"
+msgstr "Хотите встретиться с&nbsp;ним?"
+
+msgid "locatorSpecifyLocationPart1"
+msgstr "Укажите ваше местоположение"
+
+msgid "locatorSpecifyLocationPart2"
+msgstr "на карте, только тогда мы сможем показать кто находится рядом с вами"
+
+msgid "locatorSpecifyLocationPart3"
+msgstr "Указать"
+
+msgid "corrBlackListConfirm"
+msgstr "Действительно переместить сообщения в чёрный список?"
+
+msgid "corrBlackListConfirmNote"
+msgstr "Позже, при желании, их можно будет вернуть обратно"
+
+msgid "actionMove"
+msgstr "Переместить"
+
+msgid "actionDontMove"
+msgstr "Не перемещать"
+
+msgid "corrDeleteFolderConfirm"
+msgstr "Действительно желаете удалить папку?"
+
+msgid "corrDeleteFolderConfirmNote"
+msgstr ""
+"Сообщения, находящиеся в&nbsp;ней, не&nbsp;пропадут, а&nbsp;будут перенесены "
+"в&nbsp;папку &laquo;Общие&raquo;"
+
+msgid "actionDontDelete"
+msgstr "Не удалять"
+
+msgid "guestsIgnoreOk"
+msgstr ""
+"Переписка с&nbsp;пользователем перемещена в&nbsp;папку &laquo;"
+"Игнорируемые&raquo;"
+
+msgid "guestsIgnoreNote"
+msgstr "Позже, при желании, её можно вернуть обратно."
+
+msgid "actionClose"
+msgstr "Закрыть"
+
+msgid "actionChat"
+msgstr "Пообщаться"
+
+msgid "invitePreviewFromColleagueFemale"
+msgstr "ваша коллега хочет познакомиться с&nbsp;вами"
+
+msgid "invitePreviewFromNeighborFemale"
+msgstr "ваша соседка хочет познакомиться с&nbsp;вами"
+
+msgid "invitePreviewFromClassmateFemale"
+msgstr "ваша однокурсница хочет познакомиться с&nbsp;вами"
+
+msgid "invitePreviewFromFamiliarFemale"
+msgstr "кое-кто хочет познакомиться с&nbsp;вами"
+
+msgid "invitePreviewFromColleagueMale"
+msgstr "ваш коллега хочет познакомиться с&nbsp;вами"
+
+msgid "invitePreviewFromNeighborMale"
+msgstr "ваш сосед хочет познакомиться с&nbsp;вами"
+
+msgid "invitePreviewFromClassmateMale"
+msgstr "ваш однокурсник хочет познакомиться с&nbsp;вами"
+
+msgid "invitePreviewFromFamiliarMale"
+msgstr "кое-кто хочет познакомиться с&nbsp;вами"
+
+msgid "invitePreviewTextFemale"
+msgstr "В&nbsp;доказательство того, что это не&nbsp;шутка она спешит сообщить"
+
+msgid "invitePreviewTextMale"
+msgstr "В&nbsp;доказательство того, что это не&nbsp;шутка он спешит сообщить"
+
+msgid "invitePreviewDearFemale"
+msgstr "Дорогая"
+
+msgid "invitePreviewDearMale"
+msgstr "Дорогой"
+
+msgid "invitePreviewCodeTitle"
+msgstr "Чтобы узнать кому вы нравитесь:"
+
+msgid "invitePreviewCodeVisitLink"
+msgstr "Нажмите на&nbsp;ссылку"
+
+msgid "invitePreviewCodeLink"
+msgstr "Меня пригласили"
+
+msgid "invitePreviewCodeSite"
+msgstr "Зайдите на&nbsp;сайт"
+
+msgid "invitePreviewCodeTopRight"
+msgstr "справа вверху"
+
+msgid "invitePreviewCodeType"
+msgstr "Введите код приглашения"
+
+msgid "invitePreviewPostcardNote"
+msgstr ""
+"Распечатайте и&nbsp;поместите открытку в&nbsp;такое место, где её точно "
+"обнаружат: под лобовое стекло автомобиля, в&nbsp;почтовый ящик, в&nbsp;"
+"сумку, на&nbsp;стол&nbsp;... есть идеи?"
+
+msgid "invitePreviewPhoneResendNote"
+msgstr ""
+"Если вы хотите отправить SMS повторно, пожалуйста, введите ещё раз номер "
+"телефона:"
+
+msgid "inviteResend"
+msgstr "Отправить повторно"
+
+msgid "inviteSendInvite"
+msgstr "Отправить приглашение"
+
+msgid "inviteResent"
+msgstr "отправлено повторно"
+
+msgid "inviteSummaryTitleColleagueFemale"
+msgstr "Приглашение коллеге по&nbsp;имени"
+
+msgid "inviteSummaryTitleNeighborFemale"
+msgstr "Приглашение соседке по&nbsp;имени"
+
+msgid "inviteSummaryTitleClassmateFemale"
+msgstr "Приглашение однокурснице по&nbsp;имени"
+
+msgid "inviteSummaryTitleFamiliarFemale"
+msgstr "Приглашение знакомой по&nbsp;имени"
+
+msgid "inviteSummaryTitleColleagueMale"
+msgstr "Приглашение коллеге по&nbsp;имени"
+
+msgid "inviteSummaryTitleNeighborMale"
+msgstr "Приглашение соседу по&nbsp;имени"
+
+msgid "inviteSummaryTitleClassmateMale"
+msgstr "Приглашение однокурснику по&nbsp;имени"
+
+msgid "inviteSummaryTitleFamiliarMale"
+msgstr "Приглашение знакомому по&nbsp;имени"
+
+msgid "inviteSummaryStateAgree"
+msgstr "принято"
+
+msgid "inviteSummaryStateWait"
+msgstr "отправлено"
+
+msgid "inviteSummaryNoKeyPhrase"
+msgstr "без кодовой фразы"
+
+msgid "inviteFailCodeField"
+msgstr "Такого приглашения у нас нет :( Вы ничего не напутали?"
+
+msgid "inviteApplySuccess"
+msgstr "Приглашение принято!"
+
+msgid "increaseInfoConfirm4MaleTitle"
+msgstr "%s рассказал о себе гораздо больше, чем вы."
+
+msgid "increaseInfoConfirm4FemaleTitle"
+msgstr "%s рассказала о себе гораздо больше, чем вы."
+
+msgid "needAddPhotoConfirmTitle"
+msgstr "Вам нужно добавить фото"
+
+msgid "needAddPhotoConfirmNote"
+msgstr "Чтобы просматривать чужие фотографии, вы должны загрузить свое фото!"
+
+msgid "needAddPhotoConfirmYes"
+msgstr "Загрузить фото"
+
+msgid "needAddPhotoConfirmNo"
+msgstr "Отменить"
+
+msgid "requiredFieldsAlertConfirmTitle"
+msgstr "Не заполнены обязательные поля"
+
+msgid "requiredFieldsAlertConfirmText"
+msgstr ""
+"У Вас не заполнены следующие обязательные поля: %s<br>Пожалуйста, перейдите "
+"в анкету и заполните их."
+
+msgid "requiredFieldsAlertConfirmYes"
+msgstr "Перейти"
+
+msgid "noticeImageSizeLimit"
+msgstr "Ограничение размера изображения"
+
+msgid "noticeImageSizeLimitText"
+msgstr "Размер загружаемого изображения не должен быть больше 2 МБ"
+
+msgid "emailConfirmTitle"
+msgstr "Подтвердите адрес электронного ящика"
+
+msgid "emailConfirmAlertYes"
+msgstr "Подтвердить"
+
+msgid "emailConfirmAlertNo"
+msgstr "Отмена"
+
+msgid "bannedInfoAlertTitle"
+msgstr "Ваш аккаунт заблокирован"
+
+msgid "bannedInfoAlertNotice"
+msgstr "Детали вы можете узнать на странице профиля"
+
+msgid "bannedInfoAlertYes"
+msgstr "Перейти в профиль"
+
+msgid "bannedInfoAlertNo"
+msgstr "Выйти"
+
+msgid "emailDomainsReplaceAlertTitle"
+msgstr "Изменение email"
+
+msgid "emailDomainsReplaceAlertText"
+msgstr ""
+"Мы изменили ваш email на %s, поскольку скорее всего Вы опечатались. "
+"Продолжить или исправить email на первоначальный?"
+
+msgid "emailDomainsReplaceAlertYes"
+msgstr "Продолжить"
+
+msgid "emailDomainsReplaceAlertNo"
+msgstr "Исправить на первоначальный"
+
+msgid "signinAction"
+msgstr "Вход"
+
+msgid "signupAction"
+msgstr "Регистрация"
+
+msgid "signinEmailEmptyError"
+msgstr "Укажите Email"
+
+msgid "signinEmailMaskError"
+msgstr "Укажите действующий адрес электронной почты"
+
+msgid "signinPasswordEmptyError"
+msgstr "Укажите пароль"
+
+msgid "signinCountryEmptyError"
+msgstr "Укажите страну"
+
+msgid "signinCityEmptyError"
+msgstr "Укажите город"
+
+msgid "signinErrorBirthDayEmpty"
+msgstr "Укажите день рождения"
+
+msgid "signinErrorBirthMonthEmpty"
+msgstr "Укажите месяц рождения"
+
+msgid "signinErrorBirthYearEmpty"
+msgstr "Укажите год рождения"
+
+msgid "signinErrorTooYoung"
+msgstr "Регистрация разрешена только при&nbsp;достижении полных 18&nbsp;лет"
+
+msgid "citySelectDisabledTitle"
+msgstr "Сначала выберите страну"
+
+msgid "signinPasswordMinLengthError"
+msgstr "Пароль не должен быть короче 5&nbsp;символов"
+
+msgid "signinErrorNameEmpty"
+msgstr "Укажите имя"
+
+msgid "signinErrorSex"
+msgstr "Укажите пол"
+
+msgid "loginVia"
+msgstr "Войти через %s"
+
+msgid "registerVia"
+msgstr "Регистрация через %s"
+
+msgid "timeToFindYourLove"
+msgstr "Пора найти свою любовь"
+
+msgid "socialLikeDescription"
+msgstr "Любовь, флирт, общение. Бесплатно и анонимно..."
+
+msgid "showAll"
+msgstr "Показать всех"
+
+msgid "actionMinimize"
+msgstr "Свернуть"
+
+msgid "chatLoadingHistory"
+msgstr "Загрузка предыдущих сообщений"
+
+msgid "chatCitationsAdd"
+msgstr "Добавить в&nbsp;цитаты"
+
+msgid "chatCitationsTitle"
+msgstr "Цитаты"
+
+msgid "chatCitationsWelcome"
+msgstr ""
+"<p>Добавляйте сюда часто используемые фразы, чтобы быстро вставлять их&nbsp;"
+"в&nbsp;разговор</p><p>Для размещения используйте кнопку <span id=\"citations-"
+"welcome-button\"></span> Добавить в цитаты</p>"
+
+msgid "statusOnline"
+msgstr "сейчас на&nbsp;сайте"
+
+msgid "actionEdit"
+msgstr "Редактировать"
+
+msgid "chatCitationsRestore"
+msgstr "Восстановить цитату"
+
+msgid "chatNewMessageFrom"
+msgstr "Новое сообщение от"
+
+msgid "chatEmptyTitle"
+msgstr "В вашем чате пока пусто"
+
+msgid "chatEmptyText"
+msgstr ""
+"Чтобы добавить собеседников, выберите понравившихся пользователей, например, "
+"в&nbsp;<a href=\"/\">Поиске</a>, и&nbsp;нажмите иконку &laquo;Написать&raquo;"
+
+msgid "formUploadFile"
+msgstr "Загрузите файл"
+
+msgid "formDeleteFile"
+msgstr "Удалить файл"
+
+msgid "socialLikeTitle"
+msgstr "Гениальный сайт! Lovetime"
+
+msgid "About Yiinka"
+msgstr "О Yiinke"
+
+msgid "systemInstruments"
+msgstr "Инструменты"
+
+msgid "Import CSV"
+msgstr "Импорт из CSV"
+
+msgid "chatMessages"
+msgstr "Сообщения"
+
+msgid "profileMessages"
+msgstr "Сообщения"
+
+msgid "chatAll"
+msgstr "Все"
+
+msgid "chatOnline"
+msgstr "Онлайн"
+
+msgid "correspondencesActions"
+msgstr "Что сделать"
+
+msgid "actionMoveIn"
+msgstr "Переместить в:"
+
+msgid "actionBlacklist"
+msgstr "В чёрный список"
+
+msgid "chatEmptyFolder"
+msgstr "Папка пуста"
+
+msgid "chatNoOnline"
+msgstr "Онлайн собеседников в настоящий момент нет"
+
+msgid "correspondencesMessage"
+msgid_plural "correspondencesMessages"
+msgstr[0] "сообщение"
+msgstr[1] "сообщения"
+msgstr[2] "сообщений"
+
+msgid "favoriteUsers"
+msgstr "Избранные пользователи"
+
+msgid "favoriteLocation"
+msgstr ""
+"Пользователь, которого вы добавили в «Избранное», будет находиться в папке "
+"«Избранные пользователи» в разделе «Мои сообщения»."
+
+msgid "favoriteHideTip"
+msgstr "больше не показывать этот совет"
+
+msgid "favoriteNext"
+msgstr "Продолжить"
+
+msgid "favoriteCancel"
+msgstr "Отмена"
+
+msgid "emailConfirmResultSuccess"
+msgstr "Ваш адрес успешно подтвержден"
+
+msgid "emailConfirmAlreadyConfirmed"
+msgstr "Ваш адрес уже подтвержден"
+
+msgid "emailConfirmCheckYourEmailNow"
+msgstr "Теперь проверьте свою электронную почту"
+
+msgid "emailConfirmClickLinkForComplete"
+msgstr ""
+"Для завершения регистрации нажмите на ссылку в письме, которое мы отправили "
+"на <b>%email%</b>"
+
+msgid "mailOpen"
+msgstr "Открыть"
+
+msgid "emailConfirmCantGetMessage"
+msgstr "Не получили письмо?"
+
+msgid "emailConfirmCheckYourEmailOrEnterAnother"
+msgstr ""
+"Проверьте правильность указанного электронного адреса или введите другой"
+
+msgid "emailConfirmTypeValidEmail"
+msgstr "Введите действующий электронный адрес"
+
+msgid "emailConfirmSendAgain"
+msgstr "Отправить письмо ещё раз"
+
+msgid "profileGuests"
+msgstr "Гости"
+
+msgid "guestsFemaleStranger"
+msgstr "незнакомка"
+
+msgid "guestsMaleStranger"
+msgstr "незнакомец"
+
+msgid "guestsNo"
+msgstr "У вас не было гостей за указанный период времени"
+
+msgid "catalogUsersCatalog"
+msgstr "Каталог пользователей"
+
+msgid "formPasswordSent"
+msgstr "Дальнейшие инструкции высланы вам на e-mail"
+
+msgid "usersList"
+msgstr "Список пользователей"
+
+msgid "likesNoData"
+msgstr "Нет данных"
+
+msgid "guestsDataError"
+msgstr "Ошибка данных"
+
+msgid "usersPhotoAlbumOf"
+msgstr "Фотоальбом пользователя"
+
+msgid "actionUploadPhoto"
+msgstr "Загрузить фото"
+
+msgid "banProfileNotice"
+msgstr ""
+"Эта анкета не заполнена, отклонена модератором или не разрешена владельцем "
+"для просмотра.<br/>Попробуйте поискать других пользователей."
+
+msgid "banProfileHome"
+msgstr "На главную."
+
+msgid "usersWriteMessage"
+msgstr "Написать"
+
+msgid "usersInviteToChat"
+msgstr "Пригласить в чат"
+
+msgid "usersAlreadyToFavorite"
+msgstr "В избранном"
+
+msgid "carouselDistance"
+msgstr "%s км от вас"
+
+msgid "carouselDistanceOn"
+msgstr "на расстоянии"
+
+msgid "carouselDistanceUnknown"
+msgstr "чтобы узнать, укажите свои координаты"
+
+msgid "porsonalInfo"
+msgstr "Личная информация"
+
+msgid "userProfilePersonalInfoShow"
+msgstr "показать"
+
+msgid "formResetPassword"
+msgstr "Получить ссылку для восстановления пароля"
+
+msgid "carouselDisabledTitle"
+msgstr "Нужна ваша фотография"
+
+msgid "uploadPhoto"
+msgstr "Загрузить фотографию"
+
+msgid "carouselDisabledText"
+msgstr ""
+"Вы готовы пойти на&nbsp;свидание с&nbsp;привидением? Нет? Тогда добавьте "
+"в&nbsp;ваш&nbsp;профиль хотя&nbsp;бы одну фотографию. Успех гарантирован!"
+
+msgid "backToPageDates"
+msgstr "Выбор партнёра для встречи"
+
+msgid "profileRelations"
+msgstr "Встречи"
+
+msgid "profileLikesForMe"
+msgstr "Хотят встретиться"
+
+msgid "profileMutualLikes"
+msgstr "Взаимные симпатии"
+
+msgid "profileMyLikes"
+msgstr "Я хочу встретиться"
+
+msgid "carouselHeYes"
+msgstr "Он сказал <strong>&laquo;Да&raquo;</strong>"
+
+msgid "carouselSheYes"
+msgstr "Она сказала <strong>&laquo;Да&raquo;</strong>"
+
+msgid "carouselHeMaybe"
+msgstr "Он сказал <strong>&laquo;Возможно&raquo;</strong>"
+
+msgid "carouselSheMaybe"
+msgstr "Она сказала <strong>&laquo;Возможно&raquo;</strong>"
+
+msgid "carouselAnswerYes"
+msgstr "Да!"
+
+msgid "carouselAnswerMaybe"
+msgstr "Возможно"
+
+msgid "carouselAnswerNo"
+msgstr "Нет"
+
+msgid "carouselMyYes"
+msgstr "Вы сказали <strong>&laquo;Да&raquo;</strong>"
+
+msgid "carouselYouMaybe"
+msgstr "Вы сказали <strong>&laquo;Возможно&raquo;</strong>"
+
+msgid "updatePass"
+msgstr "Введите новый пароль"
+
+msgid "modelForgotpassChangePassword"
+msgstr "Обновить пароль"
+
+msgid "nearTitle1"
+msgstr "Кто рядом"
+
+msgid "nearTitle2"
+msgstr "со мной"
+
+msgid "meOnMap"
+msgstr "Я на карте"
+
+msgid "userLocationNotFound"
+msgstr "Адрес не найден."
+
+msgid "backToPageSearch"
+msgstr "Вернуться к&nbsp;поиску"
+
+msgid "pageLocationTitle"
+msgstr "Укажите где вы находитесь"
+
+msgid "meOnMapText2"
+msgstr ""
+"Другие пользователи не будут видеть ваше расположение. Только примерное "
+"расстояние до вас."
+
+msgid "userLocationPlaceholder"
+msgstr "Введите город, улицу и дом"
+
+msgid "userLocationFind"
+msgstr "Найти"
+
+msgid "locationClear"
+msgstr "Удалить данные о&nbsp;вашем местоположении"
+
+msgid "usersRefuseFromMails"
+msgstr "Отказ от почтовых уведомлений"
+
+msgid "usersRefuseFromMailsOk"
+msgstr "Вы больше не будете получать уведомления по электронной почте."
+
+msgid "profileMySettings"
+msgstr "Мои настройки"
+
+msgid "profileNotificationSettings"
+msgstr "Настройки уведомлений"
+
+msgid "inviteIncognitoTitle"
+msgstr "Режим &laquo;Инкогнито&raquo;"
+
+msgid "loginWidgetIncognitoText"
+msgstr "Фотографии скрыты от других пользователей"
+
+msgid "UTC-11:00"
+msgstr "(UTC-11:00) Мидуэй"
+
+msgid "UTC-10:00"
+msgstr "(UTC-10:00) Гавайи"
+
+msgid "UTC-9:00"
+msgstr "(UTC-09:00) Аляска"
+
+msgid "UTC-8:00[1]"
+msgstr "(UTC-08:00) Нижняя Калифорния"
+
+msgid "UTC-8:00[2]"
+msgstr "(UTC-08:00) Тихоокеанское время (США и Канада)"
+
+msgid "UTC-7:00[1]"
+msgstr "(UTC-07:00) Аризона"
+
+msgid "UTC-7:00[2]"
+msgstr "(UTC-07:00) Горное время (США и Канада)"
+
+msgid "UTC-7:00[3]"
+msgstr "(UTC-07:00) Ла-Пас, Мазатлан, Чихуахуа"
+
+msgid "UTC-6:00[1]"
+msgstr "(UTC-06:00) Гвадалахара, Мехико, Монтеррей"
+
+msgid "UTC-6:00[2]"
+msgstr "(UTC-06:00) Саскачеван, Центральная Америка"
+
+msgid "UTC-6:00[3]"
+msgstr "(UTC-06:00) Центральное время (США и Канада)"
+
+msgid "UTC-5:00[1]"
+msgstr "(UTC-05:00) Богота, Кито, Лима"
+
+msgid "UTC-5:00[2]"
+msgstr "(UTC-05:00) Восточное время (США и Канада)"
+
+msgid "UTC-5:00[3]"
+msgstr "(UTC-05:00) Индиана (восток)"
+
+msgid "UTC-4:30"
+msgstr "(UTC-04:30) Каракас"
+
+msgid "UTC-4:00[1]"
+msgstr "(UTC-04:00) Асунсьон"
+
+msgid "UTC-4:00[2]"
+msgstr "(UTC-04:00) Атлантическое время (Канада)"
+
+msgid "UTC-4:00[3]"
+msgstr "(UTC-04:00) Джорджтаун, Ла-Пас, Манаус, Сан-Хуан"
+
+msgid "UTC-4:00[4]"
+msgstr "(UTC-04:00) Куяба"
+
+msgid "UTC-4:00[5]"
+msgstr "(UTC-04:00) Сантьяго"
+
+msgid "UTC-3:30"
+msgstr "(UTC-03:30) Ньюфаундленд"
+
+msgid "UTC-3:00[1]"
+msgstr "(UTC-03:00) Бразилия"
+
+msgid "UTC-3:00[2]"
+msgstr "(UTC-03:00) Буэнос-Айрес"
+
+msgid "UTC-3:00[3]"
+msgstr "(UTC-03:00) Гренландия"
+
+msgid "UTC-3:00[4]"
+msgstr "(UTC-03:00) Кайенна, Форталеза"
+
+msgid "UTC-3:00[5]"
+msgstr "(UTC-03:00) Монтевидео"
+
+msgid "UTC-2:00[1]"
+msgstr "(UTC-02:00) Время в формате UTC-02"
+
+msgid "UTC-2:00[2]"
+msgstr "(UTC-02:00) Среднеатлантическое время"
+
+msgid "UTC-1:00[1]"
+msgstr "(UTC-01:00) Азорские о-ва"
+
+msgid "UTC-1:00[2]"
+msgstr "(UTC-01:00) О-ва Зеленого Мыса"
+
+msgid "UTC0[2]"
+msgstr "(UTC) Дублин, Лиссабон, Лондон, Эдинбург"
+
+msgid "UTC0[3]"
+msgstr "(UTC) Касабланка"
+
+msgid "UTC0[4]"
+msgstr "(UTC) Монровия, Рейкьявик"
+
+msgid "UTC+1[1]"
+msgstr "(UTC+01:00) Амстердам, Берлин, Берн, Вена, Рим, Стокгольм"
+
+msgid "UTC+1[2]"
+msgstr "(UTC+01:00) Белград, Братислава, Будапешт, Любляна, Прага"
+
+msgid "UTC+1[3]"
+msgstr "(UTC+01:00) Брюссель, Копенгаген, Мадрид, Париж"
+
+msgid "UTC+1[4]"
+msgstr "(UTC+01:00) Варшава, Загреб, Сараево, Скопье"
+
+msgid "UTC+1[5]"
+msgstr "(UTC+01:00) Виндхук"
+
+msgid "UTC+1[6]"
+msgstr "(UTC+01:00) Западная Центральная Африка"
+
+msgid "UTC+2[1]"
+msgstr "(UTC+02:00) Амман"
+
+msgid "UTC+2[2]"
+msgstr "(UTC+02:00) Афины, Бухарест"
+
+msgid "UTC+2[3]"
+msgstr "(UTC+02:00) Бейрут"
+
+msgid "UTC+2[4]"
+msgstr "(UTC+02:00) Вильнюс, Киев, Рига, София, Таллин, Хельсинки"
+
+msgid "UTC+2[5]"
+msgstr "(UTC+02:00) Дамаск"
+
+msgid "UTC+2[6]"
+msgstr "(UTC+02:00) Иерусалим"
+
+msgid "UTC+2[7]"
+msgstr "(UTC+02:00) Каир"
+
+msgid "UTC+2[8]"
+msgstr "(UTC+02:00) Никосия"
+
+msgid "UTC+2[9]"
+msgstr "(UTC+02:00) Стамбул"
+
+msgid "UTC+2[10]"
+msgstr "(UTC+02:00) Хараре, Претория"
+
+msgid "UTC+3[1]"
+msgstr "(UTC+03:00) Багдад"
+
+msgid "UTC+3[2]"
+msgstr "(UTC+03:00) Калининград, Минск"
+
+msgid "UTC+3[3]"
+msgstr "(UTC+03:00) Кувейт, Эр-Рияд"
+
+msgid "UTC+3[4]"
+msgstr "(UTC+03:00) Найроби"
+
+msgid "UTC+3:30"
+msgstr "(UTC+03:30) Тегеран"
+
+msgid "UTC+4[1]"
+msgstr "(UTC+04:00) Абу-Даби, Мускат"
+
+msgid "UTC+4[2]"
+msgstr "(UTC+04:00) Баку"
+
+msgid "UTC+4[3]"
+msgstr "(UTC+04:00) Волгоград, Москва, Санкт-Петербург"
+
+msgid "UTC+4[4]"
+msgstr "(UTC+04:00) Ереван"
+
+msgid "UTC+4[5]"
+msgstr "(UTC+04:00) Тбилиси"
+
+msgid "UTC+4:30"
+msgstr "(UTC+04:30) Кабул"
+
+msgid "UTC+5[1]"
+msgstr "(UTC+05:00) Исламабад, Карачи"
+
+msgid "UTC+5[2]"
+msgstr "(UTC+05:00) Ташкент"
+
+msgid "UTC+5:30"
+msgstr "(UTC+05:30) Колката, Мумбаи, Нью-Дели, Ченнай"
+
+msgid "UTC+5:45"
+msgstr "(UTC+05:45) Катманду"
+
+msgid "UTC+6[1]"
+msgstr "(UTC+06:00) Астана"
+
+msgid "UTC+6[2]"
+msgstr "(UTC+06:00) Дакка"
+
+msgid "UTC+6[3]"
+msgstr "(UTC+06:00) Екатеринбург"
+
+msgid "UTC+6:30"
+msgstr "(UTC+06:30) Янгон"
+
+msgid "UTC+7[1]"
+msgstr "(UTC+07:00) Бангкок, Джакарта, Ханой"
+
+msgid "UTC+7[2]"
+msgstr "(UTC+07:00) Новосибирск"
+
+msgid "UTC+8[1]"
+msgstr "(UTC+08:00) Гонконг, Пекин, Урумчи, Чунцин"
+
+msgid "UTC+8[2]"
+msgstr "(UTC+08:00) Красноярск"
+
+msgid "UTC+8[3]"
+msgstr "(UTC+08:00) Куала-Лумпур, Сингапур"
+
+msgid "UTC+8[4]"
+msgstr "(UTC+08:00) Перт"
+
+msgid "UTC+8[5]"
+msgstr "(UTC+08:00) Тайбэй"
+
+msgid "UTC+8[6]"
+msgstr "(UTC+08:00) Улан-Батор"
+
+msgid "UTC+9[1]"
+msgstr "(UTC+09:00) Иркутск"
+
+msgid "UTC+9[2]"
+msgstr "(UTC+09:00) Осака, Саппоро, Токио"
+
+msgid "UTC+9[3]"
+msgstr "(UTC+09:00) Сеул"
+
+msgid "UTC+9:30[1]"
+msgstr "(UTC+09:30) Аделаида"
+
+msgid "UTC+9:30[2]"
+msgstr "(UTC+09:30) Дарвин"
+
+msgid "UTC+10[1]"
+msgstr "(UTC+10:00) Брисбен"
+
+msgid "UTC+10[2]"
+msgstr "(UTC+10:00) Гуам, Порт-Морсби"
+
+msgid "UTC+10[3]"
+msgstr "(UTC+10:00) Канберра, Мельбурн, Сидней"
+
+msgid "UTC+10[4]"
+msgstr "(UTC+10:00) Хобарт"
+
+msgid "UTC+10[5]"
+msgstr "(UTC+10:00) Якутск"
+
+msgid "UTC+11[1]"
+msgstr "(UTC+11:00) Владивосток"
+
+msgid "UTC+11[2]"
+msgstr "(UTC+11:00) Соломоновы о-ва, Нов. Каледония"
+
+msgid "UTC+12[1]"
+msgstr "(UTC+12:00) Веллингтон, Окленд"
+
+msgid "UTC+12[3]"
+msgstr "(UTC+12:00) Магадан"
+
+msgid "UTC+12[4]"
+msgstr "(UTC+12:00) Фиджи"
+
+msgid "UTC+13[1]"
+msgstr "(UTC+13:00) Никуалофа"
+
+msgid "UTC+13[2]"
+msgstr "(UTC+13:00) Самоа"
+
+msgid "profileAdditional"
+msgstr "Дополнительно"
+
+msgid "saved"
+msgstr "Сохранено"
+
+msgid "userSettingsChangePassword"
+msgstr "Изменить пароль"
+
+msgid "systemRegisterNew"
+msgstr "Регистрация нового пользователя"
+
+msgid "systemRegisterChange"
+msgstr "Изменение личных данных"
+
+msgid "registerSex"
+msgstr "Ваш пол"
+
+msgid "siteRulesAccept"
+msgstr "Нажимая кнопку, вы принимаете"
+
+msgid "pagesRulesTitle"
+msgstr "пользовательское соглашение"
+
+msgid "profileMyAnketa"
+msgstr "Моя анкета"
+
+msgid "userProfileChangeCountry"
+msgstr ""
+"Вы указали страну <strong>%current_country%</strong>. Ваше нынешнее "
+"местололожение - <strong>%country_by_ip%</strong>. <a %href_extension% "
+"href='%link%'>Изменить страну профиля</a>"
+
+msgid "iLookingFor"
+msgstr "Я ищу"
+
+msgid "preferredAgeFrom"
+msgstr "от"
+
+msgid "preferredAgeTo"
+msgstr "до"
+
+msgid "aboutMe"
+msgstr "Обо мне"
+
+msgid "userViewProfessionOrSphereOfActivity"
+msgstr "профессия или сфера деятельности"
+
+msgid "contestUnselectAll"
+msgstr ""
+
+msgid "step"
+msgstr ""
+
+msgid "locationSavedOk"
+msgstr "Ваше местоположение сохранено."
+
+msgid "locationClearedOk"
+msgstr "Данные о вашем местоположении удалены."
+
+msgid "locationSavedErr"
+msgstr "При сохранении местоположения возникла ошибка."
+
+msgid "inviteCaptchaWrong"
+msgstr "Неверный код"
+
+msgid "formIncorrectLink"
+msgstr ""
+"Нельзя повторно использовать ссылку для восстановления пароля.<br />Чтобы "
+"восстановить пароль, нажмите ссылку"
+
+msgid "msgNoNearestNew"
+msgstr ""
+"За последнее время рядом с вами никого не появилось. Рекомендуем пригласить "
+"знакомых по E-mail, SMS или при помощи открытки. "
+
+msgid "msgNoNearestOnline"
+msgstr "В данный момент рядом с вами никого нет."
+
+msgid "msgNoNearestAll"
+msgstr ""
+"Рядом с вами пока никого нет.<br>Рекомендуем %sпригласить%s знакомых по E-"
+"mail, SMS или при помощи открытки."
+
+msgid "carouselUsersAreAbsent"
+msgstr "Больше нет пользователей для просмотра."
+
+msgid "profileAgeStr"
+msgstr "%s лет"
+
+msgid "complainSuccess"
+msgstr "Ваша жалоба успешно отправлена модератору"
+
+msgid "complainNoSuccess"
+msgstr "Не удалось отправить жалобу"
+
+msgid "complainAllPoles"
+msgstr "Пожалуйста, заполните все поля"
+
+msgid "feedbackFileError"
+msgstr "Неверный формат файла. Допустимые форматы: jpg, png."
+
+msgid "feedbackSentError"
+msgstr "Не удалось сохранить сообщение. Попробуйте отправить позже."
+
+msgid "feedbackSent"
+msgstr "Ваше сообщение отправлено"
+
+msgid "unsubscribeSuccess"
+msgstr "Вы успешно отписаны от рассылки"
+
+msgid "unsubscribeNoSuchUser"
+msgstr "Пользователя с таким e-mail не существует"
+
+msgid "loginWidgetPhotoDidNotModeratedYet"
+msgstr "Фотография еще не проверена"
+
+msgid "loginWidgetPhotoDidNotPassModerated"
+msgstr "Фотография не прошла модерацию по причине:"
+
+msgid "chatSessionClose"
+msgstr "Ваша сессия истекла. Пожалуйста, авторизуйтесь заново."
+
+msgid "searchNoResults"
+msgstr "По вашему запросу ничего не найдено."
+
+msgid "loginWidgetAddPhoto"
+msgstr "Добавить фото"
+
+msgid "systemExitConfirmTitle"
+msgstr "Ты действительно хочешь выйти?"
+
+msgid "systemExitConfirmBody"
+msgstr "В&nbsp;следующий раз тебе придётся вводить логин и&nbsp;пароль заново."
+
+msgid "systemExitConfirmNo"
+msgstr "Не&nbsp;выходить"
+

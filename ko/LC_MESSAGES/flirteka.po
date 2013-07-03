@@ -1,0 +1,4250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-01 08:57+0000\n"
+"PO-Revision-Date: 2013-06-26 10:38+0200\n"
+"Last-Translator: Olesya <alesena@gmail.com>\n"
+"Language-Team: \n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/jowee/Development/flirteka/trunk\n"
+
+msgid "lettersGiftTitle"
+msgstr "당신은 선물을 받았습니다 %s."
+
+msgid "lettersHelloName"
+msgstr "안녕하세요,%s"
+
+msgid "messageNewPresentLookAtButton"
+msgstr "보기"
+
+msgid "lettersFindYourLoveMatch"
+msgstr "당신의 사랑하는 짝을 찾아보세요!"
+
+msgid "lettersUnsubscribe"
+msgstr ""
+"만약 당신은 이메일 알림을 받고싶지않다면,당신은 <a href=\"%s\" style="
+"\"color: #0072bc;\">메일리스트에서 주소를 삭제</a>할 수 있습니다.\t\t\t\t\t\t"
+"\t\t\t\t\t\t\t\t\t\t"
+
+msgid "lettersChangeDataByClickingTheLink"
+msgstr ""
+"<a href=\"%s\" style=\"color: #0072bc;\">링크를 클릭하면</a> 당신은 설정을 변"
+"경할 수 있습니다"
+
+msgid "lettersUserSentGift"
+msgstr "사용자 <b><a href='%s'>%s</a></b>는 당신에게 선물을 보냈습니다."
+
+msgid "lettersBalanceIncreasedTitle"
+msgstr "당신의 잔고는 증가되었습니다 "
+
+msgid "lettersBalanceIncreased"
+msgid_plural "lettersBalanceIncreased"
+msgstr[0] ""
+
+msgid "inviteCaptcha"
+msgstr "비밀번호"
+
+msgid "captchaNewCode"
+msgstr "새로운 코드"
+
+msgid "moderatorSpamers"
+msgstr ""
+
+msgid "formSearch"
+msgstr "찾기"
+
+msgid "modelSpamersOneName"
+msgstr ""
+
+msgid "modelSpamersBack"
+msgstr ""
+
+msgid "modelSpamersBanTime"
+msgstr ""
+
+msgid "modelSpamersBanMessagesHeader"
+msgstr ""
+
+msgid "modelSpamersMessage"
+msgstr ""
+
+msgid "modelSpamersTranslate"
+msgstr ""
+
+msgid "modelSpamersDate"
+msgstr ""
+
+msgid "moderatorBannedUsers"
+msgstr "금지된 사용자"
+
+msgid "moderatorBan"
+msgstr "금지하다"
+
+msgid "moderatorUnban"
+msgstr "허용하다"
+
+msgid "statisticsMailchartsbytemplatesTemplateTitle"
+msgstr "분석 #%d (%s)"
+
+msgid "statisticsMailchartsbytemplatesQuantityChartTitle"
+msgstr "총계"
+
+msgid "statisticsMailchartsbytemplateQuantityChartYAxis"
+msgstr "총계"
+
+msgid "statisticsMailchartsbytemplatesPercentChartTitle"
+msgstr "퍼센트"
+
+msgid "statisticsMailchartsbytemplatePercentChartYAxis"
+msgstr "퍼센트"
+
+msgid "moderatorStatisticMenuMailTotal"
+msgstr ""
+
+msgid "moderatorStatisticMenuEximStats"
+msgstr ""
+
+msgid "statisticsMailTodayTitle"
+msgstr "오늘 이메일 통계"
+
+msgid "statisticsMailDomainsTitle"
+msgstr "도메인"
+
+msgid "statisticsMailUniqueOpens"
+msgstr "특별한 발견"
+
+msgid "statisticsMailUniqueClicks"
+msgstr "특별한 클릭 "
+
+msgid "statisticsMailAll"
+msgstr "합계"
+
+msgid "statisticsMailTemplateTitle"
+msgstr "메세지 제목"
+
+msgid "statisticsMailchartsbydomainDisplayDomains"
+msgstr "도메인디스플레이"
+
+msgid "statisticsMailchartsbydomainAllDomains"
+msgstr "모두"
+
+msgid "statisticsMailchartsbydomainDisplayCounters"
+msgstr "디스플레이"
+
+msgid "statisticsMailchartsbydomainSubmitButton"
+msgstr "업데이트"
+
+msgid "statisticsMailchartsbydomainQuantityChartTitle"
+msgstr "총계"
+
+msgid "statisticsMailchartsbydomainQuantityChartYAxis"
+msgstr "총계"
+
+msgid "statisticsMailchartsbydomainPercentChartTitle"
+msgstr "퍼센트"
+
+msgid "statisticsMailchartsbydomainPercentChartYAxis"
+msgstr "퍼센트"
+
+msgid "moderatorRefusalOfInvitation"
+msgstr "초대 거절"
+
+msgid "moderatorComplaintAboutUsers"
+msgstr "사용자에대한 컴플레인"
+
+msgid "moderatorFeedBack"
+msgstr "피드백"
+
+msgid "moderatorErrorMessages"
+msgstr "메세지 에러"
+
+msgid "moderatorUsers"
+msgstr "사용자"
+
+msgid "moderatorContactsExclusion"
+msgstr "연락처"
+
+msgid "moderatorPhotos"
+msgstr "사진"
+
+msgid "moderatorCarousel"
+msgstr "모든사진"
+
+msgid "moderatorModeratingPhotos"
+msgstr "사진 관리"
+
+msgid "moderatorEmailNotifications"
+msgstr "이메일 알림"
+
+msgid "moderatorBlackListForDeliveries"
+msgstr "배달 블랙리스트"
+
+msgid "moderatorUsernamesBlacklist"
+msgstr "사용자블랙리스트"
+
+msgid "moderatorStatistic"
+msgstr "통계"
+
+msgid "moderatorStatisticOpenedClickedStats"
+msgstr ""
+
+msgid "moderatorStatisticMenuMailNumbers"
+msgstr "메일-자료"
+
+msgid "moderatorStatisticMenuMailChartByDomain"
+msgstr "메일-차트-도메인"
+
+msgid "moderatorStatisticMenuMailChartByTemplate"
+msgstr "메일-차트-분석"
+
+msgid "moderatorRemovedRestoredUsers"
+msgstr "제거된/복구된 프로필"
+
+msgid "Advertising statistics"
+msgstr ""
+
+msgid "moderatorBalanceBilling"
+msgstr "청구서"
+
+msgid "moderatorMenuItemProducts"
+msgstr "상품"
+
+msgid "moderatorMenuItemProductPresents"
+msgstr "선물 "
+
+msgid "systemExit"
+msgstr "로그아웃"
+
+msgid "systemUser"
+msgstr "사용자"
+
+msgid "moderatorRemoveRecord"
+msgstr "기록 삭제"
+
+msgid "moderatorMaxUsersOnline"
+msgstr "사용자 온라인 (최대)"
+
+msgid "moderatorRegisteredStatistic"
+msgstr ""
+
+msgid "moderatorAudienceOfSystem"
+msgstr "시스템 사용자"
+
+msgid "moderatorInAll"
+msgstr "모두"
+
+msgid "moderatorQuantityOfBoys"
+msgstr "남자의 수"
+
+msgid "moderatorQuantityOfGirls"
+msgstr "여자의 수"
+
+msgid "moderatorVisitsToday"
+msgstr "오늘 방문자"
+
+msgid "moderatorVisitsOnWeek"
+msgstr "일주일 방문자"
+
+msgid "moderatorVisitsOnMonth"
+msgstr "한달 방문자"
+
+msgid "moderatorUsersWithCoords"
+msgstr "사용자 좌표와 사용자의 수"
+
+msgid "moderatorUsersFillProfile"
+msgstr "채워진 프로필의 사용자 수"
+
+msgid "moderatorUsersWithPhoto"
+msgstr "사진이 있는 사용자"
+
+msgid "moderatorPhotosToday"
+msgstr "오늘의 사진 "
+
+msgid "moderatorPhotosOnWeek"
+msgstr "이번주의 사진 "
+
+msgid "moderatorPhotosOnMonth"
+msgstr "이번달의 사진 "
+
+msgid "moderatorDialogs"
+msgstr "다이얼로그"
+
+msgid "moderatorAverageNumberOfMessages"
+msgstr "평균 메세지 수"
+
+msgid "moderatorQuantityDialogsStartedBoys"
+msgstr "대화를 시작한 남자의 수"
+
+msgid "moderatorQuantityDialogsStartedGirls"
+msgstr "대화를 시작한 여자의 수"
+
+msgid "moderatorEmails"
+msgstr "이메일"
+
+msgid "moderatorEmailsConfirmed"
+msgstr "확인되었습니다"
+
+msgid "moderatorEmailsNotConfirmed"
+msgstr "확인되지 않았습니다"
+
+msgid "moderatorRemovedRestoredCauses"
+msgstr "삭제 이유"
+
+msgid "moderatorRemovedRestoredDivisionForSexAndTime"
+msgstr "성과 시간의 구분"
+
+msgid "guestsToday"
+msgstr "오늘"
+
+msgid "guestsByWeek"
+msgstr "지난 일주일"
+
+msgid "guestsByMonth"
+msgstr "지난 한달"
+
+msgid "male"
+msgstr ""
+
+msgid "female"
+msgstr ""
+
+msgid "moderatorProductPresentsTitle"
+msgstr "선물 "
+
+msgid "yes"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "moderatorProductPresentsCreateTitle"
+msgstr "새로운 선물 만들기 "
+
+msgid "moderatorProductPresentsUpdateTitle"
+msgstr "선물 업데이트"
+
+msgid "usersDeleteSelectedPhotos"
+msgstr "삭제"
+
+msgid "usersDeletePhotoConfirm"
+msgstr "사진을 삭제하시겠습니까?"
+
+msgid "moderatorBack"
+msgstr "뒤로"
+
+msgid "moderatorNext"
+msgstr "다음"
+
+msgid "moderatorAddRecord"
+msgstr "기록 추가"
+
+msgid "actionSave"
+msgstr "저장"
+
+msgid "actionCancel"
+msgstr "취소"
+
+msgid "moderatorChangeRecord"
+msgstr "기록 수정"
+
+msgid "moderatorRemove"
+msgstr "삭제"
+
+msgid "formOperatorsBegin"
+msgstr "각 찾는 줄의 시작"
+
+msgid "formOperatorsEnd"
+msgstr "당신은 비교를 할 수 있습니다"
+
+msgid "formAdvancedSearch"
+msgstr "고급 찾기"
+
+msgid "moderatorActionBanQuestion"
+msgstr "금지?"
+
+msgid "formCreate"
+msgstr "정보 생성"
+
+msgid "formRequired"
+msgstr "정보는 뚜렷한 * 은 필수 입력사항입니다."
+
+msgid "formNoactive"
+msgstr "아니다"
+
+msgid "formActive"
+msgstr "그렇다"
+
+msgid "systemModerator"
+msgstr "관리자"
+
+msgid "anketaPersonalsCustomLabel"
+msgstr "기타"
+
+msgid "coin"
+msgid_plural "coins"
+msgstr[0] "동전"
+
+msgid "moderatorUserFormBalanceChangeAlt"
+msgstr "계좌"
+
+msgid "formSave"
+msgstr "변경 저장"
+
+msgid "formManage"
+msgstr "정보관리"
+
+msgid "formUpdate"
+msgstr "정보 수정"
+
+msgid "formDelete"
+msgstr "정보 삭제"
+
+msgid "systemLogin"
+msgstr "로그인"
+
+msgid "moderatorComplaintsResolved"
+msgstr "고쳤습니다 "
+
+msgid "moderatorComplaintsNew"
+msgstr "새로운"
+
+msgid "sexFemale"
+msgstr "여자"
+
+msgid "sexMale"
+msgstr "남자"
+
+msgid "formList"
+msgstr "정보리스트"
+
+msgid "formView"
+msgstr "정보 보기"
+
+msgid "moderatorSlider"
+msgstr "슬라이더"
+
+msgid "moderatorMosaic"
+msgstr "모자이크"
+
+msgid "photosStatusNew"
+msgstr "최근"
+
+msgid "moderatorActions"
+msgstr "행동"
+
+msgid "moderatorAccept"
+msgstr "허용"
+
+msgid "moderatorRefuse"
+msgstr "거절"
+
+msgid "moderatorModerating"
+msgstr ""
+
+msgid "moderatorPhotosVersions"
+msgstr "사진버젼"
+
+msgid "moderatorStatus"
+msgstr "신분"
+
+msgid "userID"
+msgstr "사용자 ID"
+
+msgid "moderatorPhotosSearchInTheWeb"
+msgstr "사이트에서 찾기 "
+
+msgid "modelUsersSex"
+msgstr "성별"
+
+msgid "searchGo"
+msgstr "검색"
+
+msgid "moderatorRefuseReason"
+msgstr "거절이유"
+
+msgid "moderatorLastEditName"
+msgstr ""
+
+msgid "moderatorBalanceBillingGlobalCountersRegistrations"
+msgstr "로그인/확인/계좌지불"
+
+msgid "moderatorBalanceBillingGlobalCountersExpense"
+msgstr "전체 사용자의 비용 "
+
+msgid "moderatorBalanceBillingGlobalCountersCurrent"
+msgstr "최근 계좌 잔고"
+
+msgid "moderatorBalanceSetTitle"
+msgstr "계좌잔고가 바꿨습니다"
+
+msgid "moderatorBalanceSetSuccessful"
+msgstr "계좌가 성공적으로 바꼈습니다"
+
+msgid "moderatorBalanceUserStatTitle"
+msgstr "계좌 통계"
+
+msgid "moderatorBalanceUserStatTableFieldTime"
+msgstr "시간"
+
+msgid "moderatorBalanceUserStatTableFieldDescription"
+msgstr "설명"
+
+msgid "moderatorBalanceUserStatTableFieldAmount"
+msgstr "총액 "
+
+msgid "moderatorBalanceUserStatTableFieldCurrent"
+msgstr "잔고"
+
+msgid "moderatorRegisteredToday"
+msgstr "오늘 등록했습니다 "
+
+msgid "bannedSecondChance"
+msgstr ""
+"네 저는 어떤 룰도 <a href='%s'> 어기지않을 것이 확실합니다. 저를 차단해제 해"
+"주세요</a>"
+
+msgid "bannedForever"
+msgstr ""
+"제발, 새로운 계정을 만들고  그런 행동을 번복하지 마십시오. 그렇지 않으면 우리"
+"는 당신의 계정을 다시 차단할 것입니다."
+
+msgid "actionTranslate"
+msgstr "번역하기"
+
+msgid "chatSendByClickOn"
+msgstr "전송 방법"
+
+msgid "formPleaseFixErrors"
+msgstr "에러를 고쳐주세요"
+
+msgid "userBalloonAddToFavorite"
+msgstr "즐겨찾기"
+
+msgid "ofPair"
+msgstr "짝"
+
+msgid "visitor"
+msgid_plural "visitors"
+msgstr[0] "방문자"
+
+msgid "signupMe"
+msgstr "나는"
+
+msgid "signupIAmSearching"
+msgstr "찾고있는"
+
+msgid "bannedInfoTitle"
+msgstr "당신의 계정은 차단되었습니다. 아마 이것은 아래의 이유들 때문입니다 :"
+
+msgid "bannedInfoCauseSendSpam"
+msgstr "&mdash; 대량의 광고나 스팸메일"
+
+msgid "bannedInfoCauseSendContacts"
+msgstr "&mdash;메세지속의 연락처의 분배 (phone, email, skype);"
+
+msgid "bannedInfoCauseWrongProfile"
+msgstr "&mdash; 프로필의 부적절한 컨텐츠 (광고,등등);"
+
+msgid "bannedInfoCauseRudeAttitude"
+msgstr "&mdash; 다른사용자에게 무례한 태도 ;"
+
+msgid "bannedInfoRecommendation"
+msgstr ""
+"당신이 이 조건을 읽기를 바랍니다 (a href=\"http://lovetime.com/pages/rules"
+"\">lovetime.com/pages/rules</a>"
+
+msgid "bannedInfoCreateNewAccount"
+msgstr ""
+"새로운 계정을 만들고 위의 단계를 반복하지마세요 . 그렇지않으면 우리는 당신을 "
+"다시 차단할 것입니다."
+
+msgid "bannedInfoSendEmail"
+msgstr ""
+"만약 당신이 에러로 차단됬다고 생각한다면 , <a href=\"mailto:info@lovetime."
+"com?subject=Wrongly banned user %id%\">info@lovetime.com</a>로 이메일을 보내"
+"주세요"
+
+msgid "loginErrorUserBanned"
+msgstr "사용자의 허용이 거부되었습니다 %s 는 금지되었습니다."
+
+msgid "messageFilterTitle"
+msgstr "메세지 필터"
+
+msgid "messageFilterSuggestion"
+msgstr "당신은 받고싶은 메세지 결정"
+
+msgid "messageFilterReceiveFromAll"
+msgstr "모든 메세지"
+
+msgid "messageFilterReceiveFromWoman"
+msgstr "오직 여자로부터 메세지"
+
+msgid "messageFilterReceiveFromMen"
+msgstr "오직 남자로부터 메세지"
+
+msgid "messageFilterWithPhotoOnly"
+msgstr "사진있는 사람만"
+
+msgid "messageFilterAgedFrom"
+msgstr "사용자의 나이"
+
+msgid "messageFilterAgedTo"
+msgstr "에게 "
+
+msgid "messageFilterFromMyCountry"
+msgstr "오직 나의 나라만"
+
+msgid "modelUsersFilterSex"
+msgstr "성별에 의한 필터"
+
+msgid "modelUsersFilterPhoto"
+msgstr "오직 사진이 있는 "
+
+msgid "modelUsersFilterAgeFrom"
+msgstr "오직 사용자 나이로부터"
+
+msgid "modelUsersFilterAgeTo"
+msgstr "에게"
+
+msgid "modelUsersFilterCountry"
+msgstr "오직 나의 나라로부터"
+
+msgid "chatFilterMan"
+msgstr ""
+"그의 메세지 필터가 설정되어, 당신은 메세지를 보낼 수 없습니다. 다른 누군가와 "
+"채팅을 해보세요."
+
+msgid "chatFilterWoman"
+msgstr ""
+"그녀의 메세지 필터가 설정되어, 당신은 메세지를 보낼 수 없습니다. 다른 누군가"
+"와 채팅을 해보세요."
+
+msgid "chatImpossibleCompanionBanned"
+msgstr ""
+"당신은 관리자 또는 그/그녀의 삭제된 프로필에서 차단된 사용자 %s에게 채팅메세"
+"지를 보낼 수 없습니다."
+
+msgid "lettersHiAndWelcome"
+msgstr "안녕하세요, %name%! %host% 관리자는 당신을 환영합니다!"
+
+msgid "lettersAlmostDone"
+msgstr "거의 끝났습니다..."
+
+msgid "lettersConfirm"
+msgstr "당신의 이메일을 확인하세요"
+
+msgid "lettersPersonalData"
+msgstr "당신의 개인 정보:"
+
+msgid "lettersNick"
+msgstr "닉네임:"
+
+msgid "lettersEmail"
+msgstr "이메일:"
+
+msgid "lettersAboutSite"
+msgstr ""
+"당신은 우리사이트에서 소울메이트를 찾을수 있고, 로맨틱한 관계를 가질 수 있으"
+"며, 당신친구 그리고 아는사람을 익명으로 꼬실 수 있습니다!"
+
+msgid "lettersTryIt"
+msgstr "<a href=\"%s\">시도해보세요!</a> 아주 재미있습니다!"
+
+msgid "lettersTellAboutUs"
+msgstr "당신의 모든 친구들에게 이 사이트에 대해 말하세요."
+
+msgid "lettersThankYou"
+msgstr "감사합니다."
+
+msgid "lettersYouCanChangeData"
+msgstr "당신의 개인 적인 상세정보를 변경 할 수 있습니다:"
+
+msgid "removingProfileRemovingProfile"
+msgstr "계정 삭제"
+
+msgid "removingProfileRemoveProfileAction"
+msgstr "삭제"
+
+msgid "removingProfileQuestion"
+msgstr "당신은 정말 당신의 계정을 삭제하시겠습니까?"
+
+msgid "removingProfileCauseManagedFindYourSoulMate"
+msgstr "예, 나는 나의 소울메이트를 찾았습니다!"
+
+msgid "removingProfileCauseICanNotFindAnyone"
+msgstr ""
+"나는 오랫동안 사이트르 사용해왔고, 지금까지 내가 좋아하는 사람을 찾지 못했습"
+"니다."
+
+msgid "removingProfileCauseIPlanGoBack"
+msgstr "나는 잠시동안 사이트를 떠나겠습니다 그러나 다시 돌아올 것입니다."
+
+msgid "removingProfileCauseIHaveAnotherProfile"
+msgstr "나는 또다른 프로필을 가지고 있습니다."
+
+msgid "removingProfileCauseIWasInsultedByAnother"
+msgstr "나는 다른 사용자로부터 무시를 받았습니다."
+
+msgid "removingProfileCauseIReceiveOffersEroticServices"
+msgstr "나는 은밀한 제안을 받았습니다."
+
+msgid "removingProfileCauseOther"
+msgstr "기타"
+
+msgid "removingProfileIChangedMyMindAction"
+msgstr "괜찮습니다. 나는 여기 머물것입니다."
+
+msgid "removingProfileNotification"
+msgstr ""
+"\"삭제\"클릭을 하면,  (%email%)로 확인 메일이 보내질 것입니다. 제공된 링크의 "
+"이메일과 프로필삭제 확인을 따라주세요. 만약 당신은 당신의 계정(사진과 연락처"
+"리스트) 복구를 원한다면 , 당신은 30일 안에 복구 할 수 있습니다."
+
+msgid "removingProfileRemoveAction"
+msgstr "삭제"
+
+msgid "removingProfileCanselAction"
+msgstr "취소"
+
+msgid "removingProfileEmailSendNotification"
+msgstr ""
+"당신의 계정 삭제확인 메일은 보내졌습니다. 계정삭제 단계를 완성하기위해 이메"
+"일 속 설명을 따르고 이메일에 제공된 링크를 클릭하세요 . "
+
+msgid "removingProfileNextAction"
+msgstr "다음"
+
+msgid "removingProfileEnterEmailAndCode"
+msgstr "당신의 이메일주소를 입력하고, 받은 코드를 입력하세요 . "
+
+msgid "removingProfileEmail"
+msgstr "이메일"
+
+msgid "removingProfileEnterEmail"
+msgstr "이메일 입력"
+
+msgid "removingProfileCodeOfPost"
+msgstr "메세지 코드"
+
+msgid "removingProfileEnterCodeOfPost"
+msgstr "코드 입력"
+
+msgid "removingProfileDoNotGo"
+msgstr "떠나지마세요! 여기 사람들이 당신을 그리워 할 것입니다!"
+
+msgid "removingProfileCancelRemovingAction"
+msgstr "제거 취소"
+
+msgid "removingProfileContinueAction"
+msgstr "그래도 계속진행"
+
+msgid "removingProfileRemovedStatus"
+msgstr "당신의 프로필 상태는 &mdash; 제거되었습니다"
+
+msgid "removingProfileRemovedMessage"
+msgstr ""
+"당신의 프로필 페이지는 지금 삭제됨으로 표시되어있습니다. 당신의 모든 메세지"
+"와 연락처, 사진들 그리고 설정은 30일 동안 저장되며 이후 시스템에서 영구적으"
+"로 삭제됩니다."
+
+msgid "removingProfileRestoreProfileAction"
+msgstr "계정 복구"
+
+msgid "modelUsersHobbies"
+msgstr "자신을 묘사해보세요"
+
+msgid "balanceChangesBuyProductDecreaseProductId"
+msgstr "상품"
+
+msgid "balanceChangesByAdminUserId"
+msgstr "사용자"
+
+msgid "balanceChangesPSIncreasePSId"
+msgstr "결제 시스템"
+
+msgid "BalanceIncreaseErrorTitle"
+msgstr "계좌 잔고 에러"
+
+msgid "everyDayBalanceIncreasingDesc"
+msgstr "당일 잔고 증가"
+
+msgid "invisibleSettingsFormButton"
+msgstr "저장"
+
+msgid "invisibleSettingsPageText"
+msgstr ""
+"우리는 당신이 이 모드를 자주 사용하지 않는 것을 충고합니다. 만약 등록이 어렵"
+"다면,제발 다른사람들이 볼수 있는 것들은 보이지않는 사용자보다 당신이 새로운 "
+"친구를 만들가능성이 크다는 것을 생각해주세요"
+
+msgid "invisibleSettingsPageTitle"
+msgstr "보이지 않는 모드"
+
+msgid "modelUsersBalance"
+msgstr "계좌"
+
+msgid "modelUsersInvisibleeWalk"
+msgstr "다른사람의 방문자리스트에서 나를 숨기기"
+
+msgid "modelUsersInvisibleOnline"
+msgstr "다른 사용자에게 나의 온라인상태 숨기기"
+
+msgid "modelUsersInvisibleSuperstarStatus"
+msgstr "다른 사용자에게 나의 슈퍼스타상태 숨기기"
+
+msgid "moderatorProductPresentsAddButton"
+msgstr "선물 추가"
+
+msgid "monetizationInfoPageSearchText"
+msgstr "행복한 관계를 위한 당신의 기회 증가"
+
+msgid "monetizationInfoPageSearchTitle"
+msgstr "검색결과 중 1순위"
+
+msgid "monetizationInfoPageSuperstarButton"
+msgstr "슈퍼스타 되기"
+
+msgid "monetizationInfoPageSuperstarText"
+msgstr "게임에서 특별한 데이트"
+
+msgid "monetizationInfoPageSuperstarTitle"
+msgstr "슈퍼스타상태"
+
+msgid "monetizationInfoPageText"
+msgstr ""
+"당신은 <a href='#' id='%s'>동전을 살 수 있거나</a> 웹사이트에서 찾을 수 있습"
+"니다"
+
+msgid "monetizationInfoPageText2"
+msgstr "우리는 당신에게 무료코인을 하루마다 줍니다"
+
+msgid "monetizationInfoPageTitle"
+msgstr "더 유명해지기위해 코인사용하기"
+
+msgid "monetizationInfoPageTopFacesButton"
+msgstr "위로 올리기 "
+
+msgid "monetizationInfoPageTopFacesText"
+msgstr ""
+"우리는 당신이 선호하는것 그리고 특별한 알고리즘을 바탕으로한 적합한 사람을 고"
+"려합니다"
+
+msgid "monetizationInfoPageTopFacesTitle"
+msgstr "TOP 중의 위치"
+
+msgid "monetizationAboutTopTitle"
+msgstr "프로필 홍보"
+
+msgid "monetizationAboutTopText"
+msgstr "사진공급의 검색결과에서 위치향상시키기"
+
+msgid "monetizationAboutTopButton"
+msgstr " TOP 으로 올리기"
+
+msgid "monetizationAboutGiftsTitle"
+msgstr "선물"
+
+msgid "monetizationAboutGiftsText"
+msgstr "당신의 인기를 증가시키기"
+
+msgid "monetizationAboutUnlimitedTitle"
+msgstr "무한정의"
+
+msgid "monetizationAboutUnlimitedText"
+msgstr "모든 제약들 제거하기"
+
+msgid "monetizationAboutUnlimitedButton"
+msgstr "제약 제거하기"
+
+msgid "monetizationAboutVipTitle"
+msgstr "VIP"
+
+msgid "monetizationAboutVipText"
+msgstr "당신의 프로필 보기를 향상시키기"
+
+msgid "monetizationAboutVipButton"
+msgstr "VIP 되기"
+
+msgid "monetizationAboutIncognitoTitle"
+msgstr "보이지 않는"
+
+msgid "monetizationAboutIncognitoText"
+msgstr "다른사람에게 보이지않게 하기"
+
+msgid "monetizationAboutIncognitoButton"
+msgstr "오프라인으로 나타내기"
+
+msgid "monetizationBalanceSendSMS"
+msgstr ""
+
+msgid "monetizationBalanceSum"
+msgstr ""
+
+msgid "monetizationBalancePhoneNumber"
+msgstr ""
+
+msgid "monetizationBalanceOrderNumber"
+msgstr ""
+
+msgid "monetizationBalanceYouPayOrder"
+msgstr ""
+
+msgid "monetizationBalanceCheckOrder"
+msgstr ""
+
+msgid "monetizationBalanceOperator"
+msgstr ""
+
+msgid "monetizationBalanceUpText"
+msgstr ""
+
+msgid "monetizationBalanceNumber"
+msgstr ""
+
+msgid "monetizationBalanceText"
+msgstr ""
+
+msgid "paymentDialogMessageSuperstarForSearch"
+msgstr ""
+"고급 검색을 이용해 찾은 프로필을 보기위해, 당신은 슈퍼스타 상태를 활성화시켜"
+"야 합니다"
+
+msgid "paymentDialogTitleDefault"
+msgstr "계좌 추가지불"
+
+msgid "paymentDialogTitleSuperstar"
+msgstr "슈퍼스타 상태 구매하기"
+
+msgid "paymentDialogTitleTopFaces"
+msgstr "위로 "
+
+msgid "paymentDialogWidgetBuy"
+msgstr "지불하기"
+
+msgid "paymentDialogWidgetTermsOfUse"
+msgstr "사용 약관"
+
+msgid "productPresentModelCodePatternMessage"
+msgstr ""
+"제품코드는 반드시 'present-*'와 같아야하며, * 자리는 한개이상의 숫자 또는 영"
+"어소문자입니다"
+
+msgid "productPresentModelImageFieldLabel"
+msgstr "이미지   "
+
+msgid "productSuperstar12PublicTitle"
+msgstr "12개월의 슈퍼스타상태"
+
+msgid "productSuperstar1PublicTitle"
+msgstr "1개월의 슈퍼스타상태"
+
+msgid "productSuperstar3PublicTitle"
+msgstr "3개월의 슈퍼스타"
+
+msgid "productSuperstar6PublicTitle"
+msgstr "6개월의 슈퍼스타상태"
+
+msgid "productSuperstarFriendly"
+msgstr "친근한   "
+
+msgid "productSuperstarStatusModelFieldPeriod"
+msgstr "기간"
+
+msgid "productSuperstarStatusModelFieldType"
+msgstr "종류"
+
+msgid "productSuperstarTypeRomantic"
+msgstr "로맨틱"
+
+msgid "productTopFacesPublicTitle"
+msgstr "TOP 추가"
+
+msgid "publicFlashNotifierWidgetPresentBalanceWasChanged"
+msgstr "계좌잔고는 %d %s 에 의해 감소됬습니다"
+
+msgid "publicFlashNotifierWidgetPresentNotice"
+msgstr "당신은 선물을 선택했습니다"
+
+msgid "sendGiftDialogCommentLabel"
+msgstr "당신의 메세지 또는 칭찬"
+
+msgid "sendGiftDialogHiddenFieldLabel"
+msgstr "오직 받는 사람만 선물을 볼 수 있습니다"
+
+msgid "sendGiftDialogSubmit"
+msgstr "보내기 "
+
+msgid "sendGiftDialogText"
+msgstr "그것은 당신이 이목을 끌 수 있는 가장 좋은 방법입니다"
+
+msgid "sendGiftDialogTitle"
+msgstr "선물 보내기 "
+
+msgid "superstarModelAttributeBegin"
+msgstr "시작"
+
+msgid "superstarModelAttributeFinish"
+msgstr "끝"
+
+msgid "superstarModelAttributeUser"
+msgstr "사용자"
+
+msgid "topFacesDialogNotice"
+msgstr "가격은 %d %s"
+
+msgid "userRatingAndBalanceWidgetBecameSuperstar"
+msgstr "슈퍼스타 되기"
+
+msgid "userRatingAndBalanceWidgetRatingExtraLow"
+msgstr "너무 낮습니다 "
+
+msgid "userRatingAndBalanceWidgetRatingLow"
+msgstr "낮습니다"
+
+msgid "userRatingAndBalanceWidgetRatingMiddle"
+msgstr "보통의"
+
+msgid "userRatingAndBalanceWidgetRatingHigh"
+msgstr "높습니다 "
+
+msgid "userRatingAndBalanceWidgetRatingExtraHigh"
+msgstr "너무 높습니다 "
+
+msgid "userRatingAndBalanceWidgetFillUpBalance"
+msgstr "추가 지불"
+
+msgid "userRatingAndBalanceWidgetIncrease"
+msgstr "증가하다"
+
+msgid "userRatingAndBalanceWidgetRatingAndVisitorsText"
+msgstr ""
+"당신의 검색 위치는<a href='%s'>%s</a> 이고 오늘 당신은<a href='%s'>%d</a> %s "
+"입니다"
+
+msgid "userRatingAndBalanceWidgetToTop"
+msgstr "위로"
+
+msgid "userRatingAndBalanceWidgetYourRating"
+msgstr "당신의 인기"
+
+msgid "userViewBalloonActivateSuperstar"
+msgstr "슈퍼스타 상태 활성화"
+
+msgid "userViewBalloonReturnToBasicSearch"
+msgstr "다시 검색"
+
+msgid "userViewBalloonTitle"
+msgstr ""
+"고급검색을 통해 찾은 프로필을 보기위해, 당신은 슈퍼파워를 활성화 시켜야합니다"
+
+msgid "walletBalanceChangesAmount"
+msgstr "총액"
+
+msgid "walletBalanceChangesBalance"
+msgstr "최근 계좌 잔고"
+
+msgid "walletBalanceChangesCode"
+msgstr "코드 "
+
+msgid "walletBalanceChangesDescription"
+msgstr "설명하기 "
+
+msgid "walletBalanceChangesPrice"
+msgstr "가격"
+
+msgid "walletBalanceChangesProductId"
+msgstr "상품"
+
+msgid "walletBalanceChangesTimestamp"
+msgstr "시간 "
+
+msgid "walletBalanceChangesUserId"
+msgstr "사용자 "
+
+msgid "walletProductsCode"
+msgstr "코드"
+
+msgid "walletProductsCreatedAt"
+msgstr "날자 만들기 "
+
+msgid "walletProductsCreatedBy"
+msgstr "로 만들었습니다 "
+
+msgid "walletProductsDescription"
+msgstr "설명 "
+
+msgid "walletProductsPrice"
+msgstr "가격"
+
+msgid "walletProductsTitle"
+msgstr "제목"
+
+msgid "walletProductsUpdatedAt"
+msgstr "업데이트됬습니다"
+
+msgid "walletProductsUpdatedBy"
+msgstr "로 업데이트됬습니다"
+
+msgid "YourBalanceWasIncreasedText"
+msgstr ""
+"당신의 계좌잔고는  %d %s에 의해 증가됬습니다. 최근 잔고는  %d %s입니다."
+
+msgid "YourBalanceWasIncreasedTitle"
+msgstr "계좌잔고 증가하기"
+
+msgid "YourPresentHasBeenSent"
+msgstr "당신의 선물을 보냈습니다 "
+
+msgid "sendGiftDialogFilterAll"
+msgstr "모두 다 "
+
+msgid "sendGiftDialogFilterFriendly"
+msgstr "친절한 "
+
+msgid "sendGiftDialogFilterRomantic"
+msgstr "로맨틱 "
+
+msgid "paymentDialogBuyCoins"
+msgstr "계좌 추가지불"
+
+msgid "carouselNeedBuySuperstarNotice"
+msgstr ""
+"프로필을 보기위해 당신은 <a href=\"%s\"> 슈퍼스타 상태를</a>  구매해야합니다."
+
+msgid "leftMenuSearchPosition"
+msgstr "위치 찾기"
+
+msgid "leftMenuVisitorsToday"
+msgstr "%s 오늘"
+
+msgid "leftMenuButtonTop"
+msgstr "위로"
+
+msgid "leftMenuButtonSuperstar"
+msgstr "슈퍼스타"
+
+msgid "leftMenuBalance"
+msgstr "계좌 잔고"
+
+msgid "balanceChangeTitle"
+msgstr "계좌잔고 변경"
+
+msgid "balanceChangeBuyProductDecreaseTitle"
+msgstr "물건 구입"
+
+msgid "balanceChangeByAdminTitle"
+msgstr "관리자에 의해 변경되었습니다"
+
+msgid "balanceChangeDailyTitle"
+msgstr "당일 잔고 증가"
+
+msgid "balanceChangePSIncreaseTitle"
+msgstr "페이시스템으로 잔고채우기"
+
+msgid "userProfileAddPresentBaitF"
+msgstr "그녀에게 선물을 보내세요 그리고 그녀는 당신을 주목할 것입니다!"
+
+msgid "userProfileAddPresentBaitM"
+msgstr "그에게 선물보내세요 그리고 그는 당신을 주목할 것입니다!"
+
+msgid "mailTemplateTitleNewPresent"
+msgstr "%name%, 당신은 새로운 선물을 %sender_name% on %host% 로부터 받았습니다"
+
+msgid "mailTemplateBodyNewPresent"
+msgstr ""
+"<a href='%sender_profile_url%'>%sender_name%</a> 는 당신에게 선물을 보냈습니"
+"다. 당신은 당신의 프로필 <a href='%profile_url%'>profile</a>에서 볼 수 있습니"
+"다."
+
+msgid "balanceChangeBuyProductSuperstarDecreaseTitle"
+msgstr "슈퍼스타상태 활동을 위해 지불"
+
+msgid "balanceChangeBuyProductPresentDecreaseTitle"
+msgstr "선물 구입을 위해 지불"
+
+msgid "balanceChangeBuyProductTopFacesDecreaseTitle"
+msgstr "인기도를 올리기 위해 지불"
+
+msgid "userTransactionsPageTitle"
+msgstr "당신의 최근 계좌 밸런스 : %d %s"
+
+msgid "userTransactionsPageDescription"
+msgstr ""
+"당신의 계좌과 구입목록 기록은 웹사이트에 있습니다.<br /> \"계좌 상태\"에서 당"
+"신은 최근 계좌의 상태를 볼 수 있으며 <br /> 관련된 문서를 출력할 수 있습니"
+"다. \"구입 기록\"에서 당신은 당신의 비용과 과거 구입을 볼 수 있습니다."
+
+msgid "userTransactionsPageLinkTypeExpenses"
+msgstr "계좌 상태"
+
+msgid "userTransactionsPageLinkTypeIncomes"
+msgstr "구입 목록"
+
+msgid "userTransactionsPageTableHeaderCol1"
+msgstr "번역"
+
+msgid "userTransactionsPageTableHeaderCol2"
+msgstr "날짜"
+
+msgid "userTransactionsPageTableHeaderCol3"
+msgstr "총계"
+
+msgid "userTransactionsPageLinkAll"
+msgstr "모두 보기"
+
+msgid "monetizationInfoPageLinkTransactions"
+msgstr "잔고 증명"
+
+msgid "SuperstarPaymentWasPurchasedTitle"
+msgstr "당신은 성공적으로 슈퍼스타 상태가 되었습니다."
+
+msgid "monetizationInfoPageLinkRecharge"
+msgstr "코인 얻기"
+
+msgid "messageNewPresentText"
+msgstr ""
+"<b><a href='http://%host%/%sender_profile_uri%'>%sender_name%</a></b> 는 당신"
+"에서 선물을 보냈습니다."
+
+msgid "superstarInfoPageTitle"
+msgstr "슈퍼스타 되기!"
+
+msgid "superstarInfoPageTitleNotice"
+msgstr ""
+"슈퍼스타모드는 당신이 더 많은 사람을 만날 수 있도록 도와줍니다 , 빠르게."
+
+msgid "superstarInfoPageEncountersTitle"
+msgstr "만나기 - 당신을 만나고 싶어하는 사람 찾기"
+
+msgid "superstarInfoPageEncountersNotice"
+msgstr "만나기 폴더를 얻고 \"네\"를 말한 사람을 찾으세요!"
+
+msgid "superstarInfoPageAdvancedSearchTitle"
+msgstr "고급 검색"
+
+msgid "superstarInfoPageAdvancedSearchNotice"
+msgstr "당신이 찾고있는 것과 맞는 프로필 확인하기"
+
+msgid "superstarInfoPageInvisibleModeTitle"
+msgstr "비공개 모드"
+
+msgid "superstarInfoPageInvisibleModeNotice"
+msgstr ""
+"다른 회원의 비공개 프로필보기! 그들은 당신이 거기 있었는지 절대 모를 것입니"
+"다..."
+
+msgid "superstarInfoPageLimitsTitle"
+msgstr "더이상 경계없음"
+
+msgid "superstarInfoPageLimitsNotice"
+msgstr "끝없이 회전목마 타기, 찾기 그리고 채팅"
+
+msgid "superstarInfoPageButtonBuy"
+msgstr "슈퍼스타상태 되기"
+
+msgid "superstarInfoPageButtonRun"
+msgstr "무료로 시도하기"
+
+msgid "or"
+msgstr "또는"
+
+msgid "close"
+msgstr "닫기"
+
+msgid "YouHaveReceivedAGift"
+msgstr "당신은 선물을 받았습니다"
+
+msgid "YouHaveMadeAGift"
+msgstr "당신은 선물을 보냈습니다"
+
+msgid "paymentDialogWidgetTermsOfUseText"
+msgstr ""
+" '#button#'을 누르고, 당신은 허락하세요 #ltd# 출금하기 #paySystemName# "
+"#moneyAmount# #moneyCurrency# for #starAmount# #coins#  로부터 사용할 수 있"
+"는 #domain# 그리고 당신은 코인 사용 조건을 따르는 것 허용 하세요 #siteName#. "
+"당신은 만약 지불방법을 바꾸고 싶다면,  당신의 설정을 업데이트 할 수 있습니"
+"다. <br/> <br/> 코인 사용의 조건 #siteName#: <br/> <br/> 1. 당신이 코인구입 "
+"또는 코은을 받았을 때, 당신만의 코인이 아닙니다. 그러나 당신이 코인을 쓰기위"
+"해 구매할 권리가 있습니다. #siteName#에 의해 제안된 선물, 슈퍼스타 상태 등과 "
+"같은 것들. <br/> 2. 코인 구입은 환불되지 않습니다. <br/> 3. 우리는 코인 구입 "
+"가격을 언제든지 변경할 수 있습으며, 게다가 웹사이트에서 쓰는 방법을 변겅 할 "
+"수 있습니다. 우리는 또한 코인 발급을 중 지할 수 있습니다. <br/> 4. 글에 말했"
+"듯이 코인은 돈이나 화폐적가치로 교환할 수 없습니다. <br/> 5. 사용하지 않은 코"
+"인은 구입 6개월 후에 만료됩니다. <br/> 6. 만약당신의 계정을 삭제하거나 사용조"
+"건을 어겨 관리자에 의해 정지된 계정은#siteName#, 누적된 모든 코인을 잃을 것입"
+"니다. <br/> 7. 당신이 프로모션을 통해 무료로 코인을 얻는다면, 우리는 언제든"
+"지 소멸기간을 정할 수 있습니다. <br/> <br/> 지불은 #ltd#에 의해 진행됩니다."
+
+msgid "payonlineTetmsOfUse"
+msgstr ""
+"<p>마지막 계좌지불, 웹주소 또는 회사이름, 일의 식별자(번호) 또는 법적책임이 "
+"있는 지불.</p><p>당신의 개인 정보는 오직  PayOnline system에 저장됩니다. 우리"
+"는 이정보를 제 3자에게 공개하지 않을것이며, 공공단체로부터 요청되어 쓰여진 러"
+"시아연방의 법에 따르는 것은 제외한.</p><p> PayOnline system Ltd. 는 연방정부"
+"에 등록 되어있고 등록번호는 10-0104880이며 수집을 위해 만들어졌으며, 보통사람"
+"의 개인적인 정보를 진행과 저장할 수 있다. </p><p>당신의 신용카드 정보는 오직 "
+"결제할 때만 사용 되며 그것은 암호화 되어 보안보호 시스템을 통해 전송된다. 당"
+"신의 신용카드 세부사항은  PayOnline system에 저장되지 않는다. 그러므로 제 3자"
+"에게 그 어떤 상황도 전달 되지 않는다. </p><p>만약 당신이 결제에 대해 질문이 "
+"있다면, 당신은 고객지원으로 연락 할 수 있다 : +8 (800) 7000 729 (toll-free "
+"in Russia), +7 (495) 666 2143; 또는 이메일로 : support@payonline.ru.</p><p>당"
+"신은 이 결제를 당신의 은행 입출금내역에서 Lovetime.com ID를 사용하여 찾을 수 "
+"있다. </p><p>당신의 IP주소는 당신의 개인정보 유출을 막기위해 저장 될 것이다. "
+"어떠한 유출된 개인정보의 사용은 저지되고 고발할 것이다.</p>"
+
+msgid "unsubscribeWrongEmail"
+msgstr "잘못된 이메일 주소"
+
+msgid "contestMain"
+msgstr ""
+
+msgid "contestFindYourLove"
+msgstr "당신의 사랑을 찾으세요 "
+
+msgid "contestIncreaseChanceSuccess"
+msgstr "성공을 위해 찬스를 늘리세요"
+
+msgid "contestOr"
+msgstr "또는"
+
+msgid "contestFindLove"
+msgstr "사랑 찾기"
+
+msgid "contestResult"
+msgstr "결과"
+
+msgid "contestSelectAll"
+msgstr "모두 선택"
+
+msgid "contestPhotoPhrase1"
+msgstr "사진이 없습니까? 선물이 없습니다!"
+
+msgid "contestPhotoPhrase2"
+msgstr ""
+"죄송합니다. 사진이 있는 사용자만 큰 선물을 받을 수 있습니다,<br /> 사진을 추"
+"가하세요."
+
+msgid "contestPhotoPhrase3"
+msgstr "드래그 그리고 놓기 <br /> 당신의 파일시스템에서 <br />여기로 업로드"
+
+msgid "contestUploadPhoto"
+msgstr "사진 업로드"
+
+msgid "contestImportPhoto"
+msgstr "또는 중요한 사진 형식"
+
+msgid "contestFbProfile"
+msgstr "페이스북 프로필"
+
+msgid "contestGoogleProfile"
+msgstr "구글+ 프로필"
+
+msgid "contestInviteMorePhrase"
+msgstr ""
+"당신은 <span>%d</span> 사용자를 초대했습니다... <br> 만약 그들 중 아무나 이긴"
+"다면 <br><b> 당신 또한 상을 받습니다! </b><button class='n-d-more-button'>당"
+"신의 찬스를 늘리세요 &rarr; <ins> 더 초대하세요!</ins></button>또는 <a "
+"href='/' target='_blank'> 당신의 사랑을 찾으세요</a>!"
+
+msgid "contestAnnouncePhrase1"
+msgstr ""
+"당신은  <strong class='announce-contest__highlight'>%d</strong>사용자를 초대"
+"했습니다!"
+
+msgid "contestAnnouncePhrase2"
+msgstr "만약 그들중 아무나 이긴다면"
+
+msgid "contestAnnouncePhrase3"
+msgstr "당신은 같은 상을 받습니다!"
+
+msgid "contestAnnouncePhrase4"
+msgstr "사람들을 더 초대하기"
+
+msgid "contestAnnouncePhrase5"
+msgstr "이기기위해 당신의 찬스를 늘리세요."
+
+msgid "contestAnnouncePhrase6"
+msgstr "Lovetime 선물 뽑기!"
+
+msgid "contestAnnouncePhrase7"
+msgstr "꿈은 이루어 집니다 …"
+
+msgid "contestAnnouncePhrase8"
+msgstr "지금 가입하기 그리고 승리"
+
+msgid "contest"
+msgstr "상품 추첨"
+
+msgid "step1"
+msgstr "스텝 1"
+
+msgid "step2"
+msgstr "스텝 2"
+
+msgid "step3"
+msgstr "스텝 3"
+
+msgid "contestInviteByOtherServices"
+msgstr ""
+"이기기위해 찬스를 늘리세요! 한번 더 메일함(Hotmail, Yahoo, Gmail) 에 접속하거"
+"나 <a href=\"%s\" target=\"_blank\"> 당신의 페이스북 친구를 초대하거나</a> 또"
+"는 링크를 복사하세요%s"
+
+msgid "cntTitle"
+msgstr ""
+
+msgid "cntRegister"
+msgstr ""
+
+msgid "cntInviteFriends"
+msgstr ""
+
+msgid "cntSamePrize"
+msgstr ""
+
+msgid "cntHigherChances"
+msgstr ""
+
+msgid "cntAddFriends"
+msgstr ""
+
+msgid "cntBannerUsersOnly"
+msgstr ""
+
+msgid "cntBannerParticipatePrizeDraw"
+msgstr ""
+
+msgid "cntBannerFbDescription"
+msgstr ""
+
+msgid "cntPhotoDrag"
+msgstr ""
+
+msgid "cntPhotoUpload"
+msgstr ""
+
+msgid "cntPhotoImport"
+msgstr ""
+
+msgid "cntNext"
+msgstr ""
+
+msgid "cntNotSelected"
+msgstr ""
+
+msgid "cntInvited"
+msgstr ""
+
+msgid "cntWinsSamePrize"
+msgstr ""
+
+msgid "cntIncreaseChances"
+msgstr ""
+
+msgid "cntDropHere"
+msgstr ""
+
+msgid "cntUnselectAll"
+msgstr ""
+
+msgid "cntSelectAll"
+msgstr ""
+
+msgid "cntHours"
+msgstr ""
+
+msgid "cntMinutes"
+msgstr ""
+
+msgid "cntSeconds"
+msgstr ""
+
+msgid "emailContestSubject"
+msgstr ""
+
+msgid "emailContestTitle"
+msgstr ""
+
+msgid "emailContestJoinUs"
+msgstr ""
+
+msgid "emailContestPrizesDescriptions"
+msgstr ""
+
+msgid "emailContestRegister"
+msgstr ""
+
+msgid "emailContestTerms"
+msgstr ""
+
+msgid "emailContestClickHere"
+msgstr ""
+
+msgid "emailContestPrizes"
+msgstr ""
+
+msgid "emailContestUnsubscribe"
+msgstr ""
+
+msgid "actionNote"
+msgstr "노트 작성"
+
+msgid "noteEdit"
+msgstr "수정"
+
+msgid "noteRemove"
+msgstr "삭제"
+
+msgid "noteSave"
+msgstr "저장"
+
+msgid "noteConfirmDelete"
+msgstr "당신은 이 노트를 삭제하겠습니까?"
+
+msgid "lettersCheckSpamFolder"
+msgstr ""
+"당신의 스팸 폴더를 확인하고 우리의 메세지가 걸러지지않았는지 확인해주세요. 만"
+"약 그렇다면 스팸이 아닌 것으로 선택해주세요."
+
+msgid "lettersMarkEmailNotSpam"
+msgstr "그리고 이 이메일을 <u>스팸이 아님</u>이라고 표시해주세요"
+
+msgid "pagesContacts"
+msgstr ""
+"<b>주소 :</b> <br /> 25/4 Soi Ratchadaphisak 36, Ratchadaphisak Rd., "
+"ChanKasem, Chatuchak BKK 10900 Thailand <br /><br /> <br /> Phnom Penh "
+"Tower, 12F, #445, 232/93 (Monivong Blvd), Phnom Penh, Cambodia, 12258 <br /"
+"><br /> <br /> Russia,  Moscow,  Svobody str. 50,  Build. 3, 125364 <br /"
+"><br /> <b>Email:</b><br /><a href=\"mailto:info@lovetime.com"
+"\">info@lovetime.com</a>"
+
+msgid "seocatalogTitleInCity"
+msgstr " %city_title%에서 소녀, 남자, 여자를 만나는 데이트 사이트"
+
+msgid "seocatalogH1InCity"
+msgstr " %city_title%에서 데이트"
+
+msgid "seocatalogSeeking"
+msgstr "찾는 중"
+
+msgid "seocatalogAge"
+msgstr "나이"
+
+msgid "seocatalogAppearance"
+msgstr "외모"
+
+msgid "seocatalogOther"
+msgstr "다른"
+
+msgid "seocatalogNext"
+msgstr "더"
+
+msgid "seocatalogWoman"
+msgstr "여자"
+
+msgid "seocatalogMen"
+msgstr "남자"
+
+msgid "seocatalogLesbian"
+msgstr "레즈비언"
+
+msgid "seocatalogGay"
+msgstr "게이"
+
+msgid "seocatalogBisexual"
+msgstr "양성애자"
+
+msgid "seocatalogFriendship"
+msgstr "우정 그리고의사소통"
+
+msgid "seocatalogRomanticRelations"
+msgstr "로맨틱한 관계"
+
+msgid "seocatalogFlirt"
+msgstr "꼬시기"
+
+msgid "seocatalogSex"
+msgstr "성별"
+
+msgid "seocatalogBlondes"
+msgstr "금발머리"
+
+msgid "seocatalogBrunettes"
+msgstr "흑갈색머리"
+
+msgid "seocatalogBrownHair"
+msgstr "갈색머리"
+
+msgid "seocatalogAthletic"
+msgstr "탄탄한"
+
+msgid "seocatalogSlim"
+msgstr "탄탄한"
+
+msgid "seocatalogHeavy"
+msgstr "무거운"
+
+msgid "seocatalogForeigner"
+msgstr "외국인"
+
+msgid "seocatalogRich"
+msgstr "부유한"
+
+msgid "seocatalogSingle"
+msgstr "싱글"
+
+msgid "seocatalogNoBadHabits"
+msgstr "나쁜 버릇이 없는"
+
+msgid "chatFilterManGifts"
+msgstr ""
+"%s 는 당신이 메세지를 보내지 못하게 필터가 설정 되어있습니다.<b>그에게 선물"
+"을 보내세요</b>그리고 그것은 제약을 없애줄 것입니다. 또는 다른 누군가와 채팅"
+"을 시도해보세요."
+
+msgid "chatFilterWomanGifts"
+msgstr ""
+"%s 는 당신이 메세지를 보내지 못하게 필터가 설정 되어있습니다.<b>그녀에게 선물"
+"을 보내세요</b>그리고 그것은 제약을 없애줄 것입니다. 또는 다른 누군가와 채팅"
+"을 시도해보세요."
+
+msgid "modelLoginFormEmailOrNick"
+msgstr "이메일"
+
+msgid "modelLoginFormPassword"
+msgstr "비밀번호"
+
+msgid "modelLoginFormAlien"
+msgstr "나의 컴퓨터가 아닙니다"
+
+msgid "loginErrorInvalidEmailOrPassword"
+msgstr "이메일 또는 비밀번호가 틀렸습니다"
+
+msgid "systemForgotPassword"
+msgstr "비밀번호 분실"
+
+msgid "loginErrorUserNotVisible"
+msgstr "사용자의 허용이 거부되었습니다 %s."
+
+msgid "wrongEmail"
+msgstr "쓸 수 없는 이메일"
+
+msgid "errorEmailExists"
+msgstr "다른 이메일을 입력하세요"
+
+msgid "citationsDefault1"
+msgstr "안녕, 잘지냈어?"
+
+msgid "citationsDefault2"
+msgstr "안녕, 뭐해?"
+
+msgid "modelUsersValidateReservedNicks"
+msgstr "다른 닉네임 선택하세요 "
+
+msgid "registrationFormWrongDate"
+msgstr "틀린 날짜"
+
+msgid "months1"
+msgstr "1월"
+
+msgid "months2"
+msgstr "2월"
+
+msgid "months3"
+msgstr "3월"
+
+msgid "months4"
+msgstr "4월"
+
+msgid "months5"
+msgstr "5월"
+
+msgid "months6"
+msgstr "6월"
+
+msgid "months7"
+msgstr "7월"
+
+msgid "months8"
+msgstr "8월"
+
+msgid "months9"
+msgstr "9월"
+
+msgid "months10"
+msgstr "10월"
+
+msgid "months11"
+msgstr "11월"
+
+msgid "months12"
+msgstr "12월"
+
+msgid "modelSmileCode"
+msgstr "코드"
+
+msgid "modelSmileImage"
+msgstr "이미지"
+
+msgid "modelSmileVisible"
+msgstr "눈에 보이는"
+
+msgid "Noactive"
+msgstr "아니오"
+
+msgid "modelSpamersName"
+msgstr ""
+
+msgid "modelUsersName"
+msgstr "닉네임"
+
+msgid "modelUsersEmail"
+msgstr "이메일"
+
+msgid "modelComplaintsStatus"
+msgstr "상태"
+
+msgid "modelSpamersTime"
+msgstr ""
+
+msgid "modelSpamersMessages"
+msgstr ""
+
+msgid "modelComplaintsSenderId"
+msgstr "보낸사람"
+
+msgid "modelComplaintsCompanionId"
+msgstr "피의자"
+
+msgid "modelComplaintsReasonText"
+msgstr "이유"
+
+msgid "modelComplaintsComment"
+msgstr "코멘트"
+
+msgid "modelComplaintsCompanion"
+msgstr "피고인"
+
+msgid "modelComplaintsSender"
+msgstr "검사"
+
+msgid "complainReason1"
+msgstr "스팸,광고 "
+
+msgid "complainReason2"
+msgstr "사기"
+
+msgid "complainReason3"
+msgstr "음란한 말"
+
+msgid "complainReason4"
+msgstr "무례한,위협적인"
+
+msgid "complainReason5"
+msgstr "알 수 없는 사진"
+
+msgid "complainReason6"
+msgstr "섹스 서비스 "
+
+msgid "photosRefuseReasonPicture"
+msgstr "그림, 사물 또는 동물"
+
+msgid "photosRefuseReasonErotica"
+msgstr "에로틱한,모욕적인"
+
+msgid "photosRefuseReasonFamous"
+msgstr "유명 인사"
+
+msgid "photosRefuseReasonSpam"
+msgstr "스팸, 광고"
+
+msgid "photosRefuseReasonPoorQuality"
+msgstr "낮은 퀄리티"
+
+msgid "photosRefuseReasonOnlyYouMustBeSeen"
+msgstr "오직 당신만 볼 수 있습니다"
+
+msgid "photosRefuseReasonNotVisibleFace"
+msgstr "보이지 않는 얼굴"
+
+msgid "photosRefuseReasonChildOnThePhoto"
+msgstr "아이 사진"
+
+msgid "photosRefuseReasonExcessiveDecoration"
+msgstr "지나친 꾸미기"
+
+msgid "photosStatusAccept"
+msgstr "받아들입니다 "
+
+msgid "photosStatusRefuse"
+msgstr "거절합니다 "
+
+msgid "userName"
+msgstr "이름"
+
+msgid "feedbackText"
+msgstr "글"
+
+msgid "userWrongOldPasswError"
+msgstr "틀린 비밀번호입니다"
+
+msgid "userPasswTooShort"
+msgstr "새로운 비밀번호가 너무 짧습니다(최소 {min} 자) "
+
+msgid "dateFormat"
+msgstr "이 형식은 dd(일).mm(월).yyyy(년)로 해야합니다"
+
+msgid "modelUsersValidateRequireMessage"
+msgstr "정보는 %s가 필요합니다"
+
+msgid "modelUsersLookingFor"
+msgstr "이성 찾기"
+
+msgid "modelUsersPassword"
+msgstr "비밀번호"
+
+msgid "modelUsersOldPassword"
+msgstr "현재의 비밀번호"
+
+msgid "modelUsersNewPassword"
+msgstr "새로운 비밀번호"
+
+msgid "modelUsersVisible"
+msgstr "볼수있는"
+
+msgid "modelUsersRole"
+msgstr "그룹"
+
+msgid "modelUsersPhone"
+msgstr "휴대폰 번호"
+
+msgid "modelUsersVkId"
+msgstr "Id Vkontakte"
+
+msgid "modelUsersFacebookId"
+msgstr "Facebook Id"
+
+msgid "modelUsersTwitterId"
+msgstr "Twitter Id "
+
+msgid "modelUsersAvatar"
+msgstr "아바타"
+
+msgid "modelUsersDefaultAvatar"
+msgstr "기본 아바타"
+
+msgid "modelUsersCity"
+msgstr "도시"
+
+msgid "modelUsersCountry"
+msgstr "나라"
+
+msgid "modelUsersResidence"
+msgstr "위치"
+
+msgid "modelUsersLat"
+msgstr "위도"
+
+msgid "modelUsersLng"
+msgstr "경도"
+
+msgid "modelUsersAbout"
+msgstr "자기 소개"
+
+msgid "profileStatus"
+msgstr "지위"
+
+msgid "modelUsersIntroduceMyself"
+msgstr "나의 신분"
+
+msgid "modelUsersWantToMeet"
+msgstr "찾고 싶은 것"
+
+msgid "modelUsersPreferredAge"
+msgstr "선호하는 나이"
+
+msgid "dateofbirth"
+msgstr "생일"
+
+msgid "modelUsersHeight"
+msgstr "키"
+
+msgid "modelUsersWeight"
+msgstr "몸무게"
+
+msgid "modelUsersPhysique"
+msgstr "체형"
+
+msgid "modelUsersColor"
+msgstr "머리색깔"
+
+msgid "modelUsersColorEyes"
+msgstr "눈 색깔"
+
+msgid "modelUsersSign"
+msgstr "별자리"
+
+msgid "modelUsersType"
+msgstr "데이트의 목적"
+
+msgid "modelUsersAcquainted"
+msgstr "나는 관계가 있다 ...."
+
+msgid "modelUsersBed"
+msgstr "내가 좋아하는 섹스"
+
+msgid "modelUsersExcites"
+msgstr "내가 흥미가 있는 것"
+
+msgid "modelUsersStatus"
+msgstr "관계 상태"
+
+msgid "modelUsersChildren"
+msgstr "아이"
+
+msgid "modelUsersOrientation"
+msgstr "성적 취향"
+
+msgid "modelUsersSmoking"
+msgstr "흡연"
+
+msgid "modelUsersAlcohol"
+msgstr "음주"
+
+msgid "modelUsersEducation"
+msgstr "교육"
+
+msgid "modelUsersJob"
+msgstr "직업"
+
+msgid "modelUsersIncome"
+msgstr "수입"
+
+msgid "modelUsersLove_work"
+msgstr "좋아하는 일"
+
+msgid "modelUsersLove_institute"
+msgstr "좋아하는 대학교"
+
+msgid "modelUsersLove_go"
+msgstr "좋아하는 장소"
+
+msgid "modelUsersLove_music"
+msgstr "좋아하는 음악"
+
+msgid "modelUsersBan"
+msgstr "금지하다"
+
+msgid "modelUsersSendEmails"
+msgstr "이메일 알림 허용"
+
+msgid "modelUsersSounds"
+msgstr "음성메세지 허용"
+
+msgid "modelUsersShowPixeledImages"
+msgstr "모르는사람에게 희미한 사진을 보여줍니다"
+
+msgid "modelUsersHideImages"
+msgstr "사진 비공개"
+
+msgid "modelUsersTimeZone"
+msgstr "표준시간대"
+
+msgid "moduleUsersAutoSelectTimeZone"
+msgstr "자동 선택"
+
+msgid "modelUsersRegistered"
+msgstr "등록되었습니다"
+
+msgid "modelUsersInvitedBy"
+msgstr "초대"
+
+msgid "modelUsersLoginWithToken"
+msgstr "이메일 링크를 통해 자동 로그인 "
+
+msgid "physiqueSlim"
+msgstr "마른"
+
+msgid "physiqueAverage"
+msgstr "보통"
+
+msgid "physiqueAthletic"
+msgstr "건강한"
+
+msgid "physiqueMuscular"
+msgstr "근육질"
+
+msgid "physiqueHeavy"
+msgstr "통통한"
+
+msgid "physiqueFull"
+msgstr "뚱뚱한"
+
+msgid "colorEyesBrown"
+msgstr "갈색"
+
+msgid "colorEyesGreen"
+msgstr "초록색"
+
+msgid "colorEyesBlue"
+msgstr "파란색"
+
+msgid "colorEyesGray"
+msgstr "회색"
+
+msgid "colorEyesBlack"
+msgstr "검은색"
+
+msgid "colorEyesHazel"
+msgstr "헤이즐색"
+
+msgid "smokingDoNotSmoke"
+msgstr "담배안핌 "
+
+msgid "smokingRarely"
+msgstr "가끔"
+
+msgid "smokingGiving"
+msgstr "담배를 끊으려고 노력하는 중"
+
+msgid "smokingOften"
+msgstr "자주"
+
+msgid "alcoholDoNotDrink"
+msgstr "전혀 안 함"
+
+msgid "alcoholILikeToDrink"
+msgstr "자주"
+
+msgid "alcoholOnHolidays"
+msgstr "사회적활동에서 마심"
+
+msgid "educationSecondary"
+msgstr "고등학교"
+
+msgid "educationTechnical"
+msgstr "전문대"
+
+msgid "educationHigher"
+msgstr "대학/대학교"
+
+msgid "incomeLow"
+msgstr "낮다"
+
+msgid "incomeMedium"
+msgstr "중간"
+
+msgid "incomeHigh"
+msgstr "높다"
+
+msgid "systemAdministrator"
+msgstr "관리자"
+
+msgid "childrenNo"
+msgstr "없다"
+
+msgid "childrenYes"
+msgstr "있다"
+
+msgid "signAries"
+msgstr "양자리"
+
+msgid "signTaurus"
+msgstr "황소자리"
+
+msgid "signTwins"
+msgstr "쌍둥이자리"
+
+msgid "signCancer"
+msgstr "게자리"
+
+msgid "signLion"
+msgstr "사자자리"
+
+msgid "signVirgo"
+msgstr "처녀자리"
+
+msgid "signLibra"
+msgstr "천칭자리"
+
+msgid "signScorpio"
+msgstr "전갈자리"
+
+msgid "signSagittarius"
+msgstr "궁수자리"
+
+msgid "signCapricorn"
+msgstr "염소자리"
+
+msgid "signAquarius"
+msgstr "물병자리"
+
+msgid "signPisces"
+msgstr "물고기자리"
+
+msgid "changeFieldInSearch"
+msgstr "찾는중"
+
+msgid "changeFieldHasAFriend"
+msgstr "사귀는 사람이 있습니다"
+
+msgid "changeFieldMarried"
+msgstr "결혼했습니다"
+
+msgid "changeFieldNotInSearch"
+msgstr "약혼했습니다"
+
+msgid "changeFieldBreaked"
+msgstr "이혼했습니다"
+
+msgid "haircolorLight"
+msgstr "금발머리"
+
+msgid "haircolorDark"
+msgstr "어두운머리"
+
+msgid "haircolorRed"
+msgstr "빨간머리"
+
+msgid "haircolorTanned"
+msgstr "염색한머리 "
+
+msgid "haircolorBright"
+msgstr "밝은머리 "
+
+msgid "haircolorWhite"
+msgstr "흰머리 "
+
+msgid "haircolorSkin"
+msgstr "삭발"
+
+msgid "haircolorBald"
+msgstr "대머리"
+
+msgid "changeFieldHetero"
+msgstr "이성애자"
+
+msgid "changeFieldGay"
+msgstr "게이/레즈비언"
+
+msgid "changeFieldBi"
+msgstr "양성애자"
+
+msgid "ofWoman"
+msgstr "여자"
+
+msgid "ofMan"
+msgstr "남자"
+
+msgid "introduceMyselfOnlyMyself"
+msgstr "싱글"
+
+msgid "introduceMyselfAsPair"
+msgstr "커플"
+
+msgid "changeFieldFriendship"
+msgstr "교우 관계 및 대화"
+
+msgid "changeFieldFlirt"
+msgstr "가벼운 만남"
+
+msgid "changeFieldRomantic"
+msgstr "로맨틱한 관계"
+
+msgid "changeFieldSex"
+msgstr "섹스"
+
+msgid "changeFieldAtWork"
+msgstr "회사에서"
+
+msgid "changeFieldNeighbor"
+msgstr "가까운 이웃"
+
+msgid "changeFieldSchool"
+msgstr "학교에서/대학교에서"
+
+msgid "changeFieldStreet"
+msgstr "길에서"
+
+msgid "changeFieldOral"
+msgstr "오럴섹스"
+
+msgid "changeFieldAnal"
+msgstr "애널섹스"
+
+msgid "changeFieldGroup"
+msgstr "그룹섹스"
+
+msgid "changeFieldPublic"
+msgstr "이상한 장소에서 섹스"
+
+msgid "changeFieldRoleplay"
+msgstr "롤플레이"
+
+msgid "changeFieldToys"
+msgstr "장난감"
+
+msgid "changeFieldBdsm"
+msgstr "사디스트성애자"
+
+msgid "changeFieldClassicSex"
+msgstr "클래식한 섹스"
+
+msgid "changeFieldSmells"
+msgstr "냄새"
+
+msgid "changeFieldHighHair"
+msgstr "털이 많은"
+
+msgid "changeFieldTattoo"
+msgstr "문신과 피어싱"
+
+msgid "changeFieldDarkskin"
+msgstr "어두운 피부"
+
+msgid "changeFieldUnderwear"
+msgstr "속옷"
+
+msgid "changeFieldUniform"
+msgstr "유니폼"
+
+msgid "changeFieldStockings"
+msgstr "스타킹"
+
+msgid "changeFieldFootwear"
+msgstr "신발"
+
+msgid "changeFieldDominate"
+msgstr "지배와 굴복"
+
+msgid "changeFieldBondage"
+msgstr "결박과 움직이지 못하게하는것"
+
+msgid "changeFieldPain"
+msgstr "고통"
+
+msgid "monthsJan"
+msgstr "1월"
+
+msgid "monthsFeb"
+msgstr "2월"
+
+msgid "monthsMar"
+msgstr "3월"
+
+msgid "monthsApr"
+msgstr "4월"
+
+msgid "monthsMay"
+msgstr "5월"
+
+msgid "monthsJun"
+msgstr "6월"
+
+msgid "monthsJul"
+msgstr "7월"
+
+msgid "monthsAug"
+msgstr "8월"
+
+msgid "monthsSep"
+msgstr "9월"
+
+msgid "monthsOct"
+msgstr "10월"
+
+msgid "monthsNov"
+msgstr "11월"
+
+msgid "monthsDec"
+msgstr "12월"
+
+msgid "removingProfileCauseIPlaGoBack"
+msgstr "나는 잠시동안 사이트를 떠납니다 하지만 다시 돌아올 것입니다."
+
+msgid "profileLastVisit"
+msgstr "마지막 방문"
+
+msgid "dateToday"
+msgstr "오늘"
+
+msgid "dateYesterday"
+msgstr "어제"
+
+msgid "date2DaysAgo"
+msgstr "2일 전에"
+
+msgid "profileLastVisitAt"
+msgstr "에서"
+
+msgid "chatBigMessage"
+msgstr "메세지가 너무 깁니다. 2000자 이하로 작성해주세요"
+
+msgid "errorFolderCreate"
+msgstr "당신은 같은 이름의 폴더를 이미 가지고 있습니다"
+
+msgid "foldersDeleteError"
+msgstr "죄송합니다. 선택한 폴더 삭제가 실패했습니다 :("
+
+msgid "noteErrorTooLong"
+msgstr "노트는 1000자를 넘을 수 없습니다"
+
+msgid "noteErrorTags"
+msgstr "노트는 HTML tags를 포함할 수 없습니다."
+
+msgid "guestsWasMan"
+msgid_plural "guestsWasWoman"
+msgstr[0] "마지막 본 사람"
+
+msgid "guestsYear"
+msgid_plural "guestsYears"
+msgstr[0] "%d 년"
+
+msgid "guestsMonth"
+msgid_plural "guestsMonths"
+msgstr[0] "%d 월"
+
+msgid "guestsDay"
+msgid_plural "guestsDays"
+msgstr[0] "%d 일"
+
+msgid "guestsHour"
+msgid_plural "guestsHours"
+msgstr[0] "%s 시간"
+
+msgid "guestsMinute"
+msgid_plural "guestsMinutes"
+msgstr[0] "%s 분"
+
+msgid "guestsBack"
+msgstr "전에"
+
+msgid "topfacesMessageTooShort"
+msgstr "메세지는 140자를 넘을 수 없습니다"
+
+msgid "topfaceStatusInvalidValue"
+msgstr "상태 정보는 알 수 없는 정보로 채워져있습니다"
+
+msgid "formErrorNewPasswRepeat"
+msgstr "비밀번호는 틀렸습니다"
+
+msgid "modelLoginFormEmail"
+msgstr "이메일"
+
+msgid "modelForgotpassPassword"
+msgstr "비밀번호"
+
+msgid "modelForgotpassPasswordRepeat"
+msgstr "다시 비밀번호를 입력하세요"
+
+msgid "modelFogotpassEmailExists"
+msgstr "그 이메일주소로 등록 된 사용자는 없습니다"
+
+msgid "modelFogotpassInvalidLink"
+msgstr "잘못된 링크"
+
+msgid "modelFogotpassPassDoNotMatch"
+msgstr "비밀번호는 맞지않습니다"
+
+msgid "visitors"
+msgstr ""
+
+msgid "facebookLikeShowUsYouLikeUs"
+msgstr "당신이 우리를 좋아하는것을 보여주세요"
+
+msgid "systemRegisterSmall"
+msgstr "등록"
+
+msgid "chatMoveIn"
+msgstr "이동"
+
+msgid "chatFoldersFirst"
+msgstr "일반"
+
+msgid "chatFoldersSecond"
+msgstr "즐겨찾기"
+
+msgid "chatFoldersThird"
+msgstr "무시"
+
+msgid "langRussian"
+msgstr "러시아어"
+
+msgid "yourPhotoHere"
+msgstr "당신의 사진은 여기있습니다"
+
+msgid "topfacesAdd"
+msgstr "위&nbsp;로"
+
+msgid "topfacesItsYou"
+msgstr "바로 너!"
+
+msgid "userBalloonChat"
+msgstr "메세지 작성"
+
+msgid "userBalloonProfile"
+msgstr "프로필보기"
+
+msgid "topfacesDialogTitle"
+msgstr "당신사진을 추가하세요&nbsp; 위에"
+
+msgid "topfacesDialogChoosePhoto"
+msgstr ""
+"당신사진을 선택 또는 <a href=\"/users/view/%s\">새로운 사진을 &nbsp;업로드하"
+"세요 </a>"
+
+msgid "topfacesDialogTypeMessage"
+msgstr "짧은메세지 작성"
+
+msgid "actionSend"
+msgstr "제출하기"
+
+msgid "topfacesDialogNoPhotos"
+msgstr ""
+"추가하세요 &nbsp;위에 당신이 필요한<a href=\"/users/view/%s\">프로필사진을</"
+"a>&nbsp;a먼저 업로드하세요"
+
+msgid "TopFacesLimitExceeded"
+msgstr ""
+"사진을 더 추가하는 것은 허용되지않습니다&nbsp;1장이상 &nbsp;시간에. 제발 기다"
+"려주시기바랍니다."
+
+msgid "emailConfirmPleaseTitle"
+msgstr ""
+"당신의 이메일로 확인 링크를 보냈습니다. 당신의 이메일 주소를 확인 후 사이트"
+"의 특징을 허용 할 수 있습니다.<a href='%link%'>링크를 아직 받지 못했습니까</"
+"a>?"
+
+msgid "emailConfirmCheckSpam"
+msgstr ""
+"당신의 메일함에서 스팸/불확실한 메일을 체크하세요, 우리의 편지는 실수로 보냈"
+"습니다. 만일 그렇다면, <b>스팸이 아닙니다</b>처럼 표시해주세요."
+
+msgid "emailConfirmPleaseNotice"
+msgstr "&nbsp;"
+
+msgid "socialLikeStr"
+msgstr "좋아요"
+
+msgid "complainHead"
+msgstr "컴플레인에 대해"
+
+msgid "complainIgnore"
+msgstr "무시 "
+
+msgid "complainIgnoreDescription"
+msgstr ""
+"당신은 이사람으로부터 메세지를 받지않습니다. 나중에 만약 원한다면 , 설정을 돌"
+"이킬 수 있습니다"
+
+msgid "complainError1"
+msgstr "컴플레인이유를 구체적으로 명시하세요"
+
+msgid "complainSubmit"
+msgstr "보냈습니다"
+
+msgid "complainOr"
+msgstr "또는"
+
+msgid "complainClose"
+msgstr "취소"
+
+msgid "menuFeedback"
+msgstr "피드백"
+
+msgid "menuRules"
+msgstr "이용약관"
+
+msgid "menuContacts"
+msgstr "연락"
+
+msgid "menuHelpUs"
+msgstr "우리를 도와주세요"
+
+msgid "flirtNear"
+msgstr "가까운위치 찾기"
+
+msgid "menuAbout"
+msgstr "우리에대해"
+
+msgid "menuSearch"
+msgstr "검색"
+
+msgid "flirtCarousel"
+msgstr "데이트"
+
+msgid "menuChat"
+msgstr "채팅"
+
+msgid "mainTitle"
+msgstr "친구,동료 그리고 이웃 초대"
+
+msgid "mainTitle2"
+msgstr "그리고 익명으로 꼬시기"
+
+msgid "menTitles1"
+msgstr "당신의 이웃을 좋아합니까?"
+
+msgid "menTitles2"
+msgstr "당신의 동료를 좋아합니까?"
+
+msgid "menTitles3"
+msgstr "이미알고있는 친구를 꼬시고 싶습니까?"
+
+msgid "menTitles4"
+msgstr "지루하십니까?"
+
+msgid "womanTitles1"
+msgstr "당신의 이웃을 좋아합니까?"
+
+msgid "womanTitles2"
+msgstr "당신의 동료를 좋아합니까? "
+
+msgid "womanTitles3"
+msgstr "이미알고있는 친구를 꼬시고 싶습니까?"
+
+msgid "womanTitles4"
+msgstr "지루하십니까?"
+
+msgid "menTexts1"
+msgstr ""
+"<a href=\"/\">초대하기</a>그녀를 엽서로. 그녀의 차 창문 또는 우편함에 넣으세"
+"요"
+
+msgid "menTexts2"
+msgstr "그녀의 이메일을 찾아내고 <a href=\"/\"> 초대하기</a> LOVETIME으로."
+
+msgid "menTexts3"
+msgstr ""
+"그녀의 이메일이나 핸드폰번호를 알아내고<a href=\"/\">초대하기</a> LOVETIME으"
+"로."
+
+msgid "menTexts4"
+msgstr ""
+"클릭 \"<a href=\"/#flirt\" class=\"top-flirt\">꼬시기</a>\" 그리고 서로알아보"
+"기"
+
+msgid "womanTexts1"
+msgstr ""
+" <a href=\"/\">초대하기</a>그를 엽서로. 그의 차 창문 또는 우편함에 넣으세요 "
+
+msgid "womanTexts2"
+msgstr "그의 이메일을 찾아내고 <a href=\"/\"> 초대하기</a> LOVETIME으로."
+
+msgid "womanTexts3"
+msgstr ""
+" 그의 이메일이나 핸드폰번호를 알아내고<a href=\"/\">초대하기</a> LOVETIME으"
+"로. "
+
+msgid "womanTexts4"
+msgstr ""
+" 클릭 \"<a href=\"/#flirt\" class=\"top-flirt\">꼬시기</a>\" 그리고 서로알아"
+"보기 "
+
+msgid "foldersTitle"
+msgstr "폴더이름을 입력하세요"
+
+msgid "foldersCancel"
+msgstr "취소"
+
+msgid "foldersCreate"
+msgstr "작성하다"
+
+msgid "foldersRename"
+msgstr "이름바꾸기"
+
+msgid "userBalloonCarousel"
+msgstr "데이트"
+
+msgid "userBalloonExchange"
+msgstr "정보 교환"
+
+msgid "chatBalloonMove"
+msgstr "옮기다"
+
+msgid "chatBalloonSelect1"
+msgstr "선택되었습니다"
+
+msgid "chatBalloonSelect2"
+msgstr "선택되었습니다"
+
+msgid "chatBalloonSelect3"
+msgstr "선택되었습니다"
+
+msgid "errorFolderEmpty"
+msgstr "폴더이름을 쓰세요"
+
+msgid "dateDaysBefore"
+msgstr "일 전에"
+
+msgid "dateMomentAgo"
+msgstr "지금"
+
+msgid "dateSecondAgo_plural_1"
+msgstr "금방"
+
+msgid "dateSecondAgo_plural_2"
+msgstr "초 전에"
+
+msgid "dateSecondAgo_plural_3"
+msgstr "초 전에"
+
+msgid "dateMinuteAgo_plural_1"
+msgstr "분 전에"
+
+msgid "dateMinuteAgo_plural_2"
+msgstr "분 전에"
+
+msgid "dateMinuteAgo_plural_3"
+msgstr "분 전에"
+
+msgid "dateCoupleMinutesAgo"
+msgstr "몇 분 전에"
+
+msgid "dateHourAgo_plural_1"
+msgstr "한시간 전에"
+
+msgid "dateHourAgo_plural_2"
+msgstr "시간 전에"
+
+msgid "dateHourAgo_plural_3"
+msgstr "시간 전에"
+
+msgid "messages_plural_1"
+msgstr "메세지"
+
+msgid "messages_plural_2"
+msgstr "메세지"
+
+msgid "messages_plural_3"
+msgstr "메세지"
+
+msgid "usersAddToFavorite"
+msgstr "즐겨찾기에 추가"
+
+msgid "actionBlock"
+msgstr "무시"
+
+msgid "chatComplain"
+msgstr "컴플레인"
+
+msgid "usersRemoveFromFavorite"
+msgstr "즐겨찾기에서 삭제"
+
+msgid "actionOr"
+msgstr "또는"
+
+msgid "actionDelete"
+msgstr "삭제"
+
+msgid "galleryClose"
+msgstr "닫다"
+
+msgid "galleryUploadError"
+msgstr "업로드하는 중에 에러가 발생했습니다. 나중에 다시 시도하세요"
+
+msgid "galleryUploadFilesName"
+msgstr "이미지 파일"
+
+msgid "galleryUploadPossibleFiles"
+msgstr "당신은 오직 이미지파일만 업로드 할 수있습니다. 허용된 서식: "
+
+msgid "modelUsersHasPhoto"
+msgstr "사진"
+
+msgid "modelUsersHasPhotoCondition"
+msgstr "사진&nbsp;있습니다"
+
+msgid "modelUsersHasNoPhotoCondition"
+msgstr "사진이 없습니다 "
+
+msgid "searchHair"
+msgstr "머리 색깔"
+
+msgid "requireRegistration4MaleTitle"
+msgstr "%s 당신보다 더 많은 개인적인 정보를 공유했습니다."
+
+msgid "requireRegistration4FemaleTitle"
+msgstr "%s 당신보다 더 많은 개인적인 정보를 공유했습니다."
+
+msgid "requireRegistrationNote"
+msgstr "당신의 등록에 필요한 다른 프로필 보기."
+
+msgid "requireRegistrationCancel"
+msgstr "취소"
+
+msgid "requireRegistrationRegister"
+msgstr "등록"
+
+msgid "increaseInfoConfirmNote"
+msgstr ""
+"다른 회원님의 프로필을 보려면, 회원님의 프로필이 50% 이상 완료되어있어야 합니"
+"다."
+
+msgid "increaseInfoConfirmFillNow"
+msgstr "지금 작성하기"
+
+msgid "increaseInfoConfirmCancel"
+msgstr "취소"
+
+msgid "Credit Card"
+msgstr "신용카드 "
+
+msgid "registerHello"
+msgstr "안녕"
+
+msgid "registerForEnd"
+msgstr "등록 성공, 당신은 우리사이트에 프로필이 있는지 확인했어요?"
+
+msgid "registerYes"
+msgstr "네"
+
+msgid "registerNo"
+msgstr "아니오"
+
+msgid "registerForEndYes"
+msgstr "비밀번호를 쓰세요"
+
+msgid "registerBack"
+msgstr "뒤로"
+
+msgid "registerForEndNo"
+msgstr "정보를 확인하세요"
+
+msgid "registerUnderNick"
+msgstr ""
+"당신의 알려진 닉네임과 진짜이름을 쓰지않아도 됩니다<br/> 다른 누군가 당신을 "
+"알것입니다. "
+
+msgid "registerEmailTip"
+msgstr "비공개"
+
+msgid "birthDay"
+msgstr "생일 날짜"
+
+msgid "birthMonth"
+msgstr "생일 월"
+
+msgid "birthYear"
+msgstr "생일 년도"
+
+msgid "systemLoginAllRight"
+msgstr "모두 맞습니다"
+
+msgid "registerRequire"
+msgstr "모든 필요로하는 정보를 채워주세요"
+
+msgid "socialAuthFailed"
+msgstr "사용 실패"
+
+msgid "registerAuthOk"
+msgstr ""
+"연동은 성공했습니다. 지금 당신은 메인페이지에 있습니다. 또는 클릭하세요"
+
+msgid "registerAuthHere"
+msgstr "여기"
+
+msgid "registerAuthNone"
+msgstr "사용자를 찾을 수 없습니다"
+
+msgid "registerAlreadyYes"
+msgstr "이미 등록된 이메일 입니다"
+
+msgid "registerAuthFailed"
+msgstr "연동 실패"
+
+msgid "registerCreateFailed"
+msgstr "사용자만들기 실패. 모든 정보를 체크하세요"
+
+msgid "authFacebook"
+msgstr "Facebook을 통해 사용"
+
+msgid "authVkontakte"
+msgstr "Vkontakte을 통해 사용"
+
+msgid "citationNotExist"
+msgstr "인용구 찾지 않습니다"
+
+msgid "citationAccessDenied"
+msgstr "인용구는 당신의 것이 아닙니다"
+
+msgid "VIP"
+msgstr ""
+
+msgid "questRegister"
+msgstr "등록"
+
+msgid "balanceChangeInQuest"
+msgstr "잔고 변경 중(탐색)"
+
+msgid "superstarModelAttributeIsReseted"
+msgstr ""
+
+msgid "payonlinesystemError3"
+msgstr ""
+" 당신의 신용카드로 하는 지불은 거절되었습니다. 당신은 은행에 연락해서 거절된 "
+"지불의 이유를 찾고 다시 시도해보시기 바랍니다."
+
+msgid "payonlinesystemError2"
+msgstr ""
+"신용카드로 결제할 수 없습니다. 당신은 다른 지불방법을 사용하시기 바랍니다."
+
+msgid "payonlinesystemError1"
+msgstr "기술적인 에러, 나중에 다시 시도해주세요."
+
+msgid "payonlinesystemError0"
+msgstr "지불을 할 수 없습니다."
+
+msgid "seocatalogTitleDatingSite"
+msgstr "소녀 그리고 여성, 소년 그리고 남성과 만나는 사이트"
+
+msgid "seocatalogH1DatingSite"
+msgstr "데이트 사이트"
+
+msgid "seocatalogH1CountriesAndCities"
+msgstr "나라들 그리고 도시"
+
+msgid "seocatalogTitleDatingWithWomen"
+msgstr " 여성과 데이트"
+
+msgid "seocatalogH1DatingWithWomen"
+msgstr "여성과 데이트"
+
+msgid "seocatalogTitleDatingWithMen"
+msgstr " 남성과 데이트"
+
+msgid "seocatalogH1DatingWithMen"
+msgstr "남성과 데이트"
+
+msgid "seocatalogTitleDatingWithLesbian"
+msgstr " 레즈비언과 데이트"
+
+msgid "seocatalogH1DatingWithLesbian"
+msgstr "레즈비언과 데이트"
+
+msgid "seocatalogTitleDatingWithGays"
+msgstr " 게이와 데이트"
+
+msgid "seocatalogH1DatingWithGays"
+msgstr "게이와 데이트"
+
+msgid "seocatalogTitleDatingWithBisexuals"
+msgstr " 양성애자와 데이트"
+
+msgid "seocatalogH1DatingWithBisexuals"
+msgstr "양성애자와 데이트"
+
+msgid "seocatalogTitleGuysGirls_18_20"
+msgstr " 18-20세의 남자와 여자"
+
+msgid "seocatalogH1GuysGirls_18_20"
+msgstr "18-20세의 남자와 여자"
+
+msgid "seocatalogTitleGuysGirls_21_25"
+msgstr " 21-25세의 남자와 여자"
+
+msgid "seocatalogH1GuysGirls_21_25"
+msgstr "18-20세의 남자와 여자"
+
+msgid "seocatalogTitleGuysGirls_26_30"
+msgstr " 26-30세의 남자와 여자"
+
+msgid "seocatalogH1GuysGirls_26_30"
+msgstr "26-30세의 남자와 여자"
+
+msgid "seocatalogTitleGuysGirls_31_35"
+msgstr " 31-35세의 남자와 여자"
+
+msgid "seocatalogH1GuysGirls_31_35"
+msgstr "31-35세의 남자와 여자"
+
+msgid "seocatalogTitleGuysGirls_35_40"
+msgstr " 35-40세의 남자와 여자"
+
+msgid "seocatalogH1GuysGirls_35_40"
+msgstr "35-40세의 남자와 여자"
+
+msgid "seocatalogTitleMeetingForCommunication"
+msgstr " 우정 그리고 대화를 위한 만남"
+
+msgid "seocatalogH1MeetingForCommunication"
+msgstr "대화를 위한 만남"
+
+msgid "seocatalogTitleMeetingRorRomanticRelations"
+msgstr " 우정 그리고 대화를 위한 만남"
+
+msgid "seocatalogH1MeetingRorRomanticRelations"
+msgstr "로맨틱한 관계를 위한 만남"
+
+msgid "seocatalogTitleMeetingForFlirt"
+msgstr " 꼬시기위한 만남"
+
+msgid "seocatalogH1MeetingForFlirt"
+msgstr "꼬시기위한 만남"
+
+msgid "seocatalogTitleMeetingForCloseRelations"
+msgstr "가까운 관계, 친밀한관계 그리고 섹스를 위한 만남"
+
+msgid "seocatalogH1MeetingForCloseRelations"
+msgstr "가까운 관계를 위한 만남"
+
+msgid "seocatalogTitleBlondes"
+msgstr "금발과 만남"
+
+msgid "seocatalogH1Blondes"
+msgstr " 금발 "
+
+msgid "seocatalogTitleBrunettes"
+msgstr "금발과 만남"
+
+msgid "seocatalogH1Brunettes"
+msgstr "흑갈색머리"
+
+msgid "seocatalogTitleBrownHaired"
+msgstr "빨간머리와 만남"
+
+msgid "seocatalogH1BrownHaired"
+msgstr "갈색머리"
+
+msgid "seocatalogTitleDatingWithAthletic"
+msgstr "몸이 탄탄한 여성 또는 남성과 만남"
+
+msgid "seocatalogH1DatingWithAthletic"
+msgstr "몸이 탄탄한 여자 그리고 남자와 데이트"
+
+msgid "seocatalogTitleDatingWithSlim"
+msgstr "날씬한 여성 또는 남성과 만남"
+
+msgid "seocatalogH1DatingWithSlim"
+msgstr "날씬한 여자 그리고 남자와 데이트"
+
+msgid "seocatalogTitleDatingWithHeavy"
+msgstr "뚱뚱한 여성 또는 남성과 만남"
+
+msgid "seocatalogH1DatingWithHeavy"
+msgstr "뚱뚱한 여자 그리고 남자와 데이트"
+
+msgid "seocatalogTitleDatingWithForeigners"
+msgstr "뚱뚱한 여성 또는 남성과 만남"
+
+msgid "seocatalogH1DatingWithForeigners"
+msgstr "외국인과 만남"
+
+msgid "seocatalogTitleDatingWithRich"
+msgstr "부유한 사람과 만남"
+
+msgid "seocatalogH1DatingWithRich"
+msgstr "부유한 사람과 데이트"
+
+msgid "seocatalogTitleDatingWithSingles"
+msgstr "싱글과 만남"
+
+msgid "seocatalogH1DatingWithSingles"
+msgstr "싱글과 데이트"
+
+msgid "seocatalogTitleDatingWithPeopleHavingNoBadHabits"
+msgstr "나쁜 버릇이 없는사람과의 만남"
+
+msgid "seocatalogH1DatingWithPeopleHavingNoBadHabits"
+msgstr "나쁜 버릇이 없는 사람과 데이트"
+
+msgid "searchShowMore"
+msgstr "더 보기"
+
+msgid "seocatalogTitleCountriesAndCities"
+msgstr "나라들 그리고 도시"
+
+msgid "age"
+msgstr "나이"
+
+msgid "modelUsersSexWoman"
+msgstr "여자"
+
+msgid "modelUsersSexMan"
+msgstr "남자"
+
+msgid "modelUsersSexAny"
+msgstr "어떤 성별"
+
+msgid "searchUsersRegion"
+msgstr "지역"
+
+msgid "actionFind"
+msgstr "찾기"
+
+msgid "mainTitle3Noa"
+msgstr "공짜 온라인 데이트 "
+
+msgid "clockNavExactSearch"
+msgstr "정확한 검색"
+
+msgid "clockNavExactSearchSubtext"
+msgstr "20이상의 한도"
+
+msgid "clockNavMeetings"
+msgstr "오늘 데이트합시다 "
+
+msgid "clockNavMeetingsSubtext"
+msgstr "곧 데이트 초대 <b>보내고 받기</b>"
+
+msgid "clockNavInstantCommunication"
+msgstr "지금 연락하기"
+
+msgid "clockNavInstantCommunicationSubtext"
+msgstr "빠르게 <b> 채팅 할 친구 찾기</b>"
+
+msgid "clockNavWhosNear"
+msgstr "가까이 있는 사람만나기"
+
+msgid "clockNavWhosNearSubtext"
+msgstr "<b> 반경1km에 있는 </b> 많은 아름다운 사람들 찾기"
+
+msgid "clockNavHasContact"
+msgstr "다른 장소에서 사람 만나기"
+
+msgid "clockNavHasContactSubtext"
+msgstr "64개 언어의 <b> 채팅 번역이 가능합니다</b>"
+
+msgid "clockNavperfectCouple"
+msgstr "적은 클릭으로 찾기"
+
+msgid "clockNavperfectCoupleSubtext"
+msgstr "문장 미리 설정하기</b> - 30초 후 만나기"
+
+msgid "peopleHere"
+msgstr "명이 이미 가입했습니다."
+
+msgid "carouselFillAnketa0"
+msgstr "회전목마타기"
+
+msgid "carouselFillAnketa1"
+msgstr "제발 명시해주세요"
+
+msgid "carouselFillAnketa2"
+msgstr "당신의 나이,나라,도시 그리고 사진을 업로드하세요"
+
+msgid "flirtSearch"
+msgstr "검색"
+
+msgid "pagesAbout"
+msgstr ""
+"삶에서 대부분 모든사람은 그들의 아는 사람을 좋아하게 됩니다. 그러나 그들 대부"
+"분은 그들의 감정을 표현하는 것을 두려워 합니다/<br/><br/>이 서비스는 그 문제"
+"들을 해결해줍니다. 지금부터 당신은 거절되는 두려움없이 꼬실 수 있는 기회를 갖"
+"게 되었습니다.<br/><br/>당신은 당신의 학교에서 옆에있지만 다가가는 법을 모릅"
+"니까? 이 서비스는 도와줄것입니다.<br/>대학교의 스타를 알고 있습니까? 그것은 "
+"쉽습니다 <br/> 당신은 이웃을 좋아합니까? 그녀가 만약 당신을 좋아한다면 그녀에"
+"게 물으세요 <br/><br/>당신이 찾고있는 사람은 무엇입니까?... 사랑 또는 섹스? "
+"그는 직장,학교,등등 좋아하는 사람이 있습니까? 당신은 한번의 클릭으로 찾을 수 "
+"있습니다."
+
+msgid "pagesRulesTitle2"
+msgstr "등록 규칙"
+
+msgid "pagesRules"
+msgstr ""
+"<h2>나의 개인 정보를 Lovetime에 올리세요 (지금부터 사이트라고 부릅니다) 나는 "
+"이것에 동의합니다 :</h2><ol><li>나는 조건과 기준을 읽고 그것을 따를 것을 확인"
+"합니다. </li><li>나는 18세 이상임을 보장합니다. </li><li>나는 컨텐츠 또는 다"
+"른 사이트의 게재된 정보와 그것들의 진실성과 믿음성에대해 개인적인 책임을 가질"
+"것 입니다.</li><li> 이 사이트에서는 성인에게만 이런 정보를 제공할 것입니다.</"
+"li><li> 이곳의 법을 따를 것을 약속합니다  </li><li>나는 메세지 또는 이메일 주"
+"소,핸드폰번호, 링크 또는 다른 자세한 내용을 공공연하게 공개하지 않을 것을 맹"
+"세합니다. </li><li>나는 공적인 모욕,명예훼손,비속한 말, 외설적인말, 부도덕적"
+"인 말; 시위 데모 또는 최근 테러 또는 폭력의 자료; 인간의 존엄성을 해치는 자"
+"료,를 사용하지 않을 것을 법에 저항하지 않을것을 맹세합니다 . </li><li>나는 다"
+"른 사용자들을 쫓고 귀찮게 하지 않을 것을 맹세합니다.</li><li>나는 이 사이트에"
+"서 나 또는 다른 사람 들에게 물건에 주의를 끌거나, 일 또는 물건을 팔거나,판"
+"매, 대가를 지불하게 만들지 않을 것을 맹세합니다. 나는 이 사이트에서 불법적인 "
+"정보를 광고하지 않을 것을 맹세합니다.</li><li> 나의 정도는 다른 사람 또는 관"
+"리자들이 볼 수 있습니다 </li><li>나는 나의 익명의 초대로 부정적인 결과를 초래"
+"할 가능성이 있으며 책임을 가져야 합니다. </li></ol><h2>이 사이트의 관리자는 "
+"책임이 없습니다:</h2><ol><li>컨텐츠,정보가 사용자에 의해 게재되는 유효성과 타"
+"당성.</li><li> 이 사이트는 모바일이나 모바일통신으로 사용하면 어떠한 손해, 위"
+"험 또는 정보의 손실을 야기할 수 있습니다. </li><li>사용자의저작권 위반 그리고"
+"법에 위반한 단체의 게재된 자료(저작권법에따른), 이사이트의 사용자에 의해 추가"
+"된 자료는 불법입니다 </li></ol> "
+
+msgid "error404"
+msgstr "애러 404"
+
+msgid "pageNotFound"
+msgstr "페이지를 찾을 수 없습니다"
+
+msgid "formMustFill"
+msgstr "써야합니다"
+
+msgid "feedbackFile"
+msgstr "스크린샷"
+
+msgid "feedbackFileTip"
+msgstr "당신은 실수한 스크린샷은 첨부할 수 있습니다"
+
+msgid "siteCopyrightTh"
+msgstr "lovetime.com"
+
+msgid "man"
+msgstr "남자"
+
+msgid "woman"
+msgstr "여자"
+
+msgid "countrySelectName"
+msgstr "나라"
+
+msgid "citySelectName"
+msgstr "도시"
+
+msgid "signupBirthDay"
+msgstr "일"
+
+msgid "signupBirthMonth"
+msgstr "월"
+
+msgid "signupBirthYear"
+msgstr "년"
+
+msgid "systemRegister"
+msgstr "가입하기"
+
+msgid "signupLicenseNote"
+msgstr ""
+"클릭하세요 «등록» 18세이상만<a target=\"_blank\" href=\"/pages/rules\">사용"
+"자 동의 </a>"
+
+msgid "searchExcite"
+msgstr "섹스 어필 요소"
+
+msgid "searchExcitesHe"
+msgstr "흥미있는 것"
+
+msgid "searchExcitesShe"
+msgstr "흥미있는 것"
+
+msgid "searchFrom"
+msgstr "에서"
+
+msgid "searchTo"
+msgstr "에게"
+
+msgid "searchSm"
+msgstr "(cm)"
+
+msgid "searchKg"
+msgstr "(kg)"
+
+msgid "searchSkipCond"
+msgstr "준비 생략"
+
+msgid "sexYears"
+msgstr "살"
+
+msgid "searchHave"
+msgstr "네"
+
+msgid "searchHaveNot"
+msgstr "아니오"
+
+msgid "searchHaveChildren"
+msgstr "네"
+
+msgid "searchHaveNotChildren"
+msgstr "아니오"
+
+msgid "searchLocationUndefined"
+msgstr "어떤 장소"
+
+msgid "nearFilterOnline"
+msgstr "온라인"
+
+msgid "nearFilterNew"
+msgstr "새로운"
+
+msgid "nearFilterAll"
+msgstr "모두"
+
+msgid "searchAddParams"
+msgstr "고급 옵션"
+
+msgid "searchAddToSearch"
+msgstr "검색 추가"
+
+msgid "searchChooseAddParam"
+msgstr "고급 옵션 선택"
+
+msgid "carouselYes"
+msgstr "네"
+
+msgid "carouselMaybeYes"
+msgstr "아마 대부분"
+
+msgid "carouselNo"
+msgstr "아니오"
+
+msgid "carouselLikeHim"
+msgstr "당신은 그와 데이트 하고 싶습니까&nbsp;? "
+
+msgid "carouselLikeHer"
+msgstr "당신은 그녀와 데이트 하고 싶습니까&nbsp;?"
+
+msgid "carouselMutualGreeting"
+msgstr "<strong>축하합니다!</strong> 서로 호감이 있습니다"
+
+msgid "carouselMutualMessageFemale"
+msgstr "나도 당신을&nbsp;&nbsp;만나고싶어요"
+
+msgid "carouselMutualMessageMale"
+msgstr "나도 당신을&nbsp;&nbsp;만나고싶어요"
+
+msgid "chatWithHer"
+msgstr "그녀와 채팅하세요"
+
+msgid "chatWithHim"
+msgstr "그와 채팅하세요"
+
+msgid "chatMutualGreeting_female"
+msgstr ""
+"%s 당신은&nbsp;데이트하길 원합니다, 당신을 만나는 것을 동의하세요!그녀는 데이"
+"트 주선을 위한 a&nbsp; 당신의 메세지를 기다리고 있습니다!"
+
+msgid "chatMutualGreeting_male"
+msgstr ""
+"%s 당신은&nbsp;데이트하길 원합니다, 당신을 만나는 것을 동의하세요!그는 데이"
+"트 주선을 위한 a&nbsp; 당신의 메세지를 기다리고 있습니다!"
+
+msgid "gallerySingleUploadBtn"
+msgstr "사진 업로드"
+
+msgid "km"
+msgstr "km"
+
+msgid "profileMeet"
+msgstr "데이트"
+
+msgid "wannaMeet"
+msgstr "만나고 싶습니까?"
+
+msgid "wannaMeetHer"
+msgstr "그녀를 만나고 싶습니까 &nbsp;?"
+
+msgid "wannaMeetHim"
+msgstr "그를 만나고 싶습니까 &nbsp;?"
+
+msgid "locatorSpecifyLocationPart1"
+msgstr "당신의 위치를 표시하세요"
+
+msgid "locatorSpecifyLocationPart2"
+msgstr "지도에서, 당신의 근처에 누가있는지 볼 수 있습니다"
+
+msgid "locatorSpecifyLocationPart3"
+msgstr "표시하기"
+
+msgid "corrBlackListConfirm"
+msgstr "당신은 메세지를 블랙리스트로 옮기겠습니까?"
+
+msgid "corrBlackListConfirmNote"
+msgstr "나중에,필요로 하면, 당신은 다시 얻을 수 있습니다"
+
+msgid "actionMove"
+msgstr "옮깁니다"
+
+msgid "actionDontMove"
+msgstr "옮기지 않습니다"
+
+msgid "corrDeleteFolderConfirm"
+msgstr "당신은 이 폴더를 삭제하겠습니까?"
+
+msgid "corrDeleteFolderConfirmNote"
+msgstr ""
+"메세지는 &nbsp;이곳에 있는&nbsp;삭제되지 &nbsp;않고&nbsp;일반 &laquo;폴더"
+"&raquo;로 이동됩니다."
+
+msgid "actionDontDelete"
+msgstr "삭제하지않습니다"
+
+msgid "guestsIgnoreOk"
+msgstr "편지쓰기 &nbsp;와 사용자는 옮깁니다&laquo;거절&raquo;"
+
+msgid "guestsIgnoreNote"
+msgstr "나중에 다시 받을 수 있습니다"
+
+msgid "actionClose"
+msgstr "닫다 "
+
+msgid "actionChat"
+msgstr "채팅"
+
+msgid "invitePreviewFromColleagueFemale"
+msgstr "당신의 동료는&nbsp;당신을 만나고 싶습니다"
+
+msgid "invitePreviewFromNeighborFemale"
+msgstr "당신의 이웃는&nbsp;당신을 만나고 싶습니다"
+
+msgid "invitePreviewFromClassmateFemale"
+msgstr "당신의 학교친구는&nbsp;당신을 만나고 싶습니다"
+
+msgid "invitePreviewFromFamiliarFemale"
+msgstr "누군가&nbsp;당신을 만나고 싶습니다"
+
+msgid "invitePreviewFromColleagueMale"
+msgstr "당신의 동료는&nbsp;당신을 만나고 싶습니다"
+
+msgid "invitePreviewFromNeighborMale"
+msgstr "당신의 이웃은&nbsp;당신을 만나고 싶습니다"
+
+msgid "invitePreviewFromClassmateMale"
+msgstr "당신의 학교친구는&nbsp;당신을 만나고 싶습니다"
+
+msgid "invitePreviewFromFamiliarMale"
+msgstr "누군가&nbsp;당신을 만나고 싶습니다"
+
+msgid "invitePreviewTextFemale"
+msgstr ""
+"그것을&nbsp;증명하는것&apos;s 농담이 &nbsp;아닙니다 그녀는 당신에게 중요한말"
+"을 합니다"
+
+msgid "invitePreviewTextMale"
+msgstr ""
+"그것을&nbsp;증명하는것&apos;s 농담이 &nbsp;아닙니다 그는 당신에게 중요한말을 "
+"합니다"
+
+msgid "invitePreviewDearFemale"
+msgstr "사랑하는"
+
+msgid "invitePreviewDearMale"
+msgstr "사랑하는"
+
+msgid "invitePreviewCodeTitle"
+msgstr "누가 당신을 좋아하는지 아는 것"
+
+msgid "invitePreviewCodeVisitLink"
+msgstr "이링크를&nbsp;클릭"
+
+msgid "invitePreviewCodeLink"
+msgstr "나는 초대되었습니다"
+
+msgid "invitePreviewCodeSite"
+msgstr "사이트&nbsp;로그인"
+
+msgid "invitePreviewCodeTopRight"
+msgstr "오른쪽 상단"
+
+msgid "invitePreviewCodeType"
+msgstr "초대코드입력"
+
+msgid "invitePreviewPostcardNote"
+msgstr ""
+"프린트 그리고&nbsp;엽서&nbsp;잘보이는 곳에&nbsp; 놓으세요. 예를들어 차의 보관"
+"함,&nbsp;메일함, &nbsp;가방속,&nbsp;테이블&nbsp;.... 다른아이디가 있습니까?"
+
+msgid "invitePreviewPhoneResendNote"
+msgstr "만약 당신이 다시 SMS를 보내고 싶다면, 다시 전화번호를 입력하세요:"
+
+msgid "inviteResend"
+msgstr "다시 보내기"
+
+msgid "inviteSendInvite"
+msgstr "초대 보내기"
+
+msgid "inviteResent"
+msgstr "다시 보냈습니다"
+
+msgid "inviteSummaryTitleColleagueFemale"
+msgstr "아는사람에게 초대&nbsp; 이름"
+
+msgid "inviteSummaryTitleNeighborFemale"
+msgstr "이웃에게 초대&nbsp; 이름"
+
+msgid "inviteSummaryTitleClassmateFemale"
+msgstr "학교친구에게 초대&nbsp; 이름 "
+
+msgid "inviteSummaryTitleFamiliarFemale"
+msgstr "아는사람에게 초대&nbsp; 이름"
+
+msgid "inviteSummaryTitleColleagueMale"
+msgstr "동료에게 초대&nbsp; 이름"
+
+msgid "inviteSummaryTitleNeighborMale"
+msgstr "이웃에게 초대&nbsp; 이름"
+
+msgid "inviteSummaryTitleClassmateMale"
+msgstr "학교친구에게 초대&nbsp; 이름"
+
+msgid "inviteSummaryTitleFamiliarMale"
+msgstr "아는사람에게 초대&nbsp; 이름"
+
+msgid "inviteSummaryStateAgree"
+msgstr "허용되었습니다"
+
+msgid "inviteSummaryStateWait"
+msgstr "보냈습니다"
+
+msgid "inviteSummaryNoKeyPhrase"
+msgstr "키워드없이"
+
+msgid "inviteFailCodeField"
+msgstr "존재하지않는 초대코드입니다 (코드를 잊었습니까?"
+
+msgid "inviteApplySuccess"
+msgstr "초대가 허용됬습니다!"
+
+msgid "increaseInfoConfirm4MaleTitle"
+msgstr "%s (은)는 회원님보다 더 많은 정보를 공유했습니다."
+
+msgid "increaseInfoConfirm4FemaleTitle"
+msgstr "%s 많은 개인적인 정보는 공유되었습니다"
+
+msgid "needAddPhotoConfirmTitle"
+msgstr "당신은 사진을 추가해야합니다"
+
+msgid "needAddPhotoConfirmNote"
+msgstr "다른사진을 보려면, 당신은 프로필 사진을 업로드해야합니다!"
+
+msgid "needAddPhotoConfirmYes"
+msgstr "사진 업로드"
+
+msgid "needAddPhotoConfirmNo"
+msgstr "취소"
+
+msgid "requiredFieldsAlertConfirmTitle"
+msgstr "채워지지않았습니다"
+
+msgid "requiredFieldsAlertConfirmText"
+msgstr ""
+"지금부터 이 정보는 필요합니다: %s<br>당신의 프로필에 들어가세요 그리고 빈정보"
+"들을 채우세요."
+
+msgid "requiredFieldsAlertConfirmYes"
+msgstr "가다"
+
+msgid "noticeImageSizeLimit"
+msgstr "이미지크기제한"
+
+msgid "noticeImageSizeLimitText"
+msgstr "이미지 크기는 2MB 이하만 가능합니다"
+
+msgid "emailConfirmTitle"
+msgstr "이메일 주소를 확인하세요"
+
+msgid "emailConfirmAlertYes"
+msgstr "확인"
+
+msgid "emailConfirmAlertNo"
+msgstr "취소"
+
+msgid "bannedInfoAlertTitle"
+msgstr "당신의 계정은 차단되었습니다"
+
+msgid "bannedInfoAlertNotice"
+msgstr "세부사항은 프로필페이지에서 찾을 수 있습니다"
+
+msgid "bannedInfoAlertYes"
+msgstr "프로필가기"
+
+msgid "bannedInfoAlertNo"
+msgstr "로그아웃"
+
+msgid "emailDomainsReplaceAlertTitle"
+msgstr "이메일 변경"
+
+msgid "emailDomainsReplaceAlertText"
+msgstr ""
+"우리는 당신의 이메일을 바꿉니다 %s,잘못 입력한 것 같습니다. 계속하겠습니까 또"
+"는 바꾸시겠습니까?"
+
+msgid "emailDomainsReplaceAlertYes"
+msgstr "계속"
+
+msgid "emailDomainsReplaceAlertNo"
+msgstr "뒤로"
+
+msgid "signinAction"
+msgstr "로그인"
+
+msgid "signupAction"
+msgstr "등록"
+
+msgid "signinEmailEmptyError"
+msgstr "이메일 입력"
+
+msgid "signinEmailMaskError"
+msgstr "사용가능한 당신의 이메일 주소를 입력하세요"
+
+msgid "signinPasswordEmptyError"
+msgstr "비밀번호 입력"
+
+msgid "signinCountryEmptyError"
+msgstr "나라"
+
+msgid "signinCityEmptyError"
+msgstr "도시"
+
+msgid "signinErrorBirthDayEmpty"
+msgstr "일"
+
+msgid "signinErrorBirthMonthEmpty"
+msgstr "월"
+
+msgid "signinErrorBirthYearEmpty"
+msgstr "년"
+
+msgid "signinErrorTooYoung"
+msgstr "오직 18세 이상&nbsp;만 가입 등록"
+
+msgid "citySelectDisabledTitle"
+msgstr "나라 선택"
+
+msgid "signinPasswordMinLengthError"
+msgstr "비밀번호는 최소 5&nbsp; 자 입니다"
+
+msgid "signinErrorNameEmpty"
+msgstr "당신의 이름을 입력하세요"
+
+msgid "signinErrorSex"
+msgstr "성별을 입력하세요"
+
+msgid "loginVia"
+msgstr "%s 통해 로그인"
+
+msgid "registerVia"
+msgstr "통해 가입 %s"
+
+msgid "timeToFindYourLove"
+msgstr "당신의 사랑을 찾을 시간입니다"
+
+msgid "socialLikeDescription"
+msgstr "동료, 반친구,이웃 그리고 아는 사람 꼬시기 이름 비공개"
+
+msgid "showAll"
+msgstr "모두 다 보여주기 "
+
+msgid "actionMinimize"
+msgstr " 최소화하기 "
+
+msgid "chatLoadingHistory"
+msgstr "전의 메세지를 업로드"
+
+msgid "chatCitationsAdd"
+msgstr "인용구&nbsp;추가"
+
+msgid "chatCitationsTitle"
+msgstr "인용구 "
+
+msgid "chatCitationsWelcome"
+msgstr ""
+"<p>빠르게 사용하기 위해 자주 사용하는 말을 추가하세요&nbsp;in&nbsp;대화</"
+"p><p>버튼을 사용하세요<span id=\"citations-welcome-button\"></span> 인용구를 "
+"추가하세요</p>"
+
+msgid "statusOnline"
+msgstr "지금 온라인"
+
+msgid "actionEdit"
+msgstr "수정"
+
+msgid "chatCitationsRestore"
+msgstr "인용구 복원"
+
+msgid "chatNewMessageFrom"
+msgstr "새로운 메세지"
+
+msgid "chatEmptyTitle"
+msgstr "메시지가 없습니다."
+
+msgid "chatEmptyText"
+msgstr ""
+"마음에 드는 친구를 추가하려면, 검색에서 <a href=\"/\">검색</a>,  \"타입\"을 "
+"클릭하세요."
+
+msgid "formUploadFile"
+msgstr "파일 업로드"
+
+msgid "formDeleteFile"
+msgstr "파일삭제"
+
+msgid "socialLikeTitle"
+msgstr "좋은 사이트!Love time"
+
+msgid "About Yiinka"
+msgstr "Yiinke에 대해"
+
+msgid "systemInstruments"
+msgstr "도구"
+
+msgid "Import CSV"
+msgstr "CSV에서 데리고왔습니다 "
+
+msgid "chatMessages"
+msgstr "메세지"
+
+msgid "profileMessages"
+msgstr "메세지"
+
+msgid "chatAll"
+msgstr "모두"
+
+msgid "chatOnline"
+msgstr "온라인"
+
+msgid "correspondencesActions"
+msgstr "행동"
+
+msgid "actionMoveIn"
+msgstr "옮기는 것 : "
+
+msgid "actionBlacklist"
+msgstr "블랙리스트"
+
+msgid "chatEmptyFolder"
+msgstr "폴더가 비었습니다"
+
+msgid "chatNoOnline"
+msgstr "지금 대화할 수 있는 사람이 없습니다"
+
+msgid "correspondencesMessage"
+msgid_plural "correspondencesMessages"
+msgstr[0] "메세지"
+
+msgid "favoriteUsers"
+msgstr "즐겨찾는 사용자"
+
+msgid "favoriteLocation"
+msgstr ""
+"당신은 즐겨찾기 폴더의 메세지부분에서 즐겨찾기를 추가를 찾을 수 있습니다 "
+
+msgid "favoriteHideTip"
+msgstr "팁 숨기기"
+
+msgid "favoriteNext"
+msgstr "다음"
+
+msgid "favoriteCancel"
+msgstr "취소"
+
+msgid "emailConfirmResultSuccess"
+msgstr "당신의 이메일주소가 성공적으로 확인되었습니다"
+
+msgid "emailConfirmAlreadyConfirmed"
+msgstr "이메일주소가 이미 확인되었습니다"
+
+msgid "emailConfirmCheckYourEmailNow"
+msgstr "지금 당신의 이메일을 확인해보세요"
+
+msgid "emailConfirmClickLinkForComplete"
+msgstr ""
+"등록이 성공했습니다. 우리가 보낸 이메일 안의 링크를 클릭하세요 <b>%email%</b>"
+
+msgid "mailOpen"
+msgstr "열기"
+
+msgid "emailConfirmCantGetMessage"
+msgstr "이메일을 아직 받지않았습니까?"
+
+msgid "emailConfirmCheckYourEmailOrEnterAnother"
+msgstr "당신의 이메일주소 또는 새로운 이메일을 확인해주세요"
+
+msgid "emailConfirmTypeValidEmail"
+msgstr "사용 가능한 당신의 이메일을 입력하세요"
+
+msgid "emailConfirmSendAgain"
+msgstr "다시 보내기"
+
+msgid "profileGuests"
+msgstr "방문자"
+
+msgid "guestsFemaleStranger"
+msgstr "낯선 사람"
+
+msgid "guestsMaleStranger"
+msgstr "낯선 사람"
+
+msgid "guestsNo"
+msgstr "방문자가 없습니다.  "
+
+msgid "catalogUsersCatalog"
+msgstr "사용자 목록"
+
+msgid "formPasswordSent"
+msgstr "당신의 메일로 비밀번호 재설정 설명을 보냈습니다"
+
+msgid "usersList"
+msgstr "사용자 리스트"
+
+msgid "likesNoData"
+msgstr "데이터가 없습니다"
+
+msgid "guestsDataError"
+msgstr "데이터 에러"
+
+msgid "usersPhotoAlbumOf"
+msgstr "사용자&apos;앨범"
+
+msgid "actionUploadPhoto"
+msgstr "사진업로드"
+
+msgid "banProfileNotice"
+msgstr ""
+"이 프로필은 끝나지않았습니다. 관리자에의해 거절되었거나, 비공개입니다. 다른사"
+"용자를 찾아보세요"
+
+msgid "banProfileHome"
+msgstr "홈"
+
+msgid "usersWriteMessage"
+msgstr "메세지 작성"
+
+msgid "usersInviteToChat"
+msgstr "채팅 초대"
+
+msgid "usersAlreadyToFavorite"
+msgstr "벌써 즐겨찾기에 있습니다"
+
+msgid "carouselDistance"
+msgstr "회원님 위치에서  %s km 거리에 있습니다."
+
+msgid "carouselDistanceOn"
+msgstr "먼곳"
+
+msgid "carouselDistanceUnknown"
+msgstr "알기, 당신의 위치 표시"
+
+msgid "porsonalInfo"
+msgstr "개인 정보"
+
+msgid "userProfilePersonalInfoShow"
+msgstr "보기"
+
+msgid "formResetPassword"
+msgstr "새로운 비밀번호를 위해 링크를 받으세요"
+
+msgid "carouselDisabledTitle"
+msgstr "사진을 업로드하세요."
+
+msgid "uploadPhoto"
+msgstr "사진업로드"
+
+msgid "carouselDisabledText"
+msgstr ""
+"유령과 &nbsp;데이트를 &nbsp;  하시겠다고요? 아니시죠?그렇다면 적어도 한 개 이"
+"상의 프로필 사진을 업로드하세요. &nbsp; 그러면 &nbsp;   좋은 만남이 보장됩니"
+"다!"
+
+msgid "backToPageDates"
+msgstr "당신의 데이트파트너 선택"
+
+msgid "profileRelations"
+msgstr "데이트"
+
+msgid "profileLikesForMe"
+msgstr "데이트를 하고싶습니다"
+
+msgid "profileMutualLikes"
+msgstr "서로 호감이 있습니다"
+
+msgid "profileMyLikes"
+msgstr "데이트를 하고싶습니다"
+
+msgid "carouselHeYes"
+msgstr "그는 말했습니다<strong>&laquo;네&raquo;</strong>"
+
+msgid "carouselSheYes"
+msgstr "그녀는 말했습니다<strong>&laquo;네&raquo;</strong>"
+
+msgid "carouselHeMaybe"
+msgstr "그는 말했습니다<strong>&laquo;아마 가능하다&raquo;</strong>"
+
+msgid "carouselSheMaybe"
+msgstr "그녀는 말했습니다<strong>&laquo;아마 가능하다&raquo;</strong>"
+
+msgid "carouselAnswerYes"
+msgstr "네!"
+
+msgid "carouselAnswerMaybe"
+msgstr "아마 대부분"
+
+msgid "carouselAnswerNo"
+msgstr "아니오"
+
+msgid "carouselMyYes"
+msgstr "당신은 말했습니다 <strong>&laquo;네&raquo;</strong>"
+
+msgid "carouselYouMaybe"
+msgstr "당신은 말했습니다 <strong>&laquo;네&raquo;</strong>"
+
+msgid "updatePass"
+msgstr "새로운 비밀번호 입력"
+
+msgid "modelForgotpassChangePassword"
+msgstr "비밀번호 변경"
+
+msgid "nearTitle1"
+msgstr "나와 가까운 위치에 있는 사람"
+
+msgid "nearTitle2"
+msgstr "나"
+
+msgid "meOnMap"
+msgstr "위치"
+
+msgid "userLocationNotFound"
+msgstr "위치를 찾을 수 없습니다"
+
+msgid "backToPageSearch"
+msgstr "찾기로 &nbsp;돌아가기"
+
+msgid "pageLocationTitle"
+msgstr "당신의 위치를 표시하세요"
+
+msgid "meOnMapText2"
+msgstr ""
+"다른사용자는 당신의 위치를 볼 수 없습니다. 오직 가까운 위치만 볼수 있습니다"
+
+msgid "userLocationPlaceholder"
+msgstr "집번호를 남기세요. 도로명 또는 도시이름"
+
+msgid "userLocationFind"
+msgstr "찾기"
+
+msgid "locationClear"
+msgstr "마크삭제"
+
+msgid "usersRefuseFromMails"
+msgstr "메일 알림 거절"
+
+msgid "usersRefuseFromMailsOk"
+msgstr "당신은 이메일의 알림을 더이상 받지 않습니다."
+
+msgid "profileMySettings"
+msgstr "설정"
+
+msgid "profileNotificationSettings"
+msgstr "알림 설정"
+
+msgid "inviteIncognitoTitle"
+msgstr "&laquo;비공개&raquo;"
+
+msgid "loginWidgetIncognitoText"
+msgstr "다른사람에게 사진 비공개"
+
+msgid "UTC-11:00"
+msgstr "(UTC-11:00) 시간 UTC 11 입니다"
+
+msgid "UTC-10:00"
+msgstr "(UTC-10:00) Hawaii"
+
+msgid "UTC-9:00"
+msgstr "(UTC-09:00) Alaska"
+
+msgid "UTC-8:00[1]"
+msgstr "(UTC-08:00) Baja California"
+
+msgid "UTC-8:00[2]"
+msgstr "(UTC-08:00) Pacific Time (U.S. and Canada)"
+
+msgid "UTC-7:00[1]"
+msgstr "(UTC-07:00) Arizona"
+
+msgid "UTC-7:00[2]"
+msgstr "(UTC-07:00) Mountain Time (U.S. and Canada)"
+
+msgid "UTC-7:00[3]"
+msgstr "(UTC-07:00) La Paz, Mazatlan, Chihuahua"
+
+msgid "UTC-6:00[1]"
+msgstr "(UTC-06:00) Guadalajara, Mexico City, Monterrey"
+
+msgid "UTC-6:00[2]"
+msgstr "(UTC-06:00) Saskatchewan, Central America"
+
+msgid "UTC-6:00[3]"
+msgstr "(UTC-06:00) Central Time (U.S. and Canada)"
+
+msgid "UTC-5:00[1]"
+msgstr "(UTC-05:00) Bogota, Quito, Lima"
+
+msgid "UTC-5:00[2]"
+msgstr "(UTC-05:00) Eastern Time (U.S. and Canada)"
+
+msgid "UTC-5:00[3]"
+msgstr "(UTC-05:00) Indiana (East)"
+
+msgid "UTC-4:30"
+msgstr "(UTC-04:30) Caracas"
+
+msgid "UTC-4:00[1]"
+msgstr "(UTC-04:00) Asuncion"
+
+msgid "UTC-4:00[2]"
+msgstr "(UTC-04:00) Atlantic Time (Canada)"
+
+msgid "UTC-4:00[3]"
+msgstr "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+
+msgid "UTC-4:00[4]"
+msgstr "(UTC-04:00) Cuiaba"
+
+msgid "UTC-4:00[5]"
+msgstr "(UTC-04:00) Santiago"
+
+msgid "UTC-3:30"
+msgstr "UTC-03: 30) Newfoundland"
+
+msgid "UTC-3:00[1]"
+msgstr "(UTC-03:00) Brazil"
+
+msgid "UTC-3:00[2]"
+msgstr "(UTC-03: 00) Buenos Aires"
+
+msgid "UTC-3:00[3]"
+msgstr "(UTC-03:00) Greenland"
+
+msgid "UTC-3:00[4]"
+msgstr "(UTC-03:00) Cayenne, Fortaleza"
+
+msgid "UTC-3:00[5]"
+msgstr "(UTC-03:00) Montevideo"
+
+msgid "UTC-2:00[1]"
+msgstr "(UTC-02:00) Time in UTC format is 02:00"
+
+msgid "UTC-2:00[2]"
+msgstr "(UTC-02:00) Mid-Atlantic time"
+
+msgid "UTC-1:00[1]"
+msgstr "(UTC-01:00) Azores"
+
+msgid "UTC-1:00[2]"
+msgstr "(UTC-01:00) Cape Verde Islands"
+
+msgid "UTC0[2]"
+msgstr "(UTC) Dublin, Lisbon, London, Edinburgh"
+
+msgid "UTC0[3]"
+msgstr "(UTC) Casablanca"
+
+msgid "UTC0[4]"
+msgstr "(UTC) Monrovia, Reykjavik"
+
+msgid "UTC+1[1]"
+msgstr "(UTC+01:00) Amsterdam, Berlin, Bern, Vienna, Rome, Stockholm"
+
+msgid "UTC+1[2]"
+msgstr "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+
+msgid "UTC+1[3]"
+msgstr "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris"
+
+msgid "UTC+1[4]"
+msgstr "(UTC+01:00) Warsaw, Zagreb, Sarajevo, Skopje"
+
+msgid "UTC+1[5]"
+msgstr "(UTC+01:00) Windhoek"
+
+msgid "UTC+1[6]"
+msgstr "(UTC+01:00) West Central Africa"
+
+msgid "UTC+2[1]"
+msgstr "(UTC+02:00) Amman"
+
+msgid "UTC+2[2]"
+msgstr "(UTC+02:00) Athens, Bucharest"
+
+msgid "UTC+2[3]"
+msgstr "(UTC+02:00) Beirut"
+
+msgid "UTC+2[4]"
+msgstr "(UTC+02:00) Vilnius, Kiev, Riga, Sofia, Tallinn, Helsinki"
+
+msgid "UTC+2[5]"
+msgstr "(UTC+02:00) Damascus"
+
+msgid "UTC+2[6]"
+msgstr "(UTC+02:00) Jerusalem"
+
+msgid "UTC+2[7]"
+msgstr "(UTC+02:00) Cairo"
+
+msgid "UTC+2[8]"
+msgstr "(UTC+02:00) Nicosia"
+
+msgid "UTC+2[9]"
+msgstr "(UTC+02:00) Istanbul"
+
+msgid "UTC+2[10]"
+msgstr "(UTC+02:00) Harare, Pretoria"
+
+msgid "UTC+3[1]"
+msgstr "(UTC+03:00) Baghdad"
+
+msgid "UTC+3[2]"
+msgstr "(UTC+03:00) Kaliningrad, Minsk"
+
+msgid "UTC+3[3]"
+msgstr "(UTC+03:00) Kuwait, Riyadh"
+
+msgid "UTC+3[4]"
+msgstr "(UTC+03:00) Nairobi"
+
+msgid "UTC+3:30"
+msgstr "(UTC+03:30) Tehran"
+
+msgid "UTC+4[1]"
+msgstr "(UTC+04:00) Abu Dhabi, Muscat"
+
+msgid "UTC+4[2]"
+msgstr "(UTC+04:00) Baku"
+
+msgid "UTC+4[3]"
+msgstr "(UTC+04:00) Volgograd, Moscow, St. Petersburg"
+
+msgid "UTC+4[4]"
+msgstr "(UTC +04:00) Yerevan"
+
+msgid "UTC+4[5]"
+msgstr "(UTC+04:00) Tbilisi"
+
+msgid "UTC+4:30"
+msgstr "(UTC+04:30) Kabul"
+
+msgid "UTC+5[1]"
+msgstr "(UTC+05:00) Islamabad, Karachi"
+
+msgid "UTC+5[2]"
+msgstr "(UTC+05:00) Tashkent"
+
+msgid "UTC+5:30"
+msgstr "(UTC+05:30) Kolkata, Mumbai, New Delhi, Chennai"
+
+msgid "UTC+5:45"
+msgstr "(UTC+05:45) Katmandu"
+
+msgid "UTC+6[1]"
+msgstr "(UTC+06:00) Astana"
+
+msgid "UTC+6[2]"
+msgstr "(UTC+06:00) Dacca"
+
+msgid "UTC+6[3]"
+msgstr "(UTC+06:00) Yekaterinburg"
+
+msgid "UTC+6:30"
+msgstr "(UTC+06:30) Yangon"
+
+msgid "UTC+7[1]"
+msgstr "(UTC+07:00) Bangkok, Jakarta, Hanoi"
+
+msgid "UTC+7[2]"
+msgstr "(UTC+07:00) Novosibirsk"
+
+msgid "UTC+8[1]"
+msgstr "(UTC+08:00) Hong Kong, Beijing, Urumqi, Chongqing"
+
+msgid "UTC+8[2]"
+msgstr "(UTC+08:00) Krasnoyarsk"
+
+msgid "UTC+8[3]"
+msgstr "(UTC+08:00) Kuala Lumpur, Singapore"
+
+msgid "UTC+8[4]"
+msgstr "(UTC+08:00) Perth"
+
+msgid "UTC+8[5]"
+msgstr "(UTC+08:00) Taipei"
+
+msgid "UTC+8[6]"
+msgstr "(UTC+08:00) Ulaanbaatar"
+
+msgid "UTC+9[1]"
+msgstr "(UTC+09:00) Irkutsk"
+
+msgid "UTC+9[2]"
+msgstr "(UTC+09:00) Osaka, Sapporo, Tokyo"
+
+msgid "UTC+9[3]"
+msgstr "(UTC+09:00) Seoul"
+
+msgid "UTC+9:30[1]"
+msgstr "(UTC+09:30) Adelaide"
+
+msgid "UTC+9:30[2]"
+msgstr "(UTC+09:30) Darwin"
+
+msgid "UTC+10[1]"
+msgstr "(UTC+10:00) Brisbane"
+
+msgid "UTC+10[2]"
+msgstr "(UTC+10:00) Guam, Port Moresby"
+
+msgid "UTC+10[3]"
+msgstr "(UTC+10:00) Canberra, Melbourne, Sydney"
+
+msgid "UTC+10[4]"
+msgstr "(UTC+10:00) Hobart"
+
+msgid "UTC+10[5]"
+msgstr "(UTC+10:00) Yakutsk"
+
+msgid "UTC+11[1]"
+msgstr "(UTC+11:00) Vladivostok"
+
+msgid "UTC+11[2]"
+msgstr "(UTC+11:00) Solomon Islands, New Caledonia"
+
+msgid "UTC+12[1]"
+msgstr "(UTC+12:00) Wellington, Auckland"
+
+msgid "UTC+12[3]"
+msgstr "(UTC+12:00) Magadan"
+
+msgid "UTC+12[4]"
+msgstr "(UTC+12:00) Fiji"
+
+msgid "UTC+13[1]"
+msgstr "(UTC+13:00) Nuku'alofa"
+
+msgid "UTC+13[2]"
+msgstr "(UTC+13:00) Samoa"
+
+msgid "profileAdditional"
+msgstr "선택적인"
+
+msgid "saved"
+msgstr "저장되었습니다"
+
+msgid "userSettingsChangePassword"
+msgstr "비밀번호 변경"
+
+msgid "systemRegisterNew"
+msgstr "새로운 사용자등록"
+
+msgid "systemRegisterChange"
+msgstr "프로필 변경"
+
+msgid "registerSex"
+msgstr "성별"
+
+msgid "siteRulesAccept"
+msgstr "확인버튼 클릭"
+
+msgid "pagesRulesTitle"
+msgstr "사용자 허용"
+
+msgid "profileMyAnketa"
+msgstr "프로필"
+
+msgid "userProfileChangeCountry"
+msgstr ""
+"당신은 나라를 명시했습니다<strong>%current_country%</strong>. 당신의 최근 위"
+"치 - - <strong>%country_by_ip%</strong>. <a %href_extension% href='%link%'>프"
+"로필의 나라 변경</a>"
+
+msgid "iLookingFor"
+msgstr "성별"
+
+msgid "preferredAgeFrom"
+msgstr "에서"
+
+msgid "preferredAgeTo"
+msgstr "에게"
+
+msgid "aboutMe"
+msgstr "나에대해"
+
+msgid "userViewProfessionOrSphereOfActivity"
+msgstr "직업/활동"
+
+msgid "contestUnselectAll"
+msgstr "모두 선택하지 않기"
+
+msgid "step"
+msgstr ""
+
+msgid "locationSavedOk"
+msgstr "당신의 위치가 저장되었습니다"
+
+msgid "locationClearedOk"
+msgstr "당신의 자세한위치는 지워졌습니다"
+
+msgid "locationSavedErr"
+msgstr "위치 저장 에러"
+
+msgid "inviteCaptchaWrong"
+msgstr "틀린 코드"
+
+msgid "formIncorrectLink"
+msgstr ""
+"당신은 비밀번호를 리셋해서 이 링크를 사용 할 수 없습니다.<br />다시 사용하기"
+"위해 이 링크를 클릭하세요"
+
+msgid "msgNoNearestNew"
+msgstr "죄송합니다. 주변에 있는 사람은 없습니다."
+
+msgid "msgNoNearestOnline"
+msgstr "죄송합니다 주변에 있는 사람은 없습니다"
+
+msgid "msgNoNearestAll"
+msgstr "죄송합니다. 주변에 있는 사람은 없습니다."
+
+msgid "carouselUsersAreAbsent"
+msgstr "더이상 볼 사용자가 없습니다"
+
+msgid "profileAgeStr"
+msgstr "%s 세"
+
+msgid "complainSuccess"
+msgstr "관리자에게 당신의 컴플레인이 성공적으로 보내졌습니다"
+
+msgid "complainNoSuccess"
+msgstr "컴플레인 보내기가 실패했습니다"
+
+msgid "complainAllPoles"
+msgstr "당신의 정보을 채워주세요"
+
+msgid "feedbackFileError"
+msgstr "맞지않는 파일입니다. 지원하는 파일 : jpg, png."
+
+msgid "feedbackSentError"
+msgstr "메세지 전송에 실패했습니다. 나중에 다시 시도해보십시오"
+
+msgid "feedbackSent"
+msgstr "당신의 메세지를 전송했습니다"
+
+msgid "unsubscribeSuccess"
+msgstr "당신의 주소는 이메일 알림에서 성곡적으로 삭제되었습니다"
+
+msgid "unsubscribeNoSuchUser"
+msgstr "이 이메일로 등록된 사용자가 없습니다"
+
+msgid "loginWidgetPhotoDidNotModeratedYet"
+msgstr "사진은 아직 적당하지않습니다"
+
+msgid "loginWidgetPhotoDidNotPassModerated"
+msgstr "사진은 아직 적당하지않습니다"
+
+msgid "chatSessionClose"
+msgstr "시간은 끝났습니다. 다시 로그인 하세요"
+
+msgid "searchNoResults"
+msgstr "없는 결과"
+
+msgid "loginWidgetAddPhoto"
+msgstr "사진 추가"
+
+msgid "systemExitConfirmTitle"
+msgstr "로그아웃을 하겠습니까?"
+
+msgid "systemExitConfirmBody"
+msgstr "다음&nbsp;시간 &nbsp;다시 비밀번호를 입력하고 로그인 해야합니다."
+
+msgid "systemExitConfirmNo"
+msgstr "하지않는다&nbsp;로그아웃"
+

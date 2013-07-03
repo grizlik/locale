@@ -1,0 +1,4289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-01 08:58+0000\n"
+"PO-Revision-Date: 2013-07-02 08:06+0200\n"
+"Last-Translator: urdu <>\n"
+"Language-Team: \n"
+"Language: ur\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/jowee/Development/flirteka/trunk\n"
+
+msgid "lettersGiftTitle"
+msgstr "آپ نے %s پہ نیا تحفہ وصول کیا ہے۔"
+
+msgid "lettersHelloName"
+msgstr "ہیلو،  %s"
+
+msgid "messageNewPresentLookAtButton"
+msgstr "دیکھیں"
+
+msgid "lettersFindYourLoveMatch"
+msgstr "اپنی محبت کا جوڑ تلاش کریں!"
+
+msgid "lettersUnsubscribe"
+msgstr ""
+" اگر آپ ای میل اطلاعات موصول کرنا نہیں چاہتے، آپ <a href=\"%s\" style="
+"\"color: #0072bc;\">میلنگ فہرست کی رکنیت ختم کر سکتے ہیں</a>"
+
+msgid "lettersChangeDataByClickingTheLink"
+msgstr ""
+"آپ اپنی ترتیبات تبدیل کر سکتے ہیں <a href=\"%s\" style=\"color: #0072bc;"
+"\">اس لنک پر کلک کر کے</a>"
+
+msgid "lettersUserSentGift"
+msgstr "صارف <b><a href='%s'>%s</a></b>نے آپ کو تحفہ بھیجا ہے۔"
+
+msgid "lettersBalanceIncreasedTitle"
+msgstr "آپ کا بیلنس بڑھ گیا ہے"
+
+msgid "lettersBalanceIncreased"
+msgid_plural "lettersBalanceIncreased"
+msgstr[0] "آپ کے بیلنس میں %s سکوں کا اضافہ ہوگیا ہے"
+msgstr[1] "آپ کے بیلنس میں %s سکوں کا اضافہ ہوگیا ہے"
+
+msgid "inviteCaptcha"
+msgstr "ڈوری شدہ کوڈ"
+
+msgid "captchaNewCode"
+msgstr "نیا کوڈ"
+
+msgid "moderatorSpamers"
+msgstr ""
+
+msgid "formSearch"
+msgstr "تلاش کریں"
+
+msgid "modelSpamersOneName"
+msgstr ""
+
+msgid "modelSpamersBack"
+msgstr ""
+
+msgid "modelSpamersBanTime"
+msgstr ""
+
+msgid "modelSpamersBanMessagesHeader"
+msgstr ""
+
+msgid "modelSpamersMessage"
+msgstr ""
+
+msgid "modelSpamersTranslate"
+msgstr ""
+
+msgid "modelSpamersDate"
+msgstr ""
+
+msgid "moderatorBannedUsers"
+msgstr " پابندی شدہ صارفین"
+
+msgid "moderatorBan"
+msgstr " پابندی "
+
+msgid "moderatorUnban"
+msgstr "شہری"
+
+msgid "statisticsMailchartsbytemplatesTemplateTitle"
+msgstr "سانچہ #%d (%s)"
+
+msgid "statisticsMailchartsbytemplatesQuantityChartTitle"
+msgstr "رقم"
+
+msgid "statisticsMailchartsbytemplateQuantityChartYAxis"
+msgstr "رقم"
+
+msgid "statisticsMailchartsbytemplatesPercentChartTitle"
+msgstr "فیصد"
+
+msgid "statisticsMailchartsbytemplatePercentChartYAxis"
+msgstr "فیصد"
+
+msgid "moderatorStatisticMenuMailTotal"
+msgstr ""
+
+msgid "moderatorStatisticMenuEximStats"
+msgstr ""
+
+msgid "statisticsMailTodayTitle"
+msgstr "آج ای میل کے اعداد و شمار"
+
+msgid "statisticsMailDomainsTitle"
+msgstr "ڈومینز"
+
+msgid "statisticsMailUniqueOpens"
+msgstr "انوکھی دریافتیں"
+
+msgid "statisticsMailUniqueClicks"
+msgstr "انوکھے کلک"
+
+msgid "statisticsMailAll"
+msgstr "کل"
+
+msgid "statisticsMailTemplateTitle"
+msgstr "پیغام کا عنوان"
+
+msgid "statisticsMailchartsbydomainDisplayDomains"
+msgstr "ظاہر کرنے کے لئے ڈومینز"
+
+msgid "statisticsMailchartsbydomainAllDomains"
+msgstr "تمام"
+
+msgid "statisticsMailchartsbydomainDisplayCounters"
+msgstr "ڈسپلے"
+
+msgid "statisticsMailchartsbydomainSubmitButton"
+msgstr "تازہ کریں"
+
+msgid "statisticsMailchartsbydomainQuantityChartTitle"
+msgstr "رقم"
+
+msgid "statisticsMailchartsbydomainQuantityChartYAxis"
+msgstr "رقم"
+
+msgid "statisticsMailchartsbydomainPercentChartTitle"
+msgstr "فیصد"
+
+msgid "statisticsMailchartsbydomainPercentChartYAxis"
+msgstr "فیصد"
+
+msgid "moderatorRefusalOfInvitation"
+msgstr "دعوت ناموں کو انکار"
+
+msgid "moderatorComplaintAboutUsers"
+msgstr "صارفین کے بارے میں شکایات"
+
+msgid "moderatorFeedBack"
+msgstr "آپ کی رائے"
+
+msgid "moderatorErrorMessages"
+msgstr "نقص شدہ پیغامات"
+
+msgid "moderatorUsers"
+msgstr "صارفین"
+
+msgid "moderatorContactsExclusion"
+msgstr "رابطے اخراج"
+
+msgid "moderatorPhotos"
+msgstr "فوٹو"
+
+msgid "moderatorCarousel"
+msgstr "چکر "
+
+msgid "moderatorModeratingPhotos"
+msgstr "معتدل تصاویر"
+
+msgid "moderatorEmailNotifications"
+msgstr "ای میل اطلاعات"
+
+msgid "moderatorBlackListForDeliveries"
+msgstr "ترسیل کے لئے بلیک لسٹ"
+
+msgid "moderatorUsernamesBlacklist"
+msgstr "صارف ناموں کیلئے سیاہ فہرست"
+
+msgid "moderatorStatistic"
+msgstr "اعدادوشمار"
+
+msgid "moderatorStatisticOpenedClickedStats"
+msgstr ""
+
+msgid "moderatorStatisticMenuMailNumbers"
+msgstr "میل -شماریات  ڈیٹا"
+
+msgid "moderatorStatisticMenuMailChartByDomain"
+msgstr "میل - چارٹ - ڈومینز"
+
+msgid "moderatorStatisticMenuMailChartByTemplate"
+msgstr "میل - چارٹ - سانچے"
+
+msgid "moderatorRemovedRestoredUsers"
+msgstr "ہٹائی/بحال پروفائل"
+
+msgid "Advertising statistics"
+msgstr ""
+
+msgid "moderatorBalanceBilling"
+msgstr "بل کاری"
+
+msgid "moderatorMenuItemProducts"
+msgstr "مصنوعات"
+
+msgid "moderatorMenuItemProductPresents"
+msgstr "تحائف"
+
+msgid "systemExit"
+msgstr "لاگ آؤٹ"
+
+msgid "systemUser"
+msgstr "صارف"
+
+msgid "moderatorRemoveRecord"
+msgstr "ریکارڈ کو ہٹا دیں"
+
+msgid "moderatorMaxUsersOnline"
+msgstr "آن لائن صارفین (زیادہ سے زیادہ)"
+
+msgid "moderatorRegisteredStatistic"
+msgstr ""
+
+msgid "moderatorAudienceOfSystem"
+msgstr "پیروی کرنے والے"
+
+msgid "moderatorInAll"
+msgstr "کل"
+
+msgid "moderatorQuantityOfBoys"
+msgstr "لڑکوں کی مقدار"
+
+msgid "moderatorQuantityOfGirls"
+msgstr "لڑکیوں کی مقدار"
+
+msgid "moderatorVisitsToday"
+msgstr " آج کے دورے"
+
+msgid "moderatorVisitsOnWeek"
+msgstr "اس ہفتے کے دورے"
+
+msgid "moderatorVisitsOnMonth"
+msgstr "اس مہینے کے دورے"
+
+msgid "moderatorUsersWithCoords"
+msgstr "صارفین کی تعداد معہ مقام"
+
+msgid "moderatorUsersFillProfile"
+msgstr "مکمل شدہ پروفائل والے صارفین کی تعداد"
+
+msgid "moderatorUsersWithPhoto"
+msgstr "تصویر کے ساتھ صارفین"
+
+msgid "moderatorPhotosToday"
+msgstr "آج کی تصاویر"
+
+msgid "moderatorPhotosOnWeek"
+msgstr "اس ہفتے کی تصاویر"
+
+msgid "moderatorPhotosOnMonth"
+msgstr "اس ماہ کی تصاویر"
+
+msgid "moderatorDialogs"
+msgstr "مکالمے"
+
+msgid "moderatorAverageNumberOfMessages"
+msgstr "پیغامات کی اوسط تعداد"
+
+msgid "moderatorQuantityDialogsStartedBoys"
+msgstr " لڑکوں کی طرف سے شروع کئے گئے مکالموں کی مقدار"
+
+msgid "moderatorQuantityDialogsStartedGirls"
+msgstr " لڑکیوں کی طرف سے شروع کی گئی مکالموں کی مقدار"
+
+msgid "moderatorEmails"
+msgstr "ای میلز"
+
+msgid "moderatorEmailsConfirmed"
+msgstr " تصدیق شدہ"
+
+msgid "moderatorEmailsNotConfirmed"
+msgstr "غیر تصدیق شدہ"
+
+msgid "moderatorRemovedRestoredCauses"
+msgstr "ہٹانے کی وجوہات"
+
+msgid "moderatorRemovedRestoredDivisionForSexAndTime"
+msgstr "مجامعت اور وقت کیلئے تقسیم"
+
+msgid "guestsToday"
+msgstr "آج "
+
+msgid "guestsByWeek"
+msgstr "گزشتہ 7 دنوں میں "
+
+msgid "guestsByMonth"
+msgstr "گزشتہ 30 دن میں "
+
+msgid "male"
+msgstr ""
+
+msgid "female"
+msgstr ""
+
+msgid "moderatorProductPresentsTitle"
+msgstr "تحفہ"
+
+msgid "yes"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "moderatorProductPresentsCreateTitle"
+msgstr "ایک نیا تحفہ بنائیں"
+
+msgid "moderatorProductPresentsUpdateTitle"
+msgstr "ایک تحفہ اپ ڈیٹ کریں"
+
+msgid "usersDeleteSelectedPhotos"
+msgstr "حذف کریں"
+
+msgid "usersDeletePhotoConfirm"
+msgstr "کیا آپ کو یقین ہے کہ آپ ایک تصویر کو حذف کرنا چاہتے ہیں؟"
+
+msgid "moderatorBack"
+msgstr "پیچھے"
+
+msgid "moderatorNext"
+msgstr "اگلا"
+
+msgid "moderatorAddRecord"
+msgstr "ریکارڈ شامل کریں"
+
+msgid "actionSave"
+msgstr "محفوظ کریں"
+
+msgid "actionCancel"
+msgstr "منسوخ کریں"
+
+msgid "moderatorChangeRecord"
+msgstr "ریکارڈ تبدیل کریں"
+
+msgid "moderatorRemove"
+msgstr "ہٹائیں"
+
+msgid "formOperatorsBegin"
+msgstr "ہر تلاش لائن کے آغاز میں"
+
+msgid "formOperatorsEnd"
+msgstr "آپ مقابلے کے آپریٹرز استعمال کر سکتے ہیں"
+
+msgid "formAdvancedSearch"
+msgstr "اعلی درجے کی تلاش"
+
+msgid "moderatorActionBanQuestion"
+msgstr "پابندی؟"
+
+msgid "formCreate"
+msgstr "عنصر بنائیں"
+
+msgid "formRequired"
+msgstr "نشان شدہ  خانے درکار ہیں*"
+
+msgid "formNoactive"
+msgstr "نہیں"
+
+msgid "formActive"
+msgstr "جی ہاں"
+
+msgid "systemModerator"
+msgstr "ناظم"
+
+msgid "anketaPersonalsCustomLabel"
+msgstr "دیگر"
+
+msgid "coin"
+msgid_plural "coins"
+msgstr[0] "سکہ"
+msgstr[1] "سکے"
+
+msgid "moderatorUserFormBalanceChangeAlt"
+msgstr "اکاؤنٹ"
+
+msgid "formSave"
+msgstr "تبدیلیوں کو محفوظ کریں"
+
+msgid "formManage"
+msgstr "عناصر کا انتظام کریں"
+
+msgid "formUpdate"
+msgstr "عنصر میں ترمیم کریں"
+
+msgid "formDelete"
+msgstr "عنصر کو حذف کریں"
+
+msgid "systemLogin"
+msgstr "لاگ ان "
+
+msgid "moderatorComplaintsResolved"
+msgstr "حل شدہ"
+
+msgid "moderatorComplaintsNew"
+msgstr "نئی"
+
+msgid "sexFemale"
+msgstr "عورت"
+
+msgid "sexMale"
+msgstr "مرد"
+
+msgid "formList"
+msgstr "عناصر کی فہرست"
+
+msgid "formView"
+msgstr "عنصر دیکھیں"
+
+msgid "moderatorSlider"
+msgstr "سلائیڈر"
+
+msgid "moderatorMosaic"
+msgstr "پچی کاری"
+
+msgid "photosStatusNew"
+msgstr "نئی"
+
+msgid "moderatorActions"
+msgstr "اعمال"
+
+msgid "moderatorAccept"
+msgstr "قبول"
+
+msgid "moderatorRefuse"
+msgstr "رد"
+
+msgid "moderatorModerating"
+msgstr ""
+
+msgid "moderatorPhotosVersions"
+msgstr "تصویر ورژن"
+
+msgid "moderatorStatus"
+msgstr "حالت"
+
+msgid "userID"
+msgstr "صارف کی شناخت"
+
+msgid "moderatorPhotosSearchInTheWeb"
+msgstr "ویب میں تلاش کریں"
+
+msgid "modelUsersSex"
+msgstr "صنف"
+
+msgid "searchGo"
+msgstr "تلاش"
+
+msgid "moderatorRefuseReason"
+msgstr "رد ہونے کی وجہ"
+
+msgid "moderatorLastEditName"
+msgstr ""
+
+msgid "moderatorBalanceBillingGlobalCountersRegistrations"
+msgstr "لاگ ان/تصدیق ہوگئی ہے/ادا شدہ اکاؤنٹ"
+
+msgid "moderatorBalanceBillingGlobalCountersExpense"
+msgstr "صارف کے کل اخراجات"
+
+msgid "moderatorBalanceBillingGlobalCountersCurrent"
+msgstr "موجودہ اکاؤنٹ بیلنس"
+
+msgid "moderatorBalanceSetTitle"
+msgstr "اکاؤنٹ کا بیلنس تبدیل کریں"
+
+msgid "moderatorBalanceSetSuccessful"
+msgstr "اکاؤنٹ کا بیلنس کامیابی سے تبدیل ہو گیا ہے"
+
+msgid "moderatorBalanceUserStatTitle"
+msgstr "بیلنس تبدیلی شماریات"
+
+msgid "moderatorBalanceUserStatTableFieldTime"
+msgstr "وقت"
+
+msgid "moderatorBalanceUserStatTableFieldDescription"
+msgstr "وضاحت"
+
+msgid "moderatorBalanceUserStatTableFieldAmount"
+msgstr "مقدار"
+
+msgid "moderatorBalanceUserStatTableFieldCurrent"
+msgstr "بیلنس"
+
+msgid "moderatorRegisteredToday"
+msgstr " آج کے کل رجسٹرڈ"
+
+msgid "bannedSecondChance"
+msgstr ""
+"ٹھیک ہے، یہ واضح ہے، میں کوئی قوانین نہیں توڑوں گا<a href='%s'>براہ مہربانی "
+"مجھے ان بلاک کریں</a>"
+
+msgid "bannedForever"
+msgstr ""
+"براہ مہربانی، نیا اکاؤنٹ کھولیں اور ایسے اقدامات نہ دوہرانے سے باخبر رہیں۔ "
+"ورنہ، ہمیں آپ کا اکاؤنٹ دوبارہ بلاک کرنا پڑے گا۔"
+
+msgid "actionTranslate"
+msgstr "ترجمہ"
+
+msgid "chatSendByClickOn"
+msgstr "بذریعے ارسال کریں"
+
+msgid "formPleaseFixErrors"
+msgstr "براہ مہربانی مندرجہ ذیل غلطیوں کو درست کریں:"
+
+msgid "userBalloonAddToFavorite"
+msgstr "پسندیدہ میں شامل کریں"
+
+msgid "ofPair"
+msgstr "جوڑی"
+
+msgid "visitor"
+msgid_plural "visitors"
+msgstr[0] "ملاقاتی"
+msgstr[1] "ملاقاتی"
+
+msgid "signupMe"
+msgstr "میں ہوں ایک"
+
+msgid "signupIAmSearching"
+msgstr "کو ڈھونڈ رہا ہے"
+
+msgid "bannedInfoTitle"
+msgstr ""
+"آپ کا اکاؤنٹ بلاک کردیا گیا ہے۔ یہ مندرجہ ذیل میں سے کم از کم کسی ایک وجہ کے "
+"باعث ہوسکتا ہے:"
+
+msgid "bannedInfoCauseSendSpam"
+msgstr "&mdash؛ اشتہارات کو بڑی تعداد میں ایل میل کرنا یا ردی پیغامات؛"
+
+msgid "bannedInfoCauseSendContacts"
+msgstr ""
+"&mdash؛ ذاتی رابطہ معلومات پہ مشتمل پیغامات کو بڑی تعداد میں بھیجنا، مثلا "
+"ٹیلی فون نمبر، ایل میل، skype، وغیرہ؛"
+
+msgid "bannedInfoCauseWrongProfile"
+msgstr "&mdash؛ پروفائل نامناسب مواد پہ مشتمل ہے، مثلا اشتہارات، وغیرہ؛"
+
+msgid "bannedInfoCauseRudeAttitude"
+msgstr "&mdash؛ دیگر صارفین کے ساتھ روکھا رویہ؛"
+
+msgid "bannedInfoRecommendation"
+msgstr ""
+"ہم اپنی <a href=\"http://lovetime.com/pages/rules\">معاہدہ برائے استعمال کی "
+"شرائط</a> کوپڑھنے کی تجویز دیتے ہیں "
+
+msgid "bannedInfoCreateNewAccount"
+msgstr ""
+"براہ مہربانی، نیا اکاؤنٹ بنائیں اورباخبر رہیں کہ ایسے اقدامات دوبارہ مت "
+"دُہرائیں۔ ورنہ، ہمیں آپ کا اکاؤنٹ دوبارہ بلاک کرنا پڑے گا۔"
+
+msgid "bannedInfoSendEmail"
+msgstr ""
+"اگر آپ سمجھتے ہیں کہ آپ کا اکاؤنٹ غلطی سے بلاک کردیا گیا ہے، براہ مہربانی "
+"ہمیں <a href=\"mailto:info@lovetime.com?subject=Wrongly banned user %id%"
+"\">info@lovetime.com</a> پہ ای میل کریں۔"
+
+msgid "loginErrorUserBanned"
+msgstr " رسائی رد کر دی گئی ہے. صارف٪ s پر پابندی عائد کر دی ہے."
+
+msgid "messageFilterTitle"
+msgstr "پیغام فلٹر"
+
+msgid "messageFilterSuggestion"
+msgstr "تعین کرتا ہے ان پیغامات کے بارے میں جو آپ وصول کرنا چاہتے ہیں ۔۔۔"
+
+msgid "messageFilterReceiveFromAll"
+msgstr "تمام پیغامات"
+
+msgid "messageFilterReceiveFromWoman"
+msgstr "پیغامات صرف لڑکیوں کی جانب سے۔"
+
+msgid "messageFilterReceiveFromMen"
+msgstr "پیغامات صرف لڑکوں کی طرف سے۔"
+
+msgid "messageFilterWithPhotoOnly"
+msgstr "صرف تصویر کے ساتھ۔"
+
+msgid "messageFilterAgedFrom"
+msgstr "صارف کی عمر سے"
+
+msgid "messageFilterAgedTo"
+msgstr "سے"
+
+msgid "messageFilterFromMyCountry"
+msgstr "صرف میرے ملک سے۔"
+
+msgid "modelUsersFilterSex"
+msgstr "جنس کے لحاظ سے چھانٹی کریں۔"
+
+msgid "modelUsersFilterPhoto"
+msgstr "صرف تصویر کے ساتھ۔"
+
+msgid "modelUsersFilterAgeFrom"
+msgstr "صرف صارفین عمر"
+
+msgid "modelUsersFilterAgeTo"
+msgstr "سے"
+
+msgid "modelUsersFilterCountry"
+msgstr "صرف میرے ملک سے"
+
+msgid "chatFilterMan"
+msgstr ""
+"نے پیغامات چھانٹ کی ترتیب لگائی ہوئی ہے تاکہ آپ پیغامات نا بھیج سکیں۔ کسی "
+"اور سے گپ شپ کرنے کی کوشش کریں۔"
+
+msgid "chatFilterWoman"
+msgstr ""
+"نے پیغامات چھانٹ کی ترتیب لگائی ہوئی ہے تاکہ آپ پیغامات نا بھیج سکیں۔ کسی "
+"اور سے گپ شپ کرنے کی کوشش کریں۔"
+
+msgid "chatImpossibleCompanionBanned"
+msgstr ""
+"آپ چیٹ پیغامات نہیں بھیج سکتے کیونکہ نگران کی جانب سے صارف %s بلاک کردیا گیا "
+"ہے یا اس کی پروفائل ہٹا دی گئی ہے۔"
+
+msgid "lettersHiAndWelcome"
+msgstr "ہیلو، %name%!  %host% منتظم آپ کا استقبال کرتا ہے!"
+
+msgid "lettersAlmostDone"
+msgstr "یہ تقریبا مکمل ہے ..."
+
+msgid "lettersConfirm"
+msgstr "اپنی ای میل کی تصدیق کریں"
+
+msgid "lettersPersonalData"
+msgstr "آپ کی ذاتی معلومات:"
+
+msgid "lettersNick"
+msgstr "عرفی نام:"
+
+msgid "lettersEmail"
+msgstr "ای میل:"
+
+msgid "lettersAboutSite"
+msgstr ""
+"آپ ہماری ویب سائٹ پر اپنا روحانی ساتھی تلاش کر سکتے ہیں، دوسروں سے روامانوی "
+"تعلق رکھ سکتے ہیں اور لوگوں کے ساتھ عشق بازی کر سکتے ہیں۔ "
+
+msgid "lettersTryIt"
+msgstr "<a href=\"%s\"> آزمائیں </a> یہ بہت پر جوش ہے"
+
+msgid "lettersTellAboutUs"
+msgstr "اپنے تمام دوستوں کو اس سائٹ کے بارےمیں بتائیں!"
+
+msgid "lettersThankYou"
+msgstr "آپ کا شکریہ!"
+
+msgid "lettersYouCanChangeData"
+msgstr "آپ اپنی پروفائل کی تفصیلات تبدیل کر سکتے ہیں یہاں:"
+
+msgid "removingProfileRemovingProfile"
+msgstr "اکاؤنٹ خذف کریں "
+
+msgid "removingProfileRemoveProfileAction"
+msgstr "خذف کریں"
+
+msgid "removingProfileQuestion"
+msgstr "کیا آپ کو یقین ہے کہ آپ اکاؤنٹ کو خارج کرنا چاہتے ہیں؟"
+
+msgid "removingProfileCauseManagedFindYourSoulMate"
+msgstr "ہاں مجھے اپنا پیار مل گیا!"
+
+msgid "removingProfileCauseICanNotFindAnyone"
+msgstr ""
+"میں اس سائٹ کو ایک لمبے عرصے سے استعمال کررہا ہوں اور اب تک کوئی مجھے اپنی "
+"پسند نہیں ملی۔"
+
+msgid "removingProfileCauseIPlanGoBack"
+msgstr "میں عارضی طور پر یہ سائٹ چھوڑ رہا ہوں لیکن میں جلد ہی واپس آؤں گا۔"
+
+msgid "removingProfileCauseIHaveAnotherProfile"
+msgstr "میری ایک اور پروفائل ہے۔"
+
+msgid "removingProfileCauseIWasInsultedByAnother"
+msgstr "ایک اور صارف نے میری بے عزتی کی۔"
+
+msgid "removingProfileCauseIReceiveOffersEroticServices"
+msgstr "مجھے بے تکلف پیشکش ہوئی ہیں۔"
+
+msgid "removingProfileCauseOther"
+msgstr "دوسرے"
+
+msgid "removingProfileIChangedMyMindAction"
+msgstr "میں نے اپنا ذہن بدل لیا ہے۔ میں اب یہیں ہوں!"
+
+msgid "removingProfileNotification"
+msgstr ""
+"\"خارج\" پر کلک کرنے سے (%email%) کو ایک ای میل بھیجی جائے گی۔ اس ای میل میں "
+"دیے جانے والے لنک کی پیروی کریں اور اپنی پروفائل کے اخراج کی تصدیق کریں۔اگر "
+"آپ اپنے اکاؤنٹ کو بحال کرنا چاہتے ہیں (بشمول تصاویر اور رابطہ فہرست) تو آپ "
+"30 دن کے اندر اندر کرسکتے ہیں۔"
+
+msgid "removingProfileRemoveAction"
+msgstr "حذف"
+
+msgid "removingProfileCanselAction"
+msgstr "منسوخ"
+
+msgid "removingProfileEmailSendNotification"
+msgstr ""
+"آپ کے اکاؤنٹ کے اخراج کی تصدیقی ای میل بھیج دی گئی ہے۔ براہ کرم ہدایات کی "
+"پیروی کریں اور اکاؤنٹ کے اخراج کو مکمل کرنے کیلئے اس ای میل میں موجود لنک پر "
+"کلک کیجیے۔"
+
+msgid "removingProfileNextAction"
+msgstr "اگلا"
+
+msgid "removingProfileEnterEmailAndCode"
+msgstr "اپنا ای میل اور کوڈ جو آپ کو ملا ہے درج کیجیے۔"
+
+msgid "removingProfileEmail"
+msgstr "ای میل"
+
+msgid "removingProfileEnterEmail"
+msgstr "ای میل داخل کیجیے"
+
+msgid "removingProfileCodeOfPost"
+msgstr "پیغام کوڈ"
+
+msgid "removingProfileEnterCodeOfPost"
+msgstr "کوڈ داخل کیجیے"
+
+msgid "removingProfileDoNotGo"
+msgstr "چھوڑئیے مت! یہ لوگ آپ کو بہت یاد کریں گے۔"
+
+msgid "removingProfileCancelRemovingAction"
+msgstr "ہٹانے کو منسوخ کریں"
+
+msgid "removingProfileContinueAction"
+msgstr "جاری رکھیے"
+
+msgid "removingProfileRemovedStatus"
+msgstr "آپ کی پروفائل حالت &mdash؛ ہٹا دی گئی ہے"
+
+msgid "removingProfileRemovedMessage"
+msgstr ""
+"آپ کے پروفائل صفحے پر اب بطور خارج نشان لگا دیا گیا ہے۔آپ کے تمام پیغامات، "
+"رابطے، تصاویر اور ترتیبات ہمارے نظام میں سے ہمیشہ کیلئے خارج کئے جانے سے "
+"پہلے 30 دن کیلئے محفوظ کردیے جائیں گے۔ "
+
+msgid "removingProfileRestoreProfileAction"
+msgstr "اکاؤنٹ بحال کریں"
+
+msgid "modelUsersHobbies"
+msgstr "اپنے بارے میں بتائیے"
+
+msgid "balanceChangesBuyProductDecreaseProductId"
+msgstr "مصنوعہ"
+
+msgid "balanceChangesByAdminUserId"
+msgstr "صارف"
+
+msgid "balanceChangesPSIncreasePSId"
+msgstr "ادائیگی کا نظام"
+
+msgid "BalanceIncreaseErrorTitle"
+msgstr "اکاؤنٹ بیلنس اضافہ نقص"
+
+msgid "everyDayBalanceIncreasingDesc"
+msgstr "اکاؤنٹ میں روزانہ کا بڑھتا ہوا بیلنس"
+
+msgid "invisibleSettingsFormButton"
+msgstr "محفوظ"
+
+msgid "invisibleSettingsPageText"
+msgstr ""
+"ہم آپ کو مشورہ دیتے ہیں آپ یہ موڈ زیادہ استعمال نا کریں۔ یقینا\" اس کو "
+"چھوڑنا مشکل ہے، لیکن براہ مہربانی یاد رکھیے، وہ لوگ جو دوسروں کو زیادہ نظر "
+"آتے ہیں ان لوگوں کی نسبت زیادہ دوست بنا سکتے ہیں جو چھپے صارفین ہیں"
+
+msgid "invisibleSettingsPageTitle"
+msgstr "مخفی موڈ"
+
+msgid "modelUsersBalance"
+msgstr "اکاؤنٹ"
+
+msgid "modelUsersInvisibleeWalk"
+msgstr "دیگرپروفائلز میں مجھے مہمان فہرست میں مخفی کریں"
+
+msgid "modelUsersInvisibleOnline"
+msgstr "میری آن لائن حالت دیگر صارفین سے مخفی کریں"
+
+msgid "modelUsersInvisibleSuperstarStatus"
+msgstr "میری سپر سٹار حالت دیگر صارفین سے مخفی کریں"
+
+msgid "moderatorProductPresentsAddButton"
+msgstr "ایک تحفہ شامل کریں"
+
+msgid "monetizationInfoPageSearchText"
+msgstr "ایک خوشگوار رشتے کے لیے اپنے امکانات بڑھائیں"
+
+msgid "monetizationInfoPageSearchTitle"
+msgstr "تلاش نتائج میں اپوزیشن"
+
+msgid "monetizationInfoPageSuperstarButton"
+msgstr "سوپر سٹار بنیں"
+
+msgid "monetizationInfoPageSuperstarText"
+msgstr "\"ملاقات\" کھیل میں ترجیح"
+
+msgid "monetizationInfoPageSuperstarTitle"
+msgstr "سوپر سٹار حالت"
+
+msgid "monetizationInfoPageText"
+msgstr ""
+"آپ <a href='#' id='%s'>سکے خرید سکتے ہین</a> یا ویب سائٹ پر تلاش کر سکتے ہیں."
+
+msgid "monetizationInfoPageText2"
+msgstr "ہم آپ کو ہر روز ایک مفت سکہ دیں گے"
+
+msgid "monetizationInfoPageTitle"
+msgstr "مزید مشہور ہونے کے لیے سکےاستعمال کریں"
+
+msgid "monetizationInfoPageTopFacesButton"
+msgstr "بالا پر"
+
+msgid "monetizationInfoPageTopFacesText"
+msgstr ""
+"ہم آپ کی ترجیحات پر غور کررہےہیں اور انوکھے ایلگوریتھم کی بنیادپر موزوں "
+"افراد کو منتخب کریں گے"
+
+msgid "monetizationInfoPageTopFacesTitle"
+msgstr "بالا پوزیشن"
+
+msgid "monetizationAboutTopTitle"
+msgstr "پروفائل کو ترقی دیں"
+
+msgid "monetizationAboutTopText"
+msgstr "تلاش کے نتائج اور تصویر فیڈ میں پوزیشن کو بہتر بنائیں"
+
+msgid "monetizationAboutTopButton"
+msgstr "TOP میں ترقی دیں"
+
+msgid "monetizationAboutGiftsTitle"
+msgstr "تحائف"
+
+msgid "monetizationAboutGiftsText"
+msgstr "اپنی شہرت کو بڑھائیں"
+
+msgid "monetizationAboutUnlimitedTitle"
+msgstr "لامحدود"
+
+msgid "monetizationAboutUnlimitedText"
+msgstr "تمام پابندیاں ہٹائیں"
+
+msgid "monetizationAboutUnlimitedButton"
+msgstr "پابندیاں ہٹائیں"
+
+msgid "monetizationAboutVipTitle"
+msgstr "VIP"
+
+msgid "monetizationAboutVipText"
+msgstr "اپنی پروفائل کے ظہور کو بڑھائیں"
+
+msgid "monetizationAboutVipButton"
+msgstr "VIP بنیں"
+
+msgid "monetizationAboutIncognitoTitle"
+msgstr "غیر مرئی"
+
+msgid "monetizationAboutIncognitoText"
+msgstr "دیگر افراد کو پوشیدہ کی مانند دکھائیں دیں"
+
+msgid "monetizationAboutIncognitoButton"
+msgstr "آف لائن دکھائی دیں"
+
+msgid "monetizationBalanceSendSMS"
+msgstr "ایس ایم ایس بھیجیں"
+
+msgid "monetizationBalanceSum"
+msgstr "ادائیگی رقم"
+
+msgid "monetizationBalancePhoneNumber"
+msgstr "فون نمبر"
+
+msgid "monetizationBalanceOrderNumber"
+msgstr "آرڈر نمبر"
+
+msgid "monetizationBalanceYouPayOrder"
+msgstr "آپ آرڈر کی ادائیگی کریں"
+
+msgid "monetizationBalanceCheckOrder"
+msgstr "آرڈرکی پڑتال کریں"
+
+msgid "monetizationBalanceOperator"
+msgstr "آپریٹر"
+
+msgid "monetizationBalanceUpText"
+msgstr ""
+"بیلنس میں %s سکے (علاوہ ویلیو ایڈڈ ٹیکس) بڑھانے کے لیے، آپ کو پیغام بھیجنا "
+"ہے۔"
+
+msgid "monetizationBalanceNumber"
+msgstr "نمبر"
+
+msgid "monetizationBalanceText"
+msgstr "پیغام لکھنے کی جگہ"
+
+msgid "paymentDialogMessageSuperstarForSearch"
+msgstr ""
+"اعلی تلاش کے ذریعےتلاش کی گئی پروفائل دیکھنے کے لیے، آپ کو سوپر سٹار حالت "
+"کواہل کرنا ہو گا"
+
+msgid "paymentDialogTitleDefault"
+msgstr "سکے حاصل کریں"
+
+msgid "paymentDialogTitleSuperstar"
+msgstr "سوپر سٹار حالت خریدیں"
+
+msgid "paymentDialogTitleTopFaces"
+msgstr "بالا پر"
+
+msgid "paymentDialogWidgetBuy"
+msgstr "ادا کریں"
+
+msgid "paymentDialogWidgetTermsOfUse"
+msgstr "استعمال کی شرائط"
+
+msgid "productPresentModelCodePatternMessage"
+msgstr ""
+"مصنوعہ کوڈ 'حال-٭' کی طرح ہونا چاہیے، جہاں ٭ ایک یا زیادہ عدد ہوں یا لاطینی "
+"ہجوں کےچھوٹے حرف ہوں"
+
+msgid "productPresentModelImageFieldLabel"
+msgstr "نقش"
+
+msgid "productSuperstar12PublicTitle"
+msgstr "12 مہینوں کے لیے سوپر سٹارحالت"
+
+msgid "productSuperstar1PublicTitle"
+msgstr "1 مہینے کے لیے سوپرسٹار حالت"
+
+msgid "productSuperstar3PublicTitle"
+msgstr "3 مہینے کے لیے سوپر سٹار حالت"
+
+msgid "productSuperstar6PublicTitle"
+msgstr "6 ماہ کےلیے سوپر سٹار حالت"
+
+msgid "productSuperstarFriendly"
+msgstr "دوستانہ"
+
+msgid "productSuperstarStatusModelFieldPeriod"
+msgstr "وقت کا دورانیہ"
+
+msgid "productSuperstarStatusModelFieldType"
+msgstr "قسم"
+
+msgid "productSuperstarTypeRomantic"
+msgstr "رومانوی"
+
+msgid "productTopFacesPublicTitle"
+msgstr "بالا میں شامل کریں"
+
+msgid "publicFlashNotifierWidgetPresentBalanceWasChanged"
+msgstr "اکاؤنٹ بیلنس میں %d %s کمی آئی تھی"
+
+msgid "publicFlashNotifierWidgetPresentNotice"
+msgstr "آپ نے ایک تحفہ منتخب کیا ہے"
+
+msgid "sendGiftDialogCommentLabel"
+msgstr "آپ کا پیغام یا شکایت"
+
+msgid "sendGiftDialogHiddenFieldLabel"
+msgstr "صرف وصول کنندہ تحفے کو دیکھ سکتاہے"
+
+msgid "sendGiftDialogSubmit"
+msgstr "بھیجیں"
+
+msgid "sendGiftDialogText"
+msgstr "اپنی طرف توجہ مرکوز کرنے کا یہ بہترین طریقہ ہے"
+
+msgid "sendGiftDialogTitle"
+msgstr "تحفہ بھیجیں"
+
+msgid "superstarModelAttributeBegin"
+msgstr "شروع کریں"
+
+msgid "superstarModelAttributeFinish"
+msgstr "ختم"
+
+msgid "superstarModelAttributeUser"
+msgstr "صارف"
+
+msgid "topFacesDialogNotice"
+msgstr "قیمت ہے  %d %s"
+
+msgid "userRatingAndBalanceWidgetBecameSuperstar"
+msgstr "سوپر سٹار بنیں"
+
+msgid "userRatingAndBalanceWidgetRatingExtraLow"
+msgstr "بہت کم"
+
+msgid "userRatingAndBalanceWidgetRatingLow"
+msgstr "کم"
+
+msgid "userRatingAndBalanceWidgetRatingMiddle"
+msgstr "اوسط"
+
+msgid "userRatingAndBalanceWidgetRatingHigh"
+msgstr "اونچا"
+
+msgid "userRatingAndBalanceWidgetRatingExtraHigh"
+msgstr "بہت زیادہ"
+
+msgid "userRatingAndBalanceWidgetFillUpBalance"
+msgstr "سکے حاصل کریں"
+
+msgid "userRatingAndBalanceWidgetIncrease"
+msgstr "اضافہ"
+
+msgid "userRatingAndBalanceWidgetRatingAndVisitorsText"
+msgstr ""
+"آپ کی تلاش حالت  <a href='%s'>%s</a> ہےاور آج آپ کے پاس  <a href='%s'>%d</a> "
+"%s ہے"
+
+msgid "userRatingAndBalanceWidgetToTop"
+msgstr "ٹاپ تک"
+
+msgid "userRatingAndBalanceWidgetYourRating"
+msgstr "آپ کی شہرت"
+
+msgid "userViewBalloonActivateSuperstar"
+msgstr "سوپر سٹارحالت اہل کریں"
+
+msgid "userViewBalloonReturnToBasicSearch"
+msgstr "واپس تلاش پر"
+
+msgid "userViewBalloonTitle"
+msgstr ""
+"اعلی تلاش استعمال کر کے پروفائل دیکھنے کے لیے، آپکو سوپر سٹار اہل کرنے کی "
+"ضرورت ہے"
+
+msgid "walletBalanceChangesAmount"
+msgstr "مقدار"
+
+msgid "walletBalanceChangesBalance"
+msgstr "موجودہ اکاؤنٹ کا بیلنس"
+
+msgid "walletBalanceChangesCode"
+msgstr "کوڈ"
+
+msgid "walletBalanceChangesDescription"
+msgstr "وضاحت"
+
+msgid "walletBalanceChangesPrice"
+msgstr "قیمت"
+
+msgid "walletBalanceChangesProductId"
+msgstr "مصنوعہ"
+
+msgid "walletBalanceChangesTimestamp"
+msgstr "وقت"
+
+msgid "walletBalanceChangesUserId"
+msgstr "صارف"
+
+msgid "walletProductsCode"
+msgstr "کوڈ"
+
+msgid "walletProductsCreatedAt"
+msgstr "تخلیق کی تاریخ"
+
+msgid "walletProductsCreatedBy"
+msgstr "تخلیق کردہ"
+
+msgid "walletProductsDescription"
+msgstr "وضاحت"
+
+msgid "walletProductsPrice"
+msgstr "قیمت"
+
+msgid "walletProductsTitle"
+msgstr "عنوان"
+
+msgid "walletProductsUpdatedAt"
+msgstr "تازہ کاری"
+
+msgid "walletProductsUpdatedBy"
+msgstr "کی جانب سے تازہ کاری"
+
+msgid "YourBalanceWasIncreasedText"
+msgstr "آپ کے اکاؤنٹ بیلنس میں  %d %s کا اضافہ ہوا تھا۔ موجودہ بیلنس ہے %d %s۔"
+
+msgid "YourBalanceWasIncreasedTitle"
+msgstr "اکاونٹ بیلنس میں اضافہ ہوا"
+
+msgid "YourPresentHasBeenSent"
+msgstr "آپ کا تحفہ بھیج دیا گیا ہے"
+
+msgid "sendGiftDialogFilterAll"
+msgstr "تمام"
+
+msgid "sendGiftDialogFilterFriendly"
+msgstr "دوستانہ"
+
+msgid "sendGiftDialogFilterRomantic"
+msgstr "رومانوی"
+
+msgid "paymentDialogBuyCoins"
+msgstr "سکے حاصل کریں"
+
+msgid "carouselNeedBuySuperstarNotice"
+msgstr ""
+"پروفائلز دیکھنے کےلیے آپ کو  <a href=\"%s\"> خریدنے کی ضرورت ہے </a> سوپر "
+"سٹور حالت"
+
+msgid "leftMenuSearchPosition"
+msgstr "پوزیشن تلاش کریں"
+
+msgid "leftMenuVisitorsToday"
+msgstr "%s آج"
+
+msgid "leftMenuButtonTop"
+msgstr "اعلی"
+
+msgid "leftMenuButtonSuperstar"
+msgstr "سوپر سٹار"
+
+msgid "leftMenuBalance"
+msgstr "بیلنس"
+
+msgid "balanceChangeTitle"
+msgstr "اکاؤنٹ بیلنس تبدیل کریں"
+
+msgid "balanceChangeBuyProductDecreaseTitle"
+msgstr "اشیاء کو خریدنا"
+
+msgid "balanceChangeByAdminTitle"
+msgstr "منظم کا تبدیل کردہ"
+
+msgid "balanceChangeDailyTitle"
+msgstr "بیلنس میں روزانہ اضافہ"
+
+msgid "balanceChangePSIncreaseTitle"
+msgstr "سکے حاصل کریں"
+
+msgid "userProfileAddPresentBaitF"
+msgstr "اسے ایک تحفہ بھجیں تو وہ آپ کے بارے غور کرے گی۔"
+
+msgid "userProfileAddPresentBaitM"
+msgstr "اسے ایک تحفہ بھیجیں اور وہ توجہ دے گی۔"
+
+msgid "mailTemplateTitleNewPresent"
+msgstr "%name% آپ نے %sender_name% on %host% کی جانب سے ایک تحفہ وصول کیا ہے۔"
+
+msgid "mailTemplateBodyNewPresent"
+msgstr ""
+"<a href='%sender_profile_url%'>%sender_name%</a> نے آپ کو ایک تحفہ بھیجا ہے۔ "
+"آپ اس کو اپنی <a href='%پروفائل_url%'>profile</a>. پر دیکھ سکتے ہیں۔"
+
+msgid "balanceChangeBuyProductSuperstarDecreaseTitle"
+msgstr "سپر سٹار حالت کی فعالیت کیلئے ادائیگی۔"
+
+msgid "balanceChangeBuyProductPresentDecreaseTitle"
+msgstr "ایک تحفے کی خریداری کیلئے ادائیگی"
+
+msgid "balanceChangeBuyProductTopFacesDecreaseTitle"
+msgstr "آپ کی شہرت کی مقبولیت کیلئے ادائیگی"
+
+msgid "userTransactionsPageTitle"
+msgstr "آپ کا موجودہ اکاؤنٹ بیلنس"
+
+msgid "userTransactionsPageDescription"
+msgstr ""
+"آپ کا اکاؤنٹ اور ہمارے ساتھ آپ کی خریداری کی تاریخ <br />  \"اکاؤنٹ حالت\" "
+"میں آپ اپنے اکاؤنٹ کی موجودہ حالت دیکھ سکتے ہیں اور <br />  چھاپنے سے متعلقہ "
+"دستاویز دیکھ سکتے ہیں۔ \"خریداری تاریخ\" میں آپ اپنے خریداری اور اخراجات "
+"بارے جان سکتے ہیں۔"
+
+msgid "userTransactionsPageLinkTypeExpenses"
+msgstr "اکاؤنٹ کی حالت"
+
+msgid "userTransactionsPageLinkTypeIncomes"
+msgstr "خریداری تاریخ"
+
+msgid "userTransactionsPageTableHeaderCol1"
+msgstr "ٹرانزیکشن"
+
+msgid "userTransactionsPageTableHeaderCol2"
+msgstr "تاریخ"
+
+msgid "userTransactionsPageTableHeaderCol3"
+msgstr "رقم"
+
+msgid "userTransactionsPageLinkAll"
+msgstr "سارے دیکھیں"
+
+msgid "monetizationInfoPageLinkTransactions"
+msgstr "اکاؤنٹ سٹیٹمنٹ"
+
+msgid "SuperstarPaymentWasPurchasedTitle"
+msgstr "آپ نے کامیابی سے سپر سٹار حالت فعال کرلی ہے!"
+
+msgid "monetizationInfoPageLinkRecharge"
+msgstr "سکے حاصل کریں"
+
+msgid "messageNewPresentText"
+msgstr ""
+
+msgid "superstarInfoPageTitle"
+msgstr "سپر سٹار بنیں!"
+
+msgid "superstarInfoPageTitleNotice"
+msgstr "سپر سٹار موڈ آپ کو اور لوگوں سے تیز ملنے کی مدد کرتی ہے۔"
+
+msgid "superstarInfoPageEncountersTitle"
+msgstr "مجادلہ - جانیے کون آپ سے ملنا چاہتا ہے"
+
+msgid "superstarInfoPageEncountersNotice"
+msgstr "یہ جاننے کیلئے کہ کس نے \"ہاں\" کی ہے مجادلہ فولڈر حاصل کریں۔"
+
+msgid "superstarInfoPageAdvancedSearchTitle"
+msgstr "اعلی تلاش"
+
+msgid "superstarInfoPageAdvancedSearchNotice"
+msgstr "وہ پروفائل چیک کریں جو ہوبہو اس سے ملتی ہیں جسے آپ تلاش کررہے ہیں۔"
+
+msgid "superstarInfoPageInvisibleModeTitle"
+msgstr "غیر مرئی موڈ"
+
+msgid "superstarInfoPageInvisibleModeNotice"
+msgstr ""
+"دوسرے اراکین کی پروفائل غیر مرئی طور پر دیکھیں۔ وہ کبھی بھی جان نہیں پائیں "
+"گے کہ آپ وہاں تھے۔۔۔"
+
+msgid "superstarInfoPageLimitsTitle"
+msgstr "کوئی اور حد نہیں"
+
+msgid "superstarInfoPageLimitsNotice"
+msgstr "غیر محدود غل غپاڑہ اور مستی، تلاش اور بات چیت"
+
+msgid "superstarInfoPageButtonBuy"
+msgstr "سپر سٹار بنیں"
+
+msgid "superstarInfoPageButtonRun"
+msgstr "مفت میں کوشش کیجیے"
+
+msgid "or"
+msgstr "یا"
+
+msgid "close"
+msgstr "بند"
+
+msgid "YouHaveReceivedAGift"
+msgstr "آپ کو ایک تحفہ ملا ہے"
+
+msgid "YouHaveMadeAGift"
+msgstr "آپ نے ایک تحفہ بھیجا ہے"
+
+msgid "paymentDialogWidgetTermsOfUseText"
+msgstr ""
+"“اداکریں” دبانے سے آپ lovetime.com کو#PaySystemName#  سے 0.83 امریکی ڈالر "
+"کاٹنے کی اجازت دیتے ہیں تاکہ آپ 10 سکے حاصل کرسکیں جو کہ lovetime.com پہ "
+"استعمال کیے جاسکتے ہیں آپ سکوں کے Lovetime.com پہ استعمال کی مندرجہ ذیل "
+"شرائط سے بھی اتفاق کرتے ہیں۔ اگر آپ ادائیگی کا طریقہ بدلنا چاہتے ہیں تو آپ "
+"اپنی سیٹنگیں تازہ کر سکتے ہیں۔ Lovetime پہ سکوں کے استعمال کی شرائط :1۔ جب "
+"آپ سکے خریدتے یا وصول کرتے ہیں تو وہ سکے آپ کی ملکیت نہیں ہوتے۔ لیکن "
+"Lovetime پر دی گئي خصوصیات جیسا کہ تحفے، سپر سٹار حالت وغیرہ کو خریدنے کیلئے "
+"آپ ان کا استعمال کرسکتےہیں۔2۔ خریدے ہوئے سکے قابل واپسی نہیں ہیں۔3۔ ہم کسی "
+"بھی وقت سکوں کی قیمت خرید اور ویب سائٹ پر ان کے استعمال کا طریقہ تبدیل کر "
+"سکتے ہیں۔ ہم سکوں کے اجرا کو روکنے کا اختیار بھی محفوظ رکھتے ہیں۔4۔ سکے کسی "
+"بھی رقم کی مقدار یا مالی قدر کے برابر نہیں ہیں سوائے اس کے کہ ہم تحریری طور "
+"پر اس پر متفق ہوں۔5- نا استعمال کردہ سکوں کی خرید کے 6 مہینوں بعد معیاد ختم "
+"ہوجائے گی۔6۔ اگر آپ اپنا اکاؤنٹ خارج کرتے ہیں یا آپ کا اکاؤنٹ Lovetime کے "
+"ثالثوں کی جانب سے استعمال کی شرائط کی خلاف ورزی کی وجہ سے معطل کردئیے جاتے "
+"ہیں تو آپ کے تمام جمع شدہ سکے ضائع ہوجائیں گے۔ 7۔ اگر آپ کسی سکیم کے تحت مفت "
+"سکے حاصل کرتے ہیں تو ہم انہیں کسی بھی وقت ضائع کرنے کا حق محفوظ رکھتے "
+"ہیں۔ادائگیاں Lovetime Ltd. کی جانب سے روبہ عمل میں لائی جاتی ہیں۔"
+
+msgid "payonlineTetmsOfUse"
+msgstr ""
+"<p>ختمی ادائیگی رقم، ویب پتہ یا کمپنی نام، شناخت کنندہ (نمبر) برائے کام یا "
+"ایک قابل ادا حکم نامہ۔</p><p>آپ کی نجی معلومات خاص طور پہ پے آن لائن نظام "
+"میں محفوظ ہے۔ ہم گارنٹی دیتے ہیں کہ یہ معلومات کسی بھی حالت میں کسی تیسرے "
+"فریق کو نہیں فراہم کی جائے گی، ماسوائے جمہوریہ روس کے قابل اطلاق قوانین کی "
+"تعمیل کے لیے قومی اتھارٹیوں کی جانب سے تحریری درخواست جمع کروا کر۔ </p><p>پے "
+"آن لائن نظام لمیٹڈ وفاقی رجسٹر برائے آپریٹرز میں رجسٹریشن نمبر 10-0104880 کے "
+"تحت رجسٹر شدہ ہے اور اس کا مقصد عام افراد کے ذاتی مواد کو اکٹھا کرنا، محفوظ "
+"کرنا اور عمل میں لانا ہے۔ </p><p>آپ کی کریڈٹ کارڈ معلومات محض لین دین کے وقت "
+"استعمال کی جاتی ہے اور یہ ایک محصول بنک کو خفیہ کار وضع میں بذریعہ محفوظ "
+"پروٹوکول منتقل کی جاتی ہے۔ آپ کے کریڈٹ کارڈ کی تفصیلات پے آن لائن نظام میں "
+"محفوظ نہیں کی جاتی ہیں، اور لہذا کسی بھی حالت میں تیسرے فریق کو منتقل نہیں "
+"کی جاسکتی ہیں۔ </p><p>اگر آپ کو ادائیگی سے متعلق کوئی سوالات ہیں، آپ صارف "
+"معاون سے بذریعہ فون:  +8 (800) 7000 729 (روس میں ٹال فری)، +7 (495) 666 2143 "
+"یا بذریعہ ای میل: support@payonline.ru رابطہ کرسکتے ہیں۔ </p><p>آپ یہ "
+"معلومات اپنی بنک سٹیٹمنٹ میں Lovetime.com آئی ڈی استعمال کرتے ہوئے حاصل "
+"کرسکتے ہیں۔ </p><p>براہ مہربانی نوٹ رکھیں کہ آپ کی ذاتی معلومات کے غیر مجاز "
+"استعمال کو روکنے کے لیے آپ کی آئی ڈی محفوظ کی جائے گی۔ ذاتی معلومات کے کسی "
+"بھی طرح کے غیر مجاز استعمال کو سنجیدگی سے نبٹا جائے گا، روکا جائے گااور "
+"قانون کے مطابق عمل کیا جائے گا۔</p>"
+
+msgid "unsubscribeWrongEmail"
+msgstr "غلط ای میل پتہ"
+
+msgid "contestMain"
+msgstr ""
+
+msgid "contestFindYourLove"
+msgstr "اپنے پیار کو تلاش کریں"
+
+msgid "contestIncreaseChanceSuccess"
+msgstr "کامیابی کے مواقع کو بڑھائیں"
+
+msgid "contestOr"
+msgstr "یا"
+
+msgid "contestFindLove"
+msgstr "محبت تلاش کریں"
+
+msgid "contestResult"
+msgstr "نتیجہ"
+
+msgid "contestSelectAll"
+msgstr "تمام انتخاب کریں"
+
+msgid "contestPhotoPhrase1"
+msgstr "کوئی تصویر نہیں؟ کوئی تحفہ نہیں!"
+
+msgid "contestPhotoPhrase2"
+msgstr ""
+"معذرت خواہ ہیں، صرف تصویر والے مصدقہ صارفین ہمارے بہترین انعامات جیت سکتے "
+"ہیں، <br />براہ مہربانی تصویرکا اضافہ کریں۔"
+
+msgid "contestPhotoPhrase3"
+msgstr ""
+"کھینچیں اور پھینکیں <br />اپنے کمپیوٹر سے فائلیں<br />یہاں پہ تاکہ اپ لوڈ کی "
+"جاسکیں"
+
+msgid "contestUploadPhoto"
+msgstr "تصویر اپ لوڈ کریں"
+
+msgid "contestImportPhoto"
+msgstr "یا تصویر امپورٹ کریں سے"
+
+msgid "contestFbProfile"
+msgstr "Facebook پروفائل"
+
+msgid "contestGoogleProfile"
+msgstr "Google+ پروفائل"
+
+msgid "contestInviteMorePhrase"
+msgstr ""
+"آپ نے<span>%d</span>صارفین کو دعوت دی۔۔۔<br>اگر ان میں سے کوئی جیتتا "
+"ہے<br><b>تو آپ بھی انعام جیتیں گے! </b><button class='n-d-more-button'>اپنے "
+"مواقع کو بڑھائیں؛ <ins>مزید صارفین کو دعوت دیں</ins></button>یا<a href='/' "
+"target='_blank'>اپنے پیار کو ڈھونڈیں</a>!"
+
+msgid "contestAnnouncePhrase1"
+msgstr ""
+"آپ نے <strong class='announce-contest__highlight'>%d</strong>صارفین کو مدعو "
+"کیا!"
+
+msgid "contestAnnouncePhrase2"
+msgstr "اگر ان میں سے کوئی جیتتا ہے"
+
+msgid "contestAnnouncePhrase3"
+msgstr "آپ کو بھی وہی انعام ملے گا"
+
+msgid "contestAnnouncePhrase4"
+msgstr "مزید لوگوں کو مدعو کریں"
+
+msgid "contestAnnouncePhrase5"
+msgstr "اپنے جیتنے کے مواقع کو بڑھائیں"
+
+msgid "contestAnnouncePhrase6"
+msgstr "Lovetime انعامات قرعہ اندازی!"
+
+msgid "contestAnnouncePhrase7"
+msgstr "خواب پورے ہوتے ہیں ..."
+
+msgid "contestAnnouncePhrase8"
+msgstr "سائن اپ کریں اور جیتیں"
+
+msgid "contest"
+msgstr "قرعہ اندازی"
+
+msgid "step1"
+msgstr "مرحلہ 1"
+
+msgid "step2"
+msgstr "مرحلہ 2"
+
+msgid "step3"
+msgstr "مرحلہ 3"
+
+msgid "contestInviteByOtherServices"
+msgstr ""
+"جیتنے کے اپنے مواقع کو بڑھائیں! ایک اور میل باکس جوڑیں (Hotmail, Yahoo, "
+"Gmail) یا <a href=\"%s\" target=\"_blank\">اپنے Facebook دوستوں کو دعوت دیں</"
+"a> یا لنک %s نقل کریں"
+
+msgid "cntTitle"
+msgstr ""
+
+msgid "cntRegister"
+msgstr ""
+
+msgid "cntInviteFriends"
+msgstr ""
+
+msgid "cntSamePrize"
+msgstr ""
+
+msgid "cntHigherChances"
+msgstr ""
+
+msgid "cntAddFriends"
+msgstr ""
+
+msgid "cntBannerUsersOnly"
+msgstr ""
+
+msgid "cntBannerParticipatePrizeDraw"
+msgstr ""
+
+msgid "cntBannerFbDescription"
+msgstr ""
+
+msgid "cntPhotoDrag"
+msgstr ""
+
+msgid "cntPhotoUpload"
+msgstr ""
+
+msgid "cntPhotoImport"
+msgstr ""
+
+msgid "cntNext"
+msgstr ""
+
+msgid "cntNotSelected"
+msgstr ""
+
+msgid "cntInvited"
+msgstr ""
+
+msgid "cntWinsSamePrize"
+msgstr ""
+
+msgid "cntIncreaseChances"
+msgstr ""
+
+msgid "cntDropHere"
+msgstr ""
+
+msgid "cntUnselectAll"
+msgstr ""
+
+msgid "cntSelectAll"
+msgstr ""
+
+msgid "cntHours"
+msgstr ""
+
+msgid "cntMinutes"
+msgstr ""
+
+msgid "cntSeconds"
+msgstr ""
+
+msgid "emailContestSubject"
+msgstr ""
+
+msgid "emailContestTitle"
+msgstr ""
+
+msgid "emailContestJoinUs"
+msgstr ""
+
+msgid "emailContestPrizesDescriptions"
+msgstr ""
+
+msgid "emailContestRegister"
+msgstr ""
+
+msgid "emailContestTerms"
+msgstr ""
+
+msgid "emailContestClickHere"
+msgstr ""
+
+msgid "emailContestPrizes"
+msgstr ""
+
+msgid "emailContestUnsubscribe"
+msgstr ""
+
+msgid "actionNote"
+msgstr "نوٹ بنائیں"
+
+msgid "noteEdit"
+msgstr "تدوین کریں"
+
+msgid "noteRemove"
+msgstr "حذف کریں"
+
+msgid "noteSave"
+msgstr "محفوظ کریں"
+
+msgid "noteConfirmDelete"
+msgstr "کیا آپ کو یقین ہے کہ آپ یہ معلومات حذف کرنا چاہتے ہیں؟"
+
+msgid "lettersCheckSpamFolder"
+msgstr ""
+"اپنے ردی فولڈر کی پڑتال کریں یقین کرنے کے لیے کہ ہمارے پیغامات کو چھانٹ نہیں "
+"دیا گیا ہے۔ اگر ایسا ہے، براہ مہربانی اس کا انتخاب کریں اور ردی نا کریں پہ "
+"کلک کریں۔"
+
+msgid "lettersMarkEmailNotSpam"
+msgstr "اور اس ای میل کو <u>ردی نہیں ہے</u> کے طور پہ نشان زدہ کریں۔"
+
+msgid "pagesContacts"
+msgstr ""
+"<b>پتہ:</b> <br /> 25/4 Soi Ratchadaphisak 36, Ratchadaphisak Rd., "
+"ChanKasem, Chatuchak BKK 10900 Thailand <br /><br /> <br /> Phnom Penh "
+"Tower, 12F, #445, 232/93 (Monivong Blvd), Phnom Penh, Cambodia, 12258 <br /"
+"><br /> <br /> Russia, Moscow, Svobody str. 50, Build. 3, 125364 <br /><br /"
+"> <b>ای میل:</b><br /><a href=\"mailto:info@lovetime.com\">info@lovetime."
+"com</a>"
+
+msgid "seocatalogTitleInCity"
+msgstr ""
+"لڑکی، لڑکے، مرد اور عورت کو %city_title% میں ملنے کے لیے ایک ملاقاتی سائٹ"
+
+msgid "seocatalogH1InCity"
+msgstr "%city_title% میں ملاقات"
+
+msgid "seocatalogSeeking"
+msgstr "تلاش کررہا ہے"
+
+msgid "seocatalogAge"
+msgstr "عمر"
+
+msgid "seocatalogAppearance"
+msgstr "شکل وصورت"
+
+msgid "seocatalogOther"
+msgstr "دیگر"
+
+msgid "seocatalogNext"
+msgstr "مزید"
+
+msgid "seocatalogWoman"
+msgstr "خاتون"
+
+msgid "seocatalogMen"
+msgstr "مرد"
+
+msgid "seocatalogLesbian"
+msgstr "ہم جنس پرست عورت"
+
+msgid "seocatalogGay"
+msgstr "ہم جنس پرست مرد"
+
+msgid "seocatalogBisexual"
+msgstr "دوجنسیہ"
+
+msgid "seocatalogFriendship"
+msgstr "دوستی اور ابلاغیات"
+
+msgid "seocatalogRomanticRelations"
+msgstr "رومانوی تعلقات"
+
+msgid "seocatalogFlirt"
+msgstr "عشق بازی"
+
+msgid "seocatalogSex"
+msgstr "جنسی تعلقات"
+
+msgid "seocatalogBlondes"
+msgstr "گوری چمڑی کی عورت"
+
+msgid "seocatalogBrunettes"
+msgstr "بھورے بالوں والی عورت"
+
+msgid "seocatalogBrownHair"
+msgstr "بھورے بال والی"
+
+msgid "seocatalogAthletic"
+msgstr "تنو مند"
+
+msgid "seocatalogSlim"
+msgstr "دبلی پتلی/بلا پتلا"
+
+msgid "seocatalogHeavy"
+msgstr "بھاری جسامت"
+
+msgid "seocatalogForeigner"
+msgstr "غیر ملکی"
+
+msgid "seocatalogRich"
+msgstr "امیر"
+
+msgid "seocatalogSingle"
+msgstr "تنہا"
+
+msgid "seocatalogNoBadHabits"
+msgstr "بنا بری عادتوں والا"
+
+msgid "chatFilterManGifts"
+msgstr ""
+"%s ننے اپنے پیغام چھانٹ کو چالو کیا  ہوا ہے تاکہ آپ پیغامات نا بھیج سکیں۔"
+"<b>انہیں تحفہ بھیجیں</b>اور اس سے پابندی ختم ہوجائے گی۔ یا کسی اور کے ساتھ "
+"گفتگو کرنے کی کوشش کریں۔"
+
+msgid "chatFilterWomanGifts"
+msgstr ""
+"%s ننے اپنے پیغام چھانٹ کوچالو کیا ہوا ہے تاکہ آپ پیغامات نا بھیج سکیں۔"
+"<b>انہیں تحفہ بھیجیں</b>اور اس سے پابندی ختم ہوجائے گی۔ یا کسی اور کے ساتھ "
+"گفتگو کرنے کی کوشش کریں۔"
+
+msgid "modelLoginFormEmailOrNick"
+msgstr "ای میل"
+
+msgid "modelLoginFormPassword"
+msgstr "پاس ورڈ"
+
+msgid "modelLoginFormAlien"
+msgstr "میراکمپیوٹر نہیں"
+
+msgid "loginErrorInvalidEmailOrPassword"
+msgstr "غلط ای میل یا پاس ورڈ"
+
+msgid "systemForgotPassword"
+msgstr "اپنا پاس ورڈ بھول گئے"
+
+msgid "loginErrorUserNotVisible"
+msgstr "صارف٪ S کے لئے  رسائی کی ردہو گیئ ہے."
+
+msgid "wrongEmail"
+msgstr "جعلی ای میل"
+
+msgid "errorEmailExists"
+msgstr "ایک اور ای میل درج کریں"
+
+msgid "citationsDefault1"
+msgstr "ہائے، کیا حال ہے؟"
+
+msgid "citationsDefault2"
+msgstr "ہائے، کیا ہو رہا ہے؟"
+
+msgid "modelUsersValidateReservedNicks"
+msgstr "براہ مہربانی کوئی دوسرا عرف منتخب کریں"
+
+msgid "registrationFormWrongDate"
+msgstr "غلط ڈیٹا"
+
+msgid "months1"
+msgstr "جنوری"
+
+msgid "months2"
+msgstr "فروری"
+
+msgid "months3"
+msgstr "مارچ"
+
+msgid "months4"
+msgstr "اپریل"
+
+msgid "months5"
+msgstr "مئی"
+
+msgid "months6"
+msgstr "جون"
+
+msgid "months7"
+msgstr "جولائی"
+
+msgid "months8"
+msgstr "اگست"
+
+msgid "months9"
+msgstr "ستمبر"
+
+msgid "months10"
+msgstr "اکتوبر"
+
+msgid "months11"
+msgstr "نومبر"
+
+msgid "months12"
+msgstr "دسمبر"
+
+msgid "modelSmileCode"
+msgstr "کوڈ"
+
+msgid "modelSmileImage"
+msgstr "تصویر"
+
+msgid "modelSmileVisible"
+msgstr "مرئیت"
+
+msgid "Noactive"
+msgstr "نہیں"
+
+msgid "modelSpamersName"
+msgstr ""
+
+msgid "modelUsersName"
+msgstr "عرف"
+
+msgid "modelUsersEmail"
+msgstr "ای میل"
+
+msgid "modelComplaintsStatus"
+msgstr "درجہ"
+
+msgid "modelSpamersTime"
+msgstr ""
+
+msgid "modelSpamersMessages"
+msgstr ""
+
+msgid "modelComplaintsSenderId"
+msgstr "مرسل"
+
+msgid "modelComplaintsCompanionId"
+msgstr "ملزم"
+
+msgid "modelComplaintsReasonText"
+msgstr "وجہ"
+
+msgid "modelComplaintsComment"
+msgstr "تبصرہ"
+
+msgid "modelComplaintsCompanion"
+msgstr "مدعا علیہ"
+
+msgid "modelComplaintsSender"
+msgstr "استغاثہ"
+
+msgid "complainReason1"
+msgstr "ردی، اشتہارات"
+
+msgid "complainReason2"
+msgstr "دھوکہ"
+
+msgid "complainReason3"
+msgstr "نامناسب تجویز"
+
+msgid "complainReason4"
+msgstr "بدتمیزی، دھمکیاں"
+
+msgid "complainReason5"
+msgstr "لاوارث تصاویر"
+
+msgid "complainReason6"
+msgstr "سیکس کی درخواست"
+
+msgid "photosRefuseReasonPicture"
+msgstr "ڈرائنگ شے یا جانور"
+
+msgid "photosRefuseReasonErotica"
+msgstr "لغو، توہین"
+
+msgid "photosRefuseReasonFamous"
+msgstr "مشہور شخصیت"
+
+msgid "photosRefuseReasonSpam"
+msgstr "ردی، اشتہارات"
+
+msgid "photosRefuseReasonPoorQuality"
+msgstr "ناقص معیار"
+
+msgid "photosRefuseReasonOnlyYouMustBeSeen"
+msgstr "صرف آپ تصویرمیں ظاہر ہوسکتے ہیں"
+
+msgid "photosRefuseReasonNotVisibleFace"
+msgstr "نمایاں چہرہ نہیں"
+
+msgid "photosRefuseReasonChildOnThePhoto"
+msgstr "تصویر پر بچے"
+
+msgid "photosRefuseReasonExcessiveDecoration"
+msgstr "ضرورت سے زیادہ سجاوٹ"
+
+msgid "photosStatusAccept"
+msgstr "قبول"
+
+msgid "photosStatusRefuse"
+msgstr "انکار"
+
+msgid "userName"
+msgstr "نام"
+
+msgid "feedbackText"
+msgstr "متن"
+
+msgid "userWrongOldPasswError"
+msgstr "غلط پاس ورڈ"
+
+msgid "userPasswTooShort"
+msgstr "نیا پاس ورڈ بہت مختصر ہے (کم از کم حروف)"
+
+msgid "dateFormat"
+msgstr "اقدار dd.mm.yyyy کی شکل میں ہونی چاہں"
+
+msgid "modelUsersValidateRequireMessage"
+msgstr "٪ S فیلڈ درکار ہے"
+
+msgid "modelUsersLookingFor"
+msgstr "میں ڈھونڈھ رہا ہوں"
+
+msgid "modelUsersPassword"
+msgstr "پاس ورڈ"
+
+msgid "modelUsersOldPassword"
+msgstr "موجودہ پاس ورڈ"
+
+msgid "modelUsersNewPassword"
+msgstr "نیا پاس ورڈ"
+
+msgid "modelUsersVisible"
+msgstr "مرئیت"
+
+msgid "modelUsersRole"
+msgstr "گروپ"
+
+msgid "modelUsersPhone"
+msgstr "فون نمبر"
+
+msgid "modelUsersVkId"
+msgstr "Vkontakte آئی ڈی"
+
+msgid "modelUsersFacebookId"
+msgstr "facebook آئی ڈی"
+
+msgid "modelUsersTwitterId"
+msgstr "Twitter آئی ڈی"
+
+msgid "modelUsersAvatar"
+msgstr "اوتار"
+
+msgid "modelUsersDefaultAvatar"
+msgstr "معیاری اوتار"
+
+msgid "modelUsersCity"
+msgstr "شہر"
+
+msgid "modelUsersCountry"
+msgstr "ملک"
+
+msgid "modelUsersResidence"
+msgstr "مقام"
+
+msgid "modelUsersLat"
+msgstr "عرض بلد"
+
+msgid "modelUsersLng"
+msgstr "طول بلد"
+
+msgid "modelUsersAbout"
+msgstr "میرے بارے میں"
+
+msgid "profileStatus"
+msgstr "درجہ"
+
+msgid "modelUsersIntroduceMyself"
+msgstr "میری حیثیت"
+
+msgid "modelUsersWantToMeet"
+msgstr "تلاش کرنا چاہتے ہیں"
+
+msgid "modelUsersPreferredAge"
+msgstr "ترجیحی عمر"
+
+msgid "dateofbirth"
+msgstr "تاریخ پیدائش"
+
+msgid "modelUsersHeight"
+msgstr "سینٹی میٹر میں"
+
+msgid "modelUsersWeight"
+msgstr "وزن"
+
+msgid "modelUsersPhysique"
+msgstr "جسمانی قسم"
+
+msgid "modelUsersColor"
+msgstr "بالوں کا رنگ"
+
+msgid "modelUsersColorEyes"
+msgstr "آنکھ کا رنگ"
+
+msgid "modelUsersSign"
+msgstr "برج کی علامت "
+
+msgid "modelUsersType"
+msgstr "ملاقات کا مقصد"
+
+msgid "modelUsersAcquainted"
+msgstr "مجھے آشنائی حاصل ہوئی ..."
+
+msgid "modelUsersBed"
+msgstr "مجامعت میں مجھے پسند ہے"
+
+msgid "modelUsersExcites"
+msgstr "میں اس کے بارے میں پر جوش ہوں"
+
+msgid "modelUsersStatus"
+msgstr "رشتہ کی حیثیت"
+
+msgid "modelUsersChildren"
+msgstr "بچے"
+
+msgid "modelUsersOrientation"
+msgstr "جنسی رجحان"
+
+msgid "modelUsersSmoking"
+msgstr "تمباکو نوشی"
+
+msgid "modelUsersAlcohol"
+msgstr "شراب نوشی"
+
+msgid "modelUsersEducation"
+msgstr "تعلیم"
+
+msgid "modelUsersJob"
+msgstr "ملازمت"
+
+msgid "modelUsersIncome"
+msgstr "آمدنی "
+
+msgid "modelUsersLove_work"
+msgstr "کام میں مجھے پسند ہے"
+
+msgid "modelUsersLove_institute"
+msgstr "یونیورسٹی مجھے پسند ہے"
+
+msgid "modelUsersLove_go"
+msgstr "مجھے جانا اچھا لگتا ہے"
+
+msgid "modelUsersLove_music"
+msgstr "پسندیدہ موسیقی"
+
+msgid "modelUsersBan"
+msgstr " پابندی "
+
+msgid "modelUsersSendEmails"
+msgstr "ای میل کے ذریعے اطلاعات حاصل کریں"
+
+msgid "modelUsersSounds"
+msgstr "صوتی پیغام کو فعال کریں"
+
+msgid "modelUsersShowPixeledImages"
+msgstr "نامعلوم افراد کو مبہم تصاویر دکھائیں"
+
+msgid "modelUsersHideImages"
+msgstr "ایک تصویر چھپائیں"
+
+msgid "modelUsersTimeZone"
+msgstr "وقت منطقہ"
+
+msgid "moduleUsersAutoSelectTimeZone"
+msgstr "خود کار طریقے سے تعین کریں"
+
+msgid "modelUsersRegistered"
+msgstr "رجسٹرڈ"
+
+msgid "modelUsersInvitedBy"
+msgstr "دعوت"
+
+msgid "modelUsersLoginWithToken"
+msgstr "ای میل لنک سے خود کار لاگ ان"
+
+msgid "physiqueSlim"
+msgstr "پتلی"
+
+msgid "physiqueAverage"
+msgstr "اوسط"
+
+msgid "physiqueAthletic"
+msgstr "ورزشی"
+
+msgid "physiqueMuscular"
+msgstr "مکمل جسامت"
+
+msgid "physiqueHeavy"
+msgstr "بھاری"
+
+msgid "physiqueFull"
+msgstr "چند اضافی پاؤنڈ"
+
+msgid "colorEyesBrown"
+msgstr "بھورا"
+
+msgid "colorEyesGreen"
+msgstr "سبز"
+
+msgid "colorEyesBlue"
+msgstr "نیلی"
+
+msgid "colorEyesGray"
+msgstr "گرے"
+
+msgid "colorEyesBlack"
+msgstr "سیاہ"
+
+msgid "colorEyesHazel"
+msgstr "ہیزل"
+
+msgid "smokingDoNotSmoke"
+msgstr "نہیں"
+
+msgid "smokingRarely"
+msgstr "کبھی کبھی"
+
+msgid "smokingGiving"
+msgstr "چھوڑنے کی کوشش کر رہے ہیں"
+
+msgid "smokingOften"
+msgstr "اکثر"
+
+msgid "alcoholDoNotDrink"
+msgstr "بالکل نہیں"
+
+msgid "alcoholILikeToDrink"
+msgstr "اکثر"
+
+msgid "alcoholOnHolidays"
+msgstr "سماجی طور پر"
+
+msgid "educationSecondary"
+msgstr "ہائی اسکول"
+
+msgid "educationTechnical"
+msgstr "دو سالہ کالج"
+
+msgid "educationHigher"
+msgstr "کالج / یونیورسٹی"
+
+msgid "incomeLow"
+msgstr "کم"
+
+msgid "incomeMedium"
+msgstr "میڈیم"
+
+msgid "incomeHigh"
+msgstr "بلند"
+
+msgid "systemAdministrator"
+msgstr "منتظم"
+
+msgid "childrenNo"
+msgstr "کوئی نہیں"
+
+msgid "childrenYes"
+msgstr "جی ہاں"
+
+msgid "signAries"
+msgstr "حمل"
+
+msgid "signTaurus"
+msgstr "ثور"
+
+msgid "signTwins"
+msgstr "جوزا"
+
+msgid "signCancer"
+msgstr "سرطان"
+
+msgid "signLion"
+msgstr "اسد"
+
+msgid "signVirgo"
+msgstr "دو شیزہ"
+
+msgid "signLibra"
+msgstr "میزان"
+
+msgid "signScorpio"
+msgstr "بچھو"
+
+msgid "signSagittarius"
+msgstr "قوس"
+
+msgid "signCapricorn"
+msgstr "جدی"
+
+msgid "signAquarius"
+msgstr "دلو"
+
+msgid "signPisces"
+msgstr "حوت"
+
+msgid "changeFieldInSearch"
+msgstr "فعال طور پر تلاش"
+
+msgid "changeFieldHasAFriend"
+msgstr "تعلق میں"
+
+msgid "changeFieldMarried"
+msgstr "شادی شدہ"
+
+msgid "changeFieldNotInSearch"
+msgstr "تلاش نہیں کررہا"
+
+msgid "changeFieldBreaked"
+msgstr "طلاق شدہ"
+
+msgid "haircolorLight"
+msgstr "سنہرے بالوں والی"
+
+msgid "haircolorDark"
+msgstr "سیاہ"
+
+msgid "haircolorRed"
+msgstr "سرخ"
+
+msgid "haircolorTanned"
+msgstr "اسٹریک"
+
+msgid "haircolorBright"
+msgstr "روشن"
+
+msgid "haircolorWhite"
+msgstr "گرے"
+
+msgid "haircolorSkin"
+msgstr "منڈوا"
+
+msgid "haircolorBald"
+msgstr "گنجہ"
+
+msgid "changeFieldHetero"
+msgstr "سیدھے"
+
+msgid "changeFieldGay"
+msgstr "ہم جنس پرست"
+
+msgid "changeFieldBi"
+msgstr "باہم جنس پرست"
+
+msgid "ofWoman"
+msgstr "عورت"
+
+msgid "ofMan"
+msgstr "آدمی"
+
+msgid "introduceMyselfOnlyMyself"
+msgstr "کنواراہ"
+
+msgid "introduceMyselfAsPair"
+msgstr "جوڑا"
+
+msgid "changeFieldFriendship"
+msgstr "دوستی اور مواصلات"
+
+msgid "changeFieldFlirt"
+msgstr "عشق بازی"
+
+msgid "changeFieldRomantic"
+msgstr "رومانوی تعلقات"
+
+msgid "changeFieldSex"
+msgstr "جنس"
+
+msgid "changeFieldAtWork"
+msgstr "کام پر"
+
+msgid "changeFieldNeighbor"
+msgstr "پڑوس میں"
+
+msgid "changeFieldSchool"
+msgstr "اسکول میں / یونیورسٹی میں"
+
+msgid "changeFieldStreet"
+msgstr "گلیوں میں"
+
+msgid "changeFieldOral"
+msgstr "منھ مجامعت"
+
+msgid "changeFieldAnal"
+msgstr "مقعد مجامعت"
+
+msgid "changeFieldGroup"
+msgstr "گروہی مجامعت"
+
+msgid "changeFieldPublic"
+msgstr "عجیب مقامات میں مجامعت"
+
+msgid "changeFieldRoleplay"
+msgstr "کردار ادا کرتا ہے"
+
+msgid "changeFieldToys"
+msgstr "کھلونے"
+
+msgid "changeFieldBdsm"
+msgstr "اذیت پسندی"
+
+msgid "changeFieldClassicSex"
+msgstr "روایتی مجامعت"
+
+msgid "changeFieldSmells"
+msgstr "بو"
+
+msgid "changeFieldHighHair"
+msgstr "جسم کے بال"
+
+msgid "changeFieldTattoo"
+msgstr "ٹیٹو اور سوراخ"
+
+msgid "changeFieldDarkskin"
+msgstr "سیاہ رنگ"
+
+msgid "changeFieldUnderwear"
+msgstr "زیر جامہ"
+
+msgid "changeFieldUniform"
+msgstr "وردی"
+
+msgid "changeFieldStockings"
+msgstr "جرابیں"
+
+msgid "changeFieldFootwear"
+msgstr "جوتے"
+
+msgid "changeFieldDominate"
+msgstr "غلبہ یا اطاعت"
+
+msgid "changeFieldBondage"
+msgstr "باندھ اور غیرحرکی"
+
+msgid "changeFieldPain"
+msgstr "درد"
+
+msgid "monthsJan"
+msgstr "جنوری"
+
+msgid "monthsFeb"
+msgstr "فروری"
+
+msgid "monthsMar"
+msgstr "مارچ"
+
+msgid "monthsApr"
+msgstr "اپریل"
+
+msgid "monthsMay"
+msgstr "مئی"
+
+msgid "monthsJun"
+msgstr "جون"
+
+msgid "monthsJul"
+msgstr "جولائی"
+
+msgid "monthsAug"
+msgstr "اگست"
+
+msgid "monthsSep"
+msgstr "ستمبر"
+
+msgid "monthsOct"
+msgstr "اکتوبر"
+
+msgid "monthsNov"
+msgstr "نومبر"
+
+msgid "monthsDec"
+msgstr "دسمبر"
+
+msgid "removingProfileCauseIPlaGoBack"
+msgstr "میں عارضی طور پہ ویب سائٹ سے جارہا ہوں لیکن میں واپس آؤں گا۔"
+
+msgid "profileLastVisit"
+msgstr "آخری دورہ آج بوقت ۱۴:۱۸ "
+
+msgid "dateToday"
+msgstr "آج"
+
+msgid "dateYesterday"
+msgstr "کل"
+
+msgid "date2DaysAgo"
+msgstr "پرسوں"
+
+msgid "profileLastVisitAt"
+msgstr "بوقت "
+
+msgid "chatBigMessage"
+msgstr "پیغام بہت طویل ہے. 2000 حروف سے کم."
+
+msgid "errorFolderCreate"
+msgstr "آپ کے پاس پہلے سے ہی اس نام کا فولڈر ہے"
+
+msgid "foldersDeleteError"
+msgstr "معذرت،  منتخب فولڈر کو حذف کرنے میں ناکام رہے: ("
+
+msgid "noteErrorTooLong"
+msgstr "نوٹ  1000 حروف سے زیادہ نہیں ہونا چاہئے"
+
+msgid "noteErrorTags"
+msgstr "نوٹ میں HTML ٹیگ شامل نہیں ہونے چاہئیں."
+
+msgid "guestsWasMan"
+msgid_plural "guestsWasWoman"
+msgstr[0] "آخری بار دیکھا گیا"
+msgstr[1] "آخری بار دیکھےگئے"
+
+msgid "guestsYear"
+msgid_plural "guestsYears"
+msgstr[0] "٪d سال"
+msgstr[1] "٪d سال"
+
+msgid "guestsMonth"
+msgid_plural "guestsMonths"
+msgstr[0] "٪d ماہ"
+msgstr[1] "٪d ماہ"
+
+msgid "guestsDay"
+msgid_plural "guestsDays"
+msgstr[0] "٪d دن"
+msgstr[1] "٪ d دن"
+
+msgid "guestsHour"
+msgid_plural "guestsHours"
+msgstr[0] "s٪ گھنٹہ"
+msgstr[1] "s٪ گھنٹے"
+
+msgid "guestsMinute"
+msgid_plural "guestsMinutes"
+msgstr[0] "s٪ منٹ"
+msgstr[1] "s٪ منٹ"
+
+msgid "guestsBack"
+msgstr "قبل"
+
+msgid "topfacesMessageTooShort"
+msgstr "پیغام 140 حروف سے زیادہ نہیں ہونا چاہئیے."
+
+msgid "topfaceStatusInvalidValue"
+msgstr "سٹیٹس کا خانہ غیر مجاز قیمت پہ مشتمل ہے"
+
+msgid "formErrorNewPasswRepeat"
+msgstr "غلط پاس ورڈ"
+
+msgid "modelLoginFormEmail"
+msgstr "ای میل"
+
+msgid "modelForgotpassPassword"
+msgstr "پاس ورڈ"
+
+msgid "modelForgotpassPasswordRepeat"
+msgstr "پاس ورڈ دوبارہ درج کریں"
+
+msgid "modelFogotpassEmailExists"
+msgstr " اس ای میل پتے کے ساتھ کوئی رجسٹرڈ صارف نہیں ہے"
+
+msgid "modelFogotpassInvalidLink"
+msgstr "جعلی لنک"
+
+msgid "modelFogotpassPassDoNotMatch"
+msgstr "پاس ورڈز نہیں ملتے"
+
+msgid "visitors"
+msgstr ""
+
+msgid "facebookLikeShowUsYouLikeUs"
+msgstr "ظاہر کریں کہ ہم آپ کو اچھے لگے ہیں!"
+
+msgid "systemRegisterSmall"
+msgstr "رجسٹریشن"
+
+msgid "chatMoveIn"
+msgstr "کو منتقل"
+
+msgid "chatFoldersFirst"
+msgstr "عمومی"
+
+msgid "chatFoldersSecond"
+msgstr "پسندیدگان"
+
+msgid "chatFoldersThird"
+msgstr "نظر انداز"
+
+msgid "langRussian"
+msgstr "روسی"
+
+msgid "yourPhotoHere"
+msgstr "آپ کی تصویر یہاں"
+
+msgid "topfacesAdd"
+msgstr "ٹاپ کریں! &nbsp"
+
+msgid "topfacesItsYou"
+msgstr "یہ تم ہو!"
+
+msgid "userBalloonChat"
+msgstr "ایک پیغام لکھیں"
+
+msgid "userBalloonProfile"
+msgstr "دیکھیے پروفائل"
+
+msgid "topfacesDialogTitle"
+msgstr "خود کو&nbsp Top! میں شامل کریں"
+
+msgid "topfacesDialogChoosePhoto"
+msgstr ""
+"اپنی تصویر یا <a href=\"/users/views\"> ایک نئی اپ لوڈ&nbsp </a> منتخب کریں"
+
+msgid "topfacesDialogTypeMessage"
+msgstr "ایک مختصر پیغام ٹائپ کریں"
+
+msgid "actionSend"
+msgstr "ارسال کریں"
+
+msgid "topfacesDialogNoPhotos"
+msgstr ""
+"ٹاپ پہ&nbsp تصاویر شامل کرنے کے لیے ااپ کو سب سے پہلےایک &nbspپروفائل تصویر "
+"<a href=\"/users/view/٪s\"> اپ لوڈ</a> کرنے کی ضرورت ہے."
+
+msgid "TopFacesLimitExceeded"
+msgstr ""
+" فی گھنٹہ ایک سے زیادہ تصویر&nbsp شامل کرنے کی اجازت نہیں&nbsp ہے. براہ "
+"مہربانی انتظار کریں."
+
+msgid "emailConfirmPleaseTitle"
+msgstr ""
+"آپ کے ای میل پتہ پہ تصدیقی لنک بھیج دیا گیا ہے۔ اپنے ای میل پتہ کی تصدیق "
+"کرنے کے بعد، آپ کو ویب سائٹ کی تمام خصوصیات تک رسائی حاصل ہوگی۔ <a "
+"href='%link%'>ابھی تک لنک وصول نہیں ہوا</a>؟"
+
+msgid "emailConfirmCheckSpam"
+msgstr ""
+"اپنا سپیم / مشکوک میل باکس چیک کریں، ہمارا خط غلطی سے وہاں ہو سکتا ہے. اگر "
+"ایسا ہے تو براہ مہربانی، یہ نشان زد کریں کے <b>  ردی نہیں ہے.</b>"
+
+msgid "emailConfirmPleaseNotice"
+msgstr "&nbsp؛"
+
+msgid "socialLikeStr"
+msgstr "کی طرح"
+
+msgid "complainHead"
+msgstr "کے بارے میں شکایت"
+
+msgid "complainIgnore"
+msgstr "نظر انداز"
+
+msgid "complainIgnoreDescription"
+msgstr ""
+"آپ اس شخص کی جانب سے پیغامات وصول نہیں کریں گے۔ بعد اگر ضرورت ہو تو اس کو "
+"واپس موڑا جا سکتا ہے۔"
+
+msgid "complainError1"
+msgstr "شکایت کی وجہ کا تعین کریں"
+
+msgid "complainSubmit"
+msgstr "ارسال کریں"
+
+msgid "complainOr"
+msgstr "یا"
+
+msgid "complainClose"
+msgstr "منسوخ"
+
+msgid "menuFeedback"
+msgstr "آپ کی رائے"
+
+msgid "menuRules"
+msgstr "شرائط"
+
+msgid "menuContacts"
+msgstr "رابطہ کریں"
+
+msgid "menuHelpUs"
+msgstr "ہماری مدد کریں"
+
+msgid "flirtNear"
+msgstr "قریب میں تلاش کریں"
+
+msgid "menuAbout"
+msgstr "ہمارے بارے میں"
+
+msgid "menuSearch"
+msgstr "تلاش"
+
+msgid "flirtCarousel"
+msgstr "ملاقات"
+
+msgid "menuChat"
+msgstr "گپ شپ"
+
+msgid "mainTitle"
+msgstr "اپنے عزیزو احباب، ساتھی کارکنوں اور پڑوسیوں کو مدعو کریں ..."
+
+msgid "mainTitle2"
+msgstr "اور گمنام عشق بازی کریں"
+
+msgid "menTitles1"
+msgstr "اپنا پڑوسی پسند ہے؟"
+
+msgid "menTitles2"
+msgstr "اپنا ہم کام پسند ہے؟"
+
+msgid "menTitles3"
+msgstr "اپنے/اپنی سابق دوست کے ساتھ عشق بازی کرنا چاہتے ہیں؟"
+
+msgid "menTitles4"
+msgstr "کیا آپ بور ہو رہے ہیں؟"
+
+msgid "womanTitles1"
+msgstr "اپنا پڑوسی پسند ہے؟"
+
+msgid "womanTitles2"
+msgstr "آپ کے ساتھی کارکن کی طرح ہے؟"
+
+msgid "womanTitles3"
+msgstr "اپنے سابق دوست کے ساتھ عشق بازی کرنا چاہتے ہیں؟"
+
+msgid "womanTitles4"
+msgstr "کیا آپ بور ہو رہےہیں؟"
+
+msgid "menTexts1"
+msgstr ""
+"اس کو بذریعہ پوسٹ کارڈ.<a href=\"/\">دعوت دیں</a>۔  اسے اس کی گاڑی کی ونڈ "
+"شیلڈ یا میل خانے میں رکھ دیں."
+
+msgid "menTexts2"
+msgstr "اس کا ای میل تلاش کریں پر Lovetime <a href=\"/\"> دعوت دیں</a>۔"
+
+msgid "menTexts3"
+msgstr ""
+"اس کا ای میل اور فون نمبر تلاش کریں اور پر Lovetime <a href=\"/\">دعوت دیں</"
+"a>۔"
+
+msgid "menTexts4"
+msgstr ""
+"\"<a href=\"/#عشق بازی\" class=\"top-flirt\">Flirt</a>\" دبائیں اور آشنائی "
+"حاصل کریں"
+
+msgid "womanTexts1"
+msgstr ""
+"ایک پوسٹ کارڈ کے ساتھ <a href=\"/\">  مدعو</a> کریں. اسے ان کی کار ونڈشیلڈ "
+"کے نیچے یا میل باکس میں رکھ دیں."
+
+msgid "womanTexts2"
+msgstr "اس کی ای میل  تلاش کریں اور Lovetime پر <a href=\"/\"> مدعو </a> کریں۔"
+
+msgid "womanTexts3"
+msgstr ""
+"اس کا ای میل یا فون نمبر تلاش کریں اور  Lovetime پر <a href=\"/\"> مدعو</a> "
+"کریں۔"
+
+msgid "womanTexts4"
+msgstr ""
+"دبائیں \"<a href=\"/flirt\" class=\"top-flirt\">  عشق بازی</a>\" اور واقف "
+"ہوں."
+
+msgid "foldersTitle"
+msgstr "ایک فولڈر کا نام درج کریں"
+
+msgid "foldersCancel"
+msgstr "منسوخ کریں"
+
+msgid "foldersCreate"
+msgstr "بنائیں"
+
+msgid "foldersRename"
+msgstr "نام تبدیل کریں"
+
+msgid "userBalloonCarousel"
+msgstr "ملاقات"
+
+msgid "userBalloonExchange"
+msgstr "تبادلہ شعبہ جات"
+
+msgid "chatBalloonMove"
+msgstr "منتقل"
+
+msgid "chatBalloonSelect1"
+msgstr "منتخب شدہ"
+
+msgid "chatBalloonSelect2"
+msgstr "منتخب شدہ"
+
+msgid "chatBalloonSelect3"
+msgstr "منتخب شدہ"
+
+msgid "errorFolderEmpty"
+msgstr "براہ کرم ایک فولڈر کا نام درج کریں"
+
+msgid "dateDaysBefore"
+msgstr "دن پہلے"
+
+msgid "dateMomentAgo"
+msgstr "ابھی"
+
+msgid "dateSecondAgo_plural_1"
+msgstr "ایک لمحہ پہلے"
+
+msgid "dateSecondAgo_plural_2"
+msgstr "کچھ سیکنڈ پہلے"
+
+msgid "dateSecondAgo_plural_3"
+msgstr "کچھ سیکنڈ پہلے"
+
+msgid "dateMinuteAgo_plural_1"
+msgstr "ایک منٹ پہلے"
+
+msgid "dateMinuteAgo_plural_2"
+msgstr "منٹ پہلے"
+
+msgid "dateMinuteAgo_plural_3"
+msgstr "منٹ پہلے"
+
+msgid "dateCoupleMinutesAgo"
+msgstr "چند منٹ پہلے"
+
+msgid "dateHourAgo_plural_1"
+msgstr "ایک گھنٹہ پہلے"
+
+msgid "dateHourAgo_plural_2"
+msgstr "گھنٹے پہلے"
+
+msgid "dateHourAgo_plural_3"
+msgstr "گھنٹے پہلے"
+
+msgid "messages_plural_1"
+msgstr "پیغام"
+
+msgid "messages_plural_2"
+msgstr "پیغام"
+
+msgid "messages_plural_3"
+msgstr "پیغامات"
+
+msgid "usersAddToFavorite"
+msgstr "پسندیدہ میں شامل کریں"
+
+msgid "actionBlock"
+msgstr "نظر انداز"
+
+msgid "chatComplain"
+msgstr "شکایت"
+
+msgid "usersRemoveFromFavorite"
+msgstr "پسندیدہ سے ہٹا دیں"
+
+msgid "actionOr"
+msgstr "یا"
+
+msgid "actionDelete"
+msgstr "خذف کریں"
+
+msgid "galleryClose"
+msgstr "بند کریں"
+
+msgid "galleryUploadError"
+msgstr ""
+"اپ لوڈنگ کے دوران نقص واقع ہوا ہے۔ براہ مہربانی کچھ دیر بعد دوبارہ کوشش کریں۔"
+
+msgid "galleryUploadFilesName"
+msgstr "تصویری فائلیں"
+
+msgid "galleryUploadPossibleFiles"
+msgstr "آپ صرف تصویری فائلوں کو اپ لوڈ کر سکتے ہیں.اجازت شدہ وضع:"
+
+msgid "modelUsersHasPhoto"
+msgstr "تصویر"
+
+msgid "modelUsersHasPhotoCondition"
+msgstr "تصویر کے ساتھ"
+
+msgid "modelUsersHasNoPhotoCondition"
+msgstr "بنا تصویر"
+
+msgid "searchHair"
+msgstr "بالوں کا رنگ"
+
+msgid "requireRegistration4MaleTitle"
+msgstr "%s نے آپ سے کئی زیادہ نجی معلومات حصہ دارکی ہے۔"
+
+msgid "requireRegistration4FemaleTitle"
+msgstr "%s نے آپ سے کئی زیادہ نجی معلومات حصہ دارکی ہے۔"
+
+msgid "requireRegistrationNote"
+msgstr "دیگر پروفائلوں کو دیکھنے کے لیے آپ کو رجسٹر ہونے کی ضرورت ہے۔"
+
+msgid "requireRegistrationCancel"
+msgstr "منسوخ"
+
+msgid "requireRegistrationRegister"
+msgstr "رجسٹر"
+
+msgid "increaseInfoConfirmNote"
+msgstr "دیگر پروفائلز دیکھنے کے لئے آپ کو کم از کم 50 فیصد پر کرنا پڑے گا."
+
+msgid "increaseInfoConfirmFillNow"
+msgstr "اب پر کریں"
+
+msgid "increaseInfoConfirmCancel"
+msgstr "منسوخ کریں"
+
+msgid "Credit Card"
+msgstr "کریڈٹ کارڈ"
+
+msgid "registerHello"
+msgstr "ہیلو"
+
+msgid "registerForEnd"
+msgstr ""
+"رجسٹریشن مکمل کرنے کے لئے اس بات کی تصدیق ہے کہ ہماری ویب سائٹ پر آپ کی "
+"پروفائل ہے؟"
+
+msgid "registerYes"
+msgstr "جی ہاں"
+
+msgid "registerNo"
+msgstr "نہیں"
+
+msgid "registerForEndYes"
+msgstr "براہ مہربانی پاس ورڈ درج کریں"
+
+msgid "registerBack"
+msgstr "پیچھے"
+
+msgid "registerForEndNo"
+msgstr "معلومات کی پڑتال کریں"
+
+msgid "registerUnderNick"
+msgstr "اپنا اصل نام یا عرف درج مت کریں&apos جس سے آپ پہچانے جائیں."
+
+msgid "registerEmailTip"
+msgstr "کوئی اسے نہیں دیکھ سکتا"
+
+msgid "birthDay"
+msgstr "دن"
+
+msgid "birthMonth"
+msgstr "ماہ"
+
+msgid "birthYear"
+msgstr "سال"
+
+msgid "systemLoginAllRight"
+msgstr "سب کچھ درست ہے"
+
+msgid "registerRequire"
+msgstr "براہ کرم تمام مطلوبہ فیلڈز میں درج کریں"
+
+msgid "socialAuthFailed"
+msgstr "اجازت ناکام ہوگئی ہے"
+
+msgid "registerAuthOk"
+msgstr "اجازت کامیاب ہے. اب آپ کو مرکزی صفحہ پر بھیجا جائے گا. یا دبائیں"
+
+msgid "registerAuthHere"
+msgstr "یہاں"
+
+msgid "registerAuthNone"
+msgstr "صارف نہیں ملا"
+
+msgid "registerAlreadyYes"
+msgstr "اسی ای میل کے ساتھ پہلے سے ہی رجسٹرڈ صارف ہیں"
+
+msgid "registerAuthFailed"
+msgstr "اجازت ناکام رہی"
+
+msgid "registerCreateFailed"
+msgstr "صارف تخلیق کرنے میں ناکام. تمام شعبوں کی جانچ پڑتال کریں."
+
+msgid "authFacebook"
+msgstr "فیس بک کے ذریعے اختیار"
+
+msgid "authVkontakte"
+msgstr "Vkontakte کے ذریعے اختیار"
+
+msgid "citationNotExist"
+msgstr "اقتباس نہیں ملا"
+
+msgid "citationAccessDenied"
+msgstr "اقتباس آپ کے نہیں ہیں"
+
+msgid "VIP"
+msgstr "وی آئی پی"
+
+msgid "questRegister"
+msgstr "رجسٹریشن"
+
+msgid "balanceChangeInQuest"
+msgstr "بیلنس میں تبدیلی کرنا (کوشش)"
+
+msgid "superstarModelAttributeIsReseted"
+msgstr ""
+
+msgid "payonlinesystemError3"
+msgstr ""
+"ادائیگی آپ کے کریڈٹ کارڈ جاری کرنے والے بینک کی طرف سے رد کر دی گئی ہے. "
+"ادئیگی مسترد ہونے کی وجہ جاننے کے لیے اپنے بینک سے رابطہ کریں اور پھر دوبارہ "
+"کوشش کریں۔"
+
+msgid "payonlinesystemError2"
+msgstr ""
+"کریڈٹ کارڈ کے ذریعے ادائیگی ممکن نہیں ہے. آپ کو کوئی اور ادائیگی کے طریقہ "
+"کار کو استعمال کرنا پڑے گا."
+
+msgid "payonlinesystemError1"
+msgstr "تکنیکی خرابی، براہ کرم بعد میں دوبارہ کوشش کریں."
+
+msgid "payonlinesystemError0"
+msgstr "ادائیگی کرنا ناممکن ہے."
+
+msgid "seocatalogTitleDatingSite"
+msgstr "لڑکیوں اور خواتین، لڑکوں اور مردوں سے ملنے کے لیے ایک ملاقاتی سائٹ ہے۔"
+
+msgid "seocatalogH1DatingSite"
+msgstr "ایک ملاقاتی سائٹ"
+
+msgid "seocatalogH1CountriesAndCities"
+msgstr "ملک اور شہر"
+
+msgid "seocatalogTitleDatingWithWomen"
+msgstr "لڑکیوں، عورتوں کے ساتھ ملاقات۔"
+
+msgid "seocatalogH1DatingWithWomen"
+msgstr "عورتوں کے ساتھ ملاقات"
+
+msgid "seocatalogTitleDatingWithMen"
+msgstr "لڑکوں، مردوں کے ساتھ ملاقات۔"
+
+msgid "seocatalogH1DatingWithMen"
+msgstr "مردوں کے ساتھ ملاقات"
+
+msgid "seocatalogTitleDatingWithLesbian"
+msgstr "ہم جنس پرست عورتوں کے ساتھ ملاقات"
+
+msgid "seocatalogH1DatingWithLesbian"
+msgstr "ہم جنس پرست عورتوں کے ساتھ ملاقات"
+
+msgid "seocatalogTitleDatingWithGays"
+msgstr "ہم جنس پرست مردوں کے ساتھ ملاقات"
+
+msgid "seocatalogH1DatingWithGays"
+msgstr "ہم جنس پرست مردوں کے ساتھ ملاقات"
+
+msgid "seocatalogTitleDatingWithBisexuals"
+msgstr "دوجنسیوں کے ساتھ ملاقات"
+
+msgid "seocatalogH1DatingWithBisexuals"
+msgstr "دو جنسیوں کے ساتھ ملاقات"
+
+msgid "seocatalogTitleGuysGirls_18_20"
+msgstr "18 تا 20 سال کے مرد اور عورتیں"
+
+msgid "seocatalogH1GuysGirls_18_20"
+msgstr "18 تا 20 سال کے لڑکے اور لڑکیاں"
+
+msgid "seocatalogTitleGuysGirls_21_25"
+msgstr "سے 25 سال کے مرد اور خواتین"
+
+msgid "seocatalogH1GuysGirls_21_25"
+msgstr "21 تا 25 سال کے لڑکے اور لڑکیاں"
+
+msgid "seocatalogTitleGuysGirls_26_30"
+msgstr "25 تا 30 سال کے مرد اور خواتین"
+
+msgid "seocatalogH1GuysGirls_26_30"
+msgstr "26 تا 30 سال کے مرد اور خواتین"
+
+msgid "seocatalogTitleGuysGirls_31_35"
+msgstr "31 تا 35 سال کے مرد اور خواتین"
+
+msgid "seocatalogH1GuysGirls_31_35"
+msgstr "31 تا 35 سالے کے مرد اور خواتین"
+
+msgid "seocatalogTitleGuysGirls_35_40"
+msgstr "35 تا 40 سال کے مرد اور خواتین"
+
+msgid "seocatalogH1GuysGirls_35_40"
+msgstr "35 تا 40 سال کے مرد اور خواتین"
+
+msgid "seocatalogTitleMeetingForCommunication"
+msgstr "دوستی اور ابلاغ کے لیے ملیے"
+
+msgid "seocatalogH1MeetingForCommunication"
+msgstr "ابلاغ کے لیے ملاقات"
+
+msgid "seocatalogTitleMeetingRorRomanticRelations"
+msgstr "دوستی اور ابلاغ کے لیے ملیے"
+
+msgid "seocatalogH1MeetingRorRomanticRelations"
+msgstr "رومانوی تعلقات کے لیے ملاقات"
+
+msgid "seocatalogTitleMeetingForFlirt"
+msgstr "عشق بازی کے لیے ملیے"
+
+msgid "seocatalogH1MeetingForFlirt"
+msgstr "عشق بازی کے لیے ملاقات"
+
+msgid "seocatalogTitleMeetingForCloseRelations"
+msgstr "قریبی تعلقات، دلی تعلقات اور جنسی تعلقات کے لیے ملیے"
+
+msgid "seocatalogH1MeetingForCloseRelations"
+msgstr "قریبی تعلقات کے لیے ملاقات"
+
+msgid "seocatalogTitleBlondes"
+msgstr "گوری رنگت والی اور گوری رنگت والے سے ملیے"
+
+msgid "seocatalogH1Blondes"
+msgstr "گوری رنگت والے اور گوری رنگت والیاں"
+
+msgid "seocatalogTitleBrunettes"
+msgstr "بھورے بالوں والی اور بھورے بالوں والے سے ملیے"
+
+msgid "seocatalogH1Brunettes"
+msgstr "بھورے بالوں والے اور بھورے بالوں والیاں"
+
+msgid "seocatalogTitleBrownHaired"
+msgstr "لال سرخ، گوری رنگت والی اور گوری رنگت والے سے ملیے"
+
+msgid "seocatalogH1BrownHaired"
+msgstr "بھورے بالوں والا اور بھورے بالوں والی"
+
+msgid "seocatalogTitleDatingWithAthletic"
+msgstr "تنو مند لڑکی یا تنو مند لڑکے سے ملیے"
+
+msgid "seocatalogH1DatingWithAthletic"
+msgstr "تنو مند لڑکے اور لڑکیوں کےساتھ ملاقات"
+
+msgid "seocatalogTitleDatingWithSlim"
+msgstr "دبلے پتلے مرد یا دبلی پتلی عورت سے ملیے"
+
+msgid "seocatalogH1DatingWithSlim"
+msgstr "دبلے پتلے لڑکے اور لڑکیوں کے ساتھ ملاقات"
+
+msgid "seocatalogTitleDatingWithHeavy"
+msgstr "بھاری جسامت والی لڑکی اوبھاری جسامت والے لڑکے سے ملیے"
+
+msgid "seocatalogH1DatingWithHeavy"
+msgstr "بھاری جسامت کے لڑکے اور لڑکیاں"
+
+msgid "seocatalogTitleDatingWithForeigners"
+msgstr "غیر ملکی سے ملیے"
+
+msgid "seocatalogH1DatingWithForeigners"
+msgstr "غیر ملکیوں کے ساتھ ملاقات"
+
+msgid "seocatalogTitleDatingWithRich"
+msgstr "امیر لوگوں سے ملیے"
+
+msgid "seocatalogH1DatingWithRich"
+msgstr "امیر لوگوں کے ساتھ ملاقات"
+
+msgid "seocatalogTitleDatingWithSingles"
+msgstr "تنہا لوگوں سے ملیے"
+
+msgid "seocatalogH1DatingWithSingles"
+msgstr "تنہا لوگوں کے ساتھ ملاقات"
+
+msgid "seocatalogTitleDatingWithPeopleHavingNoBadHabits"
+msgstr "بنا بری عادتوں والے لوگوں سے ملیے"
+
+msgid "seocatalogH1DatingWithPeopleHavingNoBadHabits"
+msgstr "بنا بری عادتوں والے لوگوں کے ساتھ ملاقات"
+
+msgid "searchShowMore"
+msgstr "مزید دکھائیں"
+
+msgid "seocatalogTitleCountriesAndCities"
+msgstr "ملک اور شہر"
+
+msgid "age"
+msgstr "عمر"
+
+msgid "modelUsersSexWoman"
+msgstr "لڑکی"
+
+msgid "modelUsersSexMan"
+msgstr "لڑکا"
+
+msgid "modelUsersSexAny"
+msgstr "کسی بھی جنس"
+
+msgid "searchUsersRegion"
+msgstr "ریجن"
+
+msgid "actionFind"
+msgstr "تلاش کریں"
+
+msgid "mainTitle3Noa"
+msgstr "مفت ملاقات آن لائن"
+
+msgid "clockNavExactSearch"
+msgstr "ہوبہو تلاش"
+
+msgid "clockNavExactSearchSubtext"
+msgstr "20 سے زائد تلاش کے پیرامیٹرز"
+
+msgid "clockNavMeetings"
+msgstr "آج ملاقات پہ نکلیں"
+
+msgid "clockNavMeetingsSubtext"
+msgstr "<b>ملاقاتی دعوتیں منٹوں میں </b>بھیجیں اور وصول کریں"
+
+msgid "clockNavInstantCommunication"
+msgstr "فوری گفتگو کریں"
+
+msgid "clockNavInstantCommunicationSubtext"
+msgstr " چیٹ کرنے کے لیے فرد <b>سیکنڈوں میں </b>تلاش کریں"
+
+msgid "clockNavWhosNear"
+msgstr "قرب و جوار میں موجود لوگوں سے ملیں"
+
+msgid "clockNavWhosNearSubtext"
+msgstr "کلومیٹر نصف قطر میں موجود <b>سینکڑوں خوبصورت لوگ </b>تلاش کریں"
+
+msgid "clockNavHasContact"
+msgstr "مختلف جگہوں سے تعلق رکھنے والے لوگوں سے ملیں"
+
+msgid "clockNavHasContactSubtext"
+msgstr "در ساختہ چیٹ ترجمان <b>64 زبانوں </b> میں دستیاب ہے"
+
+msgid "clockNavperfectCouple"
+msgstr "چند کلک میں واقف بنیں"
+
+msgid "clockNavperfectCoupleSubtext"
+msgstr "<b>پہلے سے ترتیب شدہ جملے</b>- 30سیکنڈوں میں ملاقات کریں"
+
+msgid "peopleHere"
+msgstr "پہلے سے ہی یہاں"
+
+msgid "carouselFillAnketa0"
+msgstr "میری گو راؤنڈ کھیلنے کے لیے"
+
+msgid "carouselFillAnketa1"
+msgstr "براہ مہربانی متعین کریں"
+
+msgid "carouselFillAnketa2"
+msgstr "آپ کی عمر، ملک، شہر، اور ایک تصویر اپ لوڈ کریں"
+
+msgid "flirtSearch"
+msgstr "تلاش"
+
+msgid "pagesAbout"
+msgstr ""
+" زندگی میں تقریبا ہر کسی کو اپنے جاننے والے پسند ہوتے ہیں. لیکن ان میں سے "
+"زیادہ تر کھل کر اپنے جذبات کا اظہار کرنے  ڈرتے تھے <br/> <br/> یہ سروس اس "
+"مسئلہ کو حل کرتی ہے. اب آپ مسترد ہو جانے  کے خوف کے بغیر عشق بازی کر سکتے "
+"ہیں. <br/> <br/> • آپ اپنی ہم کارکن ساتھ بیٹھے ہیں اور یہ نہیں جانتے کہ کس "
+"طرح اس سے رجوع کرنے کا موقع ملے گا؟ یہ سروس اس میں آپ کی مدد کرے گی <br/> • "
+"کسی اسکول یا یونیورسٹی کے سٹار کے ساتھ واقف ہونا ہے؟ یہ آسان ہے <br/> • کیا "
+"آپ اپنے پڑوسی کو پسند کرتے ہیں؟ اس سے پوچھٰں اگر وہ آپ پسند کرتی ہے <br/> <br/"
+"> وہ شخص کون ہے جس کی آپ تلاش کر رہے ہیں ... محبت یا جنسی؟ کیا وہ سکول یا "
+"دفترمیں کسی کو پسند کرتا ہے، وغیرہ؟ آپ صرف ایک کلک میں تلاش کر سکتے ہیں."
+
+msgid "pagesRulesTitle2"
+msgstr "رجسٹریشن کے لیے قوانین"
+
+msgid "pagesRules"
+msgstr ""
+"<h2>  Lovetime سائٹ (اب کے بعد اس کے لیے سائٹ کی اصطلاح استعمال ہو گی) پر "
+"اپنی ذاتی معلومات رکھ کر میں مندرجہ ذیل سے اتفاق کرتا ہوں:</h2><ol><li> میں "
+"تصدیق کرتا ہوں کہ میں نے شرائط و ضوابط کا مطالعہ کر لیا ہے اور ان پر تعمیل "
+"کے لیے تیار ہوں۔ </li><li> میں ضمانت دیتا ہوں کہ میری عمر 18 برس ہے،  . </"
+"li><li>میں اس سائٹ کی سالمیت اور اعتماد کیلئے اس پر موجود مواد یا دوسری شا‏ئع "
+"ہونے والی معلومات جو کہ سائٹ پر میرے اختیار کیلئے ضروری ہے کی میں ذاتی طور "
+"پر ذمہ داری لیتا ہوں۔ .</li><li>  مجھے پتہ ہے کہ سائٹ پر ایسا مواد بھی "
+"ہوسکتا ہے جو صرف بالغوں کیلئے ہو۔۔ .</li><li>  میں سائٹ کو اپنے علاقے کے "
+"قابل اطلاق قوانین کے مطابق استعمال کرنے کا وعدہ کرتا/کرتی ہوں۔۔ .</li><li> "
+"میں پیغامات یا ای میل پتوں، فون نمبرز، رابطے یا دوسری تفصیلات کو سر عام "
+"تقسیم نہ کرنے کا عہد کرتا/ کرتی ہوں۔۔ .</li><li>  ممیں توہین، بہتان، تحقیر، "
+"فحش، یا دوسرے غیر اخلاقی مواد شائع نہ کرنے کا عہد کرتا ہوں؛ ایسا مواد جو "
+"ظلم، دہشت یا تشدد دکھائے یا ظاہر کرے؛ مواد جو انسانی وقار کو مجروح کرے اور "
+"اس کے ساتھ ساتھ دوسرے مواد جو قانون کے خلاف ہیں۔۔ .</li><li>  میں عہد کرتا "
+"ہوں کہ میں دوسرے صارفین کی غلط رہنمائی نہیں کروں گا اور نہ ہی ان کا پیچھا "
+"کرکے ان کو تنگ کروں گا۔ .</li><li> میں عہد کرتا ہوں کہ میں صارفین کی توجہ "
+"میری یا کسی دوسرے کی بنائی ہوئی, بیچی جانے والی یا پیش کی جانے والی اشیاء، "
+"کام یا خدمات کی طرف  نہیں دلاؤں گا۔میں عہد کرتا ہوں کہ میں سائٹ کو غیر "
+"قانونی مواد کی تشہیر یا ترویج کیلئے استعمال نہیں کرونگا۔.</li><li>  مجھے "
+"معلوم ہے کہ سائٹ پر موجود میری معلومات کو دوسرے صارفین استعمال کرسکتے ہیں "
+"اور یہ کہ ان کے اعمال کی سائٹ ذمہ دار نہیں ہے۔ .</li><li>  میں اپنے گمنام "
+"دعوت ناموں کے نتیجے میں ہونے والے منفی نتائج کی ذمہ داری قبول کرتا ہوں۔ سائٹ "
+"کی انتظامیہ :</h2><ol><li> سائٹ انتظامیہ صارفین کی جانب سے شائع کی جانے والی "
+"معلومات کے مواد، درستگی اور صحت کی کوئی ذمہ داری قبول نہیں کرتی۔.</li><li>  "
+"کسی بھی نقصان، خطرے یا معلومات کے ضیاع کی جو کسی کو اس سائٹ کے استعمال سے "
+"ہوئی ہو چاہے وہ موبائل یا کسے دوسرے ذرائع ابلاغ سے کی گئی ہو۔ .</li><li>  "
+"صارف کے جملہ حقوق اور تیسرے فریقوں کے حقوق کی خلاف ورزی کیلئے جو ایسے مواد "
+"کی اشاعت سے ہو جو قابل اطلاق قوانین (بشمول جملہ جقوق قوانین) سے مطابقت نہ "
+"رکھتے ہوں، اور صارف کی جانب سے سائٹ میں شامل کئے گئے ہوں۔"
+
+msgid "error404"
+msgstr "404 خرابی"
+
+msgid "pageNotFound"
+msgstr "صفحہ نہیں ملا"
+
+msgid "formMustFill"
+msgstr "درکار ہے"
+
+msgid "feedbackFile"
+msgstr "اسکرین شاٹ"
+
+msgid "feedbackFileTip"
+msgstr "آپ غلطیوں پر مشتمل اسکرین شاٹ منسلک کر سکتے ہیں"
+
+msgid "siteCopyrightTh"
+msgstr "Lovetime.com"
+
+msgid "man"
+msgstr "مرد"
+
+msgid "woman"
+msgstr "عورت"
+
+msgid "countrySelectName"
+msgstr "ملک"
+
+msgid "citySelectName"
+msgstr "شہر"
+
+msgid "signupBirthDay"
+msgstr "دن"
+
+msgid "signupBirthMonth"
+msgstr "مہینہ"
+
+msgid "signupBirthYear"
+msgstr "سال"
+
+msgid "systemRegister"
+msgstr "سائن اپ کریں"
+
+msgid "signupLicenseNote"
+msgstr ""
+"«سائن اپ کریں» پر کلک کرکے توثیق کریں کہ آپ کی عمر کم از کم 18 سال ہے اور <a "
+"href=\"/pages/rules\"> کو قبول صارف کا معاہدہ کریں </a>"
+
+msgid "searchExcite"
+msgstr "جنسی اپیل عوامل"
+
+msgid "searchExcitesHe"
+msgstr "کے بارے میں پرجوش"
+
+msgid "searchExcitesShe"
+msgstr "کے بارے میں پرجوش"
+
+msgid "searchFrom"
+msgstr "سے"
+
+msgid "searchTo"
+msgstr "کو"
+
+msgid "searchSm"
+msgstr "(سینٹی میٹر)"
+
+msgid "searchKg"
+msgstr "(کلو)"
+
+msgid "searchSkipCond"
+msgstr "یہ شرائط چھوڑیں"
+
+msgid "sexYears"
+msgstr "سال کی عمر"
+
+msgid "searchHave"
+msgstr "جی ہاں"
+
+msgid "searchHaveNot"
+msgstr "نہیں"
+
+msgid "searchHaveChildren"
+msgstr "جی ہاں"
+
+msgid "searchHaveNotChildren"
+msgstr "نہیں"
+
+msgid "searchLocationUndefined"
+msgstr "کوئی بھی جگہ"
+
+msgid "nearFilterOnline"
+msgstr "آن لائن"
+
+msgid "nearFilterNew"
+msgstr "نئی"
+
+msgid "nearFilterAll"
+msgstr "تمام"
+
+msgid "searchAddParams"
+msgstr "اعلی اختیارات"
+
+msgid "searchAddToSearch"
+msgstr "تلاش میں شامل کریں"
+
+msgid "searchChooseAddParam"
+msgstr "اعلی اختیار کو منتخب کریں"
+
+msgid "carouselYes"
+msgstr "جی ہاں"
+
+msgid "carouselMaybeYes"
+msgstr "سب سے زیادہ امکان"
+
+msgid "carouselNo"
+msgstr "نہیں"
+
+msgid "carouselLikeHim"
+msgstr "کیا آپ کو اس کو ملنا چاہتے ہیں؟"
+
+msgid "carouselLikeHer"
+msgstr "کیا آپ ان سے ملنا چاہتے ہیں؟"
+
+msgid "carouselMutualGreeting"
+msgstr "<strong>مبارک ہو!</strong> آپ میں باہمی پیار ہے"
+
+msgid "carouselMutualMessageFemale"
+msgstr "بھی آپ سے ملنا چاہوں گا."
+
+msgid "carouselMutualMessageMale"
+msgstr "بھی آپ سے ملنا چاہوں گا."
+
+msgid "chatWithHer"
+msgstr "اس کے ساتھ بات چیت کریں"
+
+msgid "chatWithHim"
+msgstr "اس کے ساتھ بات چیت کریں"
+
+msgid "chatMutualGreeting_female"
+msgstr ""
+"%s آٌپ ملنا چاہتے تھے، آپ سے ملنے پر آمادہ ہے۔ وہ ملاقات کا انتظام کرنے کے "
+"لیے آپ کے پیغام کا انتظار کر رہی ہے"
+
+msgid "chatMutualGreeting_male"
+msgstr ""
+"%s آٌپ ملنا چاہتے تھے، آپ سے ملنے پر آمادہ ہے۔ وہ ملاقات کا انتظام کرنے کے "
+"لیے آپ کے پیغام کا انتظار کر رہ ہے"
+
+msgid "gallerySingleUploadBtn"
+msgstr "تصویر اپ لوڈ کریں"
+
+msgid "km"
+msgstr "کلومیٹر"
+
+msgid "profileMeet"
+msgstr "ملاقات"
+
+msgid "wannaMeet"
+msgstr " ملنا چاہتے ہیں؟"
+
+msgid "wannaMeetHer"
+msgstr "اس سے ملنا چاہتے ہیں؟"
+
+msgid "wannaMeetHim"
+msgstr "اس سے ملنا چاہتے ہیں؟"
+
+msgid "locatorSpecifyLocationPart1"
+msgstr "اپنے محل وقوع کا تعین کریں"
+
+msgid "locatorSpecifyLocationPart2"
+msgstr "نقشے پر، صرف اس صورت میں ہم آپ کو دکھا کر سکتے ہیں کہ کون قریب ہے."
+
+msgid "locatorSpecifyLocationPart3"
+msgstr "تعین کریں"
+
+msgid "corrBlackListConfirm"
+msgstr ""
+"کیا آپ کو یقین ہے کہ آپ پیغامات  کو سیاہ فہرست میں منتقل کرنا چاہتے ہیں؟"
+
+msgid "corrBlackListConfirmNote"
+msgstr "بعد میں، اگر ضرورت ہوئی، تو آپ انہیں واپس لا سکتے ہیں."
+
+msgid "actionMove"
+msgstr "منتقل"
+
+msgid "actionDontMove"
+msgstr "منتقل نہ کریں"
+
+msgid "corrDeleteFolderConfirm"
+msgstr "کیا آپ کو یقین کر لیں کہ آپ فولڈر کو حذف کرنا چاہتے ہیں؟"
+
+msgid "corrDeleteFolderConfirmNote"
+msgstr ""
+"یہاں موجود پیغامات غائب نہیں ہونگیں لیکن عمومی «فولڈر» میں منتقل کر دیا جائے "
+"گا"
+
+msgid "actionDontDelete"
+msgstr "حذف مت کریں"
+
+msgid "guestsIgnoreOk"
+msgstr ""
+"---- «تلاش« صارف کے ساتھ خط و کتابت «ہوم پیج نظر انداز» منتقل کر دیا گیا ہے"
+
+msgid "guestsIgnoreNote"
+msgstr "آپ بعد میں اسے واپس لا سکتے ہیں."
+
+msgid "actionClose"
+msgstr "بند کریں"
+
+msgid "actionChat"
+msgstr "گپ شپ"
+
+msgid "invitePreviewFromColleagueFemale"
+msgstr "آپ کے ہم کارکن آپ سے ملنا چاہتا ہے"
+
+msgid "invitePreviewFromNeighborFemale"
+msgstr "آ پ کا پڑوسی آپ سے ملنا چاہتا ہے"
+
+msgid "invitePreviewFromClassmateFemale"
+msgstr "آپ کا ہم جماعت آپ سے ملنا چاہتا ہے"
+
+msgid "invitePreviewFromFamiliarFemale"
+msgstr "کوئی آپ سے ملنا چاہتا ہے"
+
+msgid "invitePreviewFromColleagueMale"
+msgstr "آپ کا ہم کارکن آپ سے ملنا چاہتا ہے"
+
+msgid "invitePreviewFromNeighborMale"
+msgstr "آپ کا  پڑوسی آپ سے ملنا چاہتا ہے"
+
+msgid "invitePreviewFromClassmateMale"
+msgstr "آپ کا ہم جماعت آپ سے ملنا چاہتا ہے"
+
+msgid "invitePreviewFromFamiliarMale"
+msgstr "کوئی آپ سے ملنا چاہتا ہے"
+
+msgid "invitePreviewTextFemale"
+msgstr ""
+"یہ ثابت کرنے کے لئے یہ ایک مذاق نہیں ہے، اس نے آپ کو ایک کلیدی فقرہ بتایا "
+"ہے، جیسا کہ"
+
+msgid "invitePreviewTextMale"
+msgstr ""
+"یہ ثابت کرنے کے لئے یہ ایک مذاق نہیں ہے اس نے آپ کوایک اہم جملہ بتاتا ہے، "
+"جیسا کہ"
+
+msgid "invitePreviewDearFemale"
+msgstr "پیارے"
+
+msgid "invitePreviewDearMale"
+msgstr "پیارے"
+
+msgid "invitePreviewCodeTitle"
+msgstr "جاننے کے لیے کہ آپ کو کون پسند کرتا ہے"
+
+msgid "invitePreviewCodeVisitLink"
+msgstr "اس لنک پر کلک کریں."
+
+msgid "invitePreviewCodeLink"
+msgstr "مجھے مدعو کیا گیا تھا"
+
+msgid "invitePreviewCodeSite"
+msgstr "سائٹ پر لاگ ان کریں"
+
+msgid "invitePreviewCodeTopRight"
+msgstr "سب سے اوپر دائیں طرف"
+
+msgid "invitePreviewCodeType"
+msgstr "مدعو کوڈ درج کریں"
+
+msgid "invitePreviewPostcardNote"
+msgstr ""
+"پرنٹ کریں پوسٹ کارڈ کو ایسی جگہ رکھیں یقینی طور پر مل جائے جیسا کہ کار کی "
+"ونڈشیلڈ کے نیچے، میل باکس میں، میز پر... کوئی خیال ہے؟"
+
+msgid "invitePreviewPhoneResendNote"
+msgstr ""
+"اگر آپ ایس ایم ایس دوبارہ بھیجنا چاہتے ہیں، تو براہ کرم ایک فون نمبر درج "
+"کریں:"
+
+msgid "inviteResend"
+msgstr "دوبارہ ارسال کریں"
+
+msgid "inviteSendInvite"
+msgstr "دعوت نامہ بھیجیں"
+
+msgid "inviteResent"
+msgstr "دوبارہ بھیجا"
+
+msgid "inviteSummaryTitleColleagueFemale"
+msgstr "واقف کو دعوت بنام"
+
+msgid "inviteSummaryTitleNeighborFemale"
+msgstr "پڑوسی کی دعوت بنام"
+
+msgid "inviteSummaryTitleClassmateFemale"
+msgstr " ہم جماعت کو دعوت بنام"
+
+msgid "inviteSummaryTitleFamiliarFemale"
+msgstr " واقف کو دعوت بنام"
+
+msgid "inviteSummaryTitleColleagueMale"
+msgstr " شریک کارکن کو دعوت؛ بنام"
+
+msgid "inviteSummaryTitleNeighborMale"
+msgstr "پڑوسی کو دعوت؛ بنام"
+
+msgid "inviteSummaryTitleClassmateMale"
+msgstr "ہم جماعت کو دعوت؛ بنام"
+
+msgid "inviteSummaryTitleFamiliarMale"
+msgstr "واقف کو دعوت؛ بنام"
+
+msgid "inviteSummaryStateAgree"
+msgstr "قبول شدہ"
+
+msgid "inviteSummaryStateWait"
+msgstr "بھیجا"
+
+msgid "inviteSummaryNoKeyPhrase"
+msgstr "کلیدی فقرے کے بغیر"
+
+msgid "inviteFailCodeField"
+msgstr "ایسی کوئی دعوت نہیں ہے :) کیا آپ بے تکلف نہیں&apos ہوئے تھے؟"
+
+msgid "inviteApplySuccess"
+msgstr "دعوت قبول ہو گئی ہے."
+
+msgid "increaseInfoConfirm4MaleTitle"
+msgstr "٪ s نےآپ سے بہت زیادہ ذاتی معلومات کا اشتراک کیا ہے."
+
+msgid "increaseInfoConfirm4FemaleTitle"
+msgstr "٪ s نے آپ کی نسبت  بہت زیادہ ذاتی معلومات کا اشتراک کیا ہے."
+
+msgid "needAddPhotoConfirmTitle"
+msgstr "آپ کو ایک تصویر شامل کرنا چاہئے"
+
+msgid "needAddPhotoConfirmNote"
+msgstr ""
+"دوسری تصاویر کو دیکھنے کے لئے، آپ کو اپنے پروفائل کی تصویر اپ لوڈ کرنا ہو گی!"
+
+msgid "needAddPhotoConfirmYes"
+msgstr "تصویر اپ لوڈ کریں"
+
+msgid "needAddPhotoConfirmNo"
+msgstr "منسوخ کریں"
+
+msgid "requiredFieldsAlertConfirmTitle"
+msgstr "پرنہیں ہوا"
+
+msgid "requiredFieldsAlertConfirmText"
+msgstr ""
+"مندرجہ ذیل فیلڈ درکار ہیں:٪ sbr> براہ کرم اپنے پروفائل میں جا ئیں اور لاپتہ "
+"شعبوں میں درج کریں."
+
+msgid "requiredFieldsAlertConfirmYes"
+msgstr "جائیں"
+
+msgid "noticeImageSizeLimit"
+msgstr "تصویر کا سائز کی حد"
+
+msgid "noticeImageSizeLimitText"
+msgstr "تصویر کا سائز 2MB سے کم ہونا چاہیے"
+
+msgid "emailConfirmTitle"
+msgstr "ای میل ایڈریس کی تصدیق کریں"
+
+msgid "emailConfirmAlertYes"
+msgstr "تصدیق"
+
+msgid "emailConfirmAlertNo"
+msgstr "منسوخ کریں"
+
+msgid "bannedInfoAlertTitle"
+msgstr "آپ کا اکاؤنٹ بلاک کردیا گیا ہے"
+
+msgid "bannedInfoAlertNotice"
+msgstr "تفصیلات پروفائل صفحہ پہ دیکھی جاسکتی ہیں"
+
+msgid "bannedInfoAlertYes"
+msgstr "پروفائل میں جائیں"
+
+msgid "bannedInfoAlertNo"
+msgstr "لاگ آؤٹ"
+
+msgid "emailDomainsReplaceAlertTitle"
+msgstr "ای میل تبدیل کریں"
+
+msgid "emailDomainsReplaceAlertText"
+msgstr ""
+"ہم نے آپ کے ای میل ایڈریس کو  %s میں تبدیل کر دیا ہے، کیونکہ اس میں غلط ٹائپ "
+"ہونے کا امکان زیادہ ہے.  جاری رکھیں یا اسے واپس تبدیل کریں؟"
+
+msgid "emailDomainsReplaceAlertYes"
+msgstr "جاری"
+
+msgid "emailDomainsReplaceAlertNo"
+msgstr "اسے واپس کریں"
+
+msgid "signinAction"
+msgstr "میں لاگ ان کریں"
+
+msgid "signupAction"
+msgstr "سائن اپ کریں"
+
+msgid "signinEmailEmptyError"
+msgstr "ای میل درج کریں"
+
+msgid "signinEmailMaskError"
+msgstr "اپنا درست ای میل ایڈریس درج کریں"
+
+msgid "signinPasswordEmptyError"
+msgstr "پاس ورڈ درج کریں"
+
+msgid "signinCountryEmptyError"
+msgstr "ملک"
+
+msgid "signinCityEmptyError"
+msgstr "شہر"
+
+msgid "signinErrorBirthDayEmpty"
+msgstr "دن"
+
+msgid "signinErrorBirthMonthEmpty"
+msgstr "مہینہ"
+
+msgid "signinErrorBirthYearEmpty"
+msgstr "سال"
+
+msgid "signinErrorTooYoung"
+msgstr "رجسٹریشن کی اجازت صرف 18 سال کی عمر کے بعد ہوتی ہے۔"
+
+msgid "citySelectDisabledTitle"
+msgstr "ملک منتخب کریں"
+
+msgid "signinPasswordMinLengthError"
+msgstr "پاس ورڈ کم از کم 5 حروف کا ہونا لازمی ہے"
+
+msgid "signinErrorNameEmpty"
+msgstr "اپنا نام درج کریں"
+
+msgid "signinErrorSex"
+msgstr "اپنی جنس منتخب کریں"
+
+msgid "loginVia"
+msgstr "%s لاگ ان معہ"
+
+msgid "registerVia"
+msgstr "%s سائن اپ بذریعہ"
+
+msgid "timeToFindYourLove"
+msgstr " آپ کی محبت کو تلاش کرنے کا وقت ہو گیا ہے"
+
+msgid "socialLikeDescription"
+msgstr "محبت، عشق بازی، تعامل۔ مفت اور گمنام ..."
+
+msgid "showAll"
+msgstr "تمام دکھائیں"
+
+msgid "actionMinimize"
+msgstr "چھوٹا کریں"
+
+msgid "chatLoadingHistory"
+msgstr "گزشتہ پیغامات اپ لوڈ کریں"
+
+msgid "chatCitationsAdd"
+msgstr "&nbspاقتباس میں درج کریں"
+
+msgid "chatCitationsTitle"
+msgstr "اقتباس"
+
+msgid "chatCitationsWelcome"
+msgstr ""
+"<p>براہ مہربانی، فوری شامل کرنے کے لیے، یہاں اکثر استعمال ہرنے والے فقرے "
+"شامل کریں &nbsp;in&nbsp;گفتگو</p><p>رکھنے کے لیے استعمال کریں button<span id="
+"\"citations-welcome-button\"></span> اقتباس میں شامل کریں</p>"
+
+msgid "statusOnline"
+msgstr "آن لائن"
+
+msgid "actionEdit"
+msgstr "ترمیم"
+
+msgid "chatCitationsRestore"
+msgstr "اقتباس بحال کریں"
+
+msgid "chatNewMessageFrom"
+msgstr "کی طرف سے نیا پیغام"
+
+msgid "chatEmptyTitle"
+msgstr "آپ کی بات چیت میں کوئی پیغامنہیں ہے "
+
+msgid "chatEmptyText"
+msgstr ""
+"کسی دوست کو شامل کرنے کے لئے، ان صارفین کو شامل کریں جو آپ کو پسند ہیں، مثلا"
+"\"  <a href=\"/\">  تلاش سے</a> دیکھیں اور \"قسم\" پے کلک کریں   "
+
+msgid "formUploadFile"
+msgstr "اپ لاڈ فائل"
+
+msgid "formDeleteFile"
+msgstr "فائل کو حذف کریں"
+
+msgid "socialLikeTitle"
+msgstr "عمدہ سائٹ!Lovetime"
+
+msgid "About Yiinka"
+msgstr "Yiinke کے بارے میں"
+
+msgid "systemInstruments"
+msgstr " اوزار"
+
+msgid "Import CSV"
+msgstr "CSV سے درآمد کریں"
+
+msgid "chatMessages"
+msgstr "پیغامات"
+
+msgid "profileMessages"
+msgstr "پیغامات"
+
+msgid "chatAll"
+msgstr "تمام"
+
+msgid "chatOnline"
+msgstr "آن لائن"
+
+msgid "correspondencesActions"
+msgstr "عوامل"
+
+msgid "actionMoveIn"
+msgstr "پر منتقل:"
+
+msgid "actionBlacklist"
+msgstr "بلیک لسٹ"
+
+msgid "chatEmptyFolder"
+msgstr "فولڈر خالی ہے"
+
+msgid "chatNoOnline"
+msgstr "تمام مذاکرات اب آف لائن ہیں"
+
+msgid "correspondencesMessage"
+msgid_plural "correspondencesMessages"
+msgstr[0] "پیغام"
+msgstr[1] "پیغامات"
+
+msgid "favoriteUsers"
+msgstr "پسندیدہ صارفین"
+
+msgid "favoriteLocation"
+msgstr ""
+" آپ اس صارف کو دیکھ سکتے ہیں جسے آپ نے \"پیغامات\" سیکشن کے \"پسندیدہ\" "
+"فولڈر کے \"پسندیدگان\" میں شامل کیا ہے۔"
+
+msgid "favoriteHideTip"
+msgstr "ٹوٹکہ چھپائیں"
+
+msgid "favoriteNext"
+msgstr "اگلا"
+
+msgid "favoriteCancel"
+msgstr "منسوخ کریں"
+
+msgid "emailConfirmResultSuccess"
+msgstr "آپ کے ای میل ایڈریس کو کامیابی کے ساتھ تصدیق ہو گئی ہے."
+
+msgid "emailConfirmAlreadyConfirmed"
+msgstr "ای میل ایڈریس پہلے سے ہی تصدیق شدہ ہے"
+
+msgid "emailConfirmCheckYourEmailNow"
+msgstr "اب اپنا ای میل چیک کریں"
+
+msgid "emailConfirmClickLinkForComplete"
+msgstr ""
+"رجسٹریشن مکمل کرنے کے لئے، ای میل میں موجود لنک پر کلک کریں جو ہم نے بھیجا "
+"ہے <b>٪ ای میل٪ </b>"
+
+msgid "mailOpen"
+msgstr "کھولیں"
+
+msgid "emailConfirmCantGetMessage"
+msgstr "کیا ای میل موصول نہیں ہوا؟"
+
+msgid "emailConfirmCheckYourEmailOrEnterAnother"
+msgstr "اپنے ای میل ایڈریس کی تصدیق کریں یا ایک نیا درج کریں"
+
+msgid "emailConfirmTypeValidEmail"
+msgstr "اپنا درست ای میل ایڈریس درج کریں."
+
+msgid "emailConfirmSendAgain"
+msgstr "دوبارہ ارسال کریں"
+
+msgid "profileGuests"
+msgstr "مہمان "
+
+msgid "guestsFemaleStranger"
+msgstr "اجنبی"
+
+msgid "guestsMaleStranger"
+msgstr "اجنبی"
+
+msgid "guestsNo"
+msgstr "مختص کئے گئے وقت میں آپ کا کوئی ملاقاتی نہیں ہے۔"
+
+msgid "catalogUsersCatalog"
+msgstr "صارف فہرست"
+
+msgid "formPasswordSent"
+msgstr ""
+"ہم نے پاس ورڈ دوبارہ ترتیب دینے کی متعلق ہدایات آپ کے ای میل ایڈریس پر بھیج "
+"د ی ہے."
+
+msgid "usersList"
+msgstr "صارفین کی فہرست"
+
+msgid "likesNoData"
+msgstr "کوئی ڈیٹا نہیں"
+
+msgid "guestsDataError"
+msgstr "ڈیٹا غلطی"
+
+msgid "usersPhotoAlbumOf"
+msgstr "صارف کا البم"
+
+msgid "actionUploadPhoto"
+msgstr "تصویر اپ لوڈ کریں"
+
+msgid "banProfileNotice"
+msgstr ""
+"یہ پروفائل مکمل نہیں ہے، نگران کی طرف سے رد ہو گئی ہے یا دیکھنے کی اجازت "
+"نہیں ہے. دوسرے صارفین تلاش کرنے کی کوشش کریں."
+
+msgid "banProfileHome"
+msgstr "ہوم"
+
+msgid "usersWriteMessage"
+msgstr "پیغام لکھئیے"
+
+msgid "usersInviteToChat"
+msgstr "چیٹ کے لئے مدعو کریں"
+
+msgid "usersAlreadyToFavorite"
+msgstr "پہلے ہی پسند ہے"
+
+msgid "carouselDistance"
+msgstr "آپ سے s٪ کلومیٹر"
+
+msgid "carouselDistanceOn"
+msgstr " فاصلے میں"
+
+msgid "carouselDistanceUnknown"
+msgstr "فاصلہ میں جاننے کے لیے، اپنے مقام کا تعین کریں۔"
+
+msgid "porsonalInfo"
+msgstr "ذاتی معلومات"
+
+msgid "userProfilePersonalInfoShow"
+msgstr "ظاہر کریں "
+
+msgid "formResetPassword"
+msgstr "پاس ورڈ کو دوبارہ سیٹ کرنے کا لنک حاصل کریں"
+
+msgid "carouselDisabledTitle"
+msgstr "آپ کی تصویر درکار ہے "
+
+msgid "uploadPhoto"
+msgstr "تصویر اپ لوڈ کریں"
+
+msgid "carouselDisabledText"
+msgstr ""
+"کیا آپ کسی بھوت کے ساتھ ملاقات پر جانا چاہیں گے؟ نہیں؟ تو پھر کم از کم ایک "
+"پروفائل تصویر اپ لوڈ کیجیے۔ کامیابی یقینی ہے!"
+
+msgid "backToPageDates"
+msgstr "ملاقات کیلئے ساتھی کا انتخاب کریں"
+
+msgid "profileRelations"
+msgstr "تاریخ"
+
+msgid "profileLikesForMe"
+msgstr "ملنا چاہتے ہیں"
+
+msgid "profileMutualLikes"
+msgstr "باہمی پیار"
+
+msgid "profileMyLikes"
+msgstr "میں ملاقات کرنا چاہتا ہوں"
+
+msgid "carouselHeYes"
+msgstr "انہوں نے کہا کہ پر <strong> «<مضبوط />"
+
+msgid "carouselSheYes"
+msgstr "اس نے کہا کہ پر <strong> «<مضبوط />"
+
+msgid "carouselHeMaybe"
+msgstr "اس نے کہا <strong> زیادہ امکان ہے» <مضبوط />"
+
+msgid "carouselSheMaybe"
+msgstr "اس نے کہا  <strong>&laqu زیادہ امکان ہے&raquo;</strong>"
+
+msgid "carouselAnswerYes"
+msgstr "جی ہاں"
+
+msgid "carouselAnswerMaybe"
+msgstr "سب سے زیادہ امکان"
+
+msgid "carouselAnswerNo"
+msgstr "نہیں"
+
+msgid "carouselMyYes"
+msgstr "آپ  نے کہا  <strong> «<مضبوط />"
+
+msgid "carouselYouMaybe"
+msgstr "آپ نے کہا<strong> «</strong>"
+
+msgid "updatePass"
+msgstr "نیا پاس ورڈ درج کریں"
+
+msgid "modelForgotpassChangePassword"
+msgstr "پاس ورڈ تبدیل کریں"
+
+msgid "nearTitle1"
+msgstr "میرے قرب و جوار میں کون ہے "
+
+msgid "nearTitle2"
+msgstr "میرے قرب و جوار میں کون ہے "
+
+msgid "meOnMap"
+msgstr "مقام"
+
+msgid "userLocationNotFound"
+msgstr "مقام نہیں مل سکا"
+
+msgid "backToPageSearch"
+msgstr "تلاش پر واپسی"
+
+msgid "pageLocationTitle"
+msgstr "اپنے محل وقوع کا تعین کریں"
+
+msgid "meOnMapText2"
+msgstr "نام نہیں دیکھیں گےصرف اندازہ فاصلہ دیکھ سکیں گے"
+
+msgid "userLocationPlaceholder"
+msgstr "براہ مہربانی گھر کا نمبر، گلی کا نمبر اور شہر درج کریں"
+
+msgid "userLocationFind"
+msgstr "تلاش کریں"
+
+msgid "locationClear"
+msgstr "نشان ہٹا دیں"
+
+msgid "usersRefuseFromMails"
+msgstr "میل اطلاعات کو رد کر یں"
+
+msgid "usersRefuseFromMailsOk"
+msgstr "آپ کو ای میل کے ذریعے مزید اطلاعات نہیں ملیں گی"
+
+msgid "profileMySettings"
+msgstr "سیٹنگیں"
+
+msgid "profileNotificationSettings"
+msgstr "اطلاع سیٹنگز"
+
+msgid "inviteIncognitoTitle"
+msgstr "&laquo;Incognito&raquo;"
+
+msgid "loginWidgetIncognitoText"
+msgstr "تصاویر دوسرے صارفین سے پوشیدہ ہیں"
+
+msgid "UTC-11:00"
+msgstr "(UTC-11: 00) UTC شکل میں وقت 11 ہے"
+
+msgid "UTC-10:00"
+msgstr "ہوائی: (00 UTC 10)"
+
+msgid "UTC-9:00"
+msgstr "الاسکا: (00 UTC 09)"
+
+msgid "UTC-8:00[1]"
+msgstr "(UTC-08: 00) باجا کیلی فورنیا"
+
+msgid "UTC-8:00[2]"
+msgstr "(UTC-08: 00) پیسیفک ٹائم (امریکہ اور کینیڈا)"
+
+msgid "UTC-7:00[1]"
+msgstr "ایریزونا (00 UTC 07)"
+
+msgid "UTC-7:00[2]"
+msgstr "(UTC-07: 00) پروتیی وقت (امریکہ اور کینیڈا)"
+
+msgid "UTC-7:00[3]"
+msgstr "(UTC-07: 00) لا پاز، مزاٹلان، چہواہوا"
+
+msgid "UTC-6:00[1]"
+msgstr "(UTC-06: 00) گواڈلہارا، میکسیکو سٹی، مانٹیری"
+
+msgid "UTC-6:00[2]"
+msgstr "(UTC-06: 00) سیسکیون، وسطی امریکہ"
+
+msgid "UTC-6:00[3]"
+msgstr "(UTC-06: 00) مرکزی وقت (امریکہ اور کینیڈا)"
+
+msgid "UTC-5:00[1]"
+msgstr "(UTC-05: 00) بگوٹا، Quito، لیما"
+
+msgid "UTC-5:00[2]"
+msgstr "(UTC-05: 00) مشرقی وقت (امریکہ اور کینیڈا)"
+
+msgid "UTC-5:00[3]"
+msgstr "(UTC-05: 00) انڈیانا (مشرق)"
+
+msgid "UTC-4:30"
+msgstr "کراکس: (30 UTC کے 04)"
+
+msgid "UTC-4:00[1]"
+msgstr "آسنکیان: (00 UTC 04)"
+
+msgid "UTC-4:00[2]"
+msgstr "(UTC-04: 00) اٹلانٹک وقت (کینیڈا)"
+
+msgid "UTC-4:00[3]"
+msgstr "جارج ٹاؤن (UTC-04: 00)، لا پاز، میناس، سان جوآن"
+
+msgid "UTC-4:00[4]"
+msgstr "کیوبا: (00 UTC 04)"
+
+msgid "UTC-4:00[5]"
+msgstr "سینٹیاگو: (00 UTC 04)"
+
+msgid "UTC-3:30"
+msgstr "نیو فاؤنڈ لینڈ: (30 UTC 03)"
+
+msgid "UTC-3:00[1]"
+msgstr "(UTC-03: 00) برازیل"
+
+msgid "UTC-3:00[2]"
+msgstr "(UTC-03: 00) بیونس آئرس"
+
+msgid "UTC-3:00[3]"
+msgstr "گرین لینڈ (00 UTC-03)"
+
+msgid "UTC-3:00[4]"
+msgstr "لال مرچ (UTC-03: 00)، فورٹالیزا"
+
+msgid "UTC-3:00[5]"
+msgstr "مونٹیویڈیو: (00 UTC-03)"
+
+msgid "UTC-2:00[1]"
+msgstr "(UTC-02: 00) UTC شکل میں وقت ہے 02:00"
+
+msgid "UTC-2:00[2]"
+msgstr "وقت وسط بحر اوقیانوس: (00 UTC-02)"
+
+msgid "UTC-1:00[1]"
+msgstr "آزورس: (00 UTC-01)"
+
+msgid "UTC-1:00[2]"
+msgstr "(UTC-01: 00) کیپ ورڈی جزائر"
+
+msgid "UTC0[2]"
+msgstr "ڈبلن (UTC ±00:00)، لسبن، لندن، ایڈن برگ"
+
+msgid "UTC0[3]"
+msgstr "(UTC±00:00) کاسا بلانکا"
+
+msgid "UTC0[4]"
+msgstr "(UTC±00:00) مونروویا، ریکجااخت"
+
+msgid "UTC+1[1]"
+msgstr "ایمسٹرڈیم (UTC +01:00)، برلن، برن، ویانا، روم، سٹاک ہوم"
+
+msgid "UTC+1[2]"
+msgstr "بلغراد (UTC +01:00)، بریٹیسلاوا، بڈاپسٹ، پراگ"
+
+msgid "UTC+1[3]"
+msgstr "برسلز (UTC +01:00)، کوپن ہیگن، میڈرڈ، پیرس"
+
+msgid "UTC+1[4]"
+msgstr "وارسا (UTC +01:00)، سرائیوو،"
+
+msgid "UTC+1[5]"
+msgstr "ونڈہوک (+01:00 UTC)"
+
+msgid "UTC+1[6]"
+msgstr "(UTC +01:00) مغربی وسطی افریقہ"
+
+msgid "UTC+2[1]"
+msgstr "عمان (+02:00 UTC)"
+
+msgid "UTC+2[2]"
+msgstr "(UTC +02:00) ایتھنز، بخارسٹ"
+
+msgid "UTC+2[3]"
+msgstr "(UTC +02:00) بیروت"
+
+msgid "UTC+2[4]"
+msgstr "ویلنیس (UTC +02:00)، کیف، ریگا، سوفیا، ٹالن"
+
+msgid "UTC+2[5]"
+msgstr "دمشق (+02:00 UTC)"
+
+msgid "UTC+2[6]"
+msgstr "یروشلم (+02:00 UTC)"
+
+msgid "UTC+2[7]"
+msgstr "قاہرہ (+02:00 UTC)"
+
+msgid "UTC+2[8]"
+msgstr "نیکوسیا (+02:00 UTC)"
+
+msgid "UTC+2[9]"
+msgstr "استنبول (+02:00 UTC)"
+
+msgid "UTC+2[10]"
+msgstr "(UTC +02:00) ہرارے، پریٹوریا"
+
+msgid "UTC+3[1]"
+msgstr "(UTC +03:00) بغداد"
+
+msgid "UTC+3[2]"
+msgstr "(UTC +03:00) کلینی گارڈ، منسک"
+
+msgid "UTC+3[3]"
+msgstr "(UTC +03:00) کویت، ریاض"
+
+msgid "UTC+3[4]"
+msgstr "(UTC +03:00) نیروبی"
+
+msgid "UTC+3:30"
+msgstr "تہران (+03:30 UTC)"
+
+msgid "UTC+4[1]"
+msgstr "(UTC +04:00) ابو ظہبی مسقط"
+
+msgid "UTC+4[2]"
+msgstr "(UTC +04:00) باکو"
+
+msgid "UTC+4[3]"
+msgstr "(UTC +04:00) ماسکو، سینٹ پیٹرزبرگ"
+
+msgid "UTC+4[4]"
+msgstr "یریوان (+04:00 UTC)"
+
+msgid "UTC+4[5]"
+msgstr "(UTC +04:00) تبلیسی"
+
+msgid "UTC+4:30"
+msgstr "(UTC +04:30) کابل"
+
+msgid "UTC+5[1]"
+msgstr "(UTC +05:00) اسلام آباد، کراچی"
+
+msgid "UTC+5[2]"
+msgstr "(UTC +05:00) تاشقند"
+
+msgid "UTC+5:30"
+msgstr "(UTC +05:30) کولکتہ، ممبئی، نئی دہلی، چنئی"
+
+msgid "UTC+5:45"
+msgstr "کھٹمنڈو (+05:45 UTC)"
+
+msgid "UTC+6[1]"
+msgstr "(UTC +06:00) آستانہ"
+
+msgid "UTC+6[2]"
+msgstr "ڈھاکہ (+06:00 UTC)"
+
+msgid "UTC+6[3]"
+msgstr "یاکاٹرنبرگ (+06:00 UTC)"
+
+msgid "UTC+6:30"
+msgstr "(UTC +06:30) رنگون"
+
+msgid "UTC+7[1]"
+msgstr "(UTC +07:00) بینکاک، جکارتہ، ہنوئی"
+
+msgid "UTC+7[2]"
+msgstr "برسک (+07:00 UTC)"
+
+msgid "UTC+8[1]"
+msgstr "(UTC +08:00) ہانگ کانگ، بیجنگ، ارمکی"
+
+msgid "UTC+8[2]"
+msgstr "(UTC +08:00) کریسنویارسک"
+
+msgid "UTC+8[3]"
+msgstr "(UTC +08:00) کوالالمپور، سنگاپور"
+
+msgid "UTC+8[4]"
+msgstr "پرتھ (+08:00 UTC)"
+
+msgid "UTC+8[5]"
+msgstr "(UTC +08:00) تائپی"
+
+msgid "UTC+8[6]"
+msgstr "(UTC +08:00) اولان باتر"
+
+msgid "UTC+9[1]"
+msgstr "(UTC +09:00) ارکتسک"
+
+msgid "UTC+9[2]"
+msgstr "(UTC +09:00) اوساکا، ساپپورو، ٹوکیو"
+
+msgid "UTC+9[3]"
+msgstr "(UTC +09:00) سیول"
+
+msgid "UTC+9:30[1]"
+msgstr "ایڈیلیڈ (+09:30 UTC)"
+
+msgid "UTC+9:30[2]"
+msgstr "ڈارون (+09:30 UTC)"
+
+msgid "UTC+10[1]"
+msgstr "برسبین (+10:00 UTC)"
+
+msgid "UTC+10[2]"
+msgstr "(UTC +10:00) گوام، پورٹ مورسبی"
+
+msgid "UTC+10[3]"
+msgstr "(UTC +10:00) کینبرا، میلبورن، سڈنی"
+
+msgid "UTC+10[4]"
+msgstr "ہوبارٹ (+10:00 UTC)"
+
+msgid "UTC+10[5]"
+msgstr "یاکتسک (+10:00 UTC)"
+
+msgid "UTC+11[1]"
+msgstr "(UTC +11:00) ولادووستوک"
+
+msgid "UTC+11[2]"
+msgstr "(UTC +11:00) جزائر سلیمان، نیو کیلیڈونیا"
+
+msgid "UTC+12[1]"
+msgstr "(UTC +12:00) ویلنگٹن، آکلینڈ"
+
+msgid "UTC+12[3]"
+msgstr "مگادان (+12:00 UTC)"
+
+msgid "UTC+12[4]"
+msgstr "فجی (+12:00 UTC)"
+
+msgid "UTC+13[1]"
+msgstr "UTC +13:00 Nuku'alofa"
+
+msgid "UTC+13[2]"
+msgstr "ساموا (+13:00 UTC)"
+
+msgid "profileAdditional"
+msgstr "اختیاری"
+
+msgid "saved"
+msgstr "محفوظ کردہ"
+
+msgid "userSettingsChangePassword"
+msgstr "پاس ورڈ تبدیل کریں"
+
+msgid "systemRegisterNew"
+msgstr "نئے صارف رجسٹریشن"
+
+msgid "systemRegisterChange"
+msgstr "پروفائل تبدیل کریں"
+
+msgid "registerSex"
+msgstr "جنس"
+
+msgid "siteRulesAccept"
+msgstr "بٹن کلک کر کےآپ قبول کرتے ہیں"
+
+msgid "pagesRulesTitle"
+msgstr "صارف کا معاہدہ"
+
+msgid "profileMyAnketa"
+msgstr "پروفائل"
+
+msgid "userProfileChangeCountry"
+msgstr ""
+"آپ نے ملک<strong>%current_country%</strong> مختص کیا۔ ٓپ کا موجودہ مقام - "
+"<strong>%country_by_ip%</strong>۔<a %href_extension% href='%link%'>پروفائل "
+"میں ملک تبدیل کریں</a>"
+
+msgid "iLookingFor"
+msgstr "میں تلاش کر رہا ہوں"
+
+msgid "preferredAgeFrom"
+msgstr "سے"
+
+msgid "preferredAgeTo"
+msgstr "کے لئے"
+
+msgid "aboutMe"
+msgstr "میرے متعلق"
+
+msgid "userViewProfessionOrSphereOfActivity"
+msgstr "کاروبار/ سرگرمی کی تفصیل"
+
+msgid "contestUnselectAll"
+msgstr "تمام کا انتخاب ختم کریں"
+
+msgid "step"
+msgstr ""
+
+msgid "locationSavedOk"
+msgstr "آپ کا مقام محفوظ ہے"
+
+msgid "locationClearedOk"
+msgstr "آپ کے محل وقوع کی تفصیلات حذف ہو گئی ہیں"
+
+msgid "locationSavedErr"
+msgstr "جگہ محفوظ کرنے میں غلطی"
+
+msgid "inviteCaptchaWrong"
+msgstr "غلط کوڈ"
+
+msgid "formIncorrectLink"
+msgstr ""
+"پاس ورڈ دوبارہ سیٹ کرنے کے لیے آپ یہ لنک دوبارہ استعمال نہیں کر سکتے. <br /> "
+"ایسا کرنے کے لیے لنک پر کلک کریں"
+
+msgid "msgNoNearestNew"
+msgstr "کوئی بھی آخری بارقریب ظاہر نہیں ہوا."
+
+msgid "msgNoNearestOnline"
+msgstr "معاف کیجیے گا کوئی قریب نہیں ہے."
+
+msgid "msgNoNearestAll"
+msgstr " معاف کیجیے گا کوئی قریب نہیں ہے."
+
+msgid "carouselUsersAreAbsent"
+msgstr "دیکھنے کے لیے مزید کوئی صارف نہیں."
+
+msgid "profileAgeStr"
+msgstr "s٪ سال کی"
+
+msgid "complainSuccess"
+msgstr "آپ کی شکایت کامیابی سے ثالث کو بھیج دی گئی ہے۔"
+
+msgid "complainNoSuccess"
+msgstr "شکایت بھیجنے میں ناکام"
+
+msgid "complainAllPoles"
+msgstr "براہ مہربانی تمام درکار شعبوں میں درج کریں"
+
+msgid "feedbackFileError"
+msgstr "نا جائز فائل وضع. تائید اوضاع: JPG، PNG."
+
+msgid "feedbackSentError"
+msgstr "پیغام محفوظ کرنے میں ناکام. کچھ دیر بعد دوبارہ کوشش کریں."
+
+msgid "feedbackSent"
+msgstr "آپ کا پیغام بھیجا جا چکا ہے"
+
+msgid "unsubscribeSuccess"
+msgstr "آپ نے ای میل اطلاعات سے کامیابی ان سبسکرائب کرلیا ہے"
+
+msgid "unsubscribeNoSuchUser"
+msgstr "اس ای میل پتے کے ساتھ کوئی صارف رجسٹر نہیں ہے۔"
+
+msgid "loginWidgetPhotoDidNotModeratedYet"
+msgstr "تصویر ثالثیت ابھی نہیں ہوئی"
+
+msgid "loginWidgetPhotoDidNotPassModerated"
+msgstr "کی وجہ سے تصویر ثالثیت ابھی منظور نہیں ہوئی:"
+
+msgid "chatSessionClose"
+msgstr "آپ کا سیشن ختم ہو چکا ہے. براہ مہربانی دوبارہ اختیار دیں"
+
+msgid "searchNoResults"
+msgstr "کوئی نتائج نہیں"
+
+msgid "loginWidgetAddPhoto"
+msgstr "تصویر شامل کریں"
+
+msgid "systemExitConfirmTitle"
+msgstr "کیا آپ کو اس بات کا یقین ہے کہ آپ لاگ آؤٹ کرنا چاہتے ہیں؟"
+
+msgid "systemExitConfirmBody"
+msgstr "اگلی&nbsp بارآپ کو لاگ ان اور پاس ورڈ دوبارہ درج کرنا پڑےگا."
+
+msgid "systemExitConfirmNo"
+msgstr "نہیں&nbsp ہے لاگ آؤٹ"

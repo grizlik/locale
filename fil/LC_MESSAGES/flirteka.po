@@ -1,0 +1,4340 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-01 08:56+0000\n"
+"PO-Revision-Date: 2013-06-28 12:23+0200\n"
+"Last-Translator: Filipino <>\n"
+"Language-Team: \n"
+"Language: fil\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/jowee/Development/flirteka/trunk\n"
+
+msgid "lettersGiftTitle"
+msgstr "Mayroon kang regalo sa %s."
+
+msgid "lettersHelloName"
+msgstr "Kamusta, %s"
+
+msgid "messageNewPresentLookAtButton"
+msgstr "Tignan"
+
+msgid "lettersFindYourLoveMatch"
+msgstr "Hanapin ang iyong kapareha sa pag-ibig!"
+
+msgid "lettersUnsubscribe"
+msgstr ""
+"Kung nais mong wag nang makatanggap ng abiso sa email, maari kang <a href="
+"\"%s\" style=\"color: #0072bc;\">mag-unsubscribe sa listahan ng email</a>"
+
+msgid "lettersChangeDataByClickingTheLink"
+msgstr ""
+"Maaari mong palitan ang iyong seting <a href=\"%s\" style=\"color: #0072bc;"
+"\">sa pamamagitan ng pag-click sa link</a>"
+
+msgid "lettersUserSentGift"
+msgstr "<b><a href='%s'>%s</a></b> ay pinadalhan ka ng regalo."
+
+msgid "lettersBalanceIncreasedTitle"
+msgstr "Nadagdagan ang halaga ng iyong balanse"
+
+msgid "lettersBalanceIncreased"
+msgid_plural "lettersBalanceIncreased"
+msgstr[0] "Ang iyong balanse ay nadagdagan ng %s barya"
+msgstr[1] ""
+
+msgid "inviteCaptcha"
+msgstr "Threaded code"
+
+msgid "captchaNewCode"
+msgstr "Bagong code"
+
+msgid "moderatorSpamers"
+msgstr ""
+
+msgid "formSearch"
+msgstr "Hanapin"
+
+msgid "modelSpamersOneName"
+msgstr ""
+
+msgid "modelSpamersBack"
+msgstr ""
+
+msgid "modelSpamersBanTime"
+msgstr ""
+
+msgid "modelSpamersBanMessagesHeader"
+msgstr ""
+
+msgid "modelSpamersMessage"
+msgstr ""
+
+msgid "modelSpamersTranslate"
+msgstr ""
+
+msgid "modelSpamersDate"
+msgstr ""
+
+msgid "moderatorBannedUsers"
+msgstr "Mga pinagbawalan gumagamit"
+
+msgid "moderatorBan"
+msgstr "Pagbabawal"
+
+msgid "moderatorUnban"
+msgstr "Tanggalin ang ban"
+
+msgid "statisticsMailchartsbytemplatesTemplateTitle"
+msgstr "Template #%d (%s)"
+
+msgid "statisticsMailchartsbytemplatesQuantityChartTitle"
+msgstr "Halaga"
+
+msgid "statisticsMailchartsbytemplateQuantityChartYAxis"
+msgstr "Halaga"
+
+msgid "statisticsMailchartsbytemplatesPercentChartTitle"
+msgstr "Porsyento"
+
+msgid "statisticsMailchartsbytemplatePercentChartYAxis"
+msgstr "Porsyento"
+
+msgid "moderatorStatisticMenuMailTotal"
+msgstr ""
+
+msgid "moderatorStatisticMenuEximStats"
+msgstr ""
+
+msgid "statisticsMailTodayTitle"
+msgstr "Istatistika para sa araw na ito"
+
+msgid "statisticsMailDomainsTitle"
+msgstr "Domains"
+
+msgid "statisticsMailUniqueOpens"
+msgstr "kakaibang madidiskubre"
+
+msgid "statisticsMailUniqueClicks"
+msgstr "kakaibang pag-click"
+
+msgid "statisticsMailAll"
+msgstr "kabuuan"
+
+msgid "statisticsMailTemplateTitle"
+msgstr "Pamagat ng mensahe"
+
+msgid "statisticsMailchartsbydomainDisplayDomains"
+msgstr "Domain upang ipakita"
+
+msgid "statisticsMailchartsbydomainAllDomains"
+msgstr "lahat"
+
+msgid "statisticsMailchartsbydomainDisplayCounters"
+msgstr "Ipakita"
+
+msgid "statisticsMailchartsbydomainSubmitButton"
+msgstr "I-update"
+
+msgid "statisticsMailchartsbydomainQuantityChartTitle"
+msgstr "Halaga"
+
+msgid "statisticsMailchartsbydomainQuantityChartYAxis"
+msgstr "Halaga"
+
+msgid "statisticsMailchartsbydomainPercentChartTitle"
+msgstr "Porsyento"
+
+msgid "statisticsMailchartsbydomainPercentChartYAxis"
+msgstr "Porsyento"
+
+msgid "moderatorRefusalOfInvitation"
+msgstr "Pagtanggi sa imbitasyon"
+
+msgid "moderatorComplaintAboutUsers"
+msgstr "Mga reklamo tungkol sa mga gumagamit"
+
+msgid "moderatorFeedBack"
+msgstr "Katugunan"
+
+msgid "moderatorErrorMessages"
+msgstr "Mensahe ng error"
+
+msgid "moderatorUsers"
+msgstr "Mga gumagamit"
+
+msgid "moderatorContactsExclusion"
+msgstr "Pagbubukod ng contact"
+
+msgid "moderatorPhotos"
+msgstr "Mga Larawan"
+
+msgid "moderatorCarousel"
+msgstr "Carousel"
+
+msgid "moderatorModeratingPhotos"
+msgstr "Pagmo-moderate ng larawan"
+
+msgid "moderatorEmailNotifications"
+msgstr "Mga abiso sa email"
+
+msgid "moderatorBlackListForDeliveries"
+msgstr "Blacklist para ipadala"
+
+msgid "moderatorUsernamesBlacklist"
+msgstr "Blacklist na mga username"
+
+msgid "moderatorStatistic"
+msgstr "Estatistiko"
+
+msgid "moderatorStatisticOpenedClickedStats"
+msgstr ""
+
+msgid "moderatorStatisticMenuMailNumbers"
+msgstr "Datos ng sulat"
+
+msgid "moderatorStatisticMenuMailChartByDomain"
+msgstr "Mail - charts - domains"
+
+msgid "moderatorStatisticMenuMailChartByTemplate"
+msgstr "Mail - charts - templates"
+
+msgid "moderatorRemovedRestoredUsers"
+msgstr "Inalis/naibalik na mga profile"
+
+msgid "Advertising statistics"
+msgstr ""
+
+msgid "moderatorBalanceBilling"
+msgstr "Billing"
+
+msgid "moderatorMenuItemProducts"
+msgstr "Produkto"
+
+msgid "moderatorMenuItemProductPresents"
+msgstr "Mga regalo"
+
+msgid "systemExit"
+msgstr "Mag-log out"
+
+msgid "systemUser"
+msgstr "User"
+
+msgid "moderatorRemoveRecord"
+msgstr "Tanggalin ang rekord"
+
+msgid "moderatorMaxUsersOnline"
+msgstr "Naka-online na user (pinakamarami)"
+
+msgid "moderatorRegisteredStatistic"
+msgstr ""
+
+msgid "moderatorAudienceOfSystem"
+msgstr "Madla ng sistema"
+
+msgid "moderatorInAll"
+msgstr "Lahat"
+
+msgid "moderatorQuantityOfBoys"
+msgstr "Dami ng lalaki"
+
+msgid "moderatorQuantityOfGirls"
+msgstr "Dami ng babae"
+
+msgid "moderatorVisitsToday"
+msgstr "Bisita ngayon"
+
+msgid "moderatorVisitsOnWeek"
+msgstr "BIsita sa buong linggo"
+
+msgid "moderatorVisitsOnMonth"
+msgstr "BIsita sa buong buwan"
+
+msgid "moderatorUsersWithCoords"
+msgstr "Bilangin ang mga user pati ang coordinates"
+
+msgid "moderatorUsersFillProfile"
+msgstr "BIlangin ang mga user na may punan ang profile"
+
+msgid "moderatorUsersWithPhoto"
+msgstr "Mga user na may larawan"
+
+msgid "moderatorPhotosToday"
+msgstr "Mga larawan ngayon"
+
+msgid "moderatorPhotosOnWeek"
+msgstr "Mga larawan ngayong linggo"
+
+msgid "moderatorPhotosOnMonth"
+msgstr "Mga larawan ngayong buwan"
+
+msgid "moderatorDialogs"
+msgstr "Dialog"
+
+msgid "moderatorAverageNumberOfMessages"
+msgstr "Average na bilang ng mensahe"
+
+msgid "moderatorQuantityDialogsStartedBoys"
+msgstr "Dami ng usapang nagsimula sa lalaki"
+
+msgid "moderatorQuantityDialogsStartedGirls"
+msgstr "Dami ng usapang nagsimula sa babae"
+
+msgid "moderatorEmails"
+msgstr "Emails"
+
+msgid "moderatorEmailsConfirmed"
+msgstr "Kumpirmado"
+
+msgid "moderatorEmailsNotConfirmed"
+msgstr "HIndi kompirmado"
+
+msgid "moderatorRemovedRestoredCauses"
+msgstr "Mga dahilan sa pagtanggal"
+
+msgid "moderatorRemovedRestoredDivisionForSexAndTime"
+msgstr "Paghahati para sa sex at oras"
+
+msgid "guestsToday"
+msgstr "Ngayon"
+
+msgid "guestsByWeek"
+msgstr "Huling 7 araw"
+
+msgid "guestsByMonth"
+msgstr "Huling 30 araw"
+
+msgid "male"
+msgstr ""
+
+msgid "female"
+msgstr ""
+
+msgid "moderatorProductPresentsTitle"
+msgstr "Regalo"
+
+msgid "yes"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "moderatorProductPresentsCreateTitle"
+msgstr "Gumawa ng bagong regalo"
+
+msgid "moderatorProductPresentsUpdateTitle"
+msgstr "I-update ang regalo"
+
+msgid "usersDeleteSelectedPhotos"
+msgstr "Tanggalin"
+
+msgid "usersDeletePhotoConfirm"
+msgstr "SIgurado ka ba sa pagtanggal ng larawan?"
+
+msgid "moderatorBack"
+msgstr "Ibalik"
+
+msgid "moderatorNext"
+msgstr "Sunod"
+
+msgid "moderatorAddRecord"
+msgstr "Magdagdag ng rekord"
+
+msgid "actionSave"
+msgstr "Save"
+
+msgid "actionCancel"
+msgstr "Kanselahin"
+
+msgid "moderatorChangeRecord"
+msgstr "Baguhin ang rekord"
+
+msgid "moderatorRemove"
+msgstr "Tanggalin"
+
+msgid "formOperatorsBegin"
+msgstr "sa simula ng bawat linya"
+
+msgid "formOperatorsEnd"
+msgstr "Maaring gumamit ng operators ng pagkukumpara"
+
+msgid "formAdvancedSearch"
+msgstr "Masusing paghahanap"
+
+msgid "moderatorActionBanQuestion"
+msgstr "Bawal?"
+
+msgid "formCreate"
+msgstr "Gumawa ng elemento"
+
+msgid "formRequired"
+msgstr "Ang mga patlang na may markang * ay kailangan"
+
+msgid "formNoactive"
+msgstr "Hindi"
+
+msgid "formActive"
+msgstr "Oo"
+
+msgid "systemModerator"
+msgstr "Moderator"
+
+msgid "anketaPersonalsCustomLabel"
+msgstr "Iba"
+
+msgid "coin"
+msgid_plural "coins"
+msgstr[0] "barya"
+msgstr[1] "mga barya"
+
+msgid "moderatorUserFormBalanceChangeAlt"
+msgstr "account"
+
+msgid "formSave"
+msgstr "I-save ang pagbabago"
+
+msgid "formManage"
+msgstr "Pamahalaan ang mga elemento"
+
+msgid "formUpdate"
+msgstr "I-edit ang elemento"
+
+msgid "formDelete"
+msgstr "Burahin ang elemento"
+
+msgid "systemLogin"
+msgstr "Mag log-in"
+
+msgid "moderatorComplaintsResolved"
+msgstr "Naresolba"
+
+msgid "moderatorComplaintsNew"
+msgstr "Bago"
+
+msgid "sexFemale"
+msgstr "Babae"
+
+msgid "sexMale"
+msgstr "Lalaki"
+
+msgid "formList"
+msgstr "Listahan ng elemento"
+
+msgid "formView"
+msgstr "tignan ang elemento"
+
+msgid "moderatorSlider"
+msgstr "Slider"
+
+msgid "moderatorMosaic"
+msgstr "Mosaic"
+
+msgid "photosStatusNew"
+msgstr "Bago"
+
+msgid "moderatorActions"
+msgstr "Pagkilos"
+
+msgid "moderatorAccept"
+msgstr "Tanggapin"
+
+msgid "moderatorRefuse"
+msgstr "Tumanggi"
+
+msgid "moderatorModerating"
+msgstr ""
+
+msgid "moderatorPhotosVersions"
+msgstr "bersyon ng larawan"
+
+msgid "moderatorStatus"
+msgstr "estado"
+
+msgid "userID"
+msgstr "User ID"
+
+msgid "moderatorPhotosSearchInTheWeb"
+msgstr "Hanapin sa web"
+
+msgid "modelUsersSex"
+msgstr "Kasarian"
+
+msgid "searchGo"
+msgstr "Hanapin"
+
+msgid "moderatorRefuseReason"
+msgstr "dahilan ng pagtanggi"
+
+msgid "moderatorLastEditName"
+msgstr ""
+
+msgid "moderatorBalanceBillingGlobalCountersRegistrations"
+msgstr "Mga login/Nakumpirma/Paid accounts"
+
+msgid "moderatorBalanceBillingGlobalCountersExpense"
+msgstr "Kabuuang gastos ng user"
+
+msgid "moderatorBalanceBillingGlobalCountersCurrent"
+msgstr "Kasalukuyang account balance"
+
+msgid "moderatorBalanceSetTitle"
+msgstr "Palitan ang balanse ng account"
+
+msgid "moderatorBalanceSetSuccessful"
+msgstr "Ang balanse ng account ay matagumpay na napalitan"
+
+msgid "moderatorBalanceUserStatTitle"
+msgstr "statistiks ng balanse"
+
+msgid "moderatorBalanceUserStatTableFieldTime"
+msgstr "oras"
+
+msgid "moderatorBalanceUserStatTableFieldDescription"
+msgstr "pagkakalarawan"
+
+msgid "moderatorBalanceUserStatTableFieldAmount"
+msgstr "halaga"
+
+msgid "moderatorBalanceUserStatTableFieldCurrent"
+msgstr "balanse"
+
+msgid "moderatorRegisteredToday"
+msgstr "Kabuuang nagrehistro ngayon"
+
+msgid "bannedSecondChance"
+msgstr ""
+"Ok, ito'y malinaw, hindi ko susuwayin ang anumang patakaran<a "
+"href='%s'>mangyaring ako ay i-unblock</a>"
+
+msgid "bannedForever"
+msgstr ""
+"Pakiusap, gumawa ng bagong account at maging batid na wag ulitin ang "
+"ginawang aksyon. Kung hindi, kinakailangan naming i-block muli ang iyong "
+"account."
+
+msgid "actionTranslate"
+msgstr "isalin"
+
+msgid "chatSendByClickOn"
+msgstr "Ipadala gamit ang"
+
+msgid "formPleaseFixErrors"
+msgstr "Itama ang sumusunod na mga mali:"
+
+msgid "userBalloonAddToFavorite"
+msgstr "idagdag sa mga paborito"
+
+msgid "ofPair"
+msgstr "pares"
+
+msgid "visitor"
+msgid_plural "visitors"
+msgstr[0] "bisita"
+msgstr[1] "mga bisita"
+
+msgid "signupMe"
+msgstr "Ako ay"
+
+msgid "signupIAmSearching"
+msgstr "Naghahanap ng"
+
+msgid "bannedInfoTitle"
+msgstr ""
+"An iyong account ay naka-block. Ito ay marahil ay isa sa mga sumusunod na "
+"dahilan:"
+
+msgid "bannedInfoCauseSendSpam"
+msgstr ""
+"&mdash; Maramihang magpapadala ng email ng advertising o spam na mensahe"
+
+msgid "bannedInfoCauseSendContacts"
+msgstr ""
+"&mdash; maramihang pagpapadala ng mensahe na naglalaman ng personal na "
+"impormasyon, hal. numero ng telepono, email, skype, atbp.;"
+
+msgid "bannedInfoCauseWrongProfile"
+msgstr ""
+"&mdash; ang profile ay mayroong ng hindi akmang nilalaman, hal. patalastas, "
+"atbp.;"
+
+msgid "bannedInfoCauseRudeAttitude"
+msgstr "&mdash; magaspang na pag-uugali patungo sa ibang gumagamit;"
+
+msgid "bannedInfoRecommendation"
+msgstr ""
+"Iminumungkahi naming basahin ang aming <a href=\"http://lovetime.com/pages/"
+"rules\">Mga Tuntunin ng Kasunduan</a>"
+
+msgid "bannedInfoCreateNewAccount"
+msgstr ""
+"Mangyaring, lumikha ng isang bagong account at magkaroon ng kamalayan sa "
+"hindi pagpapaulit ng ganitong mga aksyon. Kung hindi, kinakailangan naming i-"
+"block muli ang iyong account."
+
+msgid "bannedInfoSendEmail"
+msgstr ""
+"Kung sa tingin mo ay naka-block ang iyong account, mangyaring mag-email sa "
+"amin sa <a href=\"mailto:info@lovetime.com?subject=Wrongly banned user %id%"
+"\">info@lovetime.com</a>"
+
+msgid "loginErrorUserBanned"
+msgstr "Hindi tanggap ang access. Ang user ay naka-ban."
+
+msgid "messageFilterTitle"
+msgstr "Pansala ng mensahe"
+
+msgid "messageFilterSuggestion"
+msgstr "Tinutukoy kung aling mga mensahe ang gusto mong matanggap ..."
+
+msgid "messageFilterReceiveFromAll"
+msgstr "Lahat ng mensahe."
+
+msgid "messageFilterReceiveFromWoman"
+msgstr "Tanging mga mensahe na galing sa mga babae."
+
+msgid "messageFilterReceiveFromMen"
+msgstr "Tanging mga mensahe na galing sa mga lalaki."
+
+msgid "messageFilterWithPhotoOnly"
+msgstr "May mga larawan lamang."
+
+msgid "messageFilterAgedFrom"
+msgstr "Edad ng mga gumagamit mula"
+
+msgid "messageFilterAgedTo"
+msgstr "hanggang"
+
+msgid "messageFilterFromMyCountry"
+msgstr "Galing lamang sa aking bansa."
+
+msgid "modelUsersFilterSex"
+msgstr "Salain ayon sa kasarian."
+
+msgid "modelUsersFilterPhoto"
+msgstr "May mga larawan lamang."
+
+msgid "modelUsersFilterAgeFrom"
+msgstr "Tanging mga users na may edad"
+
+msgid "modelUsersFilterAgeTo"
+msgstr "hanggang"
+
+msgid "modelUsersFilterCountry"
+msgstr "Para lamang sa aking bansa"
+
+msgid "chatFilterMan"
+msgstr ""
+"nag-set ng kanyang filter upang hindi ka makapagpadala ng mga mensahe. "
+"Subukan makipag-chat sa iba."
+
+msgid "chatFilterWoman"
+msgstr ""
+"nag-set ng kanyang filter upang hindi ka makapagpadala ng mga mensahe. "
+"Subukan makipag-chat sa iba."
+
+msgid "chatImpossibleCompanionBanned"
+msgstr ""
+"Hindi ka maaaring magpadala ng mga mensahe sa kadahilanang ang user %s ay "
+"naka-block ayon sa moderator o di kaya ay nagtanggal na ng kanyang profile."
+
+msgid "lettersHiAndWelcome"
+msgstr "Hello, %name%! %host% Administrator welcomes you!"
+
+msgid "lettersAlmostDone"
+msgstr "Halos tapos na ito..."
+
+msgid "lettersConfirm"
+msgstr "Kumpirmahin ang iyong email"
+
+msgid "lettersPersonalData"
+msgstr "Ang iyong personal na detalye:"
+
+msgid "lettersNick"
+msgstr "Palayaw:"
+
+msgid "lettersEmail"
+msgstr "Email:"
+
+msgid "lettersAboutSite"
+msgstr ""
+"Maaari mong mahanap ang iyong soul mate sa aming website, magkaroon ng "
+"romantikong relasyon, makipaglandian ng hindi nakikilala sa iyong mga "
+"kaibigan at mga kakilala."
+
+msgid "lettersTryIt"
+msgstr "<a href=\"%s\">Subukan ito!</a> Ito ay lubhang kapana-panabik!"
+
+msgid "lettersTellAboutUs"
+msgstr "Sabihan ang iyong mga kaibigan tungkol sa site na ito."
+
+msgid "lettersThankYou"
+msgstr "Salamat."
+
+msgid "lettersYouCanChangeData"
+msgstr "Maari mong palitan ang detalye ng iyong profile sa:"
+
+msgid "removingProfileRemovingProfile"
+msgstr "Tanggalin ang account"
+
+msgid "removingProfileRemoveProfileAction"
+msgstr "Tanggalin"
+
+msgid "removingProfileQuestion"
+msgstr "Sigurado ka bang nais mong tanggalin ang iyong account?"
+
+msgid "removingProfileCauseManagedFindYourSoulMate"
+msgstr "Oo, nahanap ko ang aking soul mate!"
+
+msgid "removingProfileCauseICanNotFindAnyone"
+msgstr ""
+"Matagal na akong gumagamit ng site ngunit hindi pa rin ako nakakahanap ng "
+"taong nais ko."
+
+msgid "removingProfileCauseIPlanGoBack"
+msgstr "Iiwanan ko ng panandalian ang site ngunit ako ay babalik pa din."
+
+msgid "removingProfileCauseIHaveAnotherProfile"
+msgstr "Mayroon akong iba pang profile."
+
+msgid "removingProfileCauseIWasInsultedByAnother"
+msgstr "Ako ay ininsulto ng isa pang user."
+
+msgid "removingProfileCauseIReceiveOffersEroticServices"
+msgstr "Ako ay nakakatanggap ng mapagpahiwatig na mga alok."
+
+msgid "removingProfileCauseOther"
+msgstr "Iba pa."
+
+msgid "removingProfileIChangedMyMindAction"
+msgstr "Wag mag-abala, ako ay mananatili!"
+
+msgid "removingProfileNotification"
+msgstr ""
+"Sa pamamagitan ng pag-click ng \"Delete\", isang kumpirmasyon sa email ang "
+"ipapadala sa (%email%). Sundin ang link na ibinigay sa email na ito at "
+"kumpirmahin ang iyong pagtanggal ng iyong profile. Kung nais mong ibalik ang "
+"iyong account (kabilang ang mga larawan at mga listahan ng mga contact), "
+"maaari mong gawin ito sa loob ng 30 araw."
+
+msgid "removingProfileRemoveAction"
+msgstr "Tanggalin"
+
+msgid "removingProfileCanselAction"
+msgstr "Kanselahin"
+
+msgid "removingProfileEmailSendNotification"
+msgstr ""
+"Ang email na magkukumpirma ng pagtanggal sa iyong account ay naipadala na. "
+"Mangyaring sundan ang mga direksyon at i-click ang link na ibinigay sa email "
+"upang makumpleto ang proseso sa pagtanggal ng account."
+
+msgid "removingProfileNextAction"
+msgstr "Sunod"
+
+msgid "removingProfileEnterEmailAndCode"
+msgstr "Ilagay ang iyong email address at ang code na iyong natanggap."
+
+msgid "removingProfileEmail"
+msgstr "Email"
+
+msgid "removingProfileEnterEmail"
+msgstr "Ilagay ang email"
+
+msgid "removingProfileCodeOfPost"
+msgstr "Message code"
+
+msgid "removingProfileEnterCodeOfPost"
+msgstr "Ilagay ang code"
+
+msgid "removingProfileDoNotGo"
+msgstr "Huwag kang umalis! Mami-miss ka ng mga tao!"
+
+msgid "removingProfileCancelRemovingAction"
+msgstr "Kanselahin ang pagtanggal"
+
+msgid "removingProfileContinueAction"
+msgstr "Ipagpatuloy na lamang"
+
+msgid "removingProfileRemovedStatus"
+msgstr "Ang iyong profile status na &mdash; ay tanggal na"
+
+msgid "removingProfileRemovedMessage"
+msgstr ""
+"Ang iyong profile page ay minarkahan bilang tanggal na. Ang lahat ng iyong "
+"mga mensahe, contacts, larawan at settings ay itatabi sa loob ng 30 araw "
+"bago ito tuluyang burahin mula sa system."
+
+msgid "removingProfileRestoreProfileAction"
+msgstr "Ibalik ang account"
+
+msgid "modelUsersHobbies"
+msgstr "Ilarawan ang iyong sarili"
+
+msgid "balanceChangesBuyProductDecreaseProductId"
+msgstr "Produkto"
+
+msgid "balanceChangesByAdminUserId"
+msgstr "User"
+
+msgid "balanceChangesPSIncreasePSId"
+msgstr "Paraan ng pagbayad"
+
+msgid "BalanceIncreaseErrorTitle"
+msgstr "Error sa pagtaas ng balanse ng account"
+
+msgid "everyDayBalanceIncreasingDesc"
+msgstr "Arawang pagtaas ng balanse ng account"
+
+msgid "invisibleSettingsFormButton"
+msgstr "I-save"
+
+msgid "invisibleSettingsPageText"
+msgstr ""
+"Pinapayo namin na huwag ng gamiting madalas ang modang ito. Mahirap itong "
+"iwasan ngunit alalahanin na ang mga user na nakikita ng iba ay malaki ang "
+"posibilidad na magkaroon ng mas maraming bagong kaibigan kaysa sa mga hindi "
+"nakikitang user."
+
+msgid "invisibleSettingsPageTitle"
+msgstr "Invisible mode"
+
+msgid "modelUsersBalance"
+msgstr "account"
+
+msgid "modelUsersInvisibleeWalk"
+msgstr "Itago ako sa listahan ng mga bisita sa ibang profile"
+
+msgid "modelUsersInvisibleOnline"
+msgstr "Itago ang aking online status sa ibang mga user"
+
+msgid "modelUsersInvisibleSuperstarStatus"
+msgstr "Itago ang aking Superstar status sa ibang user"
+
+msgid "moderatorProductPresentsAddButton"
+msgstr "Magdagdag ng regalo"
+
+msgid "monetizationInfoPageSearchText"
+msgstr "Dagdagan ang tsansa para sa mas masayang relasyon"
+
+msgid "monetizationInfoPageSearchTitle"
+msgstr "1 posisyon sa resulta ng paghahanap"
+
+msgid "monetizationInfoPageSuperstarButton"
+msgstr "Maging isang Superstar"
+
+msgid "monetizationInfoPageSuperstarText"
+msgstr "Prayoridad sa mga \"Dates\" na laro"
+
+msgid "monetizationInfoPageSuperstarTitle"
+msgstr "Superstar na estado"
+
+msgid "monetizationInfoPageText"
+msgstr ""
+"Maaari kang <a href='#' id='%s'>bumuli ng barya</a> o hanapin ito sa website."
+
+msgid "monetizationInfoPageText2"
+msgstr "Bibigyan ka namin ng libreng barya bawat araw"
+
+msgid "monetizationInfoPageTitle"
+msgstr "Gamitin ang barya upang maging popular."
+
+msgid "monetizationInfoPageTopFacesButton"
+msgstr "Itaas sa taas"
+
+msgid "monetizationInfoPageTopFacesText"
+msgstr ""
+"Aming ikino-konsidera ang iyong mga nais at piliin ang pinaka-saktong tao "
+"base sa kakaibang algorithm."
+
+msgid "monetizationInfoPageTopFacesTitle"
+msgstr "I-posisyon sa ITAAS"
+
+msgid "monetizationAboutTopTitle"
+msgstr "Itaguyod ang profile"
+
+msgid "monetizationAboutTopText"
+msgstr ""
+"Pagbutihin ang posisyon sa mga resulta ng paghahanap at sa feed ng larawan"
+
+msgid "monetizationAboutTopButton"
+msgstr "Itaguyod sa ITAAS"
+
+msgid "monetizationAboutGiftsTitle"
+msgstr "Mga Regalo"
+
+msgid "monetizationAboutGiftsText"
+msgstr "Dagdagan ang iyong popularidad"
+
+msgid "monetizationAboutUnlimitedTitle"
+msgstr "Walang limitasyon"
+
+msgid "monetizationAboutUnlimitedText"
+msgstr "Tanggalin ang lahat ng restriksyon"
+
+msgid "monetizationAboutUnlimitedButton"
+msgstr "Tanggalin ang restriksyon"
+
+msgid "monetizationAboutVipTitle"
+msgstr "VIP"
+
+msgid "monetizationAboutVipText"
+msgstr "Pagandahin ang itsura ng iyong profile"
+
+msgid "monetizationAboutVipButton"
+msgstr "Maging VIP"
+
+msgid "monetizationAboutIncognitoTitle"
+msgstr "Hindi nakikita"
+
+msgid "monetizationAboutIncognitoText"
+msgstr "Maging hindi nakikita para sa ibang tao"
+
+msgid "monetizationAboutIncognitoButton"
+msgstr "Makita bilang offline"
+
+msgid "monetizationBalanceSendSMS"
+msgstr "Magpadala ng SMS"
+
+msgid "monetizationBalanceSum"
+msgstr "Halaga ng bayad"
+
+msgid "monetizationBalancePhoneNumber"
+msgstr "Numero ng telepono"
+
+msgid "monetizationBalanceOrderNumber"
+msgstr "Numero ng order"
+
+msgid "monetizationBalanceYouPayOrder"
+msgstr "Binayaran mo ang order"
+
+msgid "monetizationBalanceCheckOrder"
+msgstr "Siyasatin ang order"
+
+msgid "monetizationBalanceOperator"
+msgstr "Tagapangasiwa"
+
+msgid "monetizationBalanceUpText"
+msgstr ""
+"Upang dagdagan ang balanse ng %s barya (hindi kasama ang VAT), kailangan "
+"mong magpadala ng mensahe."
+
+msgid "monetizationBalanceNumber"
+msgstr "Numero"
+
+msgid "monetizationBalanceText"
+msgstr "Laman ng sulat"
+
+msgid "paymentDialogMessageSuperstarForSearch"
+msgstr ""
+"Upang makita ang profiles na makikita sa pamamagitan ng advanced na "
+"paghahanap, kailangan mong i-activate ang Superstar na estado."
+
+msgid "paymentDialogTitleDefault"
+msgstr "I-top up ang account"
+
+msgid "paymentDialogTitleSuperstar"
+msgstr "Bumili ng Superstar na estado"
+
+msgid "paymentDialogTitleTopFaces"
+msgstr "Itaas"
+
+msgid "paymentDialogWidgetBuy"
+msgstr "bayad"
+
+msgid "paymentDialogWidgetTermsOfUse"
+msgstr "Mga Takda ng Paggamit"
+
+msgid "productPresentModelCodePatternMessage"
+msgstr ""
+"ang code ng produkto ay kailangan tulad ng 'present-*', kung saan ang * ay "
+"isa o higit pang digit o maliit na titik ng alpabetong Latin"
+
+msgid "productPresentModelImageFieldLabel"
+msgstr "larawan"
+
+msgid "productSuperstar12PublicTitle"
+msgstr "Estadong Superstar sa 12 buwan"
+
+msgid "productSuperstar1PublicTitle"
+msgstr "Estadong Superstar sa isang buwan"
+
+msgid "productSuperstar3PublicTitle"
+msgstr "Estadong Superstar ng 3 buwan"
+
+msgid "productSuperstar6PublicTitle"
+msgstr "Estadong Superstar ng 6 na buwan"
+
+msgid "productSuperstarFriendly"
+msgstr "palakaibigan"
+
+msgid "productSuperstarStatusModelFieldPeriod"
+msgstr "panahon"
+
+msgid "productSuperstarStatusModelFieldType"
+msgstr "tipo"
+
+msgid "productSuperstarTypeRomantic"
+msgstr "romantiko"
+
+msgid "productTopFacesPublicTitle"
+msgstr "Itaas"
+
+msgid "publicFlashNotifierWidgetPresentBalanceWasChanged"
+msgstr "Balanse ng account ay nabawasan ng %d %s"
+
+msgid "publicFlashNotifierWidgetPresentNotice"
+msgstr "Ikaw ay nakapili ng regalo"
+
+msgid "sendGiftDialogCommentLabel"
+msgstr "Iyong mensahe at komplimento"
+
+msgid "sendGiftDialogHiddenFieldLabel"
+msgstr "Tanging ang nakatanggap ang makakakita ng regalo"
+
+msgid "sendGiftDialogSubmit"
+msgstr "Ipadala"
+
+msgid "sendGiftDialogText"
+msgstr "Ito ang pinakamagandang paraan upang makakuha ng atensyon"
+
+msgid "sendGiftDialogTitle"
+msgstr "Magpadala ng regalo"
+
+msgid "superstarModelAttributeBegin"
+msgstr "Simula"
+
+msgid "superstarModelAttributeFinish"
+msgstr "Tapos na"
+
+msgid "superstarModelAttributeUser"
+msgstr "User"
+
+msgid "topFacesDialogNotice"
+msgstr "Presyo ay %d %s"
+
+msgid "userRatingAndBalanceWidgetBecameSuperstar"
+msgstr "Maging Superstar"
+
+msgid "userRatingAndBalanceWidgetRatingExtraLow"
+msgstr "masyadong mababa"
+
+msgid "userRatingAndBalanceWidgetRatingLow"
+msgstr "mababa"
+
+msgid "userRatingAndBalanceWidgetRatingMiddle"
+msgstr "katamtaman"
+
+msgid "userRatingAndBalanceWidgetRatingHigh"
+msgstr "mataas"
+
+msgid "userRatingAndBalanceWidgetRatingExtraHigh"
+msgstr "masyadong mataas"
+
+msgid "userRatingAndBalanceWidgetFillUpBalance"
+msgstr "itaas"
+
+msgid "userRatingAndBalanceWidgetIncrease"
+msgstr "Dagdagan"
+
+msgid "userRatingAndBalanceWidgetRatingAndVisitorsText"
+msgstr ""
+"Ang iyong hinahanap na posisyon ay <a href='%s'>%s</a> ay ngayon meron kang "
+"<a href='%s'>%d</a> %s"
+
+msgid "userRatingAndBalanceWidgetToTop"
+msgstr "Itaas Ka"
+
+msgid "userRatingAndBalanceWidgetYourRating"
+msgstr "Iyong popularidad"
+
+msgid "userViewBalloonActivateSuperstar"
+msgstr "Gawing aktibo ang Superstar status"
+
+msgid "userViewBalloonReturnToBasicSearch"
+msgstr "Ibalik sa search"
+
+msgid "userViewBalloonTitle"
+msgstr ""
+"Upang makita ang profile na nakita gamit ang advanced search, kailangan mong "
+"gawing aktibo ang Superpower."
+
+msgid "walletBalanceChangesAmount"
+msgstr "halaga"
+
+msgid "walletBalanceChangesBalance"
+msgstr "kasalukuyang balanse ng account"
+
+msgid "walletBalanceChangesCode"
+msgstr "code"
+
+msgid "walletBalanceChangesDescription"
+msgstr "paglalarawan"
+
+msgid "walletBalanceChangesPrice"
+msgstr "presyo"
+
+msgid "walletBalanceChangesProductId"
+msgstr "produkto"
+
+msgid "walletBalanceChangesTimestamp"
+msgstr "oras"
+
+msgid "walletBalanceChangesUserId"
+msgstr "user"
+
+msgid "walletProductsCode"
+msgstr "code"
+
+msgid "walletProductsCreatedAt"
+msgstr "petsa ng pagkakagawa"
+
+msgid "walletProductsCreatedBy"
+msgstr "ginawa ni"
+
+msgid "walletProductsDescription"
+msgstr "pagkakalarawan"
+
+msgid "walletProductsPrice"
+msgstr "presyo"
+
+msgid "walletProductsTitle"
+msgstr "titulo"
+
+msgid "walletProductsUpdatedAt"
+msgstr "na-update"
+
+msgid "walletProductsUpdatedBy"
+msgstr "in-update ni"
+
+msgid "YourBalanceWasIncreasedText"
+msgstr "Ang iyong balanse ay tumaas ng %d %s. Kasalukuyang balanse ay %d %s."
+
+msgid "YourBalanceWasIncreasedTitle"
+msgstr "Dagdagan ang balanse"
+
+msgid "YourPresentHasBeenSent"
+msgstr "Naipadala na ang iyong regalo"
+
+msgid "sendGiftDialogFilterAll"
+msgstr "Lahat"
+
+msgid "sendGiftDialogFilterFriendly"
+msgstr "Palakaibigan"
+
+msgid "sendGiftDialogFilterRomantic"
+msgstr "Romantiko"
+
+msgid "paymentDialogBuyCoins"
+msgstr "Taasan ang account"
+
+msgid "carouselNeedBuySuperstarNotice"
+msgstr ""
+"Upang makita ang mga profile kailangan mong <a href=\"%s\">na bumili</a> ng "
+"Superstar na estado"
+
+msgid "leftMenuSearchPosition"
+msgstr "hanapin ang posisyon"
+
+msgid "leftMenuVisitorsToday"
+msgstr "%s ngayon"
+
+msgid "leftMenuButtonTop"
+msgstr "ITAAS"
+
+msgid "leftMenuButtonSuperstar"
+msgstr "Superstar"
+
+msgid "leftMenuBalance"
+msgstr "Balanse"
+
+msgid "balanceChangeTitle"
+msgstr "Baguhin ang balanse ng account"
+
+msgid "balanceChangeBuyProductDecreaseTitle"
+msgstr "nabiling kagamitan"
+
+msgid "balanceChangeByAdminTitle"
+msgstr "Ang iyong balanse ay pinalitan ng administrator"
+
+msgid "balanceChangeDailyTitle"
+msgstr "arawang pagpapalit"
+
+msgid "balanceChangePSIncreaseTitle"
+msgstr "sagutan ang balanse ng pay system"
+
+msgid "userProfileAddPresentBaitF"
+msgstr "Padalhan siya ng regalo upang mapansin ka niya!"
+
+msgid "userProfileAddPresentBaitM"
+msgstr "Padalhan sya ng regalo at mapapansin ka nya."
+
+msgid "mailTemplateTitleNewPresent"
+msgstr ""
+"%name%, nakatanggap ka ng bagong regalo mula kay %sender_name% on %host%"
+
+msgid "mailTemplateBodyNewPresent"
+msgstr ""
+"<a href='%sender_profile_url%'>%sender_name%</a> ay pinadalhan ka ng regalo. "
+"Maaari mo itong makita sa iyong <a href='%profile_url%'>profile</a>."
+
+msgid "balanceChangeBuyProductSuperstarDecreaseTitle"
+msgstr "Bayad sa iyong pag-activate ng Superstar status."
+
+msgid "balanceChangeBuyProductPresentDecreaseTitle"
+msgstr "Bayad para sa biniling regalo"
+
+msgid "balanceChangeBuyProductTopFacesDecreaseTitle"
+msgstr "Bayad upang dagdagan ang iyong popularidad."
+
+msgid "userTransactionsPageTitle"
+msgstr "Ang kasalukuyang balanse ng iyong account: %d %s"
+
+msgid "userTransactionsPageDescription"
+msgstr ""
+"Ang iyong account at kasaysayan ng pagbili sa aming website. <br /> Sa "
+"\"Katayuan ng Account\" maaari mong tingnan ang isang listahan ng "
+"kasalukuyang katayuan ng iyong account at <br /> naka-print na kaugnay na "
+"mga dokumento. Sa \"Purchase History\" maaari mong tingnan ang isang "
+"listahan ng iyong mga gastos at nakaraang mga pagbili."
+
+msgid "userTransactionsPageLinkTypeExpenses"
+msgstr "Status ng iyong Account"
+
+msgid "userTransactionsPageLinkTypeIncomes"
+msgstr "Purchase History"
+
+msgid "userTransactionsPageTableHeaderCol1"
+msgstr "Transaksyon"
+
+msgid "userTransactionsPageTableHeaderCol2"
+msgstr "Date"
+
+msgid "userTransactionsPageTableHeaderCol3"
+msgstr "Halaga"
+
+msgid "userTransactionsPageLinkAll"
+msgstr "Tignan lahat"
+
+msgid "monetizationInfoPageLinkTransactions"
+msgstr "Pag-ayos sa pagbabayad"
+
+msgid "SuperstarPaymentWasPurchasedTitle"
+msgstr "Ikaw ay matagumpay na nag-activate ng Superstar status!"
+
+msgid "monetizationInfoPageLinkRecharge"
+msgstr "Bumili ng coins"
+
+msgid "messageNewPresentText"
+msgstr ""
+
+msgid "superstarInfoPageTitle"
+msgstr "Maging Superstar!"
+
+msgid "superstarInfoPageTitleNotice"
+msgstr ""
+"Ang Superstar mode ay makakatulong upang makakilala ka ng mas maraming tao "
+"ng mas mabilis."
+
+msgid "superstarInfoPageEncountersTitle"
+msgstr "Mga tagpo - malaman kung sino ang may nais na makilala ka"
+
+msgid "superstarInfoPageEncountersNotice"
+msgstr ""
+"Kuhain ang folder ng mga tagpo at alamin kung sino ang nagsabi ng 'Oo'!"
+
+msgid "superstarInfoPageAdvancedSearchTitle"
+msgstr "Advanced search"
+
+msgid "superstarInfoPageAdvancedSearchNotice"
+msgstr "Tignan ang mga profile na eksakto sa mga hinahanap mo."
+
+msgid "superstarInfoPageInvisibleModeTitle"
+msgstr "Invisible mode"
+
+msgid "superstarInfoPageInvisibleModeNotice"
+msgstr ""
+"Tignan ang profile ng ibang miyembro ng hindi nila nalalaman. Hindi nila "
+"malalaman ang tinignan mo sila..."
+
+msgid "superstarInfoPageLimitsTitle"
+msgstr "Walang limitasyon"
+
+msgid "superstarInfoPageLimitsNotice"
+msgstr "Walang limitasyong sa mga carousel ridings, paghahanap at chat."
+
+msgid "superstarInfoPageButtonBuy"
+msgstr "Maging Superstar"
+
+msgid "superstarInfoPageButtonRun"
+msgstr "Subukan ito ng libre"
+
+msgid "or"
+msgstr "o"
+
+msgid "close"
+msgstr "Isara"
+
+msgid "YouHaveReceivedAGift"
+msgstr "Nakatanggap ka ng regalo"
+
+msgid "YouHaveMadeAGift"
+msgstr "Ikaw ay nagpadala ng regalo"
+
+msgid "paymentDialogWidgetTermsOfUseText"
+msgstr ""
+"Sa pamamagitan ng pagpindot sa '#button#', ikaw ay pumapayag upang ang #ltd# "
+"ay mag-withdraw sa #paySystemName# ng #moneyAmount# #moneyCurrency# para sa "
+"#starAmount# #coins# na maaaring gamitin sa #domain# at iyong tinatanggap "
+"ang sumusunod na tuntunin sa paggamit ng Barya #siteName#. Maaari mong "
+"baguhin ang iyong seting kung nais mong palitan ang paraan ng pagbabayad. "
+"<br/> <br/> Mga Tuntunin sa Paggamit ng Barya sa #siteName#: <br/> <br/> 1. "
+"Sa iyong pagbili or pagtanggap ng Barya, hindi mo pagmamay-ari ang mga "
+"baryang ito. Ngunit may karapatan ka na gamitin ang mga barya sa upang "
+"bumili ng mga tampok na inaalok sa #siteName# tulad ng Regalo, Superstar "
+"status, atbp. <br/> 2. Ang pagbili ng barya ay non-refundable. <br/> 3. "
+"Maaari naming palitan ang halaga ng pagbili sa mga barya anumang oras, "
+"gayundin ang paraan sa kung saan ito magagamit sa website. Inilalaan din "
+"namin ang karapatan na ihinto ang pagbibigay ng barya. <br/> 4. Ang mga "
+"barya ay hindi napapalit para sa anumang kabuuan ng pera o halaga sa pera "
+"maliban kung ito ay mapagkausunduan sa isang kasulatan. <br/> 5. Ang mga "
+"hindi magagamit na barya ay mawawalan ng bisa pagkaraan ng 6 na buwan "
+"matapos bilhin. <br/> 6. Kung nais mong tanggalin ang iyong account o di "
+"kaya naman ay nasuspinde ng moderator ng #siteName# dahil sa hindi pagsunod "
+"sa mga Tuntunin ng Paggamit, mawawala sa iyo ang lahat ng mga naipon mong "
+"barya. <br/> 7. Kung makakakuha ka ng libreng mga barya sa pamamagitan ng "
+"mga pag-promote, taglay namin ang karapatan na mag-expire ang mga ito sa "
+"anumang oras. <br/> <br/> Ang pagbabayad ay pinoproseso sa pamamagitan ng "
+"#ltd#"
+
+msgid "payonlineTetmsOfUse"
+msgstr ""
+"<p>Ang pinakahuling halaga ng bayad, web address o pangalan ng kumpanya, "
+"identifier (numero) ng isang gawain o isang utos ang mananagot upang "
+"magbayad.</p><p>Ang iyong personal na impormasyon ay ekslusibong nakatabi sa "
+"PayOnline system. Ginagarantiya namin ang impormasyong ito ay hindi dapat sa "
+"ilalim ng ng anumang sitwasyon maibahagi sa mga ikatlong partido, maliban "
+"kung ito ay upang sumunod sa naaangkop na batas ng Russian Federation sa "
+"pamamagitan ng pagsusumite ng isang nakasulat na kahilingan mula sa "
+"pampublikong mga awtoridad ng. </ P> <p> PayOnline Systems Ltd ay "
+"nakarehistro sa Federal Register ng operator sa ilalim ng rehistrasyon "
+"10-0104880 at nilayon upang mangolekta, mag-imbak at iproseso ang personal "
+"na data ng natural na tao.</p><p>Ang iyong impormasyon ng credit card ay "
+"ginagamit lamang sa oras ng transaksyon at ito ay ipinadala sa isang naka-"
+"encrypt na form sa pamamagitan ng secure na protocol sa pagkuha bangko. Ang "
+"mga detalye ng iyong credit card ay hindi na naka-imbak sa system PayOnline "
+"at, samakatuwid, hindi maaaring mailipat sa mga ikatlong partido sa anumang "
+"pagkakataon.</p><p>Kung mayroon kang mga katanungan tungkol sa pagbabayad, "
+"maaari kang makipag-ugnayan sa customer support sa pamamagitan ng telepono: "
+"+8 (800) 7000 729 (toll-free sa Russia), 7 (495) 666 2143; o sa pamamagitan "
+"ng e-mail: support@payonline.ru.</p><p>Maaari mong mahanap ang pagbabayad na "
+"ito sa iyong bank statement gamit ang Lovetime.com ID. </ P> <p> Mangyaring "
+"tandaan na ang iyong mga IP-address ay naka-imbak upang maiwasan ang hindi "
+"awtorisadong paggamit ng iyong personal na impormasyon. Ang anumang di-"
+"awtorisadong paggamit ng personal na impormasyon ay natugunan sineseryoso, "
+"huminto at prosecuted. </ P>"
+
+msgid "unsubscribeWrongEmail"
+msgstr "Maling email address"
+
+msgid "contestMain"
+msgstr ""
+
+msgid "contestFindYourLove"
+msgstr "Hanapin ang iyong pag-ibig"
+
+msgid "contestIncreaseChanceSuccess"
+msgstr "Dagdagan ang pagkakataon na manalo"
+
+msgid "contestOr"
+msgstr "O"
+
+msgid "contestFindLove"
+msgstr "Hanapin ang pag-ibig"
+
+msgid "contestResult"
+msgstr "Resulta"
+
+msgid "contestSelectAll"
+msgstr "Piliin lahat"
+
+msgid "contestPhotoPhrase1"
+msgstr "Walang larawan? Walang regalo?"
+
+msgid "contestPhotoPhrase2"
+msgstr ""
+"Paumanhin, ngunit tanging mga napatunayang user na may larawan lamang ang "
+"maaaring makakuha ng aming matinding papremyo, <br /> mangyaring maglagay ng "
+"larawan."
+
+msgid "contestPhotoPhrase3"
+msgstr "Kuhain at ilagay dito ang iyong file <br /> upang mag-upload"
+
+msgid "contestUploadPhoto"
+msgstr "Mag-upload ng larawan"
+
+msgid "contestImportPhoto"
+msgstr "o kuhain ang larawan sa"
+
+msgid "contestFbProfile"
+msgstr "Facebook profile"
+
+msgid "contestGoogleProfile"
+msgstr "Google+ profile"
+
+msgid "contestInviteMorePhrase"
+msgstr ""
+"Iyong inimbitahan <span>%d</span> users...<br> Kung mayroon man sa kanilang "
+"manalo<br> <b>mananalo ka den ng premyo!</b><button class='n-d-more-"
+"button'>Dagdagan ang iyong tsansa&rarr; <ins>Mag-imbita pa!</ins></button>o "
+"<a href='/' target='_blank'>hanapin ang iyong pag-ibig</a>!"
+
+msgid "contestAnnouncePhrase1"
+msgstr ""
+"Iyong inimbitahan ang <strong class='announce-contest__highlight'>%d</"
+"strong> mga user!"
+
+msgid "contestAnnouncePhrase2"
+msgstr "Kung manalo man ang sino sa kanila"
+
+msgid "contestAnnouncePhrase3"
+msgstr "makukuha mo ang parehong premyo!"
+
+msgid "contestAnnouncePhrase4"
+msgstr "Mag-imbita pa ng maraming tao"
+
+msgid "contestAnnouncePhrase5"
+msgstr "Dagdagan ang pagkakataong manalo."
+
+msgid "contestAnnouncePhrase6"
+msgstr "Ang pagpili sa mananalo ng papremyo ng Lovetime!"
+
+msgid "contestAnnouncePhrase7"
+msgstr "Nagkakatotoo ang mga pangarap..."
+
+msgid "contestAnnouncePhrase8"
+msgstr "Magsign-up ngayon at manalo"
+
+msgid "contest"
+msgstr "Pagpili sa mananalo ng premyo"
+
+msgid "step1"
+msgstr "Step 1"
+
+msgid "step2"
+msgstr "Step 2"
+
+msgid "step3"
+msgstr "Step 3"
+
+msgid "contestInviteByOtherServices"
+msgstr ""
+"Dagdagan ang pagkakataong manalo! I-konekta ang isa or higit pang mailbox "
+"(Hotmail, Yahoo, Gmail) or <a href=\"%s\" target=\"_blank\">imbitahin ang "
+"iyong mga kaibigan sa Facebook </a> o kopyahin ang link na ito %s"
+
+msgid "cntTitle"
+msgstr ""
+
+msgid "cntRegister"
+msgstr ""
+
+msgid "cntInviteFriends"
+msgstr ""
+
+msgid "cntSamePrize"
+msgstr ""
+
+msgid "cntHigherChances"
+msgstr ""
+
+msgid "cntAddFriends"
+msgstr ""
+
+msgid "cntBannerUsersOnly"
+msgstr ""
+
+msgid "cntBannerParticipatePrizeDraw"
+msgstr ""
+
+msgid "cntBannerFbDescription"
+msgstr ""
+
+msgid "cntPhotoDrag"
+msgstr ""
+
+msgid "cntPhotoUpload"
+msgstr ""
+
+msgid "cntPhotoImport"
+msgstr ""
+
+msgid "cntNext"
+msgstr ""
+
+msgid "cntNotSelected"
+msgstr ""
+
+msgid "cntInvited"
+msgstr ""
+
+msgid "cntWinsSamePrize"
+msgstr ""
+
+msgid "cntIncreaseChances"
+msgstr ""
+
+msgid "cntDropHere"
+msgstr ""
+
+msgid "cntUnselectAll"
+msgstr ""
+
+msgid "cntSelectAll"
+msgstr ""
+
+msgid "cntHours"
+msgstr ""
+
+msgid "cntMinutes"
+msgstr ""
+
+msgid "cntSeconds"
+msgstr ""
+
+msgid "emailContestSubject"
+msgstr ""
+
+msgid "emailContestTitle"
+msgstr ""
+
+msgid "emailContestJoinUs"
+msgstr ""
+
+msgid "emailContestPrizesDescriptions"
+msgstr ""
+
+msgid "emailContestRegister"
+msgstr ""
+
+msgid "emailContestTerms"
+msgstr ""
+
+msgid "emailContestClickHere"
+msgstr ""
+
+msgid "emailContestPrizes"
+msgstr ""
+
+msgid "emailContestUnsubscribe"
+msgstr ""
+
+msgid "actionNote"
+msgstr "Gumawa ng sulat"
+
+msgid "noteEdit"
+msgstr "I-edit"
+
+msgid "noteRemove"
+msgstr "Burahin"
+
+msgid "noteSave"
+msgstr "I-save"
+
+msgid "noteConfirmDelete"
+msgstr "Sigurado ka bang nais mo burahin ang note na ito?"
+
+msgid "lettersCheckSpamFolder"
+msgstr ""
+"Tignan ang iyong Spam folder upang makasigurado na ang aming mensahe ay "
+"hindi naharang. Kung magkaganon, piliin ito at i-click ang Not spam."
+
+msgid "lettersMarkEmailNotSpam"
+msgstr "at markahan ang email na ito bilang <u>Not Spam</u>"
+
+msgid "pagesContacts"
+msgstr ""
+"<b>Tirahan:</b> <br /> 25/4 Soi Ratchadaphisak 36, Ratchadaphisak Rd., "
+"ChanKasem, Chatuchak BKK 10900 Thailand <br /><br /> <br /> Phnom Penh "
+"Tower, 12F, #445, 232/93 (Monivong Blvd), Phnom Penh, Cambodia, 12258 <br /"
+"><br /> <br /> Russia,  Moscow,  Svobody str. 50,  Build. 3, 125364 <br /"
+"><br /> <b>Email:</b><br /><a href=\"mailto:info@lovetime.com"
+"\">info@lovetime.com</a>"
+
+msgid "seocatalogTitleInCity"
+msgstr "isang dating site upang makakilala ng babae o lalaki sa %city_title%"
+
+msgid "seocatalogH1InCity"
+msgstr "Pakikipag-date sa %city_title%"
+
+msgid "seocatalogSeeking"
+msgstr "Naghahanap"
+
+msgid "seocatalogAge"
+msgstr "Edad"
+
+msgid "seocatalogAppearance"
+msgstr "Hitsura"
+
+msgid "seocatalogOther"
+msgstr "Iba pa"
+
+msgid "seocatalogNext"
+msgstr "Higit pa"
+
+msgid "seocatalogWoman"
+msgstr "Babae"
+
+msgid "seocatalogMen"
+msgstr "Lalaki"
+
+msgid "seocatalogLesbian"
+msgstr "Lesbyana"
+
+msgid "seocatalogGay"
+msgstr "Binabae"
+
+msgid "seocatalogBisexual"
+msgstr "Silahis"
+
+msgid "seocatalogFriendship"
+msgstr "Pagkakaibigan at komunikasyon"
+
+msgid "seocatalogRomanticRelations"
+msgstr "Romantikong relasyon "
+
+msgid "seocatalogFlirt"
+msgstr "Maglandi"
+
+msgid "seocatalogSex"
+msgstr "Kasarian"
+
+msgid "seocatalogBlondes"
+msgstr "olandes"
+
+msgid "seocatalogBrunettes"
+msgstr "brunettes"
+
+msgid "seocatalogBrownHair"
+msgstr "brown na buhok"
+
+msgid "seocatalogAthletic"
+msgstr "palakasan"
+
+msgid "seocatalogSlim"
+msgstr "balingkinitan"
+
+msgid "seocatalogHeavy"
+msgstr "mabigat"
+
+msgid "seocatalogForeigner"
+msgstr "dayuhan"
+
+msgid "seocatalogRich"
+msgstr "mayaman"
+
+msgid "seocatalogSingle"
+msgstr "walang asawa"
+
+msgid "seocatalogNoBadHabits"
+msgstr "walang bisyo"
+
+msgid "chatFilterManGifts"
+msgstr ""
+"%s ay gumawa ng pagsasala sa kanyang mga mensahe ng sa gayon ay hindi ka "
+"makapagpadala ng mga mensahe. <b> Gawan siya ng regalo, </ b> matatanggal "
+"nito ang limitasyon. O subukan na lamang makipag-chat sa ibang tao."
+
+msgid "chatFilterWomanGifts"
+msgstr ""
+"%s ay gumawa ng pagsasala sa kanyang mga mensahe ng sa gayon ay hindi ka "
+"makapagpadala ng mga mensahe. <b> Gawan siya ng regalo, </ b> matatanggal "
+"nito ang limitasyon. O subukan na lamang makipag-chat sa ibang tao."
+
+msgid "modelLoginFormEmailOrNick"
+msgstr "Email"
+
+msgid "modelLoginFormPassword"
+msgstr "Password"
+
+msgid "modelLoginFormAlien"
+msgstr "Hindi ko computer"
+
+msgid "loginErrorInvalidEmailOrPassword"
+msgstr "Hindi wastong email o password"
+
+msgid "systemForgotPassword"
+msgstr "Nalimutan ang password"
+
+msgid "loginErrorUserNotVisible"
+msgstr "Ang access ay hindi tinatanggap para sa user na% s."
+
+msgid "wrongEmail"
+msgstr "Hindi wastong email"
+
+msgid "errorEmailExists"
+msgstr "Maglagay ng isa pang email"
+
+msgid "citationsDefault1"
+msgstr "Hi, kamusta ka?"
+
+msgid "citationsDefault2"
+msgstr "Hi, anong ginagawa mo?"
+
+msgid "modelUsersValidateReservedNicks"
+msgstr "Pumili ng ibang palayaw"
+
+msgid "registrationFormWrongDate"
+msgstr "Maling datos"
+
+msgid "months1"
+msgstr "Enero"
+
+msgid "months2"
+msgstr "Pebrero"
+
+msgid "months3"
+msgstr "Marso"
+
+msgid "months4"
+msgstr "Abril"
+
+msgid "months5"
+msgstr "Mayo"
+
+msgid "months6"
+msgstr "Hunyo"
+
+msgid "months7"
+msgstr "Hulyo"
+
+msgid "months8"
+msgstr "Agosto"
+
+msgid "months9"
+msgstr "Setyembre"
+
+msgid "months10"
+msgstr "Oktubre"
+
+msgid "months11"
+msgstr "Nobyembre"
+
+msgid "months12"
+msgstr "Disyembre"
+
+msgid "modelSmileCode"
+msgstr "Kode"
+
+msgid "modelSmileImage"
+msgstr "Larawan"
+
+msgid "modelSmileVisible"
+msgstr "Pagiging kita"
+
+msgid "Noactive"
+msgstr "Hindi"
+
+msgid "modelSpamersName"
+msgstr ""
+
+msgid "modelUsersName"
+msgstr "Palayaw"
+
+msgid "modelUsersEmail"
+msgstr "Email"
+
+msgid "modelComplaintsStatus"
+msgstr "Istado"
+
+msgid "modelSpamersTime"
+msgstr ""
+
+msgid "modelSpamersMessages"
+msgstr ""
+
+msgid "modelComplaintsSenderId"
+msgstr "Nagpadala"
+
+msgid "modelComplaintsCompanionId"
+msgstr "Akusado"
+
+msgid "modelComplaintsReasonText"
+msgstr "Dahilan"
+
+msgid "modelComplaintsComment"
+msgstr "Komento"
+
+msgid "modelComplaintsCompanion"
+msgstr "Akusado"
+
+msgid "modelComplaintsSender"
+msgstr "taga-usig"
+
+msgid "complainReason1"
+msgstr "Spam, patalastas"
+
+msgid "complainReason2"
+msgstr "Panloloko"
+
+msgid "complainReason3"
+msgstr "Bastos na panukala"
+
+msgid "complainReason4"
+msgstr "Kagaspangan, mga pagbabanta"
+
+msgid "complainReason5"
+msgstr "Larawan ng ibang tao"
+
+msgid "complainReason6"
+msgstr "Pangangalap ng ukol sa sex"
+
+msgid "photosRefuseReasonPicture"
+msgstr "pagguhit, bagay o hayop"
+
+msgid "photosRefuseReasonErotica"
+msgstr "erotika, insulto"
+
+msgid "photosRefuseReasonFamous"
+msgstr "tanyag na tao"
+
+msgid "photosRefuseReasonSpam"
+msgstr "spam, pag-aanunsiyo"
+
+msgid "photosRefuseReasonPoorQuality"
+msgstr "mahinang kalidad"
+
+msgid "photosRefuseReasonOnlyYouMustBeSeen"
+msgstr "tanging dapat mong makita"
+
+msgid "photosRefuseReasonNotVisibleFace"
+msgstr "hindi makikitang mukha"
+
+msgid "photosRefuseReasonChildOnThePhoto"
+msgstr "bata sa larawan"
+
+msgid "photosRefuseReasonExcessiveDecoration"
+msgstr "labis na palamuti"
+
+msgid "photosStatusAccept"
+msgstr "Tanggapin"
+
+msgid "photosStatusRefuse"
+msgstr "Tanggihan"
+
+msgid "userName"
+msgstr "Pangalan"
+
+msgid "feedbackText"
+msgstr "Text"
+
+msgid "userWrongOldPasswError"
+msgstr "Maling password"
+
+msgid "userPasswTooShort"
+msgstr ""
+"Ang bagong password ay masyadong maikli (pinakamaikli {min} characters)"
+
+msgid "dateFormat"
+msgstr "Ang halaga ay dapat na sa dd.mm.yyyy na ayos"
+
+msgid "modelUsersValidateRequireMessage"
+msgstr "Ang patlang na %s ay kaiangan"
+
+msgid "modelUsersLookingFor"
+msgstr "Naghahanap ako ng"
+
+msgid "modelUsersPassword"
+msgstr "Password"
+
+msgid "modelUsersOldPassword"
+msgstr "Kasalukuyang password"
+
+msgid "modelUsersNewPassword"
+msgstr "Bagong password"
+
+msgid "modelUsersVisible"
+msgstr "Pagiging kita"
+
+msgid "modelUsersRole"
+msgstr "Grupo"
+
+msgid "modelUsersPhone"
+msgstr "Numero ng telepono"
+
+msgid "modelUsersVkId"
+msgstr "Vkontakte Id"
+
+msgid "modelUsersFacebookId"
+msgstr "Facebook Id"
+
+msgid "modelUsersTwitterId"
+msgstr "Twitter Id"
+
+msgid "modelUsersAvatar"
+msgstr "Avatar"
+
+msgid "modelUsersDefaultAvatar"
+msgstr "Standard avatar"
+
+msgid "modelUsersCity"
+msgstr "Lungsod"
+
+msgid "modelUsersCountry"
+msgstr "Bansa"
+
+msgid "modelUsersResidence"
+msgstr "Lokasyon"
+
+msgid "modelUsersLat"
+msgstr "Latitud"
+
+msgid "modelUsersLng"
+msgstr "Longhitud"
+
+msgid "modelUsersAbout"
+msgstr "Tungkol sa akin"
+
+msgid "profileStatus"
+msgstr "Katayuan"
+
+msgid "modelUsersIntroduceMyself"
+msgstr "Ang Aking Katayuan"
+
+msgid "modelUsersWantToMeet"
+msgstr "Gustong Mahanap"
+
+msgid "modelUsersPreferredAge"
+msgstr "Gustong Edad"
+
+msgid "dateofbirth"
+msgstr "Araw ng kapanganakan"
+
+msgid "modelUsersHeight"
+msgstr "Taas"
+
+msgid "modelUsersWeight"
+msgstr "Timbang"
+
+msgid "modelUsersPhysique"
+msgstr "Pangangatawan"
+
+msgid "modelUsersColor"
+msgstr "Kulay ng Buhok"
+
+msgid "modelUsersColorEyes"
+msgstr "Kulay ng Mata"
+
+msgid "modelUsersSign"
+msgstr "Zodiac sign"
+
+msgid "modelUsersType"
+msgstr "Layunin ng Dating"
+
+msgid "modelUsersAcquainted"
+msgstr "Ako ay nakikipagkilala"
+
+msgid "modelUsersBed"
+msgstr "Sa Pakikipagtalik ang Gusto ko"
+
+msgid "modelUsersExcites"
+msgstr "Ako'y nasasabik tungkol sa"
+
+msgid "modelUsersStatus"
+msgstr "Katayuan ng Relasyon"
+
+msgid "modelUsersChildren"
+msgstr "Anak"
+
+msgid "modelUsersOrientation"
+msgstr "Sekswal na Oryentasyon"
+
+msgid "modelUsersSmoking"
+msgstr "Paninigarilyo"
+
+msgid "modelUsersAlcohol"
+msgstr "Paginom"
+
+msgid "modelUsersEducation"
+msgstr "Edukasyon"
+
+msgid "modelUsersJob"
+msgstr "Trabaho"
+
+msgid "modelUsersIncome"
+msgstr "Kinikita"
+
+msgid "modelUsersLove_work"
+msgstr "Ang gusto ko sa trabaho"
+
+msgid "modelUsersLove_institute"
+msgstr "Ang gusto ko sa unibersidad"
+
+msgid "modelUsersLove_go"
+msgstr "Gusto kong bisitahin"
+
+msgid "modelUsersLove_music"
+msgstr "Paboritong musika"
+
+msgid "modelUsersBan"
+msgstr "Ipinagbawal"
+
+msgid "modelUsersSendEmails"
+msgstr "Kumuha ng mga abiso sa pamamagitan ng email"
+
+msgid "modelUsersSounds"
+msgstr "Paganahin ang tunog sa mensahe"
+
+msgid "modelUsersShowPixeledImages"
+msgstr "Ipakita ang malabong mga larawan sa mga hindi kilalang tao"
+
+msgid "modelUsersHideImages"
+msgstr "Itago ang larawan"
+
+msgid "modelUsersTimeZone"
+msgstr "Time zone"
+
+msgid "moduleUsersAutoSelectTimeZone"
+msgstr "Awtomatikong tukuyin"
+
+msgid "modelUsersRegistered"
+msgstr "Rehistrado"
+
+msgid "modelUsersInvitedBy"
+msgstr "Imbitasyon"
+
+msgid "modelUsersLoginWithToken"
+msgstr "Awtomatikong pag-login mula sa email link"
+
+msgid "physiqueSlim"
+msgstr "Payat"
+
+msgid "physiqueAverage"
+msgstr "Katamtaman"
+
+msgid "physiqueAthletic"
+msgstr "Atletik"
+
+msgid "physiqueMuscular"
+msgstr "Malaman"
+
+msgid "physiqueHeavy"
+msgstr "Mabigat"
+
+msgid "physiqueFull"
+msgstr "Ang ilang dagdag na timbang"
+
+msgid "colorEyesBrown"
+msgstr "Kayumanggi"
+
+msgid "colorEyesGreen"
+msgstr "Berde"
+
+msgid "colorEyesBlue"
+msgstr "Asul"
+
+msgid "colorEyesGray"
+msgstr "Abo"
+
+msgid "colorEyesBlack"
+msgstr "Itim"
+
+msgid "colorEyesHazel"
+msgstr "Hazel"
+
+msgid "smokingDoNotSmoke"
+msgstr "Hindi"
+
+msgid "smokingRarely"
+msgstr "Minsan"
+
+msgid "smokingGiving"
+msgstr "Sinusubukang huminto"
+
+msgid "smokingOften"
+msgstr "Madalas"
+
+msgid "alcoholDoNotDrink"
+msgstr "Hindi kailanman"
+
+msgid "alcoholILikeToDrink"
+msgstr "Madalas"
+
+msgid "alcoholOnHolidays"
+msgstr "Pana-panahon"
+
+msgid "educationSecondary"
+msgstr "Hayskul"
+
+msgid "educationTechnical"
+msgstr "2-taong kolehiyo"
+
+msgid "educationHigher"
+msgstr "Kolehiyo/Unibersidad"
+
+msgid "incomeLow"
+msgstr "Mababa"
+
+msgid "incomeMedium"
+msgstr "Katamtaman"
+
+msgid "incomeHigh"
+msgstr "Mataas"
+
+msgid "systemAdministrator"
+msgstr "Administrator"
+
+msgid "childrenNo"
+msgstr "Hindi"
+
+msgid "childrenYes"
+msgstr "Oo"
+
+msgid "signAries"
+msgstr "Aries"
+
+msgid "signTaurus"
+msgstr "Taurus"
+
+msgid "signTwins"
+msgstr "Gemini"
+
+msgid "signCancer"
+msgstr "Cancer"
+
+msgid "signLion"
+msgstr "Leo"
+
+msgid "signVirgo"
+msgstr "Virgo"
+
+msgid "signLibra"
+msgstr "Libra"
+
+msgid "signScorpio"
+msgstr "Scorpio"
+
+msgid "signSagittarius"
+msgstr "Sagittarius"
+
+msgid "signCapricorn"
+msgstr "Capricorn"
+
+msgid "signAquarius"
+msgstr "Aquarius"
+
+msgid "signPisces"
+msgstr "Pisces"
+
+msgid "changeFieldInSearch"
+msgstr "Aktibong naghahanap"
+
+msgid "changeFieldHasAFriend"
+msgstr "Nasa relasyon"
+
+msgid "changeFieldMarried"
+msgstr "Kasal"
+
+msgid "changeFieldNotInSearch"
+msgstr "Engaged"
+
+msgid "changeFieldBreaked"
+msgstr "Divorced"
+
+msgid "haircolorLight"
+msgstr "Blonde"
+
+msgid "haircolorDark"
+msgstr "Maitim"
+
+msgid "haircolorRed"
+msgstr "Pula"
+
+msgid "haircolorTanned"
+msgstr "Guhitan"
+
+msgid "haircolorBright"
+msgstr "Maliwanag"
+
+msgid "haircolorWhite"
+msgstr "Maputi"
+
+msgid "haircolorSkin"
+msgstr "Ahit"
+
+msgid "haircolorBald"
+msgstr "Kalbo"
+
+msgid "changeFieldHetero"
+msgstr "Tuwid"
+
+msgid "changeFieldGay"
+msgstr "Bakla/Tomboy"
+
+msgid "changeFieldBi"
+msgstr "bisexual"
+
+msgid "ofWoman"
+msgstr "babae"
+
+msgid "ofMan"
+msgstr "lalaki"
+
+msgid "introduceMyselfOnlyMyself"
+msgstr "single"
+
+msgid "introduceMyselfAsPair"
+msgstr "Pareha"
+
+msgid "changeFieldFriendship"
+msgstr "Pagkakaibigan at komunikasyon"
+
+msgid "changeFieldFlirt"
+msgstr "Landi"
+
+msgid "changeFieldRomantic"
+msgstr "Romantikong relasyon"
+
+msgid "changeFieldSex"
+msgstr "Kasarian"
+
+msgid "changeFieldAtWork"
+msgstr "Sa trabaho"
+
+msgid "changeFieldNeighbor"
+msgstr "Sa kapitbahayan"
+
+msgid "changeFieldSchool"
+msgstr "Sa paaralan/ Sa unibersidad"
+
+msgid "changeFieldStreet"
+msgstr "Sa kalye"
+
+msgid "changeFieldOral"
+msgstr "Oral sex"
+
+msgid "changeFieldAnal"
+msgstr "Anal sex"
+
+msgid "changeFieldGroup"
+msgstr "Group sex"
+
+msgid "changeFieldPublic"
+msgstr "Sex sa kakaibang mga lugar"
+
+msgid "changeFieldRoleplay"
+msgstr "Pagpapanggap"
+
+msgid "changeFieldToys"
+msgstr "Laruan"
+
+msgid "changeFieldBdsm"
+msgstr "Sadomasochism"
+
+msgid "changeFieldClassicSex"
+msgstr "Classic sex"
+
+msgid "changeFieldSmells"
+msgstr "Amoy"
+
+msgid "changeFieldHighHair"
+msgstr "Pagkabalbon"
+
+msgid "changeFieldTattoo"
+msgstr "Tato at hikaw"
+
+msgid "changeFieldDarkskin"
+msgstr "Maitim na kompleksyon"
+
+msgid "changeFieldUnderwear"
+msgstr "Damit na panloob"
+
+msgid "changeFieldUniform"
+msgstr "Uniporme"
+
+msgid "changeFieldStockings"
+msgstr "Stockings"
+
+msgid "changeFieldFootwear"
+msgstr "Sapatos"
+
+msgid "changeFieldDominate"
+msgstr "Pangingibabaw o pagsusumite"
+
+msgid "changeFieldBondage"
+msgstr "Bondage at immobilization"
+
+msgid "changeFieldPain"
+msgstr "Sakit"
+
+msgid "monthsJan"
+msgstr "Enero"
+
+msgid "monthsFeb"
+msgstr "Pebrero"
+
+msgid "monthsMar"
+msgstr "Marso"
+
+msgid "monthsApr"
+msgstr "Abril"
+
+msgid "monthsMay"
+msgstr "Mayo"
+
+msgid "monthsJun"
+msgstr "Hunyo"
+
+msgid "monthsJul"
+msgstr "Hulyo"
+
+msgid "monthsAug"
+msgstr "Agosto"
+
+msgid "monthsSep"
+msgstr "Setyembre"
+
+msgid "monthsOct"
+msgstr "Oktubre"
+
+msgid "monthsNov"
+msgstr "Nobyembre"
+
+msgid "monthsDec"
+msgstr "Disyembre"
+
+msgid "removingProfileCauseIPlaGoBack"
+msgstr "Panandalian akong aalis sa site ngunit ako rin ay magbabalik."
+
+msgid "profileLastVisit"
+msgstr "Huling bisita"
+
+msgid "dateToday"
+msgstr "ngayon"
+
+msgid "dateYesterday"
+msgstr "kahapon"
+
+msgid "date2DaysAgo"
+msgstr "araw bago ang kahapon"
+
+msgid "profileLastVisitAt"
+msgstr "sa"
+
+msgid "chatBigMessage"
+msgstr "Ang mensahe ay masyadong mahaba. Mas mababa sa 2000 character."
+
+msgid "errorFolderCreate"
+msgstr "Mayroon ka ng folder na may ganitong pangalan"
+
+msgid "foldersDeleteError"
+msgstr "Paumanhin, hindi natanggal ang napiling folder:("
+
+msgid "noteErrorTooLong"
+msgstr "Ang tala ay hindi dapat lumampas sa 1000 character"
+
+msgid "noteErrorTags"
+msgstr "Ang tala ay dapat walang HTML tags."
+
+msgid "guestsWasMan"
+msgid_plural "guestsWasWoman"
+msgstr[0] "Huling nakita"
+msgstr[1] "Huling nakita"
+
+msgid "guestsYear"
+msgid_plural "guestsYears"
+msgstr[0] "%d taon"
+msgstr[1] "%d taon"
+
+msgid "guestsMonth"
+msgid_plural "guestsMonths"
+msgstr[0] "%d buwan"
+msgstr[1] "%d buwan"
+
+msgid "guestsDay"
+msgid_plural "guestsDays"
+msgstr[0] "%d araw"
+msgstr[1] "%d araw"
+
+msgid "guestsHour"
+msgid_plural "guestsHours"
+msgstr[0] "%s oras"
+msgstr[1] "%s oras"
+
+msgid "guestsMinute"
+msgid_plural "guestsMinutes"
+msgstr[0] "%s minuto"
+msgstr[1] "%s minuto"
+
+msgid "guestsBack"
+msgstr "nakaraan"
+
+msgid "topfacesMessageTooShort"
+msgstr "Ang mensahe ay hindi dapat lumagpas sa 140 character."
+
+msgid "topfaceStatusInvalidValue"
+msgstr "Ang status field ay naglalaman ng hindi akmang halaga"
+
+msgid "formErrorNewPasswRepeat"
+msgstr "Maling password"
+
+msgid "modelLoginFormEmail"
+msgstr "Email"
+
+msgid "modelForgotpassPassword"
+msgstr "Password"
+
+msgid "modelForgotpassPasswordRepeat"
+msgstr "Ulitin ang password"
+
+msgid "modelFogotpassEmailExists"
+msgstr "Walang nakarehistrong user sa ganyang email address"
+
+msgid "modelFogotpassInvalidLink"
+msgstr "Mali ang link"
+
+msgid "modelFogotpassPassDoNotMatch"
+msgstr "Hindi tugma ang mga password"
+
+msgid "visitors"
+msgstr ""
+
+msgid "facebookLikeShowUsYouLikeUs"
+msgstr "Ipakita ang pagka-gusto mo sa amin!"
+
+msgid "systemRegisterSmall"
+msgstr "Rehistrasyon"
+
+msgid "chatMoveIn"
+msgstr "Lumipat sa"
+
+msgid "chatFoldersFirst"
+msgstr "Pangkalahatan"
+
+msgid "chatFoldersSecond"
+msgstr "Mga Hilig"
+
+msgid "chatFoldersThird"
+msgstr "Wag pansinin"
+
+msgid "langRussian"
+msgstr "Russian"
+
+msgid "yourPhotoHere"
+msgstr "Ilagay dito ang iyong larawan"
+
+msgid "topfacesAdd"
+msgstr "Itaas"
+
+msgid "topfacesItsYou"
+msgstr "Ikaw yan!"
+
+msgid "userBalloonChat"
+msgstr "Gumawa ng mensahe"
+
+msgid "userBalloonProfile"
+msgstr "Tignan ang profile"
+
+msgid "topfacesDialogTitle"
+msgstr "Idagdag ang sarili sa itaas"
+
+msgid "topfacesDialogChoosePhoto"
+msgstr "Piliin ang iyong larawan at mag-upload ng bago"
+
+msgid "topfacesDialogTypeMessage"
+msgstr "Mag-type ng maikling mensahe"
+
+msgid "actionSend"
+msgstr "Ipadala"
+
+msgid "topfacesDialogNoPhotos"
+msgstr ""
+"Upang makapagdagdag ng larawan kailangan mo muna <a href=\"/users/view/%s"
+"\">mag-upload</a>&nbsp; ng pangunahing larawan."
+
+msgid "TopFacesLimitExceeded"
+msgstr ""
+"Pinahihintulutang magdagdag ng hindi higit sa isang larawan bawat oras. "
+"Mangyaring maghintay."
+
+msgid "emailConfirmPleaseTitle"
+msgstr ""
+"Ang link sa kumpirmasyon ay naipadala na sa iyong email address. Matapos "
+"kumpirmahin ang iyong email address, kinakailangan mong i-access ang lahat "
+"ng katangian ng website.<a href='%link%'>Hindi pa natatanggap ang link</a>?"
+
+msgid "emailConfirmCheckSpam"
+msgstr ""
+"Suriin ang iyong Spam/Dubious mailbox, ang aming sulat ay maaring napunta "
+"doon dahil sa pagkakamali. Kung ganon, maaring lagyan ito ng markang "
+"<b>hindi spam</b>."
+
+msgid "emailConfirmPleaseNotice"
+msgstr "&nbsp;"
+
+msgid "socialLikeStr"
+msgstr "Gusto"
+
+msgid "complainHead"
+msgstr "Reklamo tungkol"
+
+msgid "complainIgnore"
+msgstr "Balewalain"
+
+msgid "complainIgnoreDescription"
+msgstr ""
+"Ikaw ay hindi makakatanggap ng mga mensahe mula sa taong ito. Kung sakaling "
+"magbago ng isip, ito ay maaring bawiin."
+
+msgid "complainError1"
+msgstr "Tukuyin ang mga dahilan para sa reklamo"
+
+msgid "complainSubmit"
+msgstr "Ipadala"
+
+msgid "complainOr"
+msgstr "o"
+
+msgid "complainClose"
+msgstr "Kansel"
+
+msgid "menuFeedback"
+msgstr "Katugunan"
+
+msgid "menuRules"
+msgstr "Takda"
+
+msgid "menuContacts"
+msgstr "Koneksyon"
+
+msgid "menuHelpUs"
+msgstr "Tulungan kami"
+
+msgid "flirtNear"
+msgstr "Hanapin sa malapit"
+
+msgid "menuAbout"
+msgstr "Tungkol sa amin"
+
+msgid "menuSearch"
+msgstr "Hanapin"
+
+msgid "flirtCarousel"
+msgstr "Date"
+
+msgid "menuChat"
+msgstr "Chat"
+
+msgid "mainTitle"
+msgstr "Imbitahin ang inyong mga kakilala, katrabaho at kapitbahay..."
+
+msgid "mainTitle2"
+msgstr "at makipag-flirt ng hindi nakikilala"
+
+msgid "menTitles1"
+msgstr "Gusto mo ang iyong kapitbahay?"
+
+msgid "menTitles2"
+msgstr "Gusto mo ang iyong katrabaho?"
+
+msgid "menTitles3"
+msgstr "Gusto mo bang landiin ang dating kaibigan?"
+
+msgid "menTitles4"
+msgstr "Ikaw ba ay nababato?"
+
+msgid "womanTitles1"
+msgstr "Gusto mo ba ang iyong kapitbahay?"
+
+msgid "womanTitles2"
+msgstr "Gusto mo ba ang iyong katrabaho?"
+
+msgid "womanTitles3"
+msgstr "Gusto mo bang landiin ang dating kaibigan?"
+
+msgid "womanTitles4"
+msgstr "Ikaw ba ay nababagot?"
+
+msgid "menTexts1"
+msgstr ""
+"<a href=\"/\">Imbitahan</a> kasama ang postkard. Ilagay sa windshield ng "
+"kotse o mailbox."
+
+msgid "menTexts2"
+msgstr "Alamin ang kanyang email at <a href=\"/\"> anyayahan sa Lovetime."
+
+msgid "menTexts3"
+msgstr ""
+"Alamin ang kanyang email o numero ng telepono at <a href=\"/\">anyayahan</a> "
+"sa Lovetime."
+
+msgid "menTexts4"
+msgstr ""
+"Pindutin ang \"<a href=\"/#flirt\" class=\"top-flirt\">Landi</a>\" at maging "
+"magkakilala"
+
+msgid "womanTexts1"
+msgstr ""
+"<a href=\"/\">Anyayahan</a> siya kasama ang postkard. Ilagay sa windshield "
+"ng  kotse o hulugan ng sulat."
+
+msgid "womanTexts2"
+msgstr "Alamin ang kanyang email at <a href=\"/\">anyayahan</a> sa Lovetime"
+
+msgid "womanTexts3"
+msgstr ""
+"Alamin ang kanyang email o numero ng telepono at <a href=\"/\"> anyayahan </"
+"a> sa Lovetime."
+
+msgid "womanTexts4"
+msgstr ""
+"Pindutin ang \"<a href=\"/#flirt\" class=\"top-flirt\">Landi</a>\" at maging "
+"magkakilala."
+
+msgid "foldersTitle"
+msgstr "Ilagay ang pangalan ng folder"
+
+msgid "foldersCancel"
+msgstr "Kanselahin"
+
+msgid "foldersCreate"
+msgstr "Gawin"
+
+msgid "foldersRename"
+msgstr "Palitan ng pangalan"
+
+msgid "userBalloonCarousel"
+msgstr "Petsa"
+
+msgid "userBalloonExchange"
+msgstr "Exchange fields"
+
+msgid "chatBalloonMove"
+msgstr "Ilipat"
+
+msgid "chatBalloonSelect1"
+msgstr "Napili"
+
+msgid "chatBalloonSelect2"
+msgstr "Napili"
+
+msgid "chatBalloonSelect3"
+msgstr "Napili"
+
+msgid "errorFolderEmpty"
+msgstr "Ilagay ang pangalan ng polder"
+
+msgid "dateDaysBefore"
+msgstr "araw ang nakaraan"
+
+msgid "dateMomentAgo"
+msgstr "nakaraan"
+
+msgid "dateSecondAgo_plural_1"
+msgstr "ilang saglit lang nakalipas"
+
+msgid "dateSecondAgo_plural_2"
+msgstr "nakaraang mga segundo"
+
+msgid "dateSecondAgo_plural_3"
+msgstr "nakaraang mga segundo"
+
+msgid "dateMinuteAgo_plural_1"
+msgstr "matapos ang isang minuto"
+
+msgid "dateMinuteAgo_plural_2"
+msgstr "makaraan ang ilang minuto"
+
+msgid "dateMinuteAgo_plural_3"
+msgstr "makaraan ang ilang minuto"
+
+msgid "dateCoupleMinutesAgo"
+msgstr "ilang minuto ang nakalipas"
+
+msgid "dateHourAgo_plural_1"
+msgstr "isang oras ang nakalipas"
+
+msgid "dateHourAgo_plural_2"
+msgstr "ilang oras ang nakalipas"
+
+msgid "dateHourAgo_plural_3"
+msgstr "ilang oras ang nakalipas"
+
+msgid "messages_plural_1"
+msgstr "mensahe"
+
+msgid "messages_plural_2"
+msgstr "mensahe"
+
+msgid "messages_plural_3"
+msgstr "mga mensahe"
+
+msgid "usersAddToFavorite"
+msgstr "Idagdag sa mga Paborito"
+
+msgid "actionBlock"
+msgstr "Balewalain"
+
+msgid "chatComplain"
+msgstr "Reklamo"
+
+msgid "usersRemoveFromFavorite"
+msgstr "Tanggalin sa mga Paborito"
+
+msgid "actionOr"
+msgstr "o"
+
+msgid "actionDelete"
+msgstr "Burahin"
+
+msgid "galleryClose"
+msgstr "Isara"
+
+msgid "galleryUploadError"
+msgstr ""
+"May naganap na error habang nag-a-upload. Mangyaring subukan muli mamaya."
+
+msgid "galleryUploadFilesName"
+msgstr "Mga file ng larawan"
+
+msgid "galleryUploadPossibleFiles"
+msgstr "Maaari ka lamang mag-upload ng mga file ng imahe. Pinapayagan format:"
+
+msgid "modelUsersHasPhoto"
+msgstr "Larawan"
+
+msgid "modelUsersHasPhotoCondition"
+msgstr "May kasamang larawan"
+
+msgid "modelUsersHasNoPhotoCondition"
+msgstr "Walang larawan"
+
+msgid "searchHair"
+msgstr "Kulay ng buhok"
+
+msgid "requireRegistration4MaleTitle"
+msgstr "%s pagbabahagi ng mas maraming impormasyon kaysa sa iyo"
+
+msgid "requireRegistration4FemaleTitle"
+msgstr "%s pagbabahagi ng mas maraming impormasyon kaysa sa iyo"
+
+msgid "requireRegistrationNote"
+msgstr "Upang makita ang ibang profile, kinakailangan mong magrehistro."
+
+msgid "requireRegistrationCancel"
+msgstr "Kanselahin"
+
+msgid "requireRegistrationRegister"
+msgstr "Magrehistro"
+
+msgid "increaseInfoConfirmNote"
+msgstr ""
+"Upang tingnan ang iba pang mga profile, kakailanganin mong punan ang iyong "
+"profile na hindi bababa sa 50%."
+
+msgid "increaseInfoConfirmFillNow"
+msgstr "Punan ngayon"
+
+msgid "increaseInfoConfirmCancel"
+msgstr "Kanselahin"
+
+msgid "Credit Card"
+msgstr "Credit Card"
+
+msgid "registerHello"
+msgstr "Hi"
+
+msgid "registerForEnd"
+msgstr ""
+"Upang makumpleto ang pagpaparehistro, kumpirmahin na mayroon kang isang "
+"profile sa aming site?"
+
+msgid "registerYes"
+msgstr "Oo"
+
+msgid "registerNo"
+msgstr "Hindi"
+
+msgid "registerForEndYes"
+msgstr "Ilagay ang password"
+
+msgid "registerBack"
+msgstr "Ibalik"
+
+msgid "registerForEndNo"
+msgstr "Suriin ang impormasyon"
+
+msgid "registerUnderNick"
+msgstr ""
+"Wag ilagay ang iyong tunay na pangalan o palayaw kung saan madali kang "
+"makikilala."
+
+msgid "registerEmailTip"
+msgstr "Walang maaring makakita"
+
+msgid "birthDay"
+msgstr "petsa"
+
+msgid "birthMonth"
+msgstr "buwan"
+
+msgid "birthYear"
+msgstr "taon"
+
+msgid "systemLoginAllRight"
+msgstr "Ang lahat ay tama"
+
+msgid "registerRequire"
+msgstr "Mangyaring punan ang lahat ng mga kinakailangang patlang"
+
+msgid "socialAuthFailed"
+msgstr "Hindi pinahihintulutan"
+
+msgid "registerAuthOk"
+msgstr ""
+"Awtorisasyon ay matagumpay. Ngayon ikaw ay ipapasa sa pangunahing pahina. O "
+"pindutin ang"
+
+msgid "registerAuthHere"
+msgstr "dito"
+
+msgid "registerAuthNone"
+msgstr "Hindi nahanap ang user"
+
+msgid "registerAlreadyYes"
+msgstr "May kaparehong email na nakarehistrong gumagamit"
+
+msgid "registerAuthFailed"
+msgstr "Ang pag-awtorisa ay hindi pinahintulutan"
+
+msgid "registerCreateFailed"
+msgstr "Bigong gawin ang user. Tingnan ang lahat ng mga patlang."
+
+msgid "authFacebook"
+msgstr "Pahintulutan sa pamamagitan ng Facebook"
+
+msgid "authVkontakte"
+msgstr "Pahintulutan sa pamamagitan ng Vkontakte"
+
+msgid "citationNotExist"
+msgstr "Hindi nahanap ang quote"
+
+msgid "citationAccessDenied"
+msgstr "Ang quote ay hindi nabibilang sa iyo"
+
+msgid "VIP"
+msgstr "VIP"
+
+msgid "questRegister"
+msgstr "rehistrasyon"
+
+msgid "balanceChangeInQuest"
+msgstr "Pagpapalit ng balanse (quest)"
+
+msgid "superstarModelAttributeIsReseted"
+msgstr ""
+
+msgid "payonlinesystemError3"
+msgstr ""
+"Ang pagbabayad ay tinanggihan ng bangko ng iyong credit card. Kailangan mong "
+"makipag-ugnayan sa bangko upang malaman ang dahilan kung bakit tinanggihan "
+"ang iyong pagbabayad at pagkatapos ay subukang muli."
+
+msgid "payonlinesystemError2"
+msgstr ""
+"Hindi posible ang magbayad sa pamamagitan ng credit card. Mangyaring gumamit "
+"ng ibang paraan ng pagbabayad."
+
+msgid "payonlinesystemError1"
+msgstr "Teknikal Error, pakisubukan muli mamaya."
+
+msgid "payonlinesystemError0"
+msgstr "Imposibleng makapagbayad."
+
+msgid "seocatalogTitleDatingSite"
+msgstr "ay isang dating site upang makakilala ng mga kababaihan at kalalakihan"
+
+msgid "seocatalogH1DatingSite"
+msgstr "isang site sa pakikipag-date"
+
+msgid "seocatalogH1CountriesAndCities"
+msgstr "Mga bansa at mga lungsod"
+
+msgid "seocatalogTitleDatingWithWomen"
+msgstr "pakikipag-date sa mga kababaihan"
+
+msgid "seocatalogH1DatingWithWomen"
+msgstr "pakikipag-date sa babae"
+
+msgid "seocatalogTitleDatingWithMen"
+msgstr "pakikipag-date sa mga kalalakihan"
+
+msgid "seocatalogH1DatingWithMen"
+msgstr "pakikipag-date sa lalake"
+
+msgid "seocatalogTitleDatingWithLesbian"
+msgstr "pakikipag-date sa mga lesbyana"
+
+msgid "seocatalogH1DatingWithLesbian"
+msgstr "pakikipag-date sa lesbyana"
+
+msgid "seocatalogTitleDatingWithGays"
+msgstr "pakikipag-date sa mga binabae"
+
+msgid "seocatalogH1DatingWithGays"
+msgstr "pakikipag-date sa binabae"
+
+msgid "seocatalogTitleDatingWithBisexuals"
+msgstr "pakikipag-date sa mga silahis"
+
+msgid "seocatalogH1DatingWithBisexuals"
+msgstr "pakikipag-date sa silahis"
+
+msgid "seocatalogTitleGuysGirls_18_20"
+msgstr "babae at lalake mula 18-20 taong gulang"
+
+msgid "seocatalogH1GuysGirls_18_20"
+msgstr "Babae at lalake na may edad 18-20"
+
+msgid "seocatalogTitleGuysGirls_21_25"
+msgstr "lalake at babae mula 20-18 taong gulang"
+
+msgid "seocatalogH1GuysGirls_21_25"
+msgstr "Babae at lalake na may edad 21-25"
+
+msgid "seocatalogTitleGuysGirls_26_30"
+msgstr "babae at lalake mula 31-35 taong gulang"
+
+msgid "seocatalogH1GuysGirls_26_30"
+msgstr "Babae at lalake na may edad 26-30"
+
+msgid "seocatalogTitleGuysGirls_31_35"
+msgstr "lalake at babae mula 31-35 taong gulang"
+
+msgid "seocatalogH1GuysGirls_31_35"
+msgstr "Babae at lalake na may edad 31-35"
+
+msgid "seocatalogTitleGuysGirls_35_40"
+msgstr "babae at lalake mula 35-40 taong gulang"
+
+msgid "seocatalogH1GuysGirls_35_40"
+msgstr "Babae at lalake na may edad 35-40"
+
+msgid "seocatalogTitleMeetingForCommunication"
+msgstr "pakikipagkilala para sa pakikipagkaibigan at komunikasyon"
+
+msgid "seocatalogH1MeetingForCommunication"
+msgstr "Pakikipagkilala para sa komunikasyon"
+
+msgid "seocatalogTitleMeetingRorRomanticRelations"
+msgstr "pakikipagkilala para sa pakikipagkaibigan at komunikasyon"
+
+msgid "seocatalogH1MeetingRorRomanticRelations"
+msgstr "Pakikipagkilala para sa romantikong relasyon"
+
+msgid "seocatalogTitleMeetingForFlirt"
+msgstr "pakikipagkilala para sa pakikipaglandian"
+
+msgid "seocatalogH1MeetingForFlirt"
+msgstr "Pakikipagkilala para sa pakikipaglandian"
+
+msgid "seocatalogTitleMeetingForCloseRelations"
+msgstr ""
+"pakikipagkilala para sa malapit na relasyon, malapit na relasyon at "
+"pakikipagtalik"
+
+msgid "seocatalogH1MeetingForCloseRelations"
+msgstr "Pakikipagkilala para sa mas malapit na relasyon"
+
+msgid "seocatalogTitleBlondes"
+msgstr "kilalanin ang mga olandes"
+
+msgid "seocatalogH1Blondes"
+msgstr "Olandes"
+
+msgid "seocatalogTitleBrunettes"
+msgstr "kilalanin ang mga brunettes"
+
+msgid "seocatalogH1Brunettes"
+msgstr "Brunettes"
+
+msgid "seocatalogTitleBrownHaired"
+msgstr "kilalanin ang mga may pulang buhok at mga brunette"
+
+msgid "seocatalogH1BrownHaired"
+msgstr "Lalaking brown ang buhok at babaeng brown ang buhok"
+
+msgid "seocatalogTitleDatingWithAthletic"
+msgstr "kilalanin ang mga babae at lalaking mahilig sa palakasan"
+
+msgid "seocatalogH1DatingWithAthletic"
+msgstr "pakikipag-date sa babae at lalaking mahilig sa palakasan"
+
+msgid "seocatalogTitleDatingWithSlim"
+msgstr "kilalanin ang mga babae at lalaking balingkinitan"
+
+msgid "seocatalogH1DatingWithSlim"
+msgstr "pakikipag-date sa babae at lalaking balingkitan"
+
+msgid "seocatalogTitleDatingWithHeavy"
+msgstr "kilalanin ang mga babae at lalaking mabibigat"
+
+msgid "seocatalogH1DatingWithHeavy"
+msgstr "pakikipag-date sa babae at lalaking mabibigat"
+
+msgid "seocatalogTitleDatingWithForeigners"
+msgstr "makipagkilala sa dayuhan"
+
+msgid "seocatalogH1DatingWithForeigners"
+msgstr "pakikipag-date sa mga dayuhan"
+
+msgid "seocatalogTitleDatingWithRich"
+msgstr "makipagkilala sa mayayamang tao"
+
+msgid "seocatalogH1DatingWithRich"
+msgstr "pakikipag-date sa mayayamang tao"
+
+msgid "seocatalogTitleDatingWithSingles"
+msgstr "makipagkilala sa mga dalaga o binata"
+
+msgid "seocatalogH1DatingWithSingles"
+msgstr "pakikipag-date sa dalaga o binata"
+
+msgid "seocatalogTitleDatingWithPeopleHavingNoBadHabits"
+msgstr "makipagkilala sa mga taong walang masamang bisyo"
+
+msgid "seocatalogH1DatingWithPeopleHavingNoBadHabits"
+msgstr "pakikipag-date sa mga taong walang masamang bisyo"
+
+msgid "searchShowMore"
+msgstr "Magpakita nang higit pa"
+
+msgid "seocatalogTitleCountriesAndCities"
+msgstr "mga bansa at mga lungsod"
+
+msgid "age"
+msgstr "Edad"
+
+msgid "modelUsersSexWoman"
+msgstr "babae"
+
+msgid "modelUsersSexMan"
+msgstr "lalaki"
+
+msgid "modelUsersSexAny"
+msgstr "khit anong kasarian"
+
+msgid "searchUsersRegion"
+msgstr "Rehiyon"
+
+msgid "actionFind"
+msgstr "Hanapin"
+
+msgid "mainTitle3Noa"
+msgstr "walang bayad ang dating online"
+
+msgid "clockNavExactSearch"
+msgstr "Eksaktong paghahanap"
+
+msgid "clockNavExactSearchSubtext"
+msgstr "Higit sa 20 parameter sa paghahanap"
+
+msgid "clockNavMeetings"
+msgstr "Makipag-date ngayon"
+
+msgid "clockNavMeetingsSubtext"
+msgstr ""
+"Magpadala at makatanggap <b>ng imbitasyon sa pakikipag-date sa loob lamang "
+"ng ilang minuto </b>"
+
+msgid "clockNavInstantCommunication"
+msgstr "Makipag-usap ngayon"
+
+msgid "clockNavInstantCommunicationSubtext"
+msgstr "Maghanap ng taong makaka-usap <b>sa loob ng ilang segundo</b>"
+
+msgid "clockNavWhosNear"
+msgstr "Kilalanin ng mga taong nasa malapit"
+
+msgid "clockNavWhosNearSubtext"
+msgstr ""
+"Maghanap <b>ng ilang daang magagandang tao</b> na nasa ilang kilometro "
+"lamang ang layo"
+
+msgid "clockNavHasContact"
+msgstr "Kilalanin ang mga taong mula sa iba't-ibang lugar"
+
+msgid "clockNavHasContactSubtext"
+msgstr ""
+"Gawang tagasalin ng salita para sa pakikipag-usap  gamit ang  <b>64 na wika</"
+"b>"
+
+msgid "clockNavperfectCouple"
+msgstr "Maging magkakilala sa pamamagitan lamang ng ilang pagpindot"
+
+msgid "clockNavperfectCoupleSubtext"
+msgstr ""
+"</b>Ginawang mga parirala<b>- Makipag-kilala sa loob lamang ng 30 segundo"
+
+msgid "peopleHere"
+msgstr "narito na"
+
+msgid "carouselFillAnketa0"
+msgstr "Upang maglaro ng Merry-go-round"
+
+msgid "carouselFillAnketa1"
+msgstr "mangyaring tukuyin"
+
+msgid "carouselFillAnketa2"
+msgstr "iyong edad, bansa, lungsod at mag-upload ng isang larawan"
+
+msgid "flirtSearch"
+msgstr "Maghanap"
+
+msgid "pagesAbout"
+msgstr ""
+"Nagustuhan ng halos lahat ng tao sa buhay nila ang kanilang mga kakilala. "
+"Ngunit karamihan sa kanila ay matakot na lantaran na ipahayag ang kanilang "
+"mga damdamin. <br/> <br/> Malulutas ng serbisyong ito problemang ito. Ngayon "
+"mayroon kang pagkakataon na maglandi nang walang takot na tanggihan. <br/"
+"><br/> Ikaw na nakaupo sa tabi ng iyong kasamahan at hindi alam kung paano "
+"sya lalapitan? Ang serbisyong ito  ay makakatulong. <br/> Maging pamilyar sa "
+"paaralan o sa sikat sa unibersidad? Madali yan. <br/> Gusto mo ba ng iyong "
+"kapitbahay? Magtanong sa kanya kung may gusto sa iyo. <br/> <br/> Ano ang "
+"hanap ng taong gusto mo naghahanap para sa...pag-ibig o sex? Meron ba syang "
+"gustong sinuman sa trabaho, paaralan, atbp? Maaari mong malaman sa isang "
+"click."
+
+msgid "pagesRulesTitle2"
+msgstr "Panuntunan para sa pagpaparehistro"
+
+msgid "pagesRules"
+msgstr ""
+"<h2> Sa pamamagitan ng paglalagay ng aking personal na impormasyon sa "
+"Lovetimesite (dito sa site na ito) sumasang-ayon ako sa mga sumusunod na: </"
+"h2> <ol> <li> Patunay na nabasa ko ang mga tuntunin at kundisyon at handa "
+"ako upang sundin. </Li> <li> gina-garantiya ko na ang aking edad ay hindi "
+"bababa sa 18 taong gulang. </Li> <li> pasanin ko ang personal na "
+"responsibilidad para sa nilalaman o iba pang impormasyon na nailathala sa "
+"site, para sa integridad at kumpiyansa na kinakailangan para sa aking "
+"awtorisasyon sa site </li> <li> alam kong ang site ay maaari naglalaman ng "
+"impormasyon na nilalayon para sa mga matatanda lamang. </li> <li> nangangako "
+"kong gamitin ang site alinsunod sa naaangkop na mga batas ng lugar </li> "
+"<li> Pangako hindi mamahagi sa publiko ng mga mensahe o e-mail address, "
+"numero ng telepono, mga link o iba pang mga detalye. </Li> <li> Pangakong "
+"hindi magpa-publish ng insulto, paninirang-puri, pagmumura, pornograpiya o "
+"iba pang mga materyales na imoral; materyal na ipakita o magsulong ng "
+"kalupitan, terorismo o karahasan, ang mga materyales na makakasakit ng "
+"damdamin at karangalan ng tao , pati na rin ang iba pang mga materyales na "
+"laban sa batas. </Li> <li> Pangakong hindi na manlinlang at gumamit ng iba "
+"at hindi maghabol at abalahin ang mga ito </li> <li> Pangakong hindi gamitin "
+"ang site upang akitin ang pansin ng gumagamit sa mga kalakal, gawa o "
+"serbisyo na ginawa , ibinebenta, gumanap o ipahiram sa akin o sa iba. Bukod "
+"dito pangako ko na hindi gamitin ang site upang mag-advertise o magsulong ng "
+"mga iligal na materyales. </Li> <li> ako ng kamalayan na ang aking "
+"impormasyon na inilagay sa site ay maaaring ma-access sa pamamagitan ng iba "
+"pang mga gumagamit ng Internet para sa na pagkilos ng site ng administrasyon "
+"ay  walang pananagutan </li> <li> Pasanin ko ang buong responsibilidad para "
+"sa mga posibleng negatibong kahihinatnan na sanhi sa pamamagitan ng "
+"pagpapadala ng aking mga anonymous na mga imbitasyon. </Li> </ol> <h2> Ang "
+"Pangangasiwaan ng site ay walang pananagutan para sa: </h2> <ol> <li> mga "
+"nilalaman, bisa at katumpakan ng impormasyon na nai-publish ng mga gumagamit "
+"</li> <li> Para anumang pinsala o pagkawala ng impormasyon sanhi sa anumang "
+"mga tao na ginamit ng site o sa pamamagitan ng mobile na komunikasyon at iba "
+"pang mga telecommunication. </Li> <li> Para sa paglabag ng User copyright at "
+"iba pang mga karapatan ng ikatlong partido sa pamamagitan ng pag-publish ng "
+"materyal na hindi matugunan ang mga naaangkop na batas (kabilang ang mga "
+"batas ng copyright), na idinagdag sa pamamagitan ng ang user sa site </li> </"
+"ol>"
+
+msgid "error404"
+msgstr "Error 404"
+
+msgid "pageNotFound"
+msgstr "Hindi nahanap ang pahina"
+
+msgid "formMustFill"
+msgstr "Kailangan"
+
+msgid "feedbackFile"
+msgstr "Screenshot"
+
+msgid "feedbackFileTip"
+msgstr "Maaari kang maglakip ng screenshot naglalaman pagkakamali"
+
+msgid "siteCopyrightTh"
+msgstr "Lovetime.com"
+
+msgid "man"
+msgstr "Lalaki"
+
+msgid "woman"
+msgstr "Babae"
+
+msgid "countrySelectName"
+msgstr "Bansa"
+
+msgid "citySelectName"
+msgstr "Lungsod"
+
+msgid "signupBirthDay"
+msgstr "Araw"
+
+msgid "signupBirthMonth"
+msgstr "Buwan"
+
+msgid "signupBirthYear"
+msgstr "Taon"
+
+msgid "systemRegister"
+msgstr "Mag-sign up"
+
+msgid "signupLicenseNote"
+msgstr ""
+"Sa pamamagitan ng &laquo;pag sign-up&raquo; iyong&nbsp;kinukumpirma na ikaw "
+"ay hindi bababa sa 18&nbsp;taong gulang at&nbsp;iyong tinatanggap <a href=\"/"
+"pages/rules\">ang User Agreement</a>"
+
+msgid "searchExcite"
+msgstr "Mga paktor ng sex appeal"
+
+msgid "searchExcitesHe"
+msgstr "Nasasabik tungkol sa"
+
+msgid "searchExcitesShe"
+msgstr "Nasasabik tungkol sa"
+
+msgid "searchFrom"
+msgstr "Pinangalingan"
+
+msgid "searchTo"
+msgstr "Para"
+
+msgid "searchSm"
+msgstr "(cm)"
+
+msgid "searchKg"
+msgstr "(kg)"
+
+msgid "searchSkipCond"
+msgstr "Laktawan itong probisyon"
+
+msgid "sexYears"
+msgstr "Taong Gulang"
+
+msgid "searchHave"
+msgstr "Oo"
+
+msgid "searchHaveNot"
+msgstr "Hindi"
+
+msgid "searchHaveChildren"
+msgstr "Oo"
+
+msgid "searchHaveNotChildren"
+msgstr "Hindi"
+
+msgid "searchLocationUndefined"
+msgstr "Kahit saang lokasyon"
+
+msgid "nearFilterOnline"
+msgstr "Online"
+
+msgid "nearFilterNew"
+msgstr "Bago"
+
+msgid "nearFilterAll"
+msgstr "Lahat"
+
+msgid "searchAddParams"
+msgstr "Advance na pagpipilian"
+
+msgid "searchAddToSearch"
+msgstr "Idagdag sa&nbsp;hanapin"
+
+msgid "searchChooseAddParam"
+msgstr "Piliin ang advanced na pagpipilian"
+
+msgid "carouselYes"
+msgstr "Oo"
+
+msgid "carouselMaybeYes"
+msgstr "Marahil"
+
+msgid "carouselNo"
+msgstr "Hindi"
+
+msgid "carouselLikeHim"
+msgstr "Nais mo ba syang maka-date?"
+
+msgid "carouselLikeHer"
+msgstr "Nais mo ba syang maka-date?"
+
+msgid "carouselMutualGreeting"
+msgstr "<strong>Binabati kita!</strong>mayroon kayong magkaparehong pagtingin"
+
+msgid "carouselMutualMessageFemale"
+msgstr "ay nais ka ding makilala"
+
+msgid "carouselMutualMessageMale"
+msgstr "ay nais ka ding makilala"
+
+msgid "chatWithHer"
+msgstr "Makipag-chat sa kanya"
+
+msgid "chatWithHim"
+msgstr "Makipag-chat sa kanya"
+
+msgid "chatMutualGreeting_female"
+msgstr ""
+"%s you&nbsp;nais makipag-date, pumayag na makilala ka! Sya ay naghihintay sa "
+"iyong mensahe upang maayos ang a&nbsp;date!"
+
+msgid "chatMutualGreeting_male"
+msgstr ""
+"%s you&nbsp;nais makipag-date, pumayag na makilala ka! Sya ay naghihintay sa "
+"iyong mensahe upang maayos ang a&nbsp;date!"
+
+msgid "gallerySingleUploadBtn"
+msgstr "Mag-upload ng larawan"
+
+msgid "km"
+msgstr "km"
+
+msgid "profileMeet"
+msgstr "Petsa"
+
+msgid "wannaMeet"
+msgstr "Gustong makilala?"
+
+msgid "wannaMeetHer"
+msgstr "Gustong makilala sya?"
+
+msgid "wannaMeetHim"
+msgstr "Gustong makilala sya?"
+
+msgid "locatorSpecifyLocationPart1"
+msgstr "Tukuyin ang iyong lokasyon"
+
+msgid "locatorSpecifyLocationPart2"
+msgstr "sa mapa, ang maari lang namin maipakita ay ang mga nasa malapit"
+
+msgid "locatorSpecifyLocationPart3"
+msgstr "Tukuyin"
+
+msgid "corrBlackListConfirm"
+msgstr "Sigurado ka bang nais mong ilipat ang mga mensahe sa blacklist?"
+
+msgid "corrBlackListConfirmNote"
+msgstr ""
+"Sa paglaon, kung kinakailangan, maaari mong makuha ang mga iyon pabalik"
+
+msgid "actionMove"
+msgstr "Ilipat"
+
+msgid "actionDontMove"
+msgstr "Wag ilipat"
+
+msgid "corrDeleteFolderConfirm"
+msgstr "Sigurado ka bang nais mong burahin ang folder?"
+
+msgid "corrDeleteFolderConfirmNote"
+msgstr ""
+"Ang mga mensahe na narito ay hindi nawala ngunit ililipat sa pangkalahatang "
+"folder"
+
+msgid "actionDontDelete"
+msgstr "wag burahin"
+
+msgid "guestsIgnoreOk"
+msgstr "Ang mga pakikipagsulatan sa user na ito ay inilipat sa mga binalewala"
+
+msgid "guestsIgnoreNote"
+msgstr "Maari mo itong ibalik mamaya"
+
+msgid "actionClose"
+msgstr "Isara"
+
+msgid "actionChat"
+msgstr "Chat"
+
+msgid "invitePreviewFromColleagueFemale"
+msgstr "ang iyong katrabaho ay gusto kang makilala"
+
+msgid "invitePreviewFromNeighborFemale"
+msgstr "ang iyong kapitbahay ay nais kang makilala"
+
+msgid "invitePreviewFromClassmateFemale"
+msgstr "ang iyong kaklase ay nais kang makilala"
+
+msgid "invitePreviewFromFamiliarFemale"
+msgstr "may gustong makipagkilala sa iyo"
+
+msgid "invitePreviewFromColleagueMale"
+msgstr "ang iyong katrabaho ay gusto kang makilala"
+
+msgid "invitePreviewFromNeighborMale"
+msgstr "ang iyong kapitbahay ay nais kang makilala"
+
+msgid "invitePreviewFromClassmateMale"
+msgstr "ang iyong kaklase ay nais kang makilala"
+
+msgid "invitePreviewFromFamiliarMale"
+msgstr "may gustong makipagkilala sa iyo"
+
+msgid "invitePreviewTextFemale"
+msgstr ""
+"Upang patunayan na hindi ito biro sasabihan ka nya ng isang susing parirala"
+
+msgid "invitePreviewTextMale"
+msgstr ""
+"Upang patunayan na hindi ito biro sasabihan ka nya ng isang susing parirala"
+
+msgid "invitePreviewDearFemale"
+msgstr "Mahal"
+
+msgid "invitePreviewDearMale"
+msgstr "Mahal"
+
+msgid "invitePreviewCodeTitle"
+msgstr "Upang malaman kung sino ang may gusto sa iyo:"
+
+msgid "invitePreviewCodeVisitLink"
+msgstr "I-click ang link"
+
+msgid "invitePreviewCodeLink"
+msgstr "Ako ay inimbitahan"
+
+msgid "invitePreviewCodeSite"
+msgstr "Mag-login sa site"
+
+msgid "invitePreviewCodeTopRight"
+msgstr "sa pinakataas bandang kanan"
+
+msgid "invitePreviewCodeType"
+msgstr "Ilagay ang invite code"
+
+msgid "invitePreviewPostcardNote"
+msgstr ""
+"I-print at ilagay ang postcard sa lugar kung saan maari itong makita tulad "
+"ng ilalim ng windshield ng kotse, sa mailbox, sa bag, sa mesa.. anumang "
+"ideya?"
+
+msgid "invitePreviewPhoneResendNote"
+msgstr "Kung gusto mong magpadala muli ng SMS, maglagay ng numero ng telepono:"
+
+msgid "inviteResend"
+msgstr "Ipadala muli"
+
+msgid "inviteSendInvite"
+msgstr "Send invitation"
+
+msgid "inviteResent"
+msgstr "ipinadala muli"
+
+msgid "inviteSummaryTitleColleagueFemale"
+msgstr "Imbitasyon upang makilala ang nag-ngangalan"
+
+msgid "inviteSummaryTitleNeighborFemale"
+msgstr "Imbitasyon sa kapitbhay na nag-ngangalan"
+
+msgid "inviteSummaryTitleClassmateFemale"
+msgstr "Imbitasyon sa kaklase na nag-ngangalan"
+
+msgid "inviteSummaryTitleFamiliarFemale"
+msgstr "Imbitasyon sa kakilala na nag-ngangalan"
+
+msgid "inviteSummaryTitleColleagueMale"
+msgstr "Imbitasyon sa katrabaho na nag-ngangalan"
+
+msgid "inviteSummaryTitleNeighborMale"
+msgstr "Imbitasyon sa kapitbahay na nag-ngangalan"
+
+msgid "inviteSummaryTitleClassmateMale"
+msgstr "Imbitasyon sa kaklase na nag-ngangalan"
+
+msgid "inviteSummaryTitleFamiliarMale"
+msgstr "Imbitasyon sa kakilala na nag-ngangalan"
+
+msgid "inviteSummaryStateAgree"
+msgstr "tinanggap"
+
+msgid "inviteSummaryStateWait"
+msgstr "naipadala"
+
+msgid "inviteSummaryNoKeyPhrase"
+msgstr "walang keyphrase"
+
+msgid "inviteFailCodeField"
+msgstr "Walang ganoong imbitasyon :( Napaghalo mo ba?"
+
+msgid "inviteApplySuccess"
+msgstr "Tinanggap na imbitasyon"
+
+msgid "increaseInfoConfirm4MaleTitle"
+msgstr "%s ay nagbahagi ng mas maraming personal na impormasyon kaysa sa iyo."
+
+msgid "increaseInfoConfirm4FemaleTitle"
+msgstr "%s ay nagbahagi ng mas maraming personal na impormasyon kaysa sa iyo."
+
+msgid "needAddPhotoConfirmTitle"
+msgstr "Dapat kang magdagdag ng isang larawan"
+
+msgid "needAddPhotoConfirmNote"
+msgstr ""
+"Upang makita ang ibang profile, kaylangan mong mag-upload ng iyong profile "
+"picture!"
+
+msgid "needAddPhotoConfirmYes"
+msgstr "Mag-upload ng larawan"
+
+msgid "needAddPhotoConfirmNo"
+msgstr "Kanselahin"
+
+msgid "requiredFieldsAlertConfirmTitle"
+msgstr "Hindi napunan"
+
+msgid "requiredFieldsAlertConfirmText"
+msgstr ""
+"Ang mga sumusunod na patlang ay kaylangan: %s<br>Pumunta sa iyong profile at "
+"punan ang nawawalang mga patlang."
+
+msgid "requiredFieldsAlertConfirmYes"
+msgstr "Pumunta sa"
+
+msgid "noticeImageSizeLimit"
+msgstr "Limitasyon ng laki ng imahe"
+
+msgid "noticeImageSizeLimitText"
+msgstr "Sukat ng imahe ay dapat na mas mababa sa 2 MB"
+
+msgid "emailConfirmTitle"
+msgstr "Kumpirmahin ang email address"
+
+msgid "emailConfirmAlertYes"
+msgstr "Kumpirmahin"
+
+msgid "emailConfirmAlertNo"
+msgstr "Kanselahin"
+
+msgid "bannedInfoAlertTitle"
+msgstr "Ang iyong account ay na-block"
+
+msgid "bannedInfoAlertNotice"
+msgstr "Ang mga detalye ay maaaring makita sa profile page."
+
+msgid "bannedInfoAlertYes"
+msgstr "Magpunta sa profile"
+
+msgid "bannedInfoAlertNo"
+msgstr "Mag-logout"
+
+msgid "emailDomainsReplaceAlertTitle"
+msgstr "Palitan ang email"
+
+msgid "emailDomainsReplaceAlertText"
+msgstr ""
+"Pinalitan namin ang iyong email address sa %s, sa kadahilanang ang tulad "
+"nito ay pinaka-malamang na namali. Magpatuloy o baguhin ito pabalik?"
+
+msgid "emailDomainsReplaceAlertYes"
+msgstr "Ipagpatuloy"
+
+msgid "emailDomainsReplaceAlertNo"
+msgstr "Muli itong ibalik"
+
+msgid "signinAction"
+msgstr "Mag-log in"
+
+msgid "signupAction"
+msgstr "Mag-sign up"
+
+msgid "signinEmailEmptyError"
+msgstr "Ilagay ang Email"
+
+msgid "signinEmailMaskError"
+msgstr "Ilagay ang iyong wastong email address"
+
+msgid "signinPasswordEmptyError"
+msgstr "Ilagay ang password"
+
+msgid "signinCountryEmptyError"
+msgstr "Bansa"
+
+msgid "signinCityEmptyError"
+msgstr "Lungsod"
+
+msgid "signinErrorBirthDayEmpty"
+msgstr "Araw"
+
+msgid "signinErrorBirthMonthEmpty"
+msgstr "Buwan"
+
+msgid "signinErrorBirthYearEmpty"
+msgstr "Taon"
+
+msgid "signinErrorTooYoung"
+msgstr "Ang pagpaparehistro ay pinapayagan lamang kapag maabot ang edad ng 18."
+
+msgid "citySelectDisabledTitle"
+msgstr "Piliin ang bansa"
+
+msgid "signinPasswordMinLengthError"
+msgstr "Ang password ay dapat hindi mas mababa sa 5 character"
+
+msgid "signinErrorNameEmpty"
+msgstr "Ilagay ang iyong pangalan"
+
+msgid "signinErrorSex"
+msgstr "Piliin ang iyong kasarian"
+
+msgid "loginVia"
+msgstr "Mag-login sa %s"
+
+msgid "registerVia"
+msgstr "Mag-sign up gamit %s"
+
+msgid "timeToFindYourLove"
+msgstr "Panahon na upang hanapin ang iyong pag-ibig"
+
+msgid "socialLikeDescription"
+msgstr ""
+"maglandi ng hindi nakikilala sa mga katrabaho, kaklase, kapitbahay at "
+"kakilala ..."
+
+msgid "showAll"
+msgstr "Ipakita Lahat"
+
+msgid "actionMinimize"
+msgstr "Bawasan"
+
+msgid "chatLoadingHistory"
+msgstr "I-upload ang naunang mga mensahe"
+
+msgid "chatCitationsAdd"
+msgstr "Idagdag sa quotes"
+
+msgid "chatCitationsTitle"
+msgstr "Quotes"
+
+msgid "chatCitationsWelcome"
+msgstr ""
+"<p> Mangyaring idagdag dito ang madalas na gamitin na mga parirala sa "
+"mabilis na magpasok ng mga ito sa pag-uusap </p> <p> Para sa paglalagay, "
+"gamitin ang pindutan <span id=\"citations-welcome-button\"> </span> Idagdag "
+"sa quote </p>"
+
+msgid "statusOnline"
+msgstr "Kasalukuyang Online"
+
+msgid "actionEdit"
+msgstr "I-edit"
+
+msgid "chatCitationsRestore"
+msgstr "Ibalik ang quote"
+
+msgid "chatNewMessageFrom"
+msgstr "Bagong mensahe galing"
+
+msgid "chatEmptyTitle"
+msgstr "walang mensahe sa iyong chat"
+
+msgid "chatEmptyText"
+msgstr ""
+"Upang magdagdag ang buddy, piliin ang user na iyong gusto, halimbawa mula <a "
+"href=\"/\">Hanapin</a>, at i-click ang \"Type\"."
+
+msgid "formUploadFile"
+msgstr "Mag-upload ng file"
+
+msgid "formDeleteFile"
+msgstr "Burahin ang file"
+
+msgid "socialLikeTitle"
+msgstr "Ang husay ng site! Lovetime"
+
+msgid "About Yiinka"
+msgstr "Tungkol sa Yiinke"
+
+msgid "systemInstruments"
+msgstr "Gamit"
+
+msgid "Import CSV"
+msgstr "Kuhain galing CSV"
+
+msgid "chatMessages"
+msgstr "Mga mensahe"
+
+msgid "profileMessages"
+msgstr "Mensahe"
+
+msgid "chatAll"
+msgstr "Lahat"
+
+msgid "chatOnline"
+msgstr "Mag-online"
+
+msgid "correspondencesActions"
+msgstr "Pagkilos"
+
+msgid "actionMoveIn"
+msgstr "Ilipat sa:"
+
+msgid "actionBlacklist"
+msgstr "Blacklist"
+
+msgid "chatEmptyFolder"
+msgstr "Ang folder ay walang laman"
+
+msgid "chatNoOnline"
+msgstr "Ang lahat ng interlocutor ay offine ngayon"
+
+msgid "correspondencesMessage"
+msgid_plural "correspondencesMessages"
+msgstr[0] "mensahe"
+msgstr[1] "mga mensahe"
+
+msgid "favoriteUsers"
+msgstr "Paboritong mga user"
+
+msgid "favoriteLocation"
+msgstr ""
+"Maaari mong makita ang user na idinagdag mo sa \"Idagdag sa mga Paborito\" "
+"sa \"Paborito\" folder ng mga \"Mensaheng\" seksyon."
+
+msgid "favoriteHideTip"
+msgstr "Itago ang Tip"
+
+msgid "favoriteNext"
+msgstr "Sunod"
+
+msgid "favoriteCancel"
+msgstr "Kansel"
+
+msgid "emailConfirmResultSuccess"
+msgstr "Ang iyong email address ay tagumpay na nakumpirma."
+
+msgid "emailConfirmAlreadyConfirmed"
+msgstr "Ang email address ay nakumpirma na"
+
+msgid "emailConfirmCheckYourEmailNow"
+msgstr "Siyasatin ang iyong email ngayon"
+
+msgid "emailConfirmClickLinkForComplete"
+msgstr ""
+"Para makumpleto ang iyong rehistrasyon, i-click ang link sa email na "
+"ipinadala sa <b>%email%</b>"
+
+msgid "mailOpen"
+msgstr "Buksan ang"
+
+msgid "emailConfirmCantGetMessage"
+msgstr "Nakatanggap ka ba ng email?"
+
+msgid "emailConfirmCheckYourEmailOrEnterAnother"
+msgstr "I-verify ang iyong email address o ilagay ang bagong email"
+
+msgid "emailConfirmTypeValidEmail"
+msgstr "Ilagay ang iyong valid email address."
+
+msgid "emailConfirmSendAgain"
+msgstr "Muling ipadala"
+
+msgid "profileGuests"
+msgstr "Bisita"
+
+msgid "guestsFemaleStranger"
+msgstr "hindi kilala"
+
+msgid "guestsMaleStranger"
+msgstr "hindi kilala"
+
+msgid "guestsNo"
+msgstr "Wala kang sinumang bisita sa natukoy na oras."
+
+msgid "catalogUsersCatalog"
+msgstr "Catalog ng user"
+
+msgid "formPasswordSent"
+msgstr ""
+"Naipadala namin ang instruksyon sa pag-reset ng password sa iyong email "
+"address."
+
+msgid "usersList"
+msgstr "Listahan ng mga user"
+
+msgid "likesNoData"
+msgstr "Walang datos"
+
+msgid "guestsDataError"
+msgstr "Maling datos"
+
+msgid "usersPhotoAlbumOf"
+msgstr "Album ng user"
+
+msgid "actionUploadPhoto"
+msgstr "Mag-upload ng larawan"
+
+msgid "banProfileNotice"
+msgstr ""
+"Ang profile ay kulang, hindi pinayagan ng moderator o hindi maaring tignan. "
+"Subukan humanap ng ibang user."
+
+msgid "banProfileHome"
+msgstr "Home"
+
+msgid "usersWriteMessage"
+msgstr "Magsulat ng mensahe"
+
+msgid "usersInviteToChat"
+msgstr "Imbitahin upang mag-chat"
+
+msgid "usersAlreadyToFavorite"
+msgstr "Nasa paborito na"
+
+msgid "carouselDistance"
+msgstr "%s km sa iyo"
+
+msgid "carouselDistanceOn"
+msgstr "sa distansya"
+
+msgid "carouselDistanceUnknown"
+msgstr "upang malaman, tukuyin ang iyong lokasyon"
+
+msgid "porsonalInfo"
+msgstr "Personal na impormasyon"
+
+msgid "userProfilePersonalInfoShow"
+msgstr "ipakita"
+
+msgid "formResetPassword"
+msgstr "Kuhain ang link upang i-reset ang password"
+
+msgid "carouselDisabledTitle"
+msgstr "Ang larawan mo ay kailangan"
+
+msgid "uploadPhoto"
+msgstr "Mag-upload ng larawan"
+
+msgid "carouselDisabledText"
+msgstr ""
+"Handa ka bang makipag-date sa multo? Hindi? Kung gayon, mag-upload ng kahit "
+"isang pang-profile na larawan. Garantiyang tagumpay!"
+
+msgid "backToPageDates"
+msgstr "Pumili ng kapareha sa date"
+
+msgid "profileRelations"
+msgstr "Date"
+
+msgid "profileLikesForMe"
+msgstr "Gustong maka-date"
+
+msgid "profileMutualLikes"
+msgstr "Mutual na pagtitinginan"
+
+msgid "profileMyLikes"
+msgstr "Nais kong maka-date"
+
+msgid "carouselHeYes"
+msgstr "Ang sabi niya <strong>&laquo;Oo&raquo;</strong>"
+
+msgid "carouselSheYes"
+msgstr "Ang sabi niya <strong>&laquo;Oo&raquo;</strong>"
+
+msgid "carouselHeMaybe"
+msgstr "Ang sabi niya <strong>&laquo;Maari&raquo;</strong>"
+
+msgid "carouselSheMaybe"
+msgstr "Ang sabi niya <strong>&laquo;Maari&raquo;</strong>"
+
+msgid "carouselAnswerYes"
+msgstr "Oo!"
+
+msgid "carouselAnswerMaybe"
+msgstr "Maari"
+
+msgid "carouselAnswerNo"
+msgstr "Hindi"
+
+msgid "carouselMyYes"
+msgstr "Ang sabi mo <strong>&laquo;Oo&raquo;</strong>"
+
+msgid "carouselYouMaybe"
+msgstr "Ang sabi mo <strong>&laquo;Oo&raquo;</strong>"
+
+msgid "updatePass"
+msgstr "Ilagay ang bagong password"
+
+msgid "modelForgotpassChangePassword"
+msgstr "Palitan ang password"
+
+msgid "nearTitle1"
+msgstr "Sino ang malapit"
+
+msgid "nearTitle2"
+msgstr "sa akin"
+
+msgid "meOnMap"
+msgstr "Lokasyon"
+
+msgid "userLocationNotFound"
+msgstr "Hindi makita ang lokasyon"
+
+msgid "backToPageSearch"
+msgstr "Ibalik sa paghahanap"
+
+msgid "pageLocationTitle"
+msgstr "Tukuyin ang iyong lokasyon"
+
+msgid "meOnMapText2"
+msgstr ""
+"Hindi makikita ng users ang iyong lokasyon. Tanging ang approximate na "
+"distansya lamang."
+
+msgid "userLocationPlaceholder"
+msgstr "Mangyaring ilagay ang numero ng bahay, pangalan ng kalye at lungsod"
+
+msgid "userLocationFind"
+msgstr "Hanapin"
+
+msgid "locationClear"
+msgstr "Tanggalin ang marka"
+
+msgid "usersRefuseFromMails"
+msgstr "Tanggihan ang mga abiso sa mail"
+
+msgid "usersRefuseFromMailsOk"
+msgstr "Hindi ka na makakatanggap ng kahit anong abiso sa email"
+
+msgid "profileMySettings"
+msgstr "Settings"
+
+msgid "profileNotificationSettings"
+msgstr "Mga setting ng notipikasyon"
+
+msgid "inviteIncognitoTitle"
+msgstr "&laquo;Invisible mode&raquo;"
+
+msgid "loginWidgetIncognitoText"
+msgstr "Ang mga larawan ay nakatago sa ibang gumagamit"
+
+msgid "UTC-11:00"
+msgstr "(UTC-11:00) Time in UTC pormat ay 11"
+
+msgid "UTC-10:00"
+msgstr "(UTC-10:00) Hawaii"
+
+msgid "UTC-9:00"
+msgstr "(UTC-09:00) Alaska"
+
+msgid "UTC-8:00[1]"
+msgstr "(UTC-08:00) Baja California"
+
+msgid "UTC-8:00[2]"
+msgstr "(UTC-08:00) Pacific Time (U.S. at Canada)"
+
+msgid "UTC-7:00[1]"
+msgstr "(UTC-07:00) Arizona"
+
+msgid "UTC-7:00[2]"
+msgstr "(UTC-07:00) Mountain Time (U.S. at Canada)"
+
+msgid "UTC-7:00[3]"
+msgstr "(UTC-07:00) La Paz, Mazatlan, Chihuahua"
+
+msgid "UTC-6:00[1]"
+msgstr "(UTC-06:00) Guadalajara, Mexico City, Monterrey"
+
+msgid "UTC-6:00[2]"
+msgstr "(UTC-06:00) Saskatchewan, Central America"
+
+msgid "UTC-6:00[3]"
+msgstr "(UTC-06:00) Central Time (U.S. at Canada)"
+
+msgid "UTC-5:00[1]"
+msgstr "(UTC-05:00) Bogota, Quito, Lima"
+
+msgid "UTC-5:00[2]"
+msgstr "(UTC-05:00) Eastern Time (U.S. at Canada)"
+
+msgid "UTC-5:00[3]"
+msgstr "(UTC-05:00) Indiana (East)"
+
+msgid "UTC-4:30"
+msgstr "(UTC-04:30) Caracas"
+
+msgid "UTC-4:00[1]"
+msgstr "(UTC-04:00) Asuncion"
+
+msgid "UTC-4:00[2]"
+msgstr "(UTC-04:00) Atlantic Time (Canada)"
+
+msgid "UTC-4:00[3]"
+msgstr "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+
+msgid "UTC-4:00[4]"
+msgstr "(UTC-04:00) Cuiaba"
+
+msgid "UTC-4:00[5]"
+msgstr "(UTC-04:00) Santiago"
+
+msgid "UTC-3:30"
+msgstr "(UTC-03: 30) Newfoundland"
+
+msgid "UTC-3:00[1]"
+msgstr "(UTC-03:00) Brazil"
+
+msgid "UTC-3:00[2]"
+msgstr "(UTC-03: 00) Buenos Aires"
+
+msgid "UTC-3:00[3]"
+msgstr "(UTC-03:00) Greenland"
+
+msgid "UTC-3:00[4]"
+msgstr "(UTC-03:00) Cayenne, Fortaleza"
+
+msgid "UTC-3:00[5]"
+msgstr "(UTC-03:00) Montevideo"
+
+msgid "UTC-2:00[1]"
+msgstr "(UTC-02:00) Oras sa UTC format ay 02:00"
+
+msgid "UTC-2:00[2]"
+msgstr "(UTC-02:00) Mid-Atlantic time"
+
+msgid "UTC-1:00[1]"
+msgstr "(UTC-01:00) Azores"
+
+msgid "UTC-1:00[2]"
+msgstr "(UTC-01:00) Cape Verde Islands"
+
+msgid "UTC0[2]"
+msgstr "(UTC) Dublin, Lisbon, London, Edinburgh"
+
+msgid "UTC0[3]"
+msgstr "(UTC) Casablanca"
+
+msgid "UTC0[4]"
+msgstr "(UTC) Monrovia, Reykjavik"
+
+msgid "UTC+1[1]"
+msgstr "(UTC+01:00) Amsterdam, Berlin, Bern, Vienna, Rome, Stockholm"
+
+msgid "UTC+1[2]"
+msgstr "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+
+msgid "UTC+1[3]"
+msgstr "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris"
+
+msgid "UTC+1[4]"
+msgstr "(UTC+01:00) Warsaw, Zagreb, Sarajevo, Skopje"
+
+msgid "UTC+1[5]"
+msgstr "(UTC+01:00) Windhoek"
+
+msgid "UTC+1[6]"
+msgstr "(UTC+01:00) West Central Africa"
+
+msgid "UTC+2[1]"
+msgstr "(UTC+02:00) Amman"
+
+msgid "UTC+2[2]"
+msgstr "(UTC+02:00) Athens, Bucharest"
+
+msgid "UTC+2[3]"
+msgstr "(UTC+02:00) Beirut"
+
+msgid "UTC+2[4]"
+msgstr "(UTC+02:00) Vilnius, Kiev, Riga, Sofia, Tallinn, Helsinki"
+
+msgid "UTC+2[5]"
+msgstr "(UTC+02:00) Damascus"
+
+msgid "UTC+2[6]"
+msgstr "(UTC+02:00) Jerusalem"
+
+msgid "UTC+2[7]"
+msgstr "(UTC+02:00) Cairo"
+
+msgid "UTC+2[8]"
+msgstr "(UTC+02:00) Nicosia"
+
+msgid "UTC+2[9]"
+msgstr "(UTC+02:00) Istanbul"
+
+msgid "UTC+2[10]"
+msgstr "(UTC+02:00) Harare, Pretoria"
+
+msgid "UTC+3[1]"
+msgstr "(UTC+03:00) Baghdad"
+
+msgid "UTC+3[2]"
+msgstr "(UTC+03:00) Kaliningrad, Minsk"
+
+msgid "UTC+3[3]"
+msgstr "(UTC+03:00) Kuwait, Riyadh"
+
+msgid "UTC+3[4]"
+msgstr "(UTC+03:00) Nairobi"
+
+msgid "UTC+3:30"
+msgstr "(UTC+03:30) Tehran"
+
+msgid "UTC+4[1]"
+msgstr "(UTC+04:00) Abu Dhabi, Muscat"
+
+msgid "UTC+4[2]"
+msgstr "(UTC+04:00) Baku"
+
+msgid "UTC+4[3]"
+msgstr "(UTC+04:00) Volgograd, Moscow, St. Petersburg"
+
+msgid "UTC+4[4]"
+msgstr "(UTC +04:00) Yerevan"
+
+msgid "UTC+4[5]"
+msgstr "(UTC+04:00) Tbilisi"
+
+msgid "UTC+4:30"
+msgstr "(UTC+04:30) Kabul"
+
+msgid "UTC+5[1]"
+msgstr "(UTC+05:00) Islamabad, Karachi"
+
+msgid "UTC+5[2]"
+msgstr "(UTC+05:00) Tashkent"
+
+msgid "UTC+5:30"
+msgstr "(UTC+05:30) Kolkata, Mumbai, New Delhi, Chennai"
+
+msgid "UTC+5:45"
+msgstr "(UTC+05:45) Katmandu"
+
+msgid "UTC+6[1]"
+msgstr "(UTC+06:00) Astana"
+
+msgid "UTC+6[2]"
+msgstr "(UTC+06:00) Dacca"
+
+msgid "UTC+6[3]"
+msgstr "(UTC+06:00) Yekaterinburg"
+
+msgid "UTC+6:30"
+msgstr "(UTC+06:30) Yangon"
+
+msgid "UTC+7[1]"
+msgstr "(UTC+07:00) Bangkok, Jakarta, Hanoi"
+
+msgid "UTC+7[2]"
+msgstr "(UTC+07:00) Novosibirsk"
+
+msgid "UTC+8[1]"
+msgstr "(UTC+08:00) Hong Kong, Beijing, Urumqi, Chongqing"
+
+msgid "UTC+8[2]"
+msgstr "(UTC+08:00) Krasnoyarsk"
+
+msgid "UTC+8[3]"
+msgstr "(UTC+08:00) Kuala Lumpur, Singapore"
+
+msgid "UTC+8[4]"
+msgstr "(UTC+08:00) Perth"
+
+msgid "UTC+8[5]"
+msgstr "(UTC+08:00) Taipei"
+
+msgid "UTC+8[6]"
+msgstr "(UTC+08:00) Ulaanbaatar"
+
+msgid "UTC+9[1]"
+msgstr "(UTC+09:00) Irkutsk"
+
+msgid "UTC+9[2]"
+msgstr "(UTC+09:00) Osaka, Sapporo, Tokyo"
+
+msgid "UTC+9[3]"
+msgstr "(UTC+09:00) Seoul"
+
+msgid "UTC+9:30[1]"
+msgstr "(UTC+09:30) Adelaide"
+
+msgid "UTC+9:30[2]"
+msgstr "(UTC+09:30) Darwin"
+
+msgid "UTC+10[1]"
+msgstr "(UTC+10:00) Brisbane"
+
+msgid "UTC+10[2]"
+msgstr "(UTC+10:00) Guam, Port Moresby"
+
+msgid "UTC+10[3]"
+msgstr "(UTC+10:00) Canberra, Melbourne, Sydney"
+
+msgid "UTC+10[4]"
+msgstr "(UTC+10:00) Hobart"
+
+msgid "UTC+10[5]"
+msgstr "(UTC+10:00) Yakutsk"
+
+msgid "UTC+11[1]"
+msgstr "(UTC+11:00) Vladivostok"
+
+msgid "UTC+11[2]"
+msgstr "(UTC+11:00) Solomon Islands, New Caledonia"
+
+msgid "UTC+12[1]"
+msgstr "(UTC+12:00) Wellington, Auckland"
+
+msgid "UTC+12[3]"
+msgstr "(UTC+12:00) Magadan"
+
+msgid "UTC+12[4]"
+msgstr "(UTC+12:00) Fiji"
+
+msgid "UTC+13[1]"
+msgstr "(UTC+13:00) Nuku&apos;alofa"
+
+msgid "UTC+13[2]"
+msgstr "(UTC+13:00) Samoa"
+
+msgid "profileAdditional"
+msgstr "Opsyonal"
+
+msgid "saved"
+msgstr "Nai-save na"
+
+msgid "userSettingsChangePassword"
+msgstr "Palitan ang password"
+
+msgid "systemRegisterNew"
+msgstr "Pagpaparehistro ng Bagong User"
+
+msgid "systemRegisterChange"
+msgstr "Palitan ang profile"
+
+msgid "registerSex"
+msgstr "Kasarian"
+
+msgid "siteRulesAccept"
+msgstr "Sa pamamagitan ng pag-click ang pindutan ito ay tinanggap mo"
+
+msgid "pagesRulesTitle"
+msgstr "Kasunduan ng gumagamit"
+
+msgid "profileMyAnketa"
+msgstr "Profile"
+
+msgid "userProfileChangeCountry"
+msgstr ""
+"Tumukoy ka ng bansa <strong>% current_country% </ strong>. Ang iyong "
+"kasalukuyang lokasyon - <strong> country_by_ip%% </ strong>. <a "
+"%href_extension% href='%link%'> Baguhin ang bansa sa profile </ a>"
+
+msgid "iLookingFor"
+msgstr "Ang hinahanap ko ay"
+
+msgid "preferredAgeFrom"
+msgstr "mula"
+
+msgid "preferredAgeTo"
+msgstr "hanggang"
+
+msgid "aboutMe"
+msgstr "Tungkol sa akin"
+
+msgid "userViewProfessionOrSphereOfActivity"
+msgstr "Trabaho/Aktibidad"
+
+msgid "contestUnselectAll"
+msgstr "Huwag piliin lahat"
+
+msgid "step"
+msgstr ""
+
+msgid "locationSavedOk"
+msgstr "Ang iyong lokasyon nai-save na"
+
+msgid "locationClearedOk"
+msgstr "Ang detalye ng iyong lokasyon tanggal na"
+
+msgid "locationSavedErr"
+msgstr "May error sa pagsave ng iyong lokasyon"
+
+msgid "inviteCaptchaWrong"
+msgstr "Maling code"
+
+msgid "formIncorrectLink"
+msgstr ""
+"Hindi mo maaaring gamitin muli ang link upang i-reset ang password.<br /"
+">Upang gawin ito i-click ang link"
+
+msgid "msgNoNearestNew"
+msgstr "Walang lumitaw na malapit para sa huling pagkakataon."
+
+msgid "msgNoNearestOnline"
+msgstr "Paumanhin walang sinuman sa malapit."
+
+msgid "msgNoNearestAll"
+msgstr "Paumanhin walang sinuman ang malapit. "
+
+msgid "carouselUsersAreAbsent"
+msgstr "Wala nang mga user na titignan."
+
+msgid "profileAgeStr"
+msgstr "% taong gulang"
+
+msgid "complainSuccess"
+msgstr "Matagumpay na naipadala ang iyong reklamo sa moderator"
+
+msgid "complainNoSuccess"
+msgstr "Nabigong magpadala ng reklamo"
+
+msgid "complainAllPoles"
+msgstr "Mangyaring punan ang lahat ng mga patlang"
+
+msgid "feedbackFileError"
+msgstr "Hindi tanggap ang file pormat. Suportadong pormat: jpg, png."
+
+msgid "feedbackSentError"
+msgstr "Nabigong upang i-save ang mensahe. Subukang muli sa ibang pagkakataon."
+
+msgid "feedbackSent"
+msgstr "Naipadala na ang iyong mensahe"
+
+msgid "unsubscribeSuccess"
+msgstr "Ikaw ay matagumpay na nakapag-unsubscribe sa mga email notification"
+
+msgid "unsubscribeNoSuchUser"
+msgstr "Walang naka-rehistrong user na may ganitong email address."
+
+msgid "loginWidgetPhotoDidNotModeratedYet"
+msgstr "Hindi pa maayos ang larawan"
+
+msgid "loginWidgetPhotoDidNotPassModerated"
+msgstr "Hindi pumasa ang larawan"
+
+msgid "chatSessionClose"
+msgstr "Ang iyong session ay tapos na. Mangyaring pahintulutan muli"
+
+msgid "searchNoResults"
+msgstr "Walang resulta"
+
+msgid "loginWidgetAddPhoto"
+msgstr "Magdagdag ng larawan"
+
+msgid "systemExitConfirmTitle"
+msgstr "Siguradong gusto mo ng mag log-out?"
+
+msgid "systemExitConfirmBody"
+msgstr "Sa susunod, kailangan mo ng ilagay muli ang iyong login at password"
+
+msgid "systemExitConfirmNo"
+msgstr "mag-log out"
+

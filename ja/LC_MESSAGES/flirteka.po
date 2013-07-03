@@ -1,0 +1,4246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-01 08:57+0000\n"
+"PO-Revision-Date: 2013-07-01 17:23+0200\n"
+"Last-Translator: Japanese <>\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/jowee/Development/flirteka/trunk\n"
+
+msgid "lettersGiftTitle"
+msgstr "%sさんへプレゼントを買いました"
+
+msgid "lettersHelloName"
+msgstr "こんにちは、%sさん"
+
+msgid "messageNewPresentLookAtButton"
+msgstr "表示する"
+
+msgid "lettersFindYourLoveMatch"
+msgstr "あなたにぴったりな相手を探しましょう!"
+
+msgid "lettersUnsubscribe"
+msgstr ""
+"メール配信中止をご希望の場合は<a href=\"%s\" style=\"color: #0072bc;\">こちら"
+"</a>をクリックしてください。"
+
+msgid "lettersChangeDataByClickingTheLink"
+msgstr ""
+"設定は<a href=\"%s\" style=\"color: #0072bc;\">こちら</a> から変更できます。"
+
+msgid "lettersUserSentGift"
+msgstr " <b><a href='%s'>%s</a></b>さんからプレゼントが届きました。"
+
+msgid "lettersBalanceIncreasedTitle"
+msgstr "残高が追加されました"
+
+msgid "lettersBalanceIncreased"
+msgid_plural "lettersBalanceIncreased"
+msgstr[0] ""
+"Plural Form 0%s coin残高へ追加されましたPlural Form 1%s coin残高へ追加されま"
+"した"
+
+msgid "inviteCaptcha"
+msgstr "スレッデッドコード"
+
+msgid "captchaNewCode"
+msgstr "新しいコード"
+
+msgid "moderatorSpamers"
+msgstr ""
+
+msgid "formSearch"
+msgstr "見つける"
+
+msgid "modelSpamersOneName"
+msgstr ""
+
+msgid "modelSpamersBack"
+msgstr ""
+
+msgid "modelSpamersBanTime"
+msgstr ""
+
+msgid "modelSpamersBanMessagesHeader"
+msgstr ""
+
+msgid "modelSpamersMessage"
+msgstr ""
+
+msgid "modelSpamersTranslate"
+msgstr ""
+
+msgid "modelSpamersDate"
+msgstr ""
+
+msgid "moderatorBannedUsers"
+msgstr "禁止されたユーザー"
+
+msgid "moderatorBan"
+msgstr "禁止"
+
+msgid "moderatorUnban"
+msgstr "禁止を排除"
+
+msgid "statisticsMailchartsbytemplatesTemplateTitle"
+msgstr "テンプレート #%d (%s)"
+
+msgid "statisticsMailchartsbytemplatesQuantityChartTitle"
+msgstr "量"
+
+msgid "statisticsMailchartsbytemplateQuantityChartYAxis"
+msgstr "量"
+
+msgid "statisticsMailchartsbytemplatesPercentChartTitle"
+msgstr "パーセント"
+
+msgid "statisticsMailchartsbytemplatePercentChartYAxis"
+msgstr "パーセント"
+
+msgid "moderatorStatisticMenuMailTotal"
+msgstr ""
+
+msgid "moderatorStatisticMenuEximStats"
+msgstr ""
+
+msgid "statisticsMailTodayTitle"
+msgstr "本日のメール統計"
+
+msgid "statisticsMailDomainsTitle"
+msgstr "ドメイン"
+
+msgid "statisticsMailUniqueOpens"
+msgstr "ユニークな発見"
+
+msgid "statisticsMailUniqueClicks"
+msgstr "ユニーククリック"
+
+msgid "statisticsMailAll"
+msgstr "合計"
+
+msgid "statisticsMailTemplateTitle"
+msgstr "件名"
+
+msgid "statisticsMailchartsbydomainDisplayDomains"
+msgstr "ディスプレイのためのドメイン"
+
+msgid "statisticsMailchartsbydomainAllDomains"
+msgstr "全て"
+
+msgid "statisticsMailchartsbydomainDisplayCounters"
+msgstr "ディスプレイ"
+
+msgid "statisticsMailchartsbydomainSubmitButton"
+msgstr "アップデート"
+
+msgid "statisticsMailchartsbydomainQuantityChartTitle"
+msgstr "量"
+
+msgid "statisticsMailchartsbydomainQuantityChartYAxis"
+msgstr "量"
+
+msgid "statisticsMailchartsbydomainPercentChartTitle"
+msgstr "パーセント"
+
+msgid "statisticsMailchartsbydomainPercentChartYAxis"
+msgstr "パーセント"
+
+msgid "moderatorRefusalOfInvitation"
+msgstr "招待状の拒否"
+
+msgid "moderatorComplaintAboutUsers"
+msgstr "ユーザーについて苦情を言う"
+
+msgid "moderatorFeedBack"
+msgstr "フィードバック"
+
+msgid "moderatorErrorMessages"
+msgstr "エラーメッセージ"
+
+msgid "moderatorUsers"
+msgstr "ユーザー"
+
+msgid "moderatorContactsExclusion"
+msgstr "コンタクトから外す"
+
+msgid "moderatorPhotos"
+msgstr "写真"
+
+msgid "moderatorCarousel"
+msgstr "メリーゴーランド"
+
+msgid "moderatorModeratingPhotos"
+msgstr "写真を承認中"
+
+msgid "moderatorEmailNotifications"
+msgstr "お知らせメール"
+
+msgid "moderatorBlackListForDeliveries"
+msgstr "配信のブラックリスト"
+
+msgid "moderatorUsernamesBlacklist"
+msgstr "ユーザーネームのブラックリスト"
+
+msgid "moderatorStatistic"
+msgstr "統計"
+
+msgid "moderatorStatisticOpenedClickedStats"
+msgstr ""
+
+msgid "moderatorStatisticMenuMailNumbers"
+msgstr "メール - データ"
+
+msgid "moderatorStatisticMenuMailChartByDomain"
+msgstr "メール - チャート - ドメイン"
+
+msgid "moderatorStatisticMenuMailChartByTemplate"
+msgstr "メール - チャート - テンプレート"
+
+msgid "moderatorRemovedRestoredUsers"
+msgstr "削除/復元されたプロフィール"
+
+msgid "Advertising statistics"
+msgstr ""
+
+msgid "moderatorBalanceBilling"
+msgstr "請求"
+
+msgid "moderatorMenuItemProducts"
+msgstr "商品"
+
+msgid "moderatorMenuItemProductPresents"
+msgstr "プレゼント"
+
+msgid "systemExit"
+msgstr "ログアウト"
+
+msgid "systemUser"
+msgstr "ユーザー"
+
+msgid "moderatorRemoveRecord"
+msgstr "履歴から外す"
+
+msgid "moderatorMaxUsersOnline"
+msgstr "オンラインユーザー（最大数）"
+
+msgid "moderatorRegisteredStatistic"
+msgstr ""
+
+msgid "moderatorAudienceOfSystem"
+msgstr "システムの謁見"
+
+msgid "moderatorInAll"
+msgstr "全てにおいて"
+
+msgid "moderatorQuantityOfBoys"
+msgstr "男子の数"
+
+msgid "moderatorQuantityOfGirls"
+msgstr "女子の量"
+
+msgid "moderatorVisitsToday"
+msgstr "本日の訪問者"
+
+msgid "moderatorVisitsOnWeek"
+msgstr "今週の訪問者"
+
+msgid "moderatorVisitsOnMonth"
+msgstr "今月の訪問者"
+
+msgid "moderatorUsersWithCoords"
+msgstr "同じ階級のユーザー数"
+
+msgid "moderatorUsersFillProfile"
+msgstr "プロフィール入力済みのユーザー数"
+
+msgid "moderatorUsersWithPhoto"
+msgstr "写真有のユーザー"
+
+msgid "moderatorPhotosToday"
+msgstr "本日の写真"
+
+msgid "moderatorPhotosOnWeek"
+msgstr "今週の写真"
+
+msgid "moderatorPhotosOnMonth"
+msgstr "今月の写真"
+
+msgid "moderatorDialogs"
+msgstr "会話"
+
+msgid "moderatorAverageNumberOfMessages"
+msgstr "メッセージの平均"
+
+msgid "moderatorQuantityDialogsStartedBoys"
+msgstr "男子から始めた会話数"
+
+msgid "moderatorQuantityDialogsStartedGirls"
+msgstr "女子から始めた会話数"
+
+msgid "moderatorEmails"
+msgstr "メ－ル"
+
+msgid "moderatorEmailsConfirmed"
+msgstr "確定済み"
+
+msgid "moderatorEmailsNotConfirmed"
+msgstr "確定されていません"
+
+msgid "moderatorRemovedRestoredCauses"
+msgstr "削除の理由"
+
+msgid "moderatorRemovedRestoredDivisionForSexAndTime"
+msgstr "性別分布と時間"
+
+msgid "guestsToday"
+msgstr "本日"
+
+msgid "guestsByWeek"
+msgstr "1週間以内"
+
+msgid "guestsByMonth"
+msgstr "30日以内"
+
+msgid "male"
+msgstr ""
+
+msgid "female"
+msgstr ""
+
+msgid "moderatorProductPresentsTitle"
+msgstr "プレゼント"
+
+msgid "yes"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "moderatorProductPresentsCreateTitle"
+msgstr "新しいプレゼントの作成"
+
+msgid "moderatorProductPresentsUpdateTitle"
+msgstr "プレゼントのアップデート"
+
+msgid "usersDeleteSelectedPhotos"
+msgstr "削除"
+
+msgid "usersDeletePhotoConfirm"
+msgstr "本当に写真を削除しますか?"
+
+msgid "moderatorBack"
+msgstr "戻る"
+
+msgid "moderatorNext"
+msgstr "次"
+
+msgid "moderatorAddRecord"
+msgstr "履歴を追加"
+
+msgid "actionSave"
+msgstr "保存"
+
+msgid "actionCancel"
+msgstr "キャンセル"
+
+msgid "moderatorChangeRecord"
+msgstr "履歴を変更"
+
+msgid "moderatorRemove"
+msgstr "排除"
+
+msgid "formOperatorsBegin"
+msgstr "各検索のラインの最初"
+
+msgid "formOperatorsEnd"
+msgstr "オペレータの比較に利用可能です"
+
+msgid "formAdvancedSearch"
+msgstr "詳細検索"
+
+msgid "moderatorActionBanQuestion"
+msgstr "禁止しますか?"
+
+msgid "formCreate"
+msgstr "エレメンツの作成"
+
+msgid "formRequired"
+msgstr "*の項目は必須です"
+
+msgid "formNoactive"
+msgstr "いいえ"
+
+msgid "formActive"
+msgstr "はい"
+
+msgid "systemModerator"
+msgstr "議長"
+
+msgid "anketaPersonalsCustomLabel"
+msgstr "その他"
+
+msgid "coin"
+msgid_plural "coins"
+msgstr[0] "コイン"
+msgstr[1] "コイン"
+
+msgid "moderatorUserFormBalanceChangeAlt"
+msgstr "アカウント"
+
+msgid "formSave"
+msgstr "変更を保存"
+
+msgid "formManage"
+msgstr "エレメンツの管理"
+
+msgid "formUpdate"
+msgstr "エレメンツを編集"
+
+msgid "formDelete"
+msgstr "エレメンツを削除"
+
+msgid "systemLogin"
+msgstr "ログイン"
+
+msgid "moderatorComplaintsResolved"
+msgstr "解決済み"
+
+msgid "moderatorComplaintsNew"
+msgstr "新規"
+
+msgid "sexFemale"
+msgstr "女性"
+
+msgid "sexMale"
+msgstr "男性"
+
+msgid "formList"
+msgstr "エレメンツのリスト"
+
+msgid "formView"
+msgstr "エレメンツを見る"
+
+msgid "moderatorSlider"
+msgstr "送り主"
+
+msgid "moderatorMosaic"
+msgstr "モザイク"
+
+msgid "photosStatusNew"
+msgstr "新規"
+
+msgid "moderatorActions"
+msgstr "実行"
+
+msgid "moderatorAccept"
+msgstr "承認する"
+
+msgid "moderatorRefuse"
+msgstr "拒否する"
+
+msgid "moderatorModerating"
+msgstr ""
+
+msgid "moderatorPhotosVersions"
+msgstr "写真バージョン"
+
+msgid "moderatorStatus"
+msgstr "ステータス"
+
+msgid "userID"
+msgstr "ユーザーID"
+
+msgid "moderatorPhotosSearchInTheWeb"
+msgstr "ウェッブで検索"
+
+msgid "modelUsersSex"
+msgstr "性別"
+
+msgid "searchGo"
+msgstr "検索"
+
+msgid "moderatorRefuseReason"
+msgstr "拒否理由"
+
+msgid "moderatorLastEditName"
+msgstr ""
+
+msgid "moderatorBalanceBillingGlobalCountersRegistrations"
+msgstr "ログイン/確定/支払い済のアカウント"
+
+msgid "moderatorBalanceBillingGlobalCountersExpense"
+msgstr "ユーザーの合計利用額"
+
+msgid "moderatorBalanceBillingGlobalCountersCurrent"
+msgstr "現在のアカウント残高"
+
+msgid "moderatorBalanceSetTitle"
+msgstr "アカウント残高の変更"
+
+msgid "moderatorBalanceSetSuccessful"
+msgstr "アカウント残高は無事に変更されました"
+
+msgid "moderatorBalanceUserStatTitle"
+msgstr "バランスの統計"
+
+msgid "moderatorBalanceUserStatTableFieldTime"
+msgstr "時間"
+
+msgid "moderatorBalanceUserStatTableFieldDescription"
+msgstr "説明"
+
+msgid "moderatorBalanceUserStatTableFieldAmount"
+msgstr "アカウント"
+
+msgid "moderatorBalanceUserStatTableFieldCurrent"
+msgstr "バランス"
+
+msgid "moderatorRegisteredToday"
+msgstr "本日の登録数"
+
+msgid "bannedSecondChance"
+msgstr ""
+"きちんと規則を理解し守ります。<a href='%s'>ブロックを解除してください</a>"
+
+msgid "bannedForever"
+msgstr ""
+"新しいアカウントを作成し、このような行為を繰り返さないようお願いします。守ら"
+"れない場合は再度アカウントがブロックされます。"
+
+msgid "actionTranslate"
+msgstr "翻訳する"
+
+msgid "chatSendByClickOn"
+msgstr "右記の操作で送信"
+
+msgid "formPleaseFixErrors"
+msgstr "下記のエラーを訂正してください。"
+
+msgid "userBalloonAddToFavorite"
+msgstr "お気に入りへ追加する"
+
+msgid "ofPair"
+msgstr "ペア"
+
+msgid "visitor"
+msgid_plural "visitors"
+msgstr[0] "訪問者"
+msgstr[1] "訪問者"
+
+msgid "signupMe"
+msgstr "私は"
+
+msgid "signupIAmSearching"
+msgstr "探しているのは"
+
+msgid "bannedInfoTitle"
+msgstr "ご利用のアカウントは下記のいずれかの理由でブロックされました。"
+
+msgid "bannedInfoCauseSendSpam"
+msgstr "&mdash; 広告やスパムメッセージの大量送信"
+
+msgid "bannedInfoCauseSendContacts"
+msgstr ""
+"&mdash; 電話番号、メールアドレス、スカイプ名などの個人連絡情報を含んだメール"
+"の大量送信"
+
+msgid "bannedInfoCauseWrongProfile"
+msgstr "&mdash; 広告など適切でない内容を含むプロフィール"
+
+msgid "bannedInfoCauseRudeAttitude"
+msgstr "&mdash; 他のユーザーに対しての失礼な態度"
+
+msgid "bannedInfoRecommendation"
+msgstr ""
+" <a href=\"http://lovetime.com/pages/rules\">利用規約</a>をお読みください。"
+
+msgid "bannedInfoCreateNewAccount"
+msgstr ""
+"新しいアカウントを作成いただき、このような行為を繰り返さないようお願いしま"
+"す。繰り返された場合はアカウントは再度ブロックされます。"
+
+msgid "bannedInfoSendEmail"
+msgstr ""
+"誤ってご利用のアカウントがブロックされていると思われる場合はメールにてご連絡"
+"をお願いします。 <a href=\"mailto:info@lovetime.com?subject=Wrongly banned "
+"user %id%\">info@lovetime.com</a>"
+
+msgid "loginErrorUserBanned"
+msgstr " アクセス拒否されました。%s.さんは追放されました。"
+
+msgid "messageFilterTitle"
+msgstr "メッセージフィルタ"
+
+msgid "messageFilterSuggestion"
+msgstr "受信するメッセージを限定する"
+
+msgid "messageFilterReceiveFromAll"
+msgstr "全てのメッセージ"
+
+msgid "messageFilterReceiveFromWoman"
+msgstr "女性からのメッセージのみ"
+
+msgid "messageFilterReceiveFromMen"
+msgstr "男性からのメッセージのみ"
+
+msgid "messageFilterWithPhotoOnly"
+msgstr "写真有りのみ"
+
+msgid "messageFilterAgedFrom"
+msgstr "ユーザの年齢"
+
+msgid "messageFilterAgedTo"
+msgstr "～"
+
+msgid "messageFilterFromMyCountry"
+msgstr "自分の国からのみ"
+
+msgid "modelUsersFilterSex"
+msgstr "性別で選別"
+
+msgid "modelUsersFilterPhoto"
+msgstr "写真有のみ"
+
+msgid "modelUsersFilterAgeFrom"
+msgstr "ユーザの年齢"
+
+msgid "modelUsersFilterAgeTo"
+msgstr "～"
+
+msgid "modelUsersFilterCountry"
+msgstr "自分の国からのみ"
+
+msgid "chatFilterMan"
+msgstr ""
+"さんはメッセージフィルタを設定しているためメッセージを送ることができません。"
+"他のチャット相手をお探しください。"
+
+msgid "chatFilterWoman"
+msgstr ""
+"さんはメッセージフィルタを設定しているためメッセージを送ることができません。"
+"他のチャット相手をお探しください。"
+
+msgid "chatImpossibleCompanionBanned"
+msgstr ""
+" %sさんは管理者によってブロックされているか、プロフィールを削除しているため"
+"チャットメッセージを送ることができません。"
+
+msgid "lettersHiAndWelcome"
+msgstr "こんにちは, %name%さん! %host%へようこそ!"
+
+msgid "lettersAlmostDone"
+msgstr "登録はほぼ完了です..."
+
+msgid "lettersConfirm"
+msgstr "メールアドレスを確定する"
+
+msgid "lettersPersonalData"
+msgstr "あなたの登録情報:"
+
+msgid "lettersNick"
+msgstr "ニックネーム:"
+
+msgid "lettersEmail"
+msgstr "メールアドレス:"
+
+msgid "lettersAboutSite"
+msgstr ""
+"こちらのサイトではソウルメイトを見つけたり、恋愛をしたり、友達や知り合いに匿"
+"名でフラートすることができます。"
+
+msgid "lettersTryIt"
+msgstr "このドキドキを<a href=\"%s\">試してみませんか?</a>"
+
+msgid "lettersTellAboutUs"
+msgstr "このサイトを友達みんなに紹介しましょう。"
+
+msgid "lettersThankYou"
+msgstr "ご参加お待ちしております。"
+
+msgid "lettersYouCanChangeData"
+msgstr "プロフィールは右記のリンクより変更できます:"
+
+msgid "removingProfileRemovingProfile"
+msgstr "アカウントの削除中"
+
+msgid "removingProfileRemoveProfileAction"
+msgstr "アカウントの削除"
+
+msgid "removingProfileQuestion"
+msgstr "アカウントを削除しますか?"
+
+msgid "removingProfileCauseManagedFindYourSoulMate"
+msgstr "はい、私のソウルメイトを見つけました!"
+
+msgid "removingProfileCauseICanNotFindAnyone"
+msgstr "このサイトをしばらく利用していますが、いい相手にめぐり合えません"
+
+msgid "removingProfileCauseIPlanGoBack"
+msgstr "一時的に退会しますが、また利用します"
+
+msgid "removingProfileCauseIHaveAnotherProfile"
+msgstr "他のプロフィールを利用しています"
+
+msgid "removingProfileCauseIWasInsultedByAnother"
+msgstr "他のユーザーから不快な行為をされました"
+
+msgid "removingProfileCauseIReceiveOffersEroticServices"
+msgstr "性的オファーをうけとりました"
+
+msgid "removingProfileCauseOther"
+msgstr "その他"
+
+msgid "removingProfileIChangedMyMindAction"
+msgstr "気が変わりました"
+
+msgid "removingProfileNotification"
+msgstr ""
+"\"削除\"をクリックすると、ご登録のメールアドレス(% email%)に確認メールが送信"
+"されます。送信されたメール内のリンクから、プロフィールの削除を確定してくださ"
+"い。削除後30日以内はアカウントの復元をすることが可能です。（写真、コンタクト"
+"リストを含）"
+
+msgid "removingProfileRemoveAction"
+msgstr "削除"
+
+msgid "removingProfileCanselAction"
+msgstr "キャンセル"
+
+msgid "removingProfileEmailSendNotification"
+msgstr ""
+"アカウント削除確認メールを送信しました。アカウントの削除を完了するには、送信"
+"されたメールにしたがって、メール内のリンクをクリックしてください。"
+
+msgid "removingProfileNextAction"
+msgstr "次"
+
+msgid "removingProfileEnterEmailAndCode"
+msgstr "メールアドレスと受け取ったコードを入力してください。"
+
+msgid "removingProfileEmail"
+msgstr "メールアドレス"
+
+msgid "removingProfileEnterEmail"
+msgstr "メールアドレスを入力してください"
+
+msgid "removingProfileCodeOfPost"
+msgstr "メッセージコード"
+
+msgid "removingProfileEnterCodeOfPost"
+msgstr "メッセージコードを入力してください"
+
+msgid "removingProfileDoNotGo"
+msgstr "やめないでください!あなたに会いたいと思っている人たちがいます!"
+
+msgid "removingProfileCancelRemovingAction"
+msgstr "キャンセル"
+
+msgid "removingProfileContinueAction"
+msgstr "続ける"
+
+msgid "removingProfileRemovedStatus"
+msgstr "プロフィールステイタス &mdash;削除されました"
+
+msgid "removingProfileRemovedMessage"
+msgstr ""
+"ご利用のプロフィールページはサイト上では削除済みとなっています。全ての履歴や"
+"コンタクトリスト、写真、設定は削除後30日間保存されます。"
+
+msgid "removingProfileRestoreProfileAction"
+msgstr "プロフィールの復元"
+
+msgid "modelUsersHobbies"
+msgstr "自分自身を説明"
+
+msgid "balanceChangesBuyProductDecreaseProductId"
+msgstr "商品"
+
+msgid "balanceChangesByAdminUserId"
+msgstr "ユーザー"
+
+msgid "balanceChangesPSIncreasePSId"
+msgstr "支払いシステム"
+
+msgid "BalanceIncreaseErrorTitle"
+msgstr "アカウント残高の増加エラー"
+
+msgid "everyDayBalanceIncreasingDesc"
+msgstr "残高の毎日増加"
+
+msgid "invisibleSettingsFormButton"
+msgstr "保存"
+
+msgid "invisibleSettingsPageText"
+msgstr ""
+"このモードを頻繁に使用することはお勧めしません。他のユーザーから閲覧可能な"
+"ユーザー達は閲覧できないユーザーに比べ、もっと多く新しい友達を増やしている傾"
+"向があります。"
+
+msgid "invisibleSettingsPageTitle"
+msgstr "閲覧不可モード"
+
+msgid "modelUsersBalance"
+msgstr "アカウント"
+
+msgid "modelUsersInvisibleeWalk"
+msgstr "他のプロフィールの訪問者リストに自分を表示しない"
+
+msgid "modelUsersInvisibleOnline"
+msgstr "自分のオンラインステータスを他のユーザーに表示しない"
+
+msgid "modelUsersInvisibleSuperstarStatus"
+msgstr "自分のスーパースターステータスを他のユーザに表示しない"
+
+msgid "moderatorProductPresentsAddButton"
+msgstr "プレゼントの追加"
+
+msgid "monetizationInfoPageSearchText"
+msgstr "あなたの幸せな関係へのチャンスを増やす"
+
+msgid "monetizationInfoPageSearchTitle"
+msgstr "検索結果で一位"
+
+msgid "monetizationInfoPageSuperstarButton"
+msgstr "スーパースターになる"
+
+msgid "monetizationInfoPageSuperstarText"
+msgstr "\"デート\"ゲームでの優先的に"
+
+msgid "monetizationInfoPageSuperstarTitle"
+msgstr "スーパースターステータス"
+
+msgid "monetizationInfoPageText"
+msgstr ""
+"サイト上で<a href='#' id='%s'>コインを購入</a>または見つけることができます。"
+
+msgid "monetizationInfoPageText2"
+msgstr "一日に一枚コインが無料でもらえます"
+
+msgid "monetizationInfoPageTitle"
+msgstr "もっと人気者になるためにコインを使いましょう"
+
+msgid "monetizationInfoPageTopFacesButton"
+msgstr "トップまで"
+
+msgid "monetizationInfoPageTopFacesText"
+msgstr "あなたの好みを考慮し、独特のアルゴリズムでお似合いな相手を選択します。"
+
+msgid "monetizationInfoPageTopFacesTitle"
+msgstr "トップの位置"
+
+msgid "monetizationAboutTopTitle"
+msgstr "お勧めのプロフィール"
+
+msgid "monetizationAboutTopText"
+msgstr "検索結果と写真フィードでの位置を上げる"
+
+msgid "monetizationAboutTopButton"
+msgstr "TOPへ"
+
+msgid "monetizationAboutGiftsTitle"
+msgstr "プレゼント"
+
+msgid "monetizationAboutGiftsText"
+msgstr "人気度を上げる"
+
+msgid "monetizationAboutUnlimitedTitle"
+msgstr "制限なし"
+
+msgid "monetizationAboutUnlimitedText"
+msgstr "全ての制限を削除"
+
+msgid "monetizationAboutUnlimitedButton"
+msgstr "制限を削除"
+
+msgid "monetizationAboutVipTitle"
+msgstr "VIP"
+
+msgid "monetizationAboutVipText"
+msgstr "プロフィールの見え方を高上する"
+
+msgid "monetizationAboutVipButton"
+msgstr "VIPになる"
+
+msgid "monetizationAboutIncognitoTitle"
+msgstr "表示"
+
+msgid "monetizationAboutIncognitoText"
+msgstr "他のユーザに見えるように表示する"
+
+msgid "monetizationAboutIncognitoButton"
+msgstr "オフラインで表示する"
+
+msgid "monetizationBalanceSendSMS"
+msgstr "SMSを送信"
+
+msgid "monetizationBalanceSum"
+msgstr "支払金額"
+
+msgid "monetizationBalancePhoneNumber"
+msgstr "電話番号"
+
+msgid "monetizationBalanceOrderNumber"
+msgstr "注文番号"
+
+msgid "monetizationBalanceYouPayOrder"
+msgstr "購入金額を支払う"
+
+msgid "monetizationBalanceCheckOrder"
+msgstr "注文を確認する"
+
+msgid "monetizationBalanceOperator"
+msgstr "オペレーター"
+
+msgid "monetizationBalanceUpText"
+msgstr " %s コイン ( %sへVATは含まれていません)を増やすためにはメッセージを送信する必要があります。"
+
+msgid "monetizationBalanceNumber"
+msgstr "ナンバー"
+
+msgid "monetizationBalanceText"
+msgstr "本文"
+
+msgid "paymentDialogMessageSuperstarForSearch"
+msgstr ""
+"詳しく検索を使って見つけたプロフィールを閲覧するには、スーパースターステータ"
+"スを有効にする必要があります。"
+
+msgid "paymentDialogTitleDefault"
+msgstr "アカウントを補充して下さい。"
+
+msgid "paymentDialogTitleSuperstar"
+msgstr "スーパースターステータスを購入する"
+
+msgid "paymentDialogTitleTopFaces"
+msgstr "トップへ"
+
+msgid "paymentDialogWidgetBuy"
+msgstr "支払う"
+
+msgid "paymentDialogWidgetTermsOfUse"
+msgstr "利用規約"
+
+msgid "productPresentModelCodePatternMessage"
+msgstr ""
+"商品コードは 'present-*'のように1桁またはそれ以上、または小文字のアルファベッ"
+"トでなければなりません"
+
+msgid "productPresentModelImageFieldLabel"
+msgstr "画像"
+
+msgid "productSuperstar12PublicTitle"
+msgstr "12ヶ月のスーパースターステータス"
+
+msgid "productSuperstar1PublicTitle"
+msgstr "1ヶ月のスーパースターステータス"
+
+msgid "productSuperstar3PublicTitle"
+msgstr "3ヶ月のスーパースターステータス"
+
+msgid "productSuperstar6PublicTitle"
+msgstr "6ヶ月のスーパースターステータス"
+
+msgid "productSuperstarFriendly"
+msgstr "フレンドリー"
+
+msgid "productSuperstarStatusModelFieldPeriod"
+msgstr "期間"
+
+msgid "productSuperstarStatusModelFieldType"
+msgstr "タイプ"
+
+msgid "productSuperstarTypeRomantic"
+msgstr "ロマンティック"
+
+msgid "productTopFacesPublicTitle"
+msgstr "トップへ追加"
+
+msgid "publicFlashNotifierWidgetPresentBalanceWasChanged"
+msgstr "アカウント残高は%d %s少なくなりました"
+
+msgid "publicFlashNotifierWidgetPresentNotice"
+msgstr "選んだプレゼント"
+
+msgid "sendGiftDialogCommentLabel"
+msgstr "あなたからのメッセージ"
+
+msgid "sendGiftDialogHiddenFieldLabel"
+msgstr "受け取った相手のみがプレゼントを閲覧可能"
+
+msgid "sendGiftDialogSubmit"
+msgstr "送信"
+
+msgid "sendGiftDialogText"
+msgstr "気を引くためのとっておきの方法"
+
+msgid "sendGiftDialogTitle"
+msgstr "プレゼントを送信"
+
+msgid "superstarModelAttributeBegin"
+msgstr "はじめ"
+
+msgid "superstarModelAttributeFinish"
+msgstr "終わり"
+
+msgid "superstarModelAttributeUser"
+msgstr "ユーザー"
+
+msgid "topFacesDialogNotice"
+msgstr "料金は%d %s"
+
+msgid "userRatingAndBalanceWidgetBecameSuperstar"
+msgstr "スーパースターになる"
+
+msgid "userRatingAndBalanceWidgetRatingExtraLow"
+msgstr "とても低い"
+
+msgid "userRatingAndBalanceWidgetRatingLow"
+msgstr "低い"
+
+msgid "userRatingAndBalanceWidgetRatingMiddle"
+msgstr "普通"
+
+msgid "userRatingAndBalanceWidgetRatingHigh"
+msgstr "高い"
+
+msgid "userRatingAndBalanceWidgetRatingExtraHigh"
+msgstr "とても高い"
+
+msgid "userRatingAndBalanceWidgetFillUpBalance"
+msgstr "リチャージする"
+
+msgid "userRatingAndBalanceWidgetIncrease"
+msgstr "増やす"
+
+msgid "userRatingAndBalanceWidgetRatingAndVisitorsText"
+msgstr ""
+"あなたの検索位は<a href='%s'>%s</a>で、本日は<a href='%s'>%d</a> %sです"
+
+msgid "userRatingAndBalanceWidgetToTop"
+msgstr "トップまで"
+
+msgid "userRatingAndBalanceWidgetYourRating"
+msgstr "あなたの人気度"
+
+msgid "userViewBalloonActivateSuperstar"
+msgstr "スーパースターステータスを有効にする"
+
+msgid "userViewBalloonReturnToBasicSearch"
+msgstr "検索に戻る"
+
+msgid "userViewBalloonTitle"
+msgstr ""
+"詳しく検索を使って見つけたプロフィールを閲覧するには、スーパースターステータ"
+"スを有効にする必要があります。"
+
+msgid "walletBalanceChangesAmount"
+msgstr "アカウント"
+
+msgid "walletBalanceChangesBalance"
+msgstr "現在のアカウント残高"
+
+msgid "walletBalanceChangesCode"
+msgstr "コード"
+
+msgid "walletBalanceChangesDescription"
+msgstr "説明"
+
+msgid "walletBalanceChangesPrice"
+msgstr "価格"
+
+msgid "walletBalanceChangesProductId"
+msgstr "商品"
+
+msgid "walletBalanceChangesTimestamp"
+msgstr "時間"
+
+msgid "walletBalanceChangesUserId"
+msgstr "ユーザー"
+
+msgid "walletProductsCode"
+msgstr "コード"
+
+msgid "walletProductsCreatedAt"
+msgstr "作成日"
+
+msgid "walletProductsCreatedBy"
+msgstr "作成者"
+
+msgid "walletProductsDescription"
+msgstr "説明"
+
+msgid "walletProductsPrice"
+msgstr "価格"
+
+msgid "walletProductsTitle"
+msgstr "タイトル"
+
+msgid "walletProductsUpdatedAt"
+msgstr "アップデートされました"
+
+msgid "walletProductsUpdatedBy"
+msgstr "アップデート者"
+
+msgid "YourBalanceWasIncreasedText"
+msgstr ""
+"あなたのアカウント残高は%d %sによって追加されました。現在の残高は%d %sです。"
+
+msgid "YourBalanceWasIncreasedTitle"
+msgstr "アカウントへ残高追加"
+
+msgid "YourPresentHasBeenSent"
+msgstr "あなたからプレゼントを送信しました"
+
+msgid "sendGiftDialogFilterAll"
+msgstr "全て"
+
+msgid "sendGiftDialogFilterFriendly"
+msgstr "フレンドリー"
+
+msgid "sendGiftDialogFilterRomantic"
+msgstr "ロマンティック"
+
+msgid "paymentDialogBuyCoins"
+msgstr "アカウントをリチャージする"
+
+msgid "carouselNeedBuySuperstarNotice"
+msgstr ""
+"プロフィールを閲覧するためにはスーパースターステータスを <a href=\"%s\">購入"
+"する</a>必要があります。"
+
+msgid "leftMenuSearchPosition"
+msgstr "ポジション検索"
+
+msgid "leftMenuVisitorsToday"
+msgstr "%s 今日"
+
+msgid "leftMenuButtonTop"
+msgstr "トップ"
+
+msgid "leftMenuButtonSuperstar"
+msgstr "スーパースター"
+
+msgid "leftMenuBalance"
+msgstr "残高"
+
+msgid "balanceChangeTitle"
+msgstr "アカウント残高の変更"
+
+msgid "balanceChangeBuyProductDecreaseTitle"
+msgstr "商品の購入"
+
+msgid "balanceChangeByAdminTitle"
+msgstr "管理者によって変更されました"
+
+msgid "balanceChangeDailyTitle"
+msgstr "残高の毎日増加"
+
+msgid "balanceChangePSIncreaseTitle"
+msgstr "支払いシステムで残高を追加"
+
+msgid "userProfileAddPresentBaitF"
+msgstr "彼女にプレゼントを送ってあなたの存在を印象づけよう!"
+
+msgid "userProfileAddPresentBaitM"
+msgstr "彼にプレゼントを送ってあなたの存在を印象づけよう!"
+
+msgid "mailTemplateTitleNewPresent"
+msgstr ""
+"%name%さん, %sender_name%さんから%host%へ新しいプレゼントが届いています"
+
+msgid "mailTemplateBodyNewPresent"
+msgstr ""
+"<a href='%sender_profile_url%'>%sender_name%さん</a>があなたにプレゼントを送"
+"りました。<a href='%profile_url%'>プロフィール</a>のページから確認することが"
+"できます。 "
+
+msgid "balanceChangeBuyProductSuperstarDecreaseTitle"
+msgstr "スーパースターステータスの有効のための支払い"
+
+msgid "balanceChangeBuyProductPresentDecreaseTitle"
+msgstr "プレゼント購入のための支払い"
+
+msgid "balanceChangeBuyProductTopFacesDecreaseTitle"
+msgstr "人気上昇のための支払い"
+
+msgid "userTransactionsPageTitle"
+msgstr "現在のアカウント残高: %d %s"
+
+msgid "userTransactionsPageDescription"
+msgstr ""
+"こちらのサイトでのアカウントと購入履歴<br />“アカウントステータス”では現在の"
+"アカウントステータスを閲覧または関係書類を印刷することが<br />できます。“購入"
+"履歴”では支出と過去の購入履歴を閲覧することができます。"
+
+msgid "userTransactionsPageLinkTypeExpenses"
+msgstr "アカウントステータス"
+
+msgid "userTransactionsPageLinkTypeIncomes"
+msgstr "購入履歴"
+
+msgid "userTransactionsPageTableHeaderCol1"
+msgstr "トランザクション"
+
+msgid "userTransactionsPageTableHeaderCol2"
+msgstr "日付"
+
+msgid "userTransactionsPageTableHeaderCol3"
+msgstr "金額"
+
+msgid "userTransactionsPageLinkAll"
+msgstr "全て表示"
+
+msgid "monetizationInfoPageLinkTransactions"
+msgstr "残高照会"
+
+msgid "SuperstarPaymentWasPurchasedTitle"
+msgstr "スーパースターステータスの有効手続きが完了しました!"
+
+msgid "monetizationInfoPageLinkRecharge"
+msgstr "コインを手に入れる"
+
+msgid "messageNewPresentText"
+msgstr ""
+
+msgid "superstarInfoPageTitle"
+msgstr "スーパースターになろう!"
+
+msgid "superstarInfoPageTitleNotice"
+msgstr ""
+"スーパースターモードではもっとたくさんの人にもっと早く出会うことができます。"
+
+msgid "superstarInfoPageEncountersTitle"
+msgstr "出会い–あなたに会ってみたいと思っている人を探しだそう"
+
+msgid "superstarInfoPageEncountersNotice"
+msgstr ""
+"出会いフォルダーをゲットしてどんな人が 'はい'と言っているのか探しだそう!"
+
+msgid "superstarInfoPageAdvancedSearchTitle"
+msgstr "オプション検索"
+
+msgid "superstarInfoPageAdvancedSearchNotice"
+msgstr "お探しの条件にぴったりマッチするプロフィールをのぞいてみよう"
+
+msgid "superstarInfoPageInvisibleModeTitle"
+msgstr "非表示"
+
+msgid "superstarInfoPageInvisibleModeNotice"
+msgstr ""
+"他のユーザーのプロフィールを非表示で見てみよう!あなたが見ていたことは相手には"
+"わかりません…"
+
+msgid "superstarInfoPageLimitsTitle"
+msgstr "無制限"
+
+msgid "superstarInfoPageLimitsNotice"
+msgstr "無制限の検索とチャット"
+
+msgid "superstarInfoPageButtonBuy"
+msgstr "スーパースターになろう!"
+
+msgid "superstarInfoPageButtonRun"
+msgstr "無料で体験!!"
+
+msgid "or"
+msgstr "または"
+
+msgid "close"
+msgstr "閉じる"
+
+msgid "YouHaveReceivedAGift"
+msgstr "プレゼントが届いています"
+
+msgid "YouHaveMadeAGift"
+msgstr "プレゼントを送りました"
+
+msgid "paymentDialogWidgetTermsOfUseText"
+msgstr ""
+"'#button#'を押すと#ltd# へ#paySystemName# より#domain# で使用可能な#starAmount# #coins#への"
+"支払い金額#moneyAmount##moneyCurrency#を承諾、そして、下記の#siteName#コインの利用規約へ同意したことになります。コ"
+"インの支払い方法を変更すると設定をアップグレードすることができます。<br/> <br/> #siteName#コインの利用規約: <br/> "
+"<br/> 1.コインを購入または受け取る際にユーザーはコインの所持はしませんが、それらのコインでプレゼント、スーパースターステータスなどの#siteN"
+"ame#から提供される機能を 購入することができます。.<br/> 2.ご購入されたコインは、払い戻しをすることはできません。  <br/> "
+"3.弊社はコインの購入金額またコインのサイト上でのご利用可能方法は事前の告知なしに変更することができるものとします。<br/> "
+"4.コインはどんな金額または金銭的価値も弊社が書面で同意しない限りは換金されません。<br/>  "
+"5.未使用のコインは購入後6ヶ月には消滅するものとします。<br/>  6.ユーザーがアカウントを削除された場合、または利用規約に違反して#siteNa"
+"me#のモデレータによりアカウントが停止された場合はユーザーの保有する全てのコインは消滅するものとします。<br/>  "
+"7.ユーザーがプロモーションにより無料でコインを習得した際には、弊社は事前の告知なくそれらを期限切れにすることができるものとします。 "
+"<br/><br/> #ltd#により支払いの手続きが処理されます。"
+
+msgid "payonlineTetmsOfUse"
+msgstr ""
+
+msgid "unsubscribeWrongEmail"
+msgstr "誤ったメールアドレス"
+
+msgid "contestMain"
+msgstr ""
+
+msgid "contestFindYourLove"
+msgstr "恋が、始まる"
+
+msgid "contestIncreaseChanceSuccess"
+msgstr "成功のチャンスを広げる"
+
+msgid "contestOr"
+msgstr "または"
+
+msgid "contestFindLove"
+msgstr "恋を見つける"
+
+msgid "contestResult"
+msgstr "結果"
+
+msgid "contestSelectAll"
+msgstr "すべて選択"
+
+msgid "contestPhotoPhrase1"
+msgstr "写真がない？プレゼントもなし！"
+
+msgid "contestPhotoPhrase2"
+msgstr ""
+"申し訳ありませんが、写真有の検証済みのユーザーのみ素敵な商品がもらえます<br /"
+">写真を追加してください。"
+
+msgid "contestPhotoPhrase3"
+msgstr ""
+"アップロードするには<br />お持ちのファイル<br />をここへドラッグ＆ドロップし"
+"てください。"
+
+msgid "contestUploadPhoto"
+msgstr "写真をアップロード"
+
+msgid "contestImportPhoto"
+msgstr "または写真をインポート"
+
+msgid "contestFbProfile"
+msgstr "Facebookプロフィール"
+
+msgid "contestGoogleProfile"
+msgstr "Google+ プロフィール"
+
+msgid "contestInviteMorePhrase"
+msgstr ""
+"<span>%d</span>ユーザー<br>を招待しました。その中の誰かが当たれば、<br><b>あ"
+"なたにも賞品が当たります！</b><button class='n-d-more-button'>当選の確率を上"
+"げるには&rarr; <ins>もっと招待しよう！</ins></button>または<a href='/' "
+"target='_blank'>恋を見つけましょう</a>!"
+
+msgid "contestAnnouncePhrase1"
+msgstr ""
+"<strong class='announce-contest__highlight'>%d</strong>さんを招待しました!"
+
+msgid "contestAnnouncePhrase2"
+msgstr "もしその中の誰かが当たれば"
+
+msgid "contestAnnouncePhrase3"
+msgstr "あなたも同じ賞品をゲット!"
+
+msgid "contestAnnouncePhrase4"
+msgstr "もっと招待する!"
+
+msgid "contestAnnouncePhrase5"
+msgstr "当選確率を上げる"
+
+msgid "contestAnnouncePhrase6"
+msgstr "Lovetime　賞品!"
+
+msgid "contestAnnouncePhrase7"
+msgstr "夢が現実になる…"
+
+msgid "contestAnnouncePhrase8"
+msgstr "今すぐ登録して当てる"
+
+msgid "contest"
+msgstr "賞品"
+
+msgid "step1"
+msgstr "ステップ1"
+
+msgid "step2"
+msgstr "ステップ2"
+
+msgid "step3"
+msgstr "ステップ3"
+
+msgid "contestInviteByOtherServices"
+msgstr ""
+"当たる確率を上げよう!受信箱(Hotmail, Yahoo, Gmail)を追加、<a href=\"%s\" "
+"target=\"_blank\">Facebookの友達を招待</a>、またはリンク先をコピー %s"
+
+msgid "cntTitle"
+msgstr ""
+
+msgid "cntRegister"
+msgstr ""
+
+msgid "cntInviteFriends"
+msgstr ""
+
+msgid "cntSamePrize"
+msgstr ""
+
+msgid "cntHigherChances"
+msgstr ""
+
+msgid "cntAddFriends"
+msgstr ""
+
+msgid "cntBannerUsersOnly"
+msgstr ""
+
+msgid "cntBannerParticipatePrizeDraw"
+msgstr ""
+
+msgid "cntBannerFbDescription"
+msgstr ""
+
+msgid "cntPhotoDrag"
+msgstr ""
+
+msgid "cntPhotoUpload"
+msgstr ""
+
+msgid "cntPhotoImport"
+msgstr ""
+
+msgid "cntNext"
+msgstr ""
+
+msgid "cntNotSelected"
+msgstr ""
+
+msgid "cntInvited"
+msgstr ""
+
+msgid "cntWinsSamePrize"
+msgstr ""
+
+msgid "cntIncreaseChances"
+msgstr ""
+
+msgid "cntDropHere"
+msgstr ""
+
+msgid "cntUnselectAll"
+msgstr ""
+
+msgid "cntSelectAll"
+msgstr ""
+
+msgid "cntHours"
+msgstr ""
+
+msgid "cntMinutes"
+msgstr ""
+
+msgid "cntSeconds"
+msgstr ""
+
+msgid "emailContestSubject"
+msgstr ""
+
+msgid "emailContestTitle"
+msgstr ""
+
+msgid "emailContestJoinUs"
+msgstr ""
+
+msgid "emailContestPrizesDescriptions"
+msgstr ""
+
+msgid "emailContestRegister"
+msgstr ""
+
+msgid "emailContestTerms"
+msgstr ""
+
+msgid "emailContestClickHere"
+msgstr ""
+
+msgid "emailContestPrizes"
+msgstr ""
+
+msgid "emailContestUnsubscribe"
+msgstr ""
+
+msgid "actionNote"
+msgstr "メモをする"
+
+msgid "noteEdit"
+msgstr "編集"
+
+msgid "noteRemove"
+msgstr "削除"
+
+msgid "noteSave"
+msgstr "保存"
+
+msgid "noteConfirmDelete"
+msgstr "本当にこのメモを削除しますか?"
+
+msgid "lettersCheckSpamFolder"
+msgstr ""
+"こちらからのメールが迷惑メールに振り分けられていないことを確認してください。"
+"振り分けられている場合は迷惑メールを解除をクリックしてください。"
+
+msgid "lettersMarkEmailNotSpam"
+msgstr "そして、このメールは迷惑メールでないとマークしてください"
+
+msgid "pagesContacts"
+msgstr ""
+"<b>住所</b> <br /> 25/4 Soi Ratchadaphisak 36, Ratchadaphisak Rd., "
+"ChanKasem, Chatuchak BKK 10900 Thailand <br /><br /> <br /> Phnom Penh "
+"Tower, 12F, #445, 232/93 (Monivong Blvd), Phnom Penh, Cambodia, 12258 <br /"
+"><br /> <br /> Russia,  Moscow,  Svobody str. 50,  Build. 3, 125364 <br /"
+"><br /> <b>メールアドレス:</b><br /><a href=\"mailto:info@lovetime.com"
+"\">info@lovetime.com</a>"
+
+msgid "seocatalogTitleInCity"
+msgstr "%city_title%のいろいろな人に出会えるデートサイト"
+
+msgid "seocatalogH1InCity"
+msgstr "%city_title%でデート"
+
+msgid "seocatalogSeeking"
+msgstr "検索中"
+
+msgid "seocatalogAge"
+msgstr "年齢"
+
+msgid "seocatalogAppearance"
+msgstr "外見"
+
+msgid "seocatalogOther"
+msgstr "その他"
+
+msgid "seocatalogNext"
+msgstr "もっと"
+
+msgid "seocatalogWoman"
+msgstr "女性"
+
+msgid "seocatalogMen"
+msgstr "女性"
+
+msgid "seocatalogLesbian"
+msgstr "レズビアン"
+
+msgid "seocatalogGay"
+msgstr "ゲイ"
+
+msgid "seocatalogBisexual"
+msgstr "バイセクシュアル"
+
+msgid "seocatalogFriendship"
+msgstr "友情、コミュニケーション"
+
+msgid "seocatalogRomanticRelations"
+msgstr "友情、コミュニケーション"
+
+msgid "seocatalogFlirt"
+msgstr "遊び"
+
+msgid "seocatalogSex"
+msgstr "セックス"
+
+msgid "seocatalogBlondes"
+msgstr "ブロンド"
+
+msgid "seocatalogBrunettes"
+msgstr "ダークヘアー"
+
+msgid "seocatalogBrownHair"
+msgstr "茶髪"
+
+msgid "seocatalogAthletic"
+msgstr "筋肉質"
+
+msgid "seocatalogSlim"
+msgstr "スリム"
+
+msgid "seocatalogHeavy"
+msgstr "ぽっちゃり"
+
+msgid "seocatalogForeigner"
+msgstr "外国人"
+
+msgid "seocatalogRich"
+msgstr "お金持ち"
+
+msgid "seocatalogSingle"
+msgstr "シングル"
+
+msgid "seocatalogNoBadHabits"
+msgstr "悪習慣なし"
+
+msgid "chatFilterManGifts"
+msgstr ""
+"%sさんはメッセージフィルターを設定しているため、メッセージを送信することがで"
+"きません。<b>プレゼントを送る</b>と制限が取り除かれます。または他のユーザーと"
+"チャットをお試しください。"
+
+msgid "chatFilterWomanGifts"
+msgstr ""
+"%sさんはメッセージフィルターを設定しているため、メッセージを送信することがで"
+"きません。<b>プレゼントを送る</b>と制限が取り除かれます。または他のユーザーと"
+"チャットをお試しください。"
+
+msgid "modelLoginFormEmailOrNick"
+msgstr "メールアドレス"
+
+msgid "modelLoginFormPassword"
+msgstr "パスワード"
+
+msgid "modelLoginFormAlien"
+msgstr "自分以外のパソコンを利用中"
+
+msgid "loginErrorInvalidEmailOrPassword"
+msgstr "無効なメールアドレスまたはパスワード"
+
+msgid "systemForgotPassword"
+msgstr "パスワードを忘れましたか"
+
+msgid "loginErrorUserNotVisible"
+msgstr "%s.さんのアクセスは拒否されました"
+
+msgid "wrongEmail"
+msgstr "無効なメールアドレス"
+
+msgid "errorEmailExists"
+msgstr "他のメールアドレスを入力してください"
+
+msgid "citationsDefault1"
+msgstr "こんにちは、元気ですか?"
+
+msgid "citationsDefault2"
+msgstr "こんにちは、元気ですか?"
+
+msgid "modelUsersValidateReservedNicks"
+msgstr "別のニックネームを選択してください"
+
+msgid "registrationFormWrongDate"
+msgstr "誤ったデータ"
+
+msgid "months1"
+msgstr "1月"
+
+msgid "months2"
+msgstr "2月"
+
+msgid "months3"
+msgstr "3月"
+
+msgid "months4"
+msgstr "4月"
+
+msgid "months5"
+msgstr "5月"
+
+msgid "months6"
+msgstr "6月"
+
+msgid "months7"
+msgstr "7月"
+
+msgid "months8"
+msgstr "8月"
+
+msgid "months9"
+msgstr "9月"
+
+msgid "months10"
+msgstr "10月"
+
+msgid "months11"
+msgstr "11月"
+
+msgid "months12"
+msgstr "12月"
+
+msgid "modelSmileCode"
+msgstr "コード"
+
+msgid "modelSmileImage"
+msgstr "イメージ"
+
+msgid "modelSmileVisible"
+msgstr "可視性"
+
+msgid "Noactive"
+msgstr "いいえ"
+
+msgid "modelSpamersName"
+msgstr ""
+
+msgid "modelUsersName"
+msgstr "ニックネーム"
+
+msgid "modelUsersEmail"
+msgstr "メールアドレス"
+
+msgid "modelComplaintsStatus"
+msgstr "ステータス"
+
+msgid "modelSpamersTime"
+msgstr ""
+
+msgid "modelSpamersMessages"
+msgstr ""
+
+msgid "modelComplaintsSenderId"
+msgstr "送信者"
+
+msgid "modelComplaintsCompanionId"
+msgstr "被告人"
+
+msgid "modelComplaintsReasonText"
+msgstr "理由"
+
+msgid "modelComplaintsComment"
+msgstr "コメント"
+
+msgid "modelComplaintsCompanion"
+msgstr "被告人"
+
+msgid "modelComplaintsSender"
+msgstr "告発された"
+
+msgid "complainReason1"
+msgstr "スパム、広告"
+
+msgid "complainReason2"
+msgstr "詐欺"
+
+msgid "complainReason3"
+msgstr "不埒な申し出"
+
+msgid "complainReason4"
+msgstr "無礼、脅威"
+
+msgid "complainReason5"
+msgstr "所有権を有しない写真"
+
+msgid "complainReason6"
+msgstr "セックスの勧誘"
+
+msgid "photosRefuseReasonPicture"
+msgstr "絵や物、動物"
+
+msgid "photosRefuseReasonErotica"
+msgstr "エロチカ、侮辱"
+
+msgid "photosRefuseReasonFamous"
+msgstr "有名人"
+
+msgid "photosRefuseReasonSpam"
+msgstr "スパム、広告"
+
+msgid "photosRefuseReasonPoorQuality"
+msgstr "乏しい品質"
+
+msgid "photosRefuseReasonOnlyYouMustBeSeen"
+msgstr "あなたしか見ないべき"
+
+msgid "photosRefuseReasonNotVisibleFace"
+msgstr "表示しがたい表情"
+
+msgid "photosRefuseReasonChildOnThePhoto"
+msgstr "子供が写っている写真"
+
+msgid "photosRefuseReasonExcessiveDecoration"
+msgstr "過大な装飾"
+
+msgid "photosStatusAccept"
+msgstr "承認"
+
+msgid "photosStatusRefuse"
+msgstr "拒否"
+
+msgid "userName"
+msgstr "名前"
+
+msgid "feedbackText"
+msgstr "テキスト"
+
+msgid "userWrongOldPasswError"
+msgstr "パスワードが違います"
+
+msgid "userPasswTooShort"
+msgstr "新しいパスワードは短すぎます。（最小{min}文字）"
+
+msgid "dateFormat"
+msgstr "数値は dd.mm.yyyy（日:月:年）の形式で入力してください"
+
+msgid "modelUsersValidateRequireMessage"
+msgstr "%s は必須です"
+
+msgid "modelUsersLookingFor"
+msgstr "探しているのは"
+
+msgid "modelUsersPassword"
+msgstr "パスワード"
+
+msgid "modelUsersOldPassword"
+msgstr "現在のパスワード"
+
+msgid "modelUsersNewPassword"
+msgstr "新しいパスワード"
+
+msgid "modelUsersVisible"
+msgstr "可視性"
+
+msgid "modelUsersRole"
+msgstr "グループ"
+
+msgid "modelUsersPhone"
+msgstr "電話番号"
+
+msgid "modelUsersVkId"
+msgstr "VkontakteのユーザーID"
+
+msgid "modelUsersFacebookId"
+msgstr "FacebookのユーザーID"
+
+msgid "modelUsersTwitterId"
+msgstr "TwitterのユーザーID"
+
+msgid "modelUsersAvatar"
+msgstr "アバター"
+
+msgid "modelUsersDefaultAvatar"
+msgstr "アバタースタンダート"
+
+msgid "modelUsersCity"
+msgstr "都市／都道府県"
+
+msgid "modelUsersCountry"
+msgstr "国"
+
+msgid "modelUsersResidence"
+msgstr "居住地"
+
+msgid "modelUsersLat"
+msgstr "緯度"
+
+msgid "modelUsersLng"
+msgstr "経度"
+
+msgid "modelUsersAbout"
+msgstr "私について"
+
+msgid "profileStatus"
+msgstr "ステータス"
+
+msgid "modelUsersIntroduceMyself"
+msgstr "マイステータス"
+
+msgid "modelUsersWantToMeet"
+msgstr "こんな人を探したい"
+
+msgid "modelUsersPreferredAge"
+msgstr "お好みの年齢"
+
+msgid "dateofbirth"
+msgstr "生年月日"
+
+msgid "modelUsersHeight"
+msgstr "身長"
+
+msgid "modelUsersWeight"
+msgstr "体重"
+
+msgid "modelUsersPhysique"
+msgstr "体型"
+
+msgid "modelUsersColor"
+msgstr "髪の毛の色"
+
+msgid "modelUsersColorEyes"
+msgstr "目の色"
+
+msgid "modelUsersSign"
+msgstr "星座"
+
+msgid "modelUsersType"
+msgstr "交際の目的"
+
+msgid "modelUsersAcquainted"
+msgstr "知り合いになる"
+
+msgid "modelUsersBed"
+msgstr "セックスで好きなこと"
+
+msgid "modelUsersExcites"
+msgstr "ドキドキすること"
+
+msgid "modelUsersStatus"
+msgstr "交際関係"
+
+msgid "modelUsersChildren"
+msgstr "子供"
+
+msgid "modelUsersOrientation"
+msgstr "性的指向"
+
+msgid "modelUsersSmoking"
+msgstr "喫煙"
+
+msgid "modelUsersAlcohol"
+msgstr "飲酒"
+
+msgid "modelUsersEducation"
+msgstr "最終学歴"
+
+msgid "modelUsersJob"
+msgstr "仕事"
+
+msgid "modelUsersIncome"
+msgstr "収入"
+
+msgid "modelUsersLove_work"
+msgstr "仕事で好きなこと"
+
+msgid "modelUsersLove_institute"
+msgstr "大学で好きなこと"
+
+msgid "modelUsersLove_go"
+msgstr "行きたい場所"
+
+msgid "modelUsersLove_music"
+msgstr "好きな音楽"
+
+msgid "modelUsersBan"
+msgstr "禁止"
+
+msgid "modelUsersSendEmails"
+msgstr "メールでお知らせを受け取る"
+
+msgid "modelUsersSounds"
+msgstr "メッセージ着信音を有効にする"
+
+msgid "modelUsersShowPixeledImages"
+msgstr "ゲストにははっきりとしない写真を見せる"
+
+msgid "modelUsersHideImages"
+msgstr "写真を隠す"
+
+msgid "modelUsersTimeZone"
+msgstr "タイムゾーン"
+
+msgid "moduleUsersAutoSelectTimeZone"
+msgstr "日付と時刻を自動設定する"
+
+msgid "modelUsersRegistered"
+msgstr "登録された"
+
+msgid "modelUsersInvitedBy"
+msgstr "招待状"
+
+msgid "modelUsersLoginWithToken"
+msgstr "メールのリンクから自動ログイン"
+
+msgid "physiqueSlim"
+msgstr "痩せ型"
+
+msgid "physiqueAverage"
+msgstr "標準体型"
+
+msgid "physiqueAthletic"
+msgstr "スポーツマン体型"
+
+msgid "physiqueMuscular"
+msgstr "恰幅が良い"
+
+msgid "physiqueHeavy"
+msgstr "肥満型"
+
+msgid "physiqueFull"
+msgstr "ぽっちゃり体型"
+
+msgid "colorEyesBrown"
+msgstr "茶色"
+
+msgid "colorEyesGreen"
+msgstr "緑色"
+
+msgid "colorEyesBlue"
+msgstr "青色"
+
+msgid "colorEyesGray"
+msgstr "灰色"
+
+msgid "colorEyesBlack"
+msgstr "黒色"
+
+msgid "colorEyesHazel"
+msgstr "くり色"
+
+msgid "smokingDoNotSmoke"
+msgstr "吸わない"
+
+msgid "smokingRarely"
+msgstr "時々"
+
+msgid "smokingGiving"
+msgstr "禁煙中"
+
+msgid "smokingOften"
+msgstr "頻繁"
+
+msgid "alcoholDoNotDrink"
+msgstr "全く飲まない"
+
+msgid "alcoholILikeToDrink"
+msgstr "頻繁"
+
+msgid "alcoholOnHolidays"
+msgstr "お付き合い程度"
+
+msgid "educationSecondary"
+msgstr "高校"
+
+msgid "educationTechnical"
+msgstr "短大"
+
+msgid "educationHigher"
+msgstr "大学"
+
+msgid "incomeLow"
+msgstr "低"
+
+msgid "incomeMedium"
+msgstr "中"
+
+msgid "incomeHigh"
+msgstr "高"
+
+msgid "systemAdministrator"
+msgstr "システム管理者"
+
+msgid "childrenNo"
+msgstr "いる"
+
+msgid "childrenYes"
+msgstr "いない"
+
+msgid "signAries"
+msgstr "牡羊座"
+
+msgid "signTaurus"
+msgstr "牡牛座"
+
+msgid "signTwins"
+msgstr "双子座"
+
+msgid "signCancer"
+msgstr "蟹座"
+
+msgid "signLion"
+msgstr "獅子座"
+
+msgid "signVirgo"
+msgstr "乙女座"
+
+msgid "signLibra"
+msgstr "天秤座"
+
+msgid "signScorpio"
+msgstr "蠍座"
+
+msgid "signSagittarius"
+msgstr "射手座"
+
+msgid "signCapricorn"
+msgstr "山羊座"
+
+msgid "signAquarius"
+msgstr "水瓶座"
+
+msgid "signPisces"
+msgstr "魚座"
+
+msgid "changeFieldInSearch"
+msgstr "募集中"
+
+msgid "changeFieldHasAFriend"
+msgstr "交際中"
+
+msgid "changeFieldMarried"
+msgstr "既婚"
+
+msgid "changeFieldNotInSearch"
+msgstr "婚約中"
+
+msgid "changeFieldBreaked"
+msgstr "離婚"
+
+msgid "haircolorLight"
+msgstr "ブロンド"
+
+msgid "haircolorDark"
+msgstr "ダーク"
+
+msgid "haircolorRed"
+msgstr "赤色"
+
+msgid "haircolorTanned"
+msgstr "メッシュ"
+
+msgid "haircolorBright"
+msgstr "明るい"
+
+msgid "haircolorWhite"
+msgstr "グレイ"
+
+msgid "haircolorSkin"
+msgstr "坊主"
+
+msgid "haircolorBald"
+msgstr "スキンヘッド"
+
+msgid "changeFieldHetero"
+msgstr "異性愛"
+
+msgid "changeFieldGay"
+msgstr "同性愛"
+
+msgid "changeFieldBi"
+msgstr "両性愛"
+
+msgid "ofWoman"
+msgstr "女性"
+
+msgid "ofMan"
+msgstr "男性"
+
+msgid "introduceMyselfOnlyMyself"
+msgstr "シングル"
+
+msgid "introduceMyselfAsPair"
+msgstr "カップル"
+
+msgid "changeFieldFriendship"
+msgstr "友達を探して、交流する"
+
+msgid "changeFieldFlirt"
+msgstr "遊び"
+
+msgid "changeFieldRomantic"
+msgstr "恋愛"
+
+msgid "changeFieldSex"
+msgstr "セックス"
+
+msgid "changeFieldAtWork"
+msgstr "仕事先"
+
+msgid "changeFieldNeighbor"
+msgstr "近所"
+
+msgid "changeFieldSchool"
+msgstr "学校/大学"
+
+msgid "changeFieldStreet"
+msgstr "道端"
+
+msgid "changeFieldOral"
+msgstr "オーラルセックス"
+
+msgid "changeFieldAnal"
+msgstr "アナルセックス"
+
+msgid "changeFieldGroup"
+msgstr "グループセックス"
+
+msgid "changeFieldPublic"
+msgstr "変わった場所でのセックス"
+
+msgid "changeFieldRoleplay"
+msgstr "ロールプレイ"
+
+msgid "changeFieldToys"
+msgstr "おもちゃ"
+
+msgid "changeFieldBdsm"
+msgstr "SM"
+
+msgid "changeFieldClassicSex"
+msgstr "普通のセックス"
+
+msgid "changeFieldSmells"
+msgstr "におい"
+
+msgid "changeFieldHighHair"
+msgstr "毛深い"
+
+msgid "changeFieldTattoo"
+msgstr "タトゥー、ピアス"
+
+msgid "changeFieldDarkskin"
+msgstr "ダークスキン"
+
+msgid "changeFieldUnderwear"
+msgstr "水中"
+
+msgid "changeFieldUniform"
+msgstr "制服"
+
+msgid "changeFieldStockings"
+msgstr "ストッキング"
+
+msgid "changeFieldFootwear"
+msgstr "靴"
+
+msgid "changeFieldDominate"
+msgstr "支配的または服従的"
+
+msgid "changeFieldBondage"
+msgstr "束縛、固定される"
+
+msgid "changeFieldPain"
+msgstr "痛み"
+
+msgid "monthsJan"
+msgstr "1月"
+
+msgid "monthsFeb"
+msgstr "2月"
+
+msgid "monthsMar"
+msgstr "3月"
+
+msgid "monthsApr"
+msgstr "4月"
+
+msgid "monthsMay"
+msgstr "5月"
+
+msgid "monthsJun"
+msgstr "6月"
+
+msgid "monthsJul"
+msgstr "7月"
+
+msgid "monthsAug"
+msgstr "8月"
+
+msgid "monthsSep"
+msgstr "9月"
+
+msgid "monthsOct"
+msgstr "10月"
+
+msgid "monthsNov"
+msgstr "11月"
+
+msgid "monthsDec"
+msgstr "12月"
+
+msgid "removingProfileCauseIPlaGoBack"
+msgstr "一時的に退会しますが、また利用します"
+
+msgid "profileLastVisit"
+msgstr "前回の訪問"
+
+msgid "dateToday"
+msgstr "今日"
+
+msgid "dateYesterday"
+msgstr "昨日"
+
+msgid "date2DaysAgo"
+msgstr "一昨日"
+
+msgid "profileLastVisitAt"
+msgstr "の"
+
+msgid "chatBigMessage"
+msgstr "メッセージが長すぎます。2000文字以内で入力してください。"
+
+msgid "errorFolderCreate"
+msgstr "同じ名前のフォルダーが存在します"
+
+msgid "foldersDeleteError"
+msgstr "申し訳ありません。選択されたフォルダーの削除に失敗しました。:("
+
+msgid "noteErrorTooLong"
+msgstr "メモは1000文字以下まで"
+
+msgid "noteErrorTags"
+msgstr "メモにはHTMLタグを入力できません"
+
+msgid "guestsWasMan"
+msgid_plural "guestsWasWoman"
+msgstr[0] "前回の閲覧"
+
+msgid "guestsYear"
+msgid_plural "guestsYears"
+msgstr[0] "%d 年"
+
+msgid "guestsMonth"
+msgid_plural "guestsMonths"
+msgstr[0] "%d 月"
+
+msgid "guestsDay"
+msgid_plural "guestsDays"
+msgstr[0] "%d 日"
+
+msgid "guestsHour"
+msgid_plural "guestsHours"
+msgstr[0] "%s 時間"
+
+msgid "guestsMinute"
+msgid_plural "guestsMinutes"
+msgstr[0] "%s 分"
+
+msgid "guestsBack"
+msgstr "前"
+
+msgid "topfacesMessageTooShort"
+msgstr "メッセージは140文字以内で入力"
+
+msgid "topfaceStatusInvalidValue"
+msgstr "不正な内容を含むステータスフィールド"
+
+msgid "formErrorNewPasswRepeat"
+msgstr "パスワードが違います"
+
+msgid "modelLoginFormEmail"
+msgstr "メールアドレス"
+
+msgid "modelForgotpassPassword"
+msgstr "パスワード"
+
+msgid "modelForgotpassPasswordRepeat"
+msgstr "パスワードを再入力"
+
+msgid "modelFogotpassEmailExists"
+msgstr "こちらのメールアドレスで登録されたユーザーはいません"
+
+msgid "modelFogotpassInvalidLink"
+msgstr "無効なリンク"
+
+msgid "modelFogotpassPassDoNotMatch"
+msgstr "パスワードが一致しません"
+
+msgid "visitors"
+msgstr ""
+
+msgid "facebookLikeShowUsYouLikeUs"
+msgstr "気に入ったら、いいね!"
+
+msgid "systemRegisterSmall"
+msgstr "登録"
+
+msgid "chatMoveIn"
+msgstr "移動する"
+
+msgid "chatFoldersFirst"
+msgstr "一般"
+
+msgid "chatFoldersSecond"
+msgstr "お気に入り"
+
+msgid "chatFoldersThird"
+msgstr "無視"
+
+msgid "langRussian"
+msgstr "ロシア語"
+
+msgid "yourPhotoHere"
+msgstr "ここにあなたの写真"
+
+msgid "topfacesAdd"
+msgstr "トップへ"
+
+msgid "topfacesItsYou"
+msgstr "それはあなたです!"
+
+msgid "userBalloonChat"
+msgstr "メッセージを作成"
+
+msgid "userBalloonProfile"
+msgstr "プロフィールを見る"
+
+msgid "topfacesDialogTitle"
+msgstr "写真をトップへ追加"
+
+msgid "topfacesDialogChoosePhoto"
+msgstr ""
+"ご自分の写真を選択または<a href=\"/users/view/%s\">新しくアップロードする</a>"
+
+msgid "topfacesDialogTypeMessage"
+msgstr "ショートメッセージを入力"
+
+msgid "actionSend"
+msgstr "送信"
+
+msgid "topfacesDialogNoPhotos"
+msgstr ""
+"写真を一番上に載せるためには、まず写真の<a href=\"/users/view/%s\">アップロー"
+"ド</a>が必要です。"
+
+msgid "TopFacesLimitExceeded"
+msgstr ""
+"1時間に1枚以上の写真を追加することはできません。しばらくお待ちください。"
+
+msgid "emailConfirmPleaseTitle"
+msgstr ""
+"確認のためのURLをご登録のメールアドレスに送信しました。メールアドレスを確定後"
+"サイトの全ての機能へアクセスすることができるようになります。メールが届かない"
+"場合は<a href='%link%'>こちら</a>"
+
+msgid "emailConfirmCheckSpam"
+msgstr ""
+"メールボックスの迷惑メールのフォルダーをご確認ください。誤ってメールがそちら"
+"に保存されている場合があります。その際は <b>迷惑メールを解除</b> してくださ"
+"い。"
+
+msgid "emailConfirmPleaseNotice"
+msgstr "&nbsp;"
+
+msgid "socialLikeStr"
+msgstr "いいね"
+
+msgid "complainHead"
+msgstr "苦情内容"
+
+msgid "complainIgnore"
+msgstr "無視する"
+
+msgid "complainIgnoreDescription"
+msgstr ""
+"こちらのユーザーからはこれ以上メッセージを受け取りません。後ほど設定を変更す"
+"ることもできます。"
+
+msgid "complainError1"
+msgstr "苦情の理由を特定する"
+
+msgid "complainSubmit"
+msgstr "送信"
+
+msgid "complainOr"
+msgstr "または"
+
+msgid "complainClose"
+msgstr "キャンセル"
+
+msgid "menuFeedback"
+msgstr "フィードバック"
+
+msgid "menuRules"
+msgstr "利用規約"
+
+msgid "menuContacts"
+msgstr "連絡先"
+
+msgid "menuHelpUs"
+msgstr "ヘルプ"
+
+msgid "flirtNear"
+msgstr "近くで探す"
+
+msgid "menuAbout"
+msgstr "運営会社"
+
+msgid "menuSearch"
+msgstr "検索"
+
+msgid "flirtCarousel"
+msgstr "デート"
+
+msgid "menuChat"
+msgstr "チャット"
+
+msgid "mainTitle"
+msgstr "あなたの知り合いや、同僚、ご近所さんを招待して、"
+
+msgid "mainTitle2"
+msgstr "そして、匿名で誘いましょう"
+
+msgid "menTitles1"
+msgstr "ご近所さんが好きですか？"
+
+msgid "menTitles2"
+msgstr "会社の人が好きですか？"
+
+msgid "menTitles3"
+msgstr "昔の恋人を誘惑したいですか？"
+
+msgid "menTitles4"
+msgstr "退屈してますか？"
+
+msgid "womanTitles1"
+msgstr "ご近所さんが好きですか？"
+
+msgid "womanTitles2"
+msgstr "会社の人が好きですか？"
+
+msgid "womanTitles3"
+msgstr "昔の恋人を誘惑したいですか？"
+
+msgid "womanTitles4"
+msgstr "退屈してますか？"
+
+msgid "menTexts1"
+msgstr ""
+"彼女をポストカードで<a href=\"/\">招待</a>しましょう。ポストカードを相手の車"
+"のフロントガラスの下、または郵便受けに置いておきましょう。"
+
+msgid "menTexts2"
+msgstr ""
+"彼女のメールアドレスを見つけてLovetimeへ<a href=\"/\">招待</a>しましょう。"
+
+msgid "menTexts3"
+msgstr ""
+"彼女のメールアドレス、または電話番号を見つけてLovetimeへ<a href=\"/\">招待</"
+"a>しましょう。"
+
+msgid "menTexts4"
+msgstr ""
+"<a href=\"/#flirt\" class=\"top-flirt\">フラート</a>ボタンを押して、知り合い"
+"になりましょう"
+
+msgid "womanTexts1"
+msgstr ""
+"彼をポストカードで<a href=\"/\">招待</a>しましょう。ポストカードを相手の車の"
+"フロントガラスの下、または郵便受けに置いておきましょう。"
+
+msgid "womanTexts2"
+msgstr ""
+"彼のメールアドレスを見つけてLovetimeへ<a href=\"/\">招待</a>しましょう。"
+
+msgid "womanTexts3"
+msgstr ""
+"彼のメールアドレス、または電話番号を見つけてLovetimeへ<a href=\"/\">招待</a>"
+"しましょう。"
+
+msgid "womanTexts4"
+msgstr ""
+"<a href=\"/#flirt\" class=\"top-flirt\">フラート</a>ボタンを押して、知り合い"
+"になりましょう。"
+
+msgid "foldersTitle"
+msgstr "フォルダーの名前を入力してください"
+
+msgid "foldersCancel"
+msgstr "キャンセル"
+
+msgid "foldersCreate"
+msgstr "作成"
+
+msgid "foldersRename"
+msgstr "名前の変更"
+
+msgid "userBalloonCarousel"
+msgstr "デート"
+
+msgid "userBalloonExchange"
+msgstr "エクスチェンジフィールド"
+
+msgid "chatBalloonMove"
+msgstr "移動する"
+
+msgid "chatBalloonSelect1"
+msgstr "選択済"
+
+msgid "chatBalloonSelect2"
+msgstr "選択済"
+
+msgid "chatBalloonSelect3"
+msgstr "選択済"
+
+msgid "errorFolderEmpty"
+msgstr "フォルダー名を入力してください"
+
+msgid "dateDaysBefore"
+msgstr "数日前"
+
+msgid "dateMomentAgo"
+msgstr "たった"
+
+msgid "dateSecondAgo_plural_1"
+msgstr "少し前"
+
+msgid "dateSecondAgo_plural_2"
+msgstr "秒前"
+
+msgid "dateSecondAgo_plural_3"
+msgstr "秒前"
+
+msgid "dateMinuteAgo_plural_1"
+msgstr "分前"
+
+msgid "dateMinuteAgo_plural_2"
+msgstr "分前"
+
+msgid "dateMinuteAgo_plural_3"
+msgstr "分前"
+
+msgid "dateCoupleMinutesAgo"
+msgstr "数分前"
+
+msgid "dateHourAgo_plural_1"
+msgstr "1時間前"
+
+msgid "dateHourAgo_plural_2"
+msgstr "時間前"
+
+msgid "dateHourAgo_plural_3"
+msgstr "時間前"
+
+msgid "messages_plural_1"
+msgstr "メッセージ"
+
+msgid "messages_plural_2"
+msgstr "メッセージ"
+
+msgid "messages_plural_3"
+msgstr "メッセージ"
+
+msgid "usersAddToFavorite"
+msgstr "お気に入りに追加"
+
+msgid "actionBlock"
+msgstr "無視"
+
+msgid "chatComplain"
+msgstr "苦情"
+
+msgid "usersRemoveFromFavorite"
+msgstr "お気に入りから外す"
+
+msgid "actionOr"
+msgstr "または"
+
+msgid "actionDelete"
+msgstr "削除"
+
+msgid "galleryClose"
+msgstr "閉じる"
+
+msgid "galleryUploadError"
+msgstr "アップローディング中にエラーが発生しました。後ほど再度お試しください。"
+
+msgid "galleryUploadFilesName"
+msgstr "イメージファイル"
+
+msgid "galleryUploadPossibleFiles"
+msgstr "イメージファイルのみアップロードできます。可能なフォーマット:"
+
+msgid "modelUsersHasPhoto"
+msgstr "写真"
+
+msgid "modelUsersHasPhotoCondition"
+msgstr "写真あり"
+
+msgid "modelUsersHasNoPhotoCondition"
+msgstr "写真なし"
+
+msgid "searchHair"
+msgstr "髪の毛の色"
+
+msgid "requireRegistration4MaleTitle"
+msgstr "%sさんはあなたよりも個人情報を多く公開しています。"
+
+msgid "requireRegistration4FemaleTitle"
+msgstr "%sさんはあなたよりも個人情報を多く公開しています。"
+
+msgid "requireRegistrationNote"
+msgstr "他のユーザーのプロフィールを閲覧するには登録が必要です。"
+
+msgid "requireRegistrationCancel"
+msgstr "キャンセル"
+
+msgid "requireRegistrationRegister"
+msgstr "登録"
+
+msgid "increaseInfoConfirmNote"
+msgstr ""
+"他のプロフィールを見るためにはご自分のプロフィールを少なくとも50％入力する必"
+"要があります。"
+
+msgid "increaseInfoConfirmFillNow"
+msgstr "今入力する"
+
+msgid "increaseInfoConfirmCancel"
+msgstr "キャンセル"
+
+msgid "Credit Card"
+msgstr "クレジットカード"
+
+msgid "registerHello"
+msgstr "こんにちは"
+
+msgid "registerForEnd"
+msgstr ""
+"登録を完了するためには、当サイトにてプロフィールをお持ちであることを確認して"
+"ください。"
+
+msgid "registerYes"
+msgstr "はい"
+
+msgid "registerNo"
+msgstr "いいえ"
+
+msgid "registerForEndYes"
+msgstr "パスワードを入力してください"
+
+msgid "registerBack"
+msgstr "戻る"
+
+msgid "registerForEndNo"
+msgstr "入力内容を確認"
+
+msgid "registerUnderNick"
+msgstr "本名や、ご自身とわかるニックネームは入力しないでください。"
+
+msgid "registerEmailTip"
+msgstr "他のユーザーへは非表示です。"
+
+msgid "birthDay"
+msgstr "日"
+
+msgid "birthMonth"
+msgstr "月"
+
+msgid "birthYear"
+msgstr "誕生年"
+
+msgid "systemLoginAllRight"
+msgstr "全て正しい"
+
+msgid "registerRequire"
+msgstr "全ての項目をご記入ください"
+
+msgid "socialAuthFailed"
+msgstr "承認に失敗しました"
+
+msgid "registerAuthOk"
+msgstr ""
+"無事承認されました。メインページへお進みいただくか、 右記をクリックしてくださ"
+"い。"
+
+msgid "registerAuthHere"
+msgstr "こちら"
+
+msgid "registerAuthNone"
+msgstr "ユーザーは見つかりませんでした"
+
+msgid "registerAlreadyYes"
+msgstr "同じメールアドレスのユーザーがすでに存在します"
+
+msgid "registerAuthFailed"
+msgstr "承認に失敗しました"
+
+msgid "registerCreateFailed"
+msgstr "ユーザーの作成に失敗しました。入力項目をご確認ください。"
+
+msgid "authFacebook"
+msgstr "Facebookより承認"
+
+msgid "authVkontakte"
+msgstr "Vkontakteより承認"
+
+msgid "citationNotExist"
+msgstr "引用は見つかりませんでした"
+
+msgid "citationAccessDenied"
+msgstr "引用はあなたには属しません"
+
+msgid "VIP"
+msgstr "VIP"
+
+msgid "questRegister"
+msgstr "登録"
+
+msgid "balanceChangeInQuest"
+msgstr "残高変更(クエスト)"
+
+msgid "superstarModelAttributeIsReseted"
+msgstr ""
+
+msgid "payonlinesystemError3"
+msgstr ""
+"クレジットカード発行銀行により支払いは拒否されました。ご利用銀行へご連絡、ご"
+"確認いただき、再度お手続きください。"
+
+msgid "payonlinesystemError2"
+msgstr ""
+"クレジットカードで支払いうことはできません。他の支払い方法をご利用ください。"
+
+msgid "payonlinesystemError1"
+msgstr "テクニカルエラー。後でもう一度やり直してください。"
+
+msgid "payonlinesystemError0"
+msgstr "お支払いを完了することができません。"
+
+msgid "seocatalogTitleDatingSite"
+msgstr "いろいろな出会いのあるデートサイト"
+
+msgid "seocatalogH1DatingSite"
+msgstr "デートサイト"
+
+msgid "seocatalogH1CountriesAndCities"
+msgstr "国/都市"
+
+msgid "seocatalogTitleDatingWithWomen"
+msgstr "女性と交際"
+
+msgid "seocatalogH1DatingWithWomen"
+msgstr "女性と交際"
+
+msgid "seocatalogTitleDatingWithMen"
+msgstr "男性と交際"
+
+msgid "seocatalogH1DatingWithMen"
+msgstr "男性と交際"
+
+msgid "seocatalogTitleDatingWithLesbian"
+msgstr "レズビアンな人交際"
+
+msgid "seocatalogH1DatingWithLesbian"
+msgstr "レズビアンな人と交際"
+
+msgid "seocatalogTitleDatingWithGays"
+msgstr "ゲイな人と交際"
+
+msgid "seocatalogH1DatingWithGays"
+msgstr "ゲイな人と交際"
+
+msgid "seocatalogTitleDatingWithBisexuals"
+msgstr "バイセクシュアルな人と交際"
+
+msgid "seocatalogH1DatingWithBisexuals"
+msgstr "バイセクシュアルな人と交際"
+
+msgid "seocatalogTitleGuysGirls_18_20"
+msgstr "18から20歳の男性と女性"
+
+msgid "seocatalogH1GuysGirls_18_20"
+msgstr "18-20歳の男性と女性"
+
+msgid "seocatalogTitleGuysGirls_21_25"
+msgstr "20から25歳の男性と女性"
+
+msgid "seocatalogH1GuysGirls_21_25"
+msgstr "21-25歳の男性と女性"
+
+msgid "seocatalogTitleGuysGirls_26_30"
+msgstr "25歳から30歳の男性と女性"
+
+msgid "seocatalogH1GuysGirls_26_30"
+msgstr "26-30歳の男性と女性"
+
+msgid "seocatalogTitleGuysGirls_31_35"
+msgstr "31歳から35歳の男性と女性"
+
+msgid "seocatalogH1GuysGirls_31_35"
+msgstr "31-35歳の男性と女性"
+
+msgid "seocatalogTitleGuysGirls_35_40"
+msgstr "35歳から40歳の男性と女性"
+
+msgid "seocatalogH1GuysGirls_35_40"
+msgstr "31-35歳の男性と女性"
+
+msgid "seocatalogTitleMeetingForCommunication"
+msgstr "友情や交流目的での出会い"
+
+msgid "seocatalogH1MeetingForCommunication"
+msgstr "交流目的の出会い"
+
+msgid "seocatalogTitleMeetingRorRomanticRelations"
+msgstr "友情や交流目的での出会い"
+
+msgid "seocatalogH1MeetingRorRomanticRelations"
+msgstr "恋愛目的の出会い"
+
+msgid "seocatalogTitleMeetingForFlirt"
+msgstr "遊び目的での出会い"
+
+msgid "seocatalogH1MeetingForFlirt"
+msgstr "恋愛目的の出会い"
+
+msgid "seocatalogTitleMeetingForCloseRelations"
+msgstr "親しい関係や深い関係、セックス目的での出会い"
+
+msgid "seocatalogH1MeetingForCloseRelations"
+msgstr "親しい関係を築く目的の出会い"
+
+msgid "seocatalogTitleBlondes"
+msgstr "ブロンドの人との出会い"
+
+msgid "seocatalogH1Blondes"
+msgstr "親しい関係を築く目的の出会い"
+
+msgid "seocatalogTitleBrunettes"
+msgstr "ブロンドの人との出会い"
+
+msgid "seocatalogH1Brunettes"
+msgstr "ダークヘアー"
+
+msgid "seocatalogTitleBrownHaired"
+msgstr "赤い髪、ブロンドの人との出会い"
+
+msgid "seocatalogH1BrownHaired"
+msgstr "茶髪"
+
+msgid "seocatalogTitleDatingWithAthletic"
+msgstr "筋肉質な男性や女性との出会い"
+
+msgid "seocatalogH1DatingWithAthletic"
+msgstr "筋肉質な男性や女性との交際"
+
+msgid "seocatalogTitleDatingWithSlim"
+msgstr "スリムな男性や女性との出会い"
+
+msgid "seocatalogH1DatingWithSlim"
+msgstr "スリムな男性や女性との交際"
+
+msgid "seocatalogTitleDatingWithHeavy"
+msgstr "ぽっちゃりな男性や女性との出会い"
+
+msgid "seocatalogH1DatingWithHeavy"
+msgstr "ぽっちゃりな男性や女性との交際"
+
+msgid "seocatalogTitleDatingWithForeigners"
+msgstr "ぽっちゃりな男性や女性との出会い"
+
+msgid "seocatalogH1DatingWithForeigners"
+msgstr "外国人との交際"
+
+msgid "seocatalogTitleDatingWithRich"
+msgstr "リッチな人との出会い"
+
+msgid "seocatalogH1DatingWithRich"
+msgstr "お金持ちとの交際"
+
+msgid "seocatalogTitleDatingWithSingles"
+msgstr "シングルな人との出会い"
+
+msgid "seocatalogH1DatingWithSingles"
+msgstr "お金持ちとの交際"
+
+msgid "seocatalogTitleDatingWithPeopleHavingNoBadHabits"
+msgstr "悪習慣を持っていない人との出会い"
+
+msgid "seocatalogH1DatingWithPeopleHavingNoBadHabits"
+msgstr "悪習慣を持っていない人との交際"
+
+msgid "searchShowMore"
+msgstr "さらに表示"
+
+msgid "seocatalogTitleCountriesAndCities"
+msgstr "国/都市"
+
+msgid "age"
+msgstr "年齢"
+
+msgid "modelUsersSexWoman"
+msgstr "女性"
+
+msgid "modelUsersSexMan"
+msgstr "男性"
+
+msgid "modelUsersSexAny"
+msgstr "全ての性別"
+
+msgid "searchUsersRegion"
+msgstr "地域"
+
+msgid "actionFind"
+msgstr "検索"
+
+msgid "mainTitle3Noa"
+msgstr "フリーオンラインデート"
+
+msgid "clockNavExactSearch"
+msgstr "完全一致検索"
+
+msgid "clockNavExactSearchSubtext"
+msgstr "20以上の検索パラメータ"
+
+msgid "clockNavMeetings"
+msgstr "今日デートをする"
+
+msgid "clockNavMeetingsSubtext"
+msgstr "<b>デートのお誘いを数分で</b> 送受信"
+
+msgid "clockNavInstantCommunication"
+msgstr "今、伝える"
+
+msgid "clockNavInstantCommunicationSubtext"
+msgstr "チャットする相手を<b>数秒で</b> 見つけよう"
+
+msgid "clockNavWhosNear"
+msgstr "近くにいる人と出会う"
+
+msgid "clockNavWhosNearSubtext"
+msgstr "半径1キロ圏内にいる<b>たくさんの素敵な人</b> を見つけよう"
+
+msgid "clockNavHasContact"
+msgstr "違った場所にいる人と出会う"
+
+msgid "clockNavHasContactSubtext"
+msgstr "<b>６４ヵ国語</b>のチャットトランスレーター内蔵"
+
+msgid "clockNavperfectCouple"
+msgstr "数回のクリックで知り合いに"
+
+msgid "clockNavperfectCoupleSubtext"
+msgstr "<b>プリセットフレーズ</b> - ３０秒で出会う"
+
+msgid "peopleHere"
+msgstr "もうこんなにたくさんの人が!"
+
+msgid "carouselFillAnketa0"
+msgstr "メリーゴーランドで遊ぶ"
+
+msgid "carouselFillAnketa1"
+msgstr "右記を指定してください"
+
+msgid "carouselFillAnketa2"
+msgstr "年齢、国、都市、そして、写真をアップロード"
+
+msgid "flirtSearch"
+msgstr "検索"
+
+msgid "pagesAbout"
+msgstr ""
+"人生の中で殆どの人が自分の知り合いに気になることがあります。しかし、殆どの人"
+"は自分の気持ちを表現することに戸惑いを感じています。<br/><br/>このサービスは"
+"そんな問題を解決します。今、断られるのではということを恐れないで、声をかけて"
+"みるチャンスです。<br/><br/>&bull; 隣に座っている同僚にどうやって声をかけたら"
+"いいのか悩んでいませんか?このサービスが手助けします。<br/>&bull;学校や大学の"
+"人気者と知り合いになりたいですか？簡単です。<br/>&bull; ご近所に住んでいる人"
+"が好きですか？彼女があなたのことを気になっているか聞いて見ましょう。<br/><br/"
+">気になる相手が探しているのはなんでしょか？恋愛？それともセックス？彼は仕事"
+"場、学校に好きな人がいるのか? 一回のクリックで見つけ出すことができます。"
+
+msgid "pagesRulesTitle2"
+msgstr "利用規約"
+
+msgid "pagesRules"
+msgstr ""
+"<h2>個人情報をLovetime site（以下本サイトといいます）に記載するに当たって、私"
+"は下記の内容に同意します。</h2><ol><li>私は利用規約を読み、同意します。</"
+"li><li>私は18歳以上です。</li><li>私は保全性と本サイト上での私の承認のために"
+"必要となる信頼のために、本サイト上での内容や投稿する情報について一切の自己責"
+"任を負います。</li><li>私は本サイトがアダルト専用の内容も含んでいることを認識"
+"しています。</li><li>私は本サイトを法律に則り利用することを誓います。</"
+"li><li>私はメッセージやメールアドレス、電話番号、リンク先や他の詳細を公的に拡"
+"散しないことを誓います。</li><li>私は侮辱、中傷、冒涜、ポルノや他の不道徳な内"
+"容を投稿しないと誓います。また、残酷な行為、テロや暴力を示したり、または促進"
+"する内容のもの、人間の尊厳を冒したり、法律に反する内容を投稿しないことを誓い"
+"ます。</li><li>私は他のユーザー困惑をさせたり、邪魔をしたり、追いかける等の迷"
+"惑行為をしないことを誓います。</li><li>私は本サイトを私または第三者によって販"
+"売、実行、提供された商品、仕事、またはサービスをユーザーに対し注目を集めるた"
+"めに利用しないことを誓います。また、私は本サイトを違法な商品を宣伝、促進のた"
+"めに利用しないことを誓います。</li><li>私は本サイトに記載した私の個人情報は他"
+"のインターネットユーザーによってアクセスされる可能性があること、またその第三"
+"者による行動の責任は本サイト経営管理者は一切負わないことを認識しています。</"
+"li><li>私は匿名で招待状を送信することによって引き起こされる負の結果への責任を"
+"負います。</li></ol><h2>本サイト経営管理者は以下一切の責任を負いません。</"
+"h2><ol><li>ユーザーが投稿した内容、妥当性、と情報の正確性</li><li>本サイト、"
+"モバイルコミュニケーション、またはその他のテレコミュニケーションの利用者に生"
+"じた損害、被害、情報の損失</li><li>本サイトのユーザーによって追加されることに"
+"より生じる著作権の侵害または、適当な法律(著作権法を含む）に見合わない第三者の"
+"その他の権利の侵害"
+
+msgid "error404"
+msgstr "エラー　404"
+
+msgid "pageNotFound"
+msgstr "ページは見つかりませんでした"
+
+msgid "formMustFill"
+msgstr "必須"
+
+msgid "feedbackFile"
+msgstr "スクリーンショット"
+
+msgid "feedbackFileTip"
+msgstr "誤った箇所のスクリーンショットを添付することができます"
+
+msgid "siteCopyrightTh"
+msgstr "Lovetime.com"
+
+msgid "man"
+msgstr "男"
+
+msgid "woman"
+msgstr "女"
+
+msgid "countrySelectName"
+msgstr "国"
+
+msgid "citySelectName"
+msgstr "都市／都道府県"
+
+msgid "signupBirthDay"
+msgstr "日"
+
+msgid "signupBirthMonth"
+msgstr "月"
+
+msgid "signupBirthYear"
+msgstr "誕生年"
+
+msgid "systemRegister"
+msgstr "登録する"
+
+msgid "signupLicenseNote"
+msgstr ""
+"&laquo;登録する&raquo;をクリックすると、18歳以上であること、<a href=\"/pages/"
+"rules\">利用規約</a>に同意したことになります。"
+
+msgid "searchExcite"
+msgstr "セックスアピール"
+
+msgid "searchExcitesHe"
+msgstr "ドキドキすること"
+
+msgid "searchExcitesShe"
+msgstr "ドキドキすること"
+
+msgid "searchFrom"
+msgstr "From"
+
+msgid "searchTo"
+msgstr "To"
+
+msgid "searchSm"
+msgstr "(cm)"
+
+msgid "searchKg"
+msgstr "(kg)"
+
+msgid "searchSkipCond"
+msgstr "この工程をとはず"
+
+msgid "sexYears"
+msgstr "歳"
+
+msgid "searchHave"
+msgstr "はい"
+
+msgid "searchHaveNot"
+msgstr "いいえ"
+
+msgid "searchHaveChildren"
+msgstr "いる"
+
+msgid "searchHaveNotChildren"
+msgstr "いない"
+
+msgid "searchLocationUndefined"
+msgstr "どこでも"
+
+msgid "nearFilterOnline"
+msgstr "オンライン"
+
+msgid "nearFilterNew"
+msgstr "新規"
+
+msgid "nearFilterAll"
+msgstr "全て"
+
+msgid "searchAddParams"
+msgstr "検索オプション"
+
+msgid "searchAddToSearch"
+msgstr "検索オプションに追加"
+
+msgid "searchChooseAddParam"
+msgstr "検索オプションを選択"
+
+msgid "carouselYes"
+msgstr "はい"
+
+msgid "carouselMaybeYes"
+msgstr "たぶん"
+
+msgid "carouselNo"
+msgstr "いいえ"
+
+msgid "carouselLikeHim"
+msgstr "彼とデートしたいですか?"
+
+msgid "carouselLikeHer"
+msgstr "彼女とデートしたいですか?"
+
+msgid "carouselMutualGreeting"
+msgstr "<strong>おめでとうございます!</strong>お互いに惹かれあっています"
+
+msgid "carouselMutualMessageFemale"
+msgstr "私もあなたに会いたいです"
+
+msgid "carouselMutualMessageMale"
+msgstr "私もあなたに会いたいです"
+
+msgid "chatWithHer"
+msgstr "彼女とチャットをする"
+
+msgid "chatWithHim"
+msgstr "彼とチャットをする"
+
+msgid "chatMutualGreeting_female"
+msgstr ""
+"あなたがデートしたかった%sさんが、あなたに会うことに同意しました!彼女はあなた"
+"からのデートについてのメッセージを待っています!"
+
+msgid "chatMutualGreeting_male"
+msgstr ""
+"あなたがデートしたかった%sさんが、あなたに会うことに同意しました!彼はあなたか"
+"らのデートについてのメッセージを待っています!"
+
+msgid "gallerySingleUploadBtn"
+msgstr "写真をアップロードする"
+
+msgid "km"
+msgstr "km"
+
+msgid "profileMeet"
+msgstr "デート"
+
+msgid "wannaMeet"
+msgstr "会いたいですか?"
+
+msgid "wannaMeetHer"
+msgstr "彼女に会いたいですか?"
+
+msgid "wannaMeetHim"
+msgstr "彼に会いたいですか?"
+
+msgid "locatorSpecifyLocationPart1"
+msgstr "所在地を設定しましょう"
+
+msgid "locatorSpecifyLocationPart2"
+msgstr "そうすると地図上で誰が近くにいるか表示することができます"
+
+msgid "locatorSpecifyLocationPart3"
+msgstr "設定"
+
+msgid "corrBlackListConfirm"
+msgstr "本当にメッセージをブラックリストへ移動しますか?"
+
+msgid "corrBlackListConfirmNote"
+msgstr "必要であれば、あとで元に戻すことも可能です"
+
+msgid "actionMove"
+msgstr "移動する"
+
+msgid "actionDontMove"
+msgstr "移動しない"
+
+msgid "corrDeleteFolderConfirm"
+msgstr "本当にこのフォルダーを削除しますか?"
+
+msgid "corrDeleteFolderConfirmNote"
+msgstr ""
+"中のメッセージは削除されずに一般&laquo;フォルダー&raquo;へ移動されます。"
+
+msgid "actionDontDelete"
+msgstr "削除しない"
+
+msgid "guestsIgnoreOk"
+msgstr "このユーザーとのメールの履歴は&laquo;無視&raquo;に移動されました。"
+
+msgid "guestsIgnoreNote"
+msgstr "後で元に戻すこともできます。"
+
+msgid "actionClose"
+msgstr "閉じる"
+
+msgid "actionChat"
+msgstr "チャット"
+
+msgid "invitePreviewFromColleagueFemale"
+msgstr "あなたの同僚があなたに会いたがっています"
+
+msgid "invitePreviewFromNeighborFemale"
+msgstr "あなたのご近所さんがあなたに会いたがっています"
+
+msgid "invitePreviewFromClassmateFemale"
+msgstr "あなたの同級生があなたに会いたがっています"
+
+msgid "invitePreviewFromFamiliarFemale"
+msgstr "あなたに会いたがっている人がいます"
+
+msgid "invitePreviewFromColleagueMale"
+msgstr "あなたの同僚があなたに会いたがっています"
+
+msgid "invitePreviewFromNeighborMale"
+msgstr "あなたのご近所さんがあなたに会いたがっています"
+
+msgid "invitePreviewFromClassmateMale"
+msgstr "あなたの同級生があなたに会いたがっています"
+
+msgid "invitePreviewFromFamiliarMale"
+msgstr "あなたに会いたがっている人がいます"
+
+msgid "invitePreviewTextFemale"
+msgstr ""
+"冗談ではないことを証明するために、彼女はあなたにキーフレーズを伝えています。"
+
+msgid "invitePreviewTextMale"
+msgstr ""
+"冗談ではないことを証明するために、彼はあなたにキーフレーズを伝えています。"
+
+msgid "invitePreviewDearFemale"
+msgstr "Dear"
+
+msgid "invitePreviewDearMale"
+msgstr "Dear"
+
+msgid "invitePreviewCodeTitle"
+msgstr "誰があなたのことを気になっているのか捜しだすためには:"
+
+msgid "invitePreviewCodeVisitLink"
+msgstr "リンクをクリックして、"
+
+msgid "invitePreviewCodeLink"
+msgstr "招待されました"
+
+msgid "invitePreviewCodeSite"
+msgstr "サイトにログイン"
+
+msgid "invitePreviewCodeTopRight"
+msgstr "(右上）から"
+
+msgid "invitePreviewCodeType"
+msgstr "招待コードを入力"
+
+msgid "invitePreviewPostcardNote"
+msgstr ""
+"ポストカードを印刷して、見つけやすい場所においておきましょう。車のフロントガ"
+"ラスの下や、郵便受け、かばんの中、テーブルの上など、どこかいい場所が思い浮か"
+"びますか?"
+
+msgid "invitePreviewPhoneResendNote"
+msgstr "もう一度SMSを送るためには電話番号を入力してください。"
+
+msgid "inviteResend"
+msgstr "もう一度送る"
+
+msgid "inviteSendInvite"
+msgstr "招待状を送る"
+
+msgid "inviteResent"
+msgstr "再度送信されました"
+
+msgid "inviteSummaryTitleColleagueFemale"
+msgstr "特定の同僚の招待"
+
+msgid "inviteSummaryTitleNeighborFemale"
+msgstr "特定の近所さんの招待"
+
+msgid "inviteSummaryTitleClassmateFemale"
+msgstr "特定の同級生の招待"
+
+msgid "inviteSummaryTitleFamiliarFemale"
+msgstr "特定の知り合いの招待"
+
+msgid "inviteSummaryTitleColleagueMale"
+msgstr "特定の同僚の招待"
+
+msgid "inviteSummaryTitleNeighborMale"
+msgstr "特定のご近所さんの招待"
+
+msgid "inviteSummaryTitleClassmateMale"
+msgstr "特定の同級生の招待"
+
+msgid "inviteSummaryTitleFamiliarMale"
+msgstr "特定の知り合いの招待"
+
+msgid "inviteSummaryStateAgree"
+msgstr "承認済"
+
+msgid "inviteSummaryStateWait"
+msgstr "送信済"
+
+msgid "inviteSummaryNoKeyPhrase"
+msgstr "キーフレーズ無"
+
+msgid "inviteFailCodeField"
+msgstr "入力された招待コードは存在しません。お間違いありませんか？"
+
+msgid "inviteApplySuccess"
+msgstr "招待が承認されました"
+
+msgid "increaseInfoConfirm4MaleTitle"
+msgstr "%sさんはもっと個人の情報をシェアーしています"
+
+msgid "increaseInfoConfirm4FemaleTitle"
+msgstr "%sさんはもっと個人の情報をシェアーしています"
+
+msgid "needAddPhotoConfirmTitle"
+msgstr "写真を追加してください"
+
+msgid "needAddPhotoConfirmNote"
+msgstr ""
+"他の写真を見るためにはご自分のプロフィール写真をアップロードする必要がありま"
+"す。"
+
+msgid "needAddPhotoConfirmYes"
+msgstr "写真をアップロード"
+
+msgid "needAddPhotoConfirmNo"
+msgstr "キャンセル"
+
+msgid "requiredFieldsAlertConfirmTitle"
+msgstr "入力されていません"
+
+msgid "requiredFieldsAlertConfirmText"
+msgstr ""
+"下記の項目は必須です。: %s<br>ご自分のプロフィールへ移動して抜けている箇所へ"
+"ご入力ください。"
+
+msgid "requiredFieldsAlertConfirmYes"
+msgstr "右記へ移動"
+
+msgid "noticeImageSizeLimit"
+msgstr "写真のサイズ制限"
+
+msgid "noticeImageSizeLimitText"
+msgstr "写真のサイズは2 MB以下でなければいけません"
+
+msgid "emailConfirmTitle"
+msgstr "メールアドレスの確定"
+
+msgid "emailConfirmAlertYes"
+msgstr "確定する"
+
+msgid "emailConfirmAlertNo"
+msgstr "キャンセル"
+
+msgid "bannedInfoAlertTitle"
+msgstr "ご利用のアカウントはブロックされました"
+
+msgid "bannedInfoAlertNotice"
+msgstr "詳しくはプロフィールページをご覧ください"
+
+msgid "bannedInfoAlertYes"
+msgstr "プロフィールへ移動"
+
+msgid "bannedInfoAlertNo"
+msgstr "ログアウト"
+
+msgid "emailDomainsReplaceAlertTitle"
+msgstr "メールアドレスの変更"
+
+msgid "emailDomainsReplaceAlertText"
+msgstr ""
+"間違って入力された可能性が高いため、%sへメールアドレスを変更しました。続けま"
+"すか？それとも元に戻しますか?"
+
+msgid "emailDomainsReplaceAlertYes"
+msgstr "続ける"
+
+msgid "emailDomainsReplaceAlertNo"
+msgstr "元に戻す"
+
+msgid "signinAction"
+msgstr "ログイン"
+
+msgid "signupAction"
+msgstr "登録"
+
+msgid "signinEmailEmptyError"
+msgstr "メールアドレスを入力"
+
+msgid "signinEmailMaskError"
+msgstr "有効なメールアドレスを入力してください"
+
+msgid "signinPasswordEmptyError"
+msgstr "パスワードを入力"
+
+msgid "signinCountryEmptyError"
+msgstr "国"
+
+msgid "signinCityEmptyError"
+msgstr "都市／都道府県"
+
+msgid "signinErrorBirthDayEmpty"
+msgstr "日"
+
+msgid "signinErrorBirthMonthEmpty"
+msgstr "月"
+
+msgid "signinErrorBirthYearEmpty"
+msgstr "誕生年"
+
+msgid "signinErrorTooYoung"
+msgstr "18歳以上の方のみ登録可能です"
+
+msgid "citySelectDisabledTitle"
+msgstr "国を選択"
+
+msgid "signinPasswordMinLengthError"
+msgstr "パスワードは最小5文字以上必要です"
+
+msgid "signinErrorNameEmpty"
+msgstr "名前を入力"
+
+msgid "signinErrorSex"
+msgstr "性別を選択"
+
+msgid "loginVia"
+msgstr "%sからログイン "
+
+msgid "registerVia"
+msgstr " %s経由で登録"
+
+msgid "timeToFindYourLove"
+msgstr "恋が、始まる。"
+
+msgid "socialLikeDescription"
+msgstr "匿名で同僚や、同級生、ご近所さん、知り合いに声をかける"
+
+msgid "showAll"
+msgstr "全て表示"
+
+msgid "actionMinimize"
+msgstr "最小にする"
+
+msgid "chatLoadingHistory"
+msgstr "前のメッセージをアップロードする"
+
+msgid "chatCitationsAdd"
+msgstr "引用に追加する"
+
+msgid "chatCitationsTitle"
+msgstr "引用"
+
+msgid "chatCitationsWelcome"
+msgstr ""
+"<p>すばやく入力できるようにここによく使う文を追加してください。</p><p><span "
+"id=\"citations-welcome-button\">追加するには右記をクリック</span>引用に追加</"
+"p>"
+
+msgid "statusOnline"
+msgstr "オンライン"
+
+msgid "actionEdit"
+msgstr "編集"
+
+msgid "chatCitationsRestore"
+msgstr "引用を復元"
+
+msgid "chatNewMessageFrom"
+msgstr "からの新しいメッセージ"
+
+msgid "chatEmptyTitle"
+msgstr "チャットの中に新しいメッセージはありません"
+
+msgid "chatEmptyText"
+msgstr ""
+"友達を追加するには、例えば、 <a href=\"/\">検索</a>から、\"タイプ\"をクリック"
+"して、お気に入りのユーザーを選びます"
+
+msgid "formUploadFile"
+msgstr "ファイルをアップデートする"
+
+msgid "formDeleteFile"
+msgstr "ファイルを削除する"
+
+msgid "socialLikeTitle"
+msgstr "すごいサイト!!!Lovetime"
+
+msgid "About Yiinka"
+msgstr "Yiinkeについて"
+
+msgid "systemInstruments"
+msgstr "ツール"
+
+msgid "Import CSV"
+msgstr "CSVからインポート"
+
+msgid "chatMessages"
+msgstr "メッセージ"
+
+msgid "profileMessages"
+msgstr "メッセージ"
+
+msgid "chatAll"
+msgstr "全て"
+
+msgid "chatOnline"
+msgstr "オンライン"
+
+msgid "correspondencesActions"
+msgstr "実行"
+
+msgid "actionMoveIn"
+msgstr "右記へ移動:"
+
+msgid "actionBlacklist"
+msgstr "ブラックリスト"
+
+msgid "chatEmptyFolder"
+msgstr "フォルダーは空です"
+
+msgid "chatNoOnline"
+msgstr "全ての対話者は現在オフラインです"
+
+msgid "correspondencesMessage"
+msgid_plural "correspondencesMessages"
+msgstr[0] "メッセージ"
+msgstr[1] "メッセージ"
+
+msgid "favoriteUsers"
+msgstr "お気に入りのユーザー"
+
+msgid "favoriteLocation"
+msgstr ""
+"\"お気に入りに追加したユーザー\"はメッセージの\"お気に入り\"フォルダーで見つ"
+"けることができます。"
+
+msgid "favoriteHideTip"
+msgstr "ヒントを隠す"
+
+msgid "favoriteNext"
+msgstr "次"
+
+msgid "favoriteCancel"
+msgstr "キャンセル"
+
+msgid "emailConfirmResultSuccess"
+msgstr "メールアドレスは無事確定されました"
+
+msgid "emailConfirmAlreadyConfirmed"
+msgstr "メールアドレスは既に確定済みです"
+
+msgid "emailConfirmCheckYourEmailNow"
+msgstr "メールを確認してください。"
+
+msgid "emailConfirmClickLinkForComplete"
+msgstr ""
+"登録を完了するには<b>%email%</b> に送信されたメール内のリンクをクリックしてく"
+"ださい。"
+
+msgid "mailOpen"
+msgstr "開く"
+
+msgid "emailConfirmCantGetMessage"
+msgstr "メールが届いていませんか？"
+
+msgid "emailConfirmCheckYourEmailOrEnterAnother"
+msgstr ""
+"メールアドレスを確認してください。または新しいメールアドレスをご入力くださ"
+"い。"
+
+msgid "emailConfirmTypeValidEmail"
+msgstr "有効なメールアドレスを入力してください。"
+
+msgid "emailConfirmSendAgain"
+msgstr "再送信"
+
+msgid "profileGuests"
+msgstr "訪問者"
+
+msgid "guestsFemaleStranger"
+msgstr "女性ゲスト"
+
+msgid "guestsMaleStranger"
+msgstr "男性ゲスト"
+
+msgid "guestsNo"
+msgstr "特定された期間に訪問者はいません"
+
+msgid "catalogUsersCatalog"
+msgstr "ユーザーカタログ"
+
+msgid "formPasswordSent"
+msgstr "パスワードの変更方法を登録されているメールアドレスに送信しました。"
+
+msgid "usersList"
+msgstr "ユーザーリスト"
+
+msgid "likesNoData"
+msgstr "データがありません"
+
+msgid "guestsDataError"
+msgstr "データエラー"
+
+msgid "usersPhotoAlbumOf"
+msgstr "ユーザーアルバム"
+
+msgid "actionUploadPhoto"
+msgstr "写真をアップロード"
+
+msgid "banProfileNotice"
+msgstr ""
+"プロフィールが完了していません。管理者によって拒否されたか、閲覧することが許"
+"可されていません。他のユーザを探してください。"
+
+msgid "banProfileHome"
+msgstr "ホーム"
+
+msgid "usersWriteMessage"
+msgstr "メッセージを書く"
+
+msgid "usersInviteToChat"
+msgstr "チャットへ招待"
+
+msgid "usersAlreadyToFavorite"
+msgstr "既にお気に入りに追加済み"
+
+msgid "carouselDistance"
+msgstr "あなたから%s km"
+
+msgid "carouselDistanceOn"
+msgstr "長距離"
+
+msgid "carouselDistanceUnknown"
+msgstr "知るためには、あなたの移住地を設定してください"
+
+msgid "porsonalInfo"
+msgstr "個人情報"
+
+msgid "userProfilePersonalInfoShow"
+msgstr "表示する"
+
+msgid "formResetPassword"
+msgstr "パスワードの再設定のためのリンクを受け取る"
+
+msgid "carouselDisabledTitle"
+msgstr "あなたの写真が必要です"
+
+msgid "uploadPhoto"
+msgstr "写真をアップロード"
+
+msgid "carouselDisabledText"
+msgstr ""
+"幽霊とデートしてみたいですか？したくない?では、一枚はプロフィール写真をアップ"
+"ロードしてください。成功間違いなし!"
+
+msgid "backToPageDates"
+msgstr "デートする相手を選ぶ"
+
+msgid "profileRelations"
+msgstr "デート"
+
+msgid "profileLikesForMe"
+msgstr "デートしたい"
+
+msgid "profileMutualLikes"
+msgstr "両思い"
+
+msgid "profileMyLikes"
+msgstr "デートしたい"
+
+msgid "carouselHeYes"
+msgstr "彼は <strong>&laquo;はい&raquo;</strong>と言いました"
+
+msgid "carouselSheYes"
+msgstr "彼女は <strong>&laquo;はい&raquo;</strong>と言いました"
+
+msgid "carouselHeMaybe"
+msgstr "彼は <strong>&laquo;たぶん&raquo;</strong>と言いました"
+
+msgid "carouselSheMaybe"
+msgstr "彼女は <strong>&laquo;たぶん&raquo;</strong>と言いました"
+
+msgid "carouselAnswerYes"
+msgstr "はい!"
+
+msgid "carouselAnswerMaybe"
+msgstr "たぶん"
+
+msgid "carouselAnswerNo"
+msgstr "いいえ"
+
+msgid "carouselMyYes"
+msgstr "あなたは<strong>&laquo;はい&raquo;</strong>と言いました"
+
+msgid "carouselYouMaybe"
+msgstr "あなたは <strong>&laquo;はい&raquo;</strong>と言いました"
+
+msgid "updatePass"
+msgstr "新しいパスワードを入力"
+
+msgid "modelForgotpassChangePassword"
+msgstr "パスワードを変更"
+
+msgid "nearTitle1"
+msgstr "どんな人が"
+
+msgid "nearTitle2"
+msgstr "私の近くに?"
+
+msgid "meOnMap"
+msgstr "居住地"
+
+msgid "userLocationNotFound"
+msgstr "居住地は見つかりませんでした"
+
+msgid "backToPageSearch"
+msgstr "検索へ戻る"
+
+msgid "pageLocationTitle"
+msgstr "居住地の設定"
+
+msgid "meOnMapText2"
+msgstr ""
+"他のユーザーはあなたの居住地を見ることはできません。おおよその距離のみです。"
+
+msgid "userLocationPlaceholder"
+msgstr "住所を入力してください"
+
+msgid "userLocationFind"
+msgstr "検索"
+
+msgid "locationClear"
+msgstr "指定したマークを削除"
+
+msgid "usersRefuseFromMails"
+msgstr "お知らせメールを拒否"
+
+msgid "usersRefuseFromMailsOk"
+msgstr "これ以上お知らせメールを受け取りません"
+
+msgid "profileMySettings"
+msgstr "設定"
+
+msgid "profileNotificationSettings"
+msgstr "通知設定"
+
+msgid "inviteIncognitoTitle"
+msgstr "&laquo;匿名&raquo;"
+
+msgid "loginWidgetIncognitoText"
+msgstr "写真は他のユーザーに表示しない"
+
+msgid "UTC-11:00"
+msgstr "(UTC-11:00)ミッドウェイ島"
+
+msgid "UTC-10:00"
+msgstr "(UTC-10:00) ハワイ"
+
+msgid "UTC-9:00"
+msgstr "(UTC-9:00) アラスカ"
+
+msgid "UTC-8:00[1]"
+msgstr "(UTC-08:00)バハ・カリフォルニア"
+
+msgid "UTC-8:00[2]"
+msgstr "(UTC-08:00)太平洋標準時(アメリカ、カナダ)"
+
+msgid "UTC-7:00[1]"
+msgstr "(UTC-07:00) アリゾナ"
+
+msgid "UTC-7:00[2]"
+msgstr "(UTC-07:00)山地標準時(アメリカ、カナダ)"
+
+msgid "UTC-7:00[3]"
+msgstr "(UTC-07:00)ラパス、マサトラン、チワワ"
+
+msgid "UTC-6:00[1]"
+msgstr "(UTC-06:00)グアダラハラ、メキシコシティ、モンテレー"
+
+msgid "UTC-6:00[2]"
+msgstr "(UTC-06:00)サスカチュワン州、中米"
+
+msgid "UTC-6:00[3]"
+msgstr "(UTC-06:00)中部標準時(アメリカ、カナダ)"
+
+msgid "UTC-5:00[1]"
+msgstr "(UTC-05:00)ボゴタ、キト、リマ"
+
+msgid "UTC-5:00[2]"
+msgstr "(UTC-05:00) 東部標準時(アメリカ、カナダ)"
+
+msgid "UTC-5:00[3]"
+msgstr "(UTC-05:00)インディアナ（東部）"
+
+msgid "UTC-4:30"
+msgstr "(UTC-04:30)カラカス"
+
+msgid "UTC-4:00[1]"
+msgstr "（UTC-04：00）アスンシオン"
+
+msgid "UTC-4:00[2]"
+msgstr "（UTC-04：00）大西洋標準時（カナダ）"
+
+msgid "UTC-4:00[3]"
+msgstr "（UTC-04：00）ジョージタウン、ラパス、マナウス、サンファン"
+
+msgid "UTC-4:00[4]"
+msgstr "（UTC-04：00）クイアバ"
+
+msgid "UTC-4:00[5]"
+msgstr "（UTC-04：00）サンティアゴ"
+
+msgid "UTC-3:30"
+msgstr "（UTC-03：30）ニューファンドランド"
+
+msgid "UTC-3:00[1]"
+msgstr "（UTC-03：00）ブラジル"
+
+msgid "UTC-3:00[2]"
+msgstr "（UTC-03：00）ブエノスアイレス"
+
+msgid "UTC-3:00[3]"
+msgstr "（UTC-03：00）グリーンランド"
+
+msgid "UTC-3:00[4]"
+msgstr "（UTC-03：00）カイエン、フォルタレザ"
+
+msgid "UTC-3:00[5]"
+msgstr "（UTC-03：00）モンテビデオ"
+
+msgid "UTC-2:00[1]"
+msgstr "（UTC-02：00）UTC形式で時刻は02:00"
+
+msgid "UTC-2:00[2]"
+msgstr "（UTC-02：00）大西洋時間"
+
+msgid "UTC-1:00[1]"
+msgstr "（UTC-01：00）アゾレス諸島"
+
+msgid "UTC-1:00[2]"
+msgstr "（UTC-01：00）カーボベルデ諸島"
+
+msgid "UTC0[2]"
+msgstr "（UTC）ダブリン、リスボン、ロンドン、エジンバラ"
+
+msgid "UTC0[3]"
+msgstr "（UTC）カサブランカ"
+
+msgid "UTC0[4]"
+msgstr "（UTC）モンロビア、レイキャビク"
+
+msgid "UTC+1[1]"
+msgstr ""
+"（UTC +01:00）アムステルダム、ベルリン、ベルン、ウィーン、ローマ、ストックホ"
+"ルム"
+
+msgid "UTC+1[2]"
+msgstr ""
+"（UTC +01:00）ベオグラード、ブラチスラバ、ブダペスト、リュブリャナ、プラハ"
+
+msgid "UTC+1[3]"
+msgstr "（UTC+01:00）ブリュッセル、コペンハーゲン、マドリッド、パリ"
+
+msgid "UTC+1[4]"
+msgstr "（UTC +01:00）ワルシャワ、ザグレブ、サラエボ、スコピエ"
+
+msgid "UTC+1[5]"
+msgstr "（UTC +01:00）ビントフック"
+
+msgid "UTC+1[6]"
+msgstr "（UTC +01:00）西中部アフリカ"
+
+msgid "UTC+2[1]"
+msgstr "（UTC+02:00）アンマン"
+
+msgid "UTC+2[2]"
+msgstr "（UTC+02:00）アテネ、ブカレスト"
+
+msgid "UTC+2[3]"
+msgstr "（UTC+02:00）ベイルート"
+
+msgid "UTC+2[4]"
+msgstr "（UTC+02:00）ビリニュス、キエフ、リガ、ソフィア、タリン、ヘルシンキ"
+
+msgid "UTC+2[5]"
+msgstr "（UTC+02:00）ダマスカス"
+
+msgid "UTC+2[6]"
+msgstr "（UTC+02:00）エルサレム"
+
+msgid "UTC+2[7]"
+msgstr "（UTC+02:00）カイロ"
+
+msgid "UTC+2[8]"
+msgstr "（UTC+02:00）ニコシア"
+
+msgid "UTC+2[9]"
+msgstr "（UTC+02:00）イスタンブール"
+
+msgid "UTC+2[10]"
+msgstr "（UTC+02:00）ハラレ、プレトリア"
+
+msgid "UTC+3[1]"
+msgstr "（UTC+03:00）バグダッド"
+
+msgid "UTC+3[2]"
+msgstr "（UTC+03:00）カリーニングラード、ミンスク"
+
+msgid "UTC+3[3]"
+msgstr "（UTC+03:00）クウェート、リヤド"
+
+msgid "UTC+3[4]"
+msgstr "（UTC+03:00）ナイロビ"
+
+msgid "UTC+3:30"
+msgstr "（UTC+03:30）テヘラン"
+
+msgid "UTC+4[1]"
+msgstr "（UTC+04:00）アブダビ、マスカット"
+
+msgid "UTC+4[2]"
+msgstr "（UTC+04:00）バクー"
+
+msgid "UTC+4[3]"
+msgstr "（UTC+04:00）ボルゴグラード、モスクワ、サンクトペテルブルク"
+
+msgid "UTC+4[4]"
+msgstr "（UTC+04:00）エレバン"
+
+msgid "UTC+4[5]"
+msgstr "（UTC+04:00）トビリシ"
+
+msgid "UTC+4:30"
+msgstr "（UTC+04:30）カブール"
+
+msgid "UTC+5[1]"
+msgstr "（UTC+05:00）イスラマバード、カラチ"
+
+msgid "UTC+5[2]"
+msgstr "（UTC+05:00）タシケント"
+
+msgid "UTC+5:30"
+msgstr "（UTC+05:30）コルカタ、ムンバイ、ニューデリー、チェンナイ"
+
+msgid "UTC+5:45"
+msgstr "（UTC+05:45）カトマンズ"
+
+msgid "UTC+6[1]"
+msgstr "（UTC+06:00）アスタナ"
+
+msgid "UTC+6[2]"
+msgstr "（UTC+06:00）ダッカ"
+
+msgid "UTC+6[3]"
+msgstr "（UTC+06:00）エカテリンブルク"
+
+msgid "UTC+6:30"
+msgstr "（UTC+06:30）ヤンゴン"
+
+msgid "UTC+7[1]"
+msgstr "（UTC+07:00）バンコク、ジャカルタ、ハノイ"
+
+msgid "UTC+7[2]"
+msgstr "（UTC+07:00）ノボシビルスク"
+
+msgid "UTC+8[1]"
+msgstr "（UTC+08:00）、香港、北京、ウルムチ、重慶"
+
+msgid "UTC+8[2]"
+msgstr "（UTC+08:00）クラスノヤルスク"
+
+msgid "UTC+8[3]"
+msgstr "（UTC+08:00）クアラルンプール、シンガポール"
+
+msgid "UTC+8[4]"
+msgstr "（UTC+08:00）パース"
+
+msgid "UTC+8[5]"
+msgstr "（UTC+08:00）台北"
+
+msgid "UTC+8[6]"
+msgstr "（UTC+08:00）ウランバートル"
+
+msgid "UTC+9[1]"
+msgstr "（UTC+09:00）イルクーツク"
+
+msgid "UTC+9[2]"
+msgstr "（UTC+09:00）大阪、札幌、東京"
+
+msgid "UTC+9[3]"
+msgstr "（UTC+09:00）ソウル"
+
+msgid "UTC+9:30[1]"
+msgstr "（UTC+09:30）アデレード"
+
+msgid "UTC+9:30[2]"
+msgstr "（UTC+09:30）ダーウィン"
+
+msgid "UTC+10[1]"
+msgstr "（UTC+10:00）ブリスベン"
+
+msgid "UTC+10[2]"
+msgstr "（UTC+10:00）グアム、ポートモレスビー"
+
+msgid "UTC+10[3]"
+msgstr "（UTC+10:00）キャンベラ、メルボルン、シドニー"
+
+msgid "UTC+10[4]"
+msgstr "（UTC+10:00）ホバート"
+
+msgid "UTC+10[5]"
+msgstr "（UTC+10:00）ヤクーツク"
+
+msgid "UTC+11[1]"
+msgstr "（UTC+11:00）ウラジオストク"
+
+msgid "UTC+11[2]"
+msgstr "（UTC+11:00）ソロモン諸島、ニューカレドニア"
+
+msgid "UTC+12[1]"
+msgstr "（UTC+12:00）ウェリントン、オークランド"
+
+msgid "UTC+12[3]"
+msgstr "（UTC+12:00）マガダン"
+
+msgid "UTC+12[4]"
+msgstr "（UTC+12:00）フィジー"
+
+msgid "UTC+13[1]"
+msgstr "（UTC+13:00）ヌクアロファ"
+
+msgid "UTC+13[2]"
+msgstr "（UTC+13:00）サモア"
+
+msgid "profileAdditional"
+msgstr "オプション"
+
+msgid "saved"
+msgstr "保存済"
+
+msgid "userSettingsChangePassword"
+msgstr "パスワードを変更"
+
+msgid "systemRegisterNew"
+msgstr "新しいユーザー登録"
+
+msgid "systemRegisterChange"
+msgstr "プロフィールの変更"
+
+msgid "registerSex"
+msgstr "性別"
+
+msgid "siteRulesAccept"
+msgstr "ボタンを押すと利用規約に同意したことになります。"
+
+msgid "pagesRulesTitle"
+msgstr "利用規約"
+
+msgid "profileMyAnketa"
+msgstr "プロフィール"
+
+msgid "userProfileChangeCountry"
+msgstr ""
+"<strong>%current_country%</strong>へ国を設定しました。現在の居住地は - "
+"<strong>%country_by_ip%</strong>. <a %href_extension% href='%link%'>プロ"
+"フィールの国を変更する</a>"
+
+msgid "iLookingFor"
+msgstr "探しているのは"
+
+msgid "preferredAgeFrom"
+msgstr ""
+
+msgid "preferredAgeTo"
+msgstr "～"
+
+msgid "aboutMe"
+msgstr "自己紹介"
+
+msgid "userViewProfessionOrSphereOfActivity"
+msgstr "仕事/活動"
+
+msgid "contestUnselectAll"
+msgstr "すべて選択解除"
+
+msgid "step"
+msgstr ""
+
+msgid "locationSavedOk"
+msgstr "居住地は保存されました。"
+
+msgid "locationClearedOk"
+msgstr "居住地の詳細は削除されました。"
+
+msgid "locationSavedErr"
+msgstr "居住地の保存の際エラーが発生しました。"
+
+msgid "inviteCaptchaWrong"
+msgstr "誤ったコード"
+
+msgid "formIncorrectLink"
+msgstr ""
+"パスワードを変更するためにこちらリンクを再度使うことはできません。<br />変更"
+"するにはこちらのリンクをクリックしてください。"
+
+msgid "msgNoNearestNew"
+msgstr ""
+"前回の検索でお近くには見つかりませんでした。<br>お知り合いの方をメールやSMSま"
+"たははがきで招待してみてはいかがでしょうか"
+
+msgid "msgNoNearestOnline"
+msgstr "残念ながらお近くでは見つかりませんでした。"
+
+msgid "msgNoNearestAll"
+msgstr ""
+"残念ながらお近では見つかりませんでした。<br>知り合いの方をメールやSMSまたはポ"
+"ストカードで招待してみてはいかがでしょうか"
+
+msgid "carouselUsersAreAbsent"
+msgstr "閲覧できるユーザーはいません。"
+
+msgid "profileAgeStr"
+msgstr "%s 歳"
+
+msgid "complainSuccess"
+msgstr "苦情は担当者へ無事送信されました"
+
+msgid "complainNoSuccess"
+msgstr "苦情の送信に失敗しました"
+
+msgid "complainAllPoles"
+msgstr "すべての項目へご記入ください"
+
+msgid "feedbackFileError"
+msgstr "無効なファイルフォーマット。ご利用いただけるフォーマット: jpg, png."
+
+msgid "feedbackSentError"
+msgstr "メッセージを保存できませんでした。後ほどお試しください。"
+
+msgid "feedbackSent"
+msgstr "メッセージは送信されました"
+
+msgid "unsubscribeSuccess"
+msgstr "メールによるお知らせを受け取らない設定に変更完了しました"
+
+msgid "unsubscribeNoSuchUser"
+msgstr "入力されたメールアドレスで登録されているユーザーはいません"
+
+msgid "loginWidgetPhotoDidNotModeratedYet"
+msgstr "写真はまだ承認されていません"
+
+msgid "loginWidgetPhotoDidNotPassModerated"
+msgstr "写真は承認されませんでした。"
+
+msgid "chatSessionClose"
+msgstr "時間制限を越えました。再度操作してください。"
+
+msgid "searchNoResults"
+msgstr "該当なし"
+
+msgid "loginWidgetAddPhoto"
+msgstr "写真を追加"
+
+msgid "systemExitConfirmTitle"
+msgstr "本当にログアウトしますか？"
+
+msgid "systemExitConfirmBody"
+msgstr "次回ログイン名とパスワードの入力が必要です。"
+
+msgid "systemExitConfirmNo"
+msgstr "ログアウトしない"

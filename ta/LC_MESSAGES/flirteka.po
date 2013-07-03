@@ -1,0 +1,4310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-01 08:57+0000\n"
+"PO-Revision-Date: 2013-07-02 06:33+0200\n"
+"Last-Translator: Olesya <alesena@gmail.com>\n"
+"Language-Team: \n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/jowee/Development/flirteka/trunk\n"
+
+msgid "lettersGiftTitle"
+msgstr "நீங்கள் %s இல் ஒரு பரிசுப்பொருளைப் பெற்றுள்ளீர்கள்."
+
+msgid "lettersHelloName"
+msgstr "ஹலோ, %s"
+
+msgid "messageNewPresentLookAtButton"
+msgstr "காண்க"
+
+msgid "lettersFindYourLoveMatch"
+msgstr "உங்கள் காதல் துணையைக் கண்டுபிடியுங்கள்!"
+
+msgid "lettersUnsubscribe"
+msgstr ""
+"நீங்கள் மின்னஞ்சல் அறிவிப்புகளை பெற விரும்பவில்லை என்றால், நீங்கள் <a href=\"%s\" style="
+"\"color: #0072bc;\">குழுவிலகலாம்.</a>"
+
+msgid "lettersChangeDataByClickingTheLink"
+msgstr ""
+"நீங்கள் <a href=\"%s\" style=\"color: #0072bc;\">இந்த இணைப்பைக் கிளிக் செய்வதன் மூலம்</"
+"a> உங்கள் அமைப்புகளை மாற்ற முடியும்"
+
+msgid "lettersUserSentGift"
+msgstr "பயனர் <b><a href='%s'>%s</a></b> உங்களுக்கு பரிசுப்பொருள் அனுப்பியுள்ளார்."
+
+msgid "lettersBalanceIncreasedTitle"
+msgstr "உங்கள் இருப்பு அதிகரிக்கப்பட்டுள்ளது"
+
+msgid "lettersBalanceIncreased"
+msgid_plural "lettersBalanceIncreased"
+msgstr[0] "உங்கள் இருப்பு %s காசால் அதிகரித்துவிட்டது"
+msgstr[1] "உங்கள் இருப்பு %s காசால் அதிகரித்துவிட்டது"
+
+msgid "inviteCaptcha"
+msgstr "கோர்வையாக்கப்பட்ட குறியீடு"
+
+msgid "captchaNewCode"
+msgstr "புதிய குறியீடு"
+
+msgid "moderatorSpamers"
+msgstr ""
+
+msgid "formSearch"
+msgstr "கண்டுபிடி"
+
+msgid "modelSpamersOneName"
+msgstr ""
+
+msgid "modelSpamersBack"
+msgstr ""
+
+msgid "modelSpamersBanTime"
+msgstr ""
+
+msgid "modelSpamersBanMessagesHeader"
+msgstr ""
+
+msgid "modelSpamersMessage"
+msgstr ""
+
+msgid "modelSpamersTranslate"
+msgstr ""
+
+msgid "modelSpamersDate"
+msgstr ""
+
+msgid "moderatorBannedUsers"
+msgstr "தடைசெய்யப்பட்ட பயனர்கள்"
+
+msgid "moderatorBan"
+msgstr "தடைசெய்க"
+
+msgid "moderatorUnban"
+msgstr "தடைநீக்குக"
+
+msgid "statisticsMailchartsbytemplatesTemplateTitle"
+msgstr "வார்ப்புரு #%d (%s)"
+
+msgid "statisticsMailchartsbytemplatesQuantityChartTitle"
+msgstr "தொகை"
+
+msgid "statisticsMailchartsbytemplateQuantityChartYAxis"
+msgstr "தொகை"
+
+msgid "statisticsMailchartsbytemplatesPercentChartTitle"
+msgstr "சதவீதங்கள்"
+
+msgid "statisticsMailchartsbytemplatePercentChartYAxis"
+msgstr "சதவீதங்கள்"
+
+msgid "moderatorStatisticMenuMailTotal"
+msgstr ""
+
+msgid "moderatorStatisticMenuEximStats"
+msgstr ""
+
+msgid "statisticsMailTodayTitle"
+msgstr "இன்று மின்னஞ்சல் புள்ளிவிவரங்கள்"
+
+msgid "statisticsMailDomainsTitle"
+msgstr "களங்கள்"
+
+msgid "statisticsMailUniqueOpens"
+msgstr "தனித்துவமான கண்டுபிடிப்புகள்"
+
+msgid "statisticsMailUniqueClicks"
+msgstr "தனித்துவமான கிளிக்குகள்"
+
+msgid "statisticsMailAll"
+msgstr "மொத்தம்"
+
+msgid "statisticsMailTemplateTitle"
+msgstr "செய்தித் தலைப்பு"
+
+msgid "statisticsMailchartsbydomainDisplayDomains"
+msgstr "காட்டுவதற்கான களங்கள்"
+
+msgid "statisticsMailchartsbydomainAllDomains"
+msgstr "அனைத்தும்"
+
+msgid "statisticsMailchartsbydomainDisplayCounters"
+msgstr "காட்சி"
+
+msgid "statisticsMailchartsbydomainSubmitButton"
+msgstr "புதுப்பிப்பு"
+
+msgid "statisticsMailchartsbydomainQuantityChartTitle"
+msgstr "தொகை"
+
+msgid "statisticsMailchartsbydomainQuantityChartYAxis"
+msgstr "தொகை"
+
+msgid "statisticsMailchartsbydomainPercentChartTitle"
+msgstr "சதவீதங்கள்"
+
+msgid "statisticsMailchartsbydomainPercentChartYAxis"
+msgstr "சதவீதங்கள்"
+
+msgid "moderatorRefusalOfInvitation"
+msgstr "அழைப்புகளுக்கு மறுப்புகள்"
+
+msgid "moderatorComplaintAboutUsers"
+msgstr "பயனர்களைப் பற்றிய முறைப்பாடுகள்"
+
+msgid "moderatorFeedBack"
+msgstr "பின்னூட்டம்"
+
+msgid "moderatorErrorMessages"
+msgstr "பிழைச் செய்திகள்"
+
+msgid "moderatorUsers"
+msgstr "பயனர்கள்"
+
+msgid "moderatorContactsExclusion"
+msgstr "தொடர்புகள்-விதிவிலக்கு"
+
+msgid "moderatorPhotos"
+msgstr "புகைப்படங்கள்"
+
+msgid "moderatorCarousel"
+msgstr "இராட்டினம்"
+
+msgid "moderatorModeratingPhotos"
+msgstr "புகைப்படங்களை கட்டுப்படுத்திவைத்தல்"
+
+msgid "moderatorEmailNotifications"
+msgstr "மின்னஞ்சல் அறிவிப்புகள்"
+
+msgid "moderatorBlackListForDeliveries"
+msgstr "விநியோகங்களுக்கான கறுப்புப்பட்டியல்"
+
+msgid "moderatorUsernamesBlacklist"
+msgstr "பயனர்களுக்கான கறுப்புப்பட்டியல்"
+
+msgid "moderatorStatistic"
+msgstr "புள்ளிவிவரம்"
+
+msgid "moderatorStatisticOpenedClickedStats"
+msgstr ""
+
+msgid "moderatorStatisticMenuMailNumbers"
+msgstr "அஞ்சல் - புள்ளிவிவரத் தரவு"
+
+msgid "moderatorStatisticMenuMailChartByDomain"
+msgstr "அஞ்சல் - விளக்கப்படங்கள் - களங்கள்"
+
+msgid "moderatorStatisticMenuMailChartByTemplate"
+msgstr "அஞ்சல் - விளக்கப்படங்கள் - வார்ப்புருக்கள்"
+
+msgid "moderatorRemovedRestoredUsers"
+msgstr "அகற்றப்பட்ட/மீட்டெடுக்கப்பட்ட சுயவிவரங்கள்"
+
+msgid "Advertising statistics"
+msgstr "விளம்பரம் செய்தல் புள்ளிவிவரங்கள்"
+
+msgid "moderatorBalanceBilling"
+msgstr "பில்லிங்"
+
+msgid "moderatorMenuItemProducts"
+msgstr "தயாரிப்புகள்"
+
+msgid "moderatorMenuItemProductPresents"
+msgstr "பரிசுப்பொருட்கள்"
+
+msgid "systemExit"
+msgstr "வெளியேறு"
+
+msgid "systemUser"
+msgstr "பயனர்"
+
+msgid "moderatorRemoveRecord"
+msgstr "பதிவை அகற்றுக"
+
+msgid "moderatorMaxUsersOnline"
+msgstr "ஆன்லைனிலுள்ள பயனர்கள் (அதிகபட்சம்)"
+
+msgid "moderatorRegisteredStatistic"
+msgstr ""
+
+msgid "moderatorAudienceOfSystem"
+msgstr "பின்பற்றுபவர்கள்"
+
+msgid "moderatorInAll"
+msgstr "மொத்தம்"
+
+msgid "moderatorQuantityOfBoys"
+msgstr "பையன்களின் எண்ணிக்கை"
+
+msgid "moderatorQuantityOfGirls"
+msgstr "பெண்களின் எண்ணிக்கை"
+
+msgid "moderatorVisitsToday"
+msgstr "இன்றைய வருகைகள்"
+
+msgid "moderatorVisitsOnWeek"
+msgstr "இந்த வார வருகைகள்"
+
+msgid "moderatorVisitsOnMonth"
+msgstr "இந்த மாத வருகைகள்"
+
+msgid "moderatorUsersWithCoords"
+msgstr "ஒத்ததரமுள்ளவர்களுடனான பயனர்களின் எண்ணிக்கை"
+
+msgid "moderatorUsersFillProfile"
+msgstr "நிரப்பிய சுயவிவரத்தைக் கொண்ட பயனர்களின் எண்ணிக்கை"
+
+msgid "moderatorUsersWithPhoto"
+msgstr "புகைப்படத்துடனான பயனர்கள்"
+
+msgid "moderatorPhotosToday"
+msgstr "இன்றைய புகைப்படங்கள்"
+
+msgid "moderatorPhotosOnWeek"
+msgstr "இந்த வார புகைப்படங்கள்"
+
+msgid "moderatorPhotosOnMonth"
+msgstr "இந்த மாத புகைப்படங்கள்"
+
+msgid "moderatorDialogs"
+msgstr "உரையாடல்கள்"
+
+msgid "moderatorAverageNumberOfMessages"
+msgstr "செய்திகளின் சராசரி எண்ணிக்கை"
+
+msgid "moderatorQuantityDialogsStartedBoys"
+msgstr "பையன்களால் தொடங்கப்பட்ட உரையாடல்களின் எண்ணிக்கை"
+
+msgid "moderatorQuantityDialogsStartedGirls"
+msgstr "பெண்களால் தொடங்கப்பட்ட உரையாடல்களின் எண்ணிக்கை"
+
+msgid "moderatorEmails"
+msgstr "மின்னஞ்சல்கள்"
+
+msgid "moderatorEmailsConfirmed"
+msgstr "உறுதிப்படுத்தப்பட்டது"
+
+msgid "moderatorEmailsNotConfirmed"
+msgstr "உறுதிப்படுத்தப்படவில்லை"
+
+msgid "moderatorRemovedRestoredCauses"
+msgstr "அகற்றுவதற்கான காரணங்கள்"
+
+msgid "moderatorRemovedRestoredDivisionForSexAndTime"
+msgstr "செக்ஸ் மற்றும் நேரத்துக்கான பிரிவு"
+
+msgid "guestsToday"
+msgstr "இன்று"
+
+msgid "guestsByWeek"
+msgstr "கடந்த 7 நாட்கள்"
+
+msgid "guestsByMonth"
+msgstr "கடந்த 30 நாட்கள்"
+
+msgid "male"
+msgstr "ஆண்"
+
+msgid "female"
+msgstr "பெண்"
+
+msgid "moderatorProductPresentsTitle"
+msgstr "பரிசுப்பொருள்"
+
+msgid "yes"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "moderatorProductPresentsCreateTitle"
+msgstr "ஒரு புதிய பரிசுப்பொருளை உருவாக்கு"
+
+msgid "moderatorProductPresentsUpdateTitle"
+msgstr "ஒரு பரிசுப்பொருளைப் புதுப்பி"
+
+msgid "usersDeleteSelectedPhotos"
+msgstr "நீக்குக"
+
+msgid "usersDeletePhotoConfirm"
+msgstr "நீங்கள் நிச்சயமாக ஒரு புகைப்படத்தை நீக்க விரும்புகிறீர்களா?"
+
+msgid "moderatorBack"
+msgstr "பின்செல்க"
+
+msgid "moderatorNext"
+msgstr "அடுத்தது"
+
+msgid "moderatorAddRecord"
+msgstr "பதிவைச் சேர்க்கவும்"
+
+msgid "actionSave"
+msgstr "சேமிக்கவும்"
+
+msgid "actionCancel"
+msgstr "ரத்து"
+
+msgid "moderatorChangeRecord"
+msgstr "பதிவை மாற்றவும்"
+
+msgid "moderatorRemove"
+msgstr "அகற்றுக"
+
+msgid "formOperatorsBegin"
+msgstr "ஒவ்வொரு தேடல் வரிசையின் தொடக்கத்திலும்"
+
+msgid "formOperatorsEnd"
+msgstr "நீங்கள் ஒப்பீட்டினை நடத்துபவர்களையும் பயன்படுத்தலாம்"
+
+msgid "formAdvancedSearch"
+msgstr "மேம்பட்ட தேடல்"
+
+msgid "moderatorActionBanQuestion"
+msgstr "தடைசெய்வதா?"
+
+msgid "formCreate"
+msgstr "கூறை உருவாக்குக"
+
+msgid "formRequired"
+msgstr "* எனக் குறிக்கப்பட்டுள்ள புலங்கள் தேவையானவை"
+
+msgid "formNoactive"
+msgstr "இல்லை"
+
+msgid "formActive"
+msgstr "ஆம்"
+
+msgid "systemModerator"
+msgstr "நெறியாளர்"
+
+msgid "anketaPersonalsCustomLabel"
+msgstr "பிற"
+
+msgid "coin"
+msgid_plural "coins"
+msgstr[0] "நாணயம்"
+msgstr[1] "நாணயங்கள்"
+
+msgid "moderatorUserFormBalanceChangeAlt"
+msgstr "கணக்கு"
+
+msgid "formSave"
+msgstr "மாற்றங்களைச் சேமிக்கவும்"
+
+msgid "formManage"
+msgstr "கூறுகளை நிர்வகிக்கவும்"
+
+msgid "formUpdate"
+msgstr "கூறைத் திருத்துக"
+
+msgid "formDelete"
+msgstr "கூறை நீக்குக"
+
+msgid "systemLogin"
+msgstr "நுழைக"
+
+msgid "moderatorComplaintsResolved"
+msgstr "தீர்க்கப்பட்டவை"
+
+msgid "moderatorComplaintsNew"
+msgstr "புதியவை"
+
+msgid "sexFemale"
+msgstr "பெண்"
+
+msgid "sexMale"
+msgstr "ஆண்"
+
+msgid "formList"
+msgstr "கூறுகளின் பட்டியல்"
+
+msgid "formView"
+msgstr "கூறைக் காண்க"
+
+msgid "moderatorSlider"
+msgstr "ஸ்லைடர்"
+
+msgid "moderatorMosaic"
+msgstr "மொசைக்"
+
+msgid "photosStatusNew"
+msgstr "புதிய"
+
+msgid "moderatorActions"
+msgstr "செயல்கள்"
+
+msgid "moderatorAccept"
+msgstr "ஏற்றுக்கொள்க"
+
+msgid "moderatorRefuse"
+msgstr "மறுக்கவும்"
+
+msgid "moderatorModerating"
+msgstr ""
+
+msgid "moderatorPhotosVersions"
+msgstr "புகைப்படப் பதிப்புகள்"
+
+msgid "moderatorStatus"
+msgstr "நிலை"
+
+msgid "userID"
+msgstr "பயனர் ஐ.டி"
+
+msgid "moderatorPhotosSearchInTheWeb"
+msgstr "வலையில் தேடுக"
+
+msgid "modelUsersSex"
+msgstr "பாலினம்"
+
+msgid "searchGo"
+msgstr "தேடல்"
+
+msgid "moderatorRefuseReason"
+msgstr "மறுப்பதற்கான காரணம்"
+
+msgid "moderatorLastEditName"
+msgstr ""
+
+msgid "moderatorBalanceBillingGlobalCountersRegistrations"
+msgstr "உள்நுழைவுகள்/உறுதிப்படுத்தப்பட்டது/செலுத்திய கணக்குகள்"
+
+msgid "moderatorBalanceBillingGlobalCountersExpense"
+msgstr "மொத்த பயனர்களின் செலவுகள்"
+
+msgid "moderatorBalanceBillingGlobalCountersCurrent"
+msgstr "தற்போதைய கணக்கு மீதி"
+
+msgid "moderatorBalanceSetTitle"
+msgstr "கணக்கு மீதியை மாற்றவும்"
+
+msgid "moderatorBalanceSetSuccessful"
+msgstr "கணக்கு மீதி வெற்றிகரமாக மாற்றப்பட்டது"
+
+msgid "moderatorBalanceUserStatTitle"
+msgstr "மீதி மாற்ற புள்ளிவிவரங்கள்"
+
+msgid "moderatorBalanceUserStatTableFieldTime"
+msgstr "நேரம்"
+
+msgid "moderatorBalanceUserStatTableFieldDescription"
+msgstr "விளக்கம்"
+
+msgid "moderatorBalanceUserStatTableFieldAmount"
+msgstr "தொகை"
+
+msgid "moderatorBalanceUserStatTableFieldCurrent"
+msgstr "மீதி"
+
+msgid "moderatorRegisteredToday"
+msgstr "இன்று பதிவுசெய்தவர்களின் மொத்தம்"
+
+msgid "bannedSecondChance"
+msgstr ""
+"சரி, இது தெளிவாக உள்ளது, நான் எந்தவொரு விதிகளையும் மீற மாட்டேன்<a "
+"href='%s'>தயவுசெய்து என்னை தடுப்பு நீக்கவும்</a>"
+
+msgid "bannedForever"
+msgstr ""
+"தயவுசெய்து, ஒரு புதிய கணக்கை உருவாக்கி, இதுபோன்ற செயல்கள் மீண்டும் நடக்காமல் "
+"எச்சரிக்கையாக இருக்கவும். இல்லாவிட்டால், நாங்கள் உங்கள் கணக்கை மீண்டும் தடுக்க வேண்டியிருக்கும்"
+
+msgid "actionTranslate"
+msgstr "மொழிபெயர்"
+
+msgid "chatSendByClickOn"
+msgstr "இதன் வழியாக அனுப்பவும்"
+
+msgid "formPleaseFixErrors"
+msgstr "தயவுசெய்து பின்வரும் பிழைகளை சரிசெய்க:"
+
+msgid "userBalloonAddToFavorite"
+msgstr "பிடித்தவைக்குச் சேர்க்கவும்"
+
+msgid "ofPair"
+msgstr "பொருந்தச்செய்"
+
+msgid "visitor"
+msgid_plural "visitors"
+msgstr[0] "பார்வையாளர்"
+msgstr[1] "பார்வையாளர்கள்"
+
+msgid "signupMe"
+msgstr "நான் ஒரு"
+
+msgid "signupIAmSearching"
+msgstr "தேடுவது"
+
+msgid "bannedInfoTitle"
+msgstr "உங்கள் கணக்கு முடக்கப்பட்டது. இது பின்வரும் காரணங்களின் ஒன்றின் காரணமாக இருக்கலாம்:"
+
+msgid "bannedInfoCauseSendSpam"
+msgstr "&mdash; பெரும்பகுதி அஞ்சல் அனுப்பும் விளம்பரங்கள் அல்லது ஸ்பேம்;"
+
+msgid "bannedInfoCauseSendContacts"
+msgstr ""
+"&mdash; செய்திகளிலுள்ள தொடர்புத் தகவல்களின் (தொலைபேசி, மின்னஞ்சல், ஸ்கைப்) பெரும்பகுதி "
+"விநியோகம்;"
+
+msgid "bannedInfoCauseWrongProfile"
+msgstr "&mdash; சுயவிவரத்துக்குப் பொருத்தமில்லாத உள்ளடக்கம் (விளம்பரம் செய்தல், இன்னும்பல);"
+
+msgid "bannedInfoCauseRudeAttitude"
+msgstr "&mdash; மற்றைய பங்கேற்பாளர்களுடன் முரட்டுத்தன்மான போக்கு;"
+
+msgid "bannedInfoRecommendation"
+msgstr ""
+"எங்களுடைய விதிகளை <a href=\"http://lovetime.com/pages/rules\">lovetime.com/"
+"pages/rules</a> படிக்குமாறு உங்களுக்குப் பரிந்துரைக்கிறோம்"
+
+msgid "bannedInfoCreateNewAccount"
+msgstr ""
+"தயவுசெய்து புதிய கணக்கை உருவாக்கி, இதை மேற்படி படிகளை மீண்டும் செய்ய விடவேண்டாம். "
+"இல்லாவிட்டால், மீண்டும் உங்களை முடக்கும் நிலைக்குத் தள்ளப்படுவோம்."
+
+msgid "bannedInfoSendEmail"
+msgstr ""
+"நீங்கள் தவறுதலாக முடக்கப்பட்டுள்ளதாக நீங்கள் நினைத்தால், தயவுசெய்து எங்களுக்கு <a href="
+"\"mailto:info@lovetime.com?subject=Wrongly banned user %id%\">info@lovetime."
+"com</a> என்ற முகவரிக்கு மின்னஞ்சல் அனுப்புங்கள்"
+
+msgid "loginErrorUserBanned"
+msgstr "அணுகல் மறுக்கப்பட்டது. பயனர் %s தடைசெய்யப்படுகிறார்."
+
+msgid "messageFilterTitle"
+msgstr "செய்தி வடிகட்டி"
+
+msgid "messageFilterSuggestion"
+msgstr "எந்தெந்த செய்திகளைப் பெற விரும்புகிறீர்கள் என்பதைத் தீர்மானிக்கிறது..."
+
+msgid "messageFilterReceiveFromAll"
+msgstr "அனைத்துச் செய்திகளும்."
+
+msgid "messageFilterReceiveFromWoman"
+msgstr "பெண்களிடமிருந்து வரும் செய்திகள் மட்டும்."
+
+msgid "messageFilterReceiveFromMen"
+msgstr "ஆண்களிடமிருந்து வரும் செய்திகள் மட்டும்."
+
+msgid "messageFilterWithPhotoOnly"
+msgstr "புகைப்படத்துடன் வருபவை மட்டும்."
+
+msgid "messageFilterAgedFrom"
+msgstr "பயனர்களின் வயது"
+
+msgid "messageFilterAgedTo"
+msgstr "முதல்"
+
+msgid "messageFilterFromMyCountry"
+msgstr "எனது நாட்டிலிருந்து வருபவை மட்டும்."
+
+msgid "modelUsersFilterSex"
+msgstr "பாலினத்தால் வடிகட்டவும்."
+
+msgid "modelUsersFilterPhoto"
+msgstr "புகைப்படத்துடன் மட்டும்."
+
+msgid "modelUsersFilterAgeFrom"
+msgstr "பயனர்களின் வயதைக் கொண்டு மட்டும் "
+
+msgid "modelUsersFilterAgeTo"
+msgstr "முதல் "
+
+msgid "modelUsersFilterCountry"
+msgstr "எனது நாட்டிலிருந்து மட்டும்"
+
+msgid "chatFilterMan"
+msgstr ""
+"அவருடைய செய்தி வடிகட்டியை அமைத்துவிட்டார், ஆகவே நீங்கள் செய்திகளை அனுப்ப முடியாது. "
+"வேறு ஒருவருடன் அரட்டையடிக்க முயற்சியுங்கள்."
+
+msgid "chatFilterWoman"
+msgstr ""
+"அவளுடைய செய்தி வடிகட்டியை அமைத்துவிட்டாள், ஆகவே நீங்கள் செய்திகளை அனுப்ப முடியாது. "
+"வேறு ஒருவருடன் அரட்டையடிக்க முயற்சியுங்கள்."
+
+msgid "chatImpossibleCompanionBanned"
+msgstr ""
+"%s பயனரை ஒரு மதிப்பீட்டாளர் தடுத்துவிட்டதால் அல்லது அவரின் சுயவிவரம் அகற்றப்பட்டுள்ளதால், "
+"நீங்கள் அரட்டையில் செய்திகளை அனுப்ப முடியாது."
+
+msgid "lettersHiAndWelcome"
+msgstr "ஹலோ,%name%! %host% குழு உங்களை வரவேற்கிறது!"
+
+msgid "lettersAlmostDone"
+msgstr "ஏறக்குறைய அங்கே..."
+
+msgid "lettersConfirm"
+msgstr "உங்கள் மின்னஞ்சலை உறுதிப்படுத்துக"
+
+msgid "lettersPersonalData"
+msgstr "உங்களுடைய தனிப்பட்ட விவரங்கள்:"
+
+msgid "lettersNick"
+msgstr "புனைபெயர்:"
+
+msgid "lettersEmail"
+msgstr "மின்னஞ்சல்:"
+
+msgid "lettersAboutSite"
+msgstr ""
+"எங்கள் வலைத்தளத்தில் நீங்கள் நபர்களுடன் விளையாட்டாகப் பேசி உறவாடலாம், ஒரு காதல் உறவைப் "
+"பெற்றுக்கொள்ளலாம் அல்லது ஒருவேளை உங்களுடைய ஆத்ம துணையைக் கண்டுபிடிக்கலாம்!."
+
+msgid "lettersTryIt"
+msgstr "<a href=\"%s\">இதை முயற்சிக்கவும்! இது மிகவும் கிளர்ச்சிமிக்கது!"
+
+msgid "lettersTellAboutUs"
+msgstr "இந்தத் தளம் பற்றி உங்கள் நண்பர்கள் எல்லாருக்கும் சொல்லுங்கள்."
+
+msgid "lettersThankYou"
+msgstr "நன்றி."
+
+msgid "lettersYouCanChangeData"
+msgstr "நீங்கள் உங்களுடைய சுயவிவரங்களின் தகவல்களை இதில் மாற்ற முடியும்:"
+
+msgid "removingProfileRemovingProfile"
+msgstr "கணக்கை நீக்குக"
+
+msgid "removingProfileRemoveProfileAction"
+msgstr "நீக்குக"
+
+msgid "removingProfileQuestion"
+msgstr "நீங்கள் உங்கள் கணக்கை நிச்சயமாக நீக்க விரும்புகிறீர்களா?"
+
+msgid "removingProfileCauseManagedFindYourSoulMate"
+msgstr "ஆமாம், நான் என் ஆத்ம துணையைக் கண்டுபிடித்தேன்!"
+
+msgid "removingProfileCauseICanNotFindAnyone"
+msgstr ""
+"நான் நீண்ட காலமாக தளத்தைப் பயன்படுத்தியுள்ளேன். மேலும் நான் விரும்பும் எவரையும் இன்னும் "
+"கண்டுபிடிககவில்லை."
+
+msgid "removingProfileCauseIPlanGoBack"
+msgstr "நான் தற்காலிகமாக தளத்தை விட்டுப் போகிறேன், ஆனால் திரும்பி வருவேன்."
+
+msgid "removingProfileCauseIHaveAnotherProfile"
+msgstr "என்னிடம் வேறொரு சுயவிவரம் உள்ளது."
+
+msgid "removingProfileCauseIWasInsultedByAnother"
+msgstr "நான் மற்றொரு பயனரால் அவமதிக்கப்பட்டேன்."
+
+msgid "removingProfileCauseIReceiveOffersEroticServices"
+msgstr "நான் நெருக்கமான வாய்ப்புகளை பெற்றுள்ளேன்."
+
+msgid "removingProfileCauseOther"
+msgstr "மற்ற."
+
+msgid "removingProfileIChangedMyMindAction"
+msgstr "பரவாயில்லை, நான் தங்குகிறேன்!"
+
+msgid "removingProfileNotification"
+msgstr ""
+"\"நீக்குக\" என்பதை கிளிக் செய்வதன் மூலம், ஒரு உறுதிப்படுத்தல் மின்னஞ்சல் (%email%) க்கு "
+"அனுப்பி வைக்கப்படும். இந்த மின்னஞ்சலில் வழங்கப்பட்டுள்ள இணைப்பை பின்பற்றி, உங்கள் சுயவிவரத்தை "
+"அகற்றுவதை உறுதிசெய்க. உங்கள் கணக்கை (புகைப்படங்கள் மற்றும் தொடர்புகள் பட்டியல் உட்பட) "
+"மீட்டெடுக்க விரும்பினால், நீங்கள் 30 நாட்களுக்குள் அதை செய்யலாம்."
+
+msgid "removingProfileRemoveAction"
+msgstr "நீக்குக"
+
+msgid "removingProfileCanselAction"
+msgstr "ரத்து"
+
+msgid "removingProfileEmailSendNotification"
+msgstr ""
+"உங்கள் கணக்கு நீக்கத்தை உறுதி மின்னஞ்சல் அனுப்பப்பட்டுள்ளது. தயவுசெய்து அறிவுறுத்தல்களைப் "
+"பின்பற்றி, கணக்கு நீக்க செயலாக்கத்தை பூர்த்தி செய்வதற்கு இந்த மின்னஞ்சலில் வழங்கப்பட்டுள்ள "
+"இணைப்பை கிளிக் செய்க."
+
+msgid "removingProfileNextAction"
+msgstr "அடுத்து"
+
+msgid "removingProfileEnterEmailAndCode"
+msgstr "உங்கள் மின்னஞ்சல் முகவரியையும், நீங்கள் பெற்ற குறியீட்டையும் உள்ளிடுங்கள்."
+
+msgid "removingProfileEmail"
+msgstr "மின்னஞ்சல்"
+
+msgid "removingProfileEnterEmail"
+msgstr "மின்னஞ்சலை உள்ளிடுக"
+
+msgid "removingProfileCodeOfPost"
+msgstr "செய்திக் குறியீடு"
+
+msgid "removingProfileEnterCodeOfPost"
+msgstr "குறியீட்டை உள்ளிடுக"
+
+msgid "removingProfileDoNotGo"
+msgstr "விட்டு செல்லவேண்டாம்! இந்த மக்கள் உங்களை நினைத்து கவலைப்படுவார்கள்!"
+
+msgid "removingProfileCancelRemovingAction"
+msgstr "ரத்து"
+
+msgid "removingProfileContinueAction"
+msgstr "எப்படியாவது தொடர்க"
+
+msgid "removingProfileRemovedStatus"
+msgstr "உங்கள் சுயவிவர நிலை &mdash; அகற்றப்பட்டது"
+
+msgid "removingProfileRemovedMessage"
+msgstr ""
+"உங்கள் சுயவிவரப் பக்கம் இப்போது நீக்கியதாக குறிக்கப்பட்டு உள்ளது. உங்கள் செய்திகள், "
+"தொடர்புகள், புகைப்படங்கள் மற்றும் அமைப்புகள் அனைத்தும், எங்கள் அமைப்பிலிருந்து நிரந்தரமாக "
+"நீக்கப்படும் முன்னர் 30 நாட்கள் சேமிக்கப்படும்."
+
+msgid "removingProfileRestoreProfileAction"
+msgstr "கணக்கை மீட்டெடுக்கவும்"
+
+msgid "modelUsersHobbies"
+msgstr "உங்களை விவரியுங்கள்"
+
+msgid "balanceChangesBuyProductDecreaseProductId"
+msgstr "தயாரிப்பு"
+
+msgid "balanceChangesByAdminUserId"
+msgstr "பயனர்"
+
+msgid "balanceChangesPSIncreasePSId"
+msgstr "கட்டண முறை"
+
+msgid "BalanceIncreaseErrorTitle"
+msgstr "கணக்கு மீதி அதிகரித்தல் பிழை"
+
+msgid "everyDayBalanceIncreasingDesc"
+msgstr "கணக்கில் தினசரி மீதி அதிகரிப்பு"
+
+msgid "invisibleSettingsFormButton"
+msgstr "சேமி"
+
+msgid "invisibleSettingsPageText"
+msgstr ""
+"இந்தப் பயன்முறையை அடிக்கடி பயன்படுத்த வேண்டாம் என்று உங்களுக்கு அறிவுரை கூறுகிறோம். இதை "
+"எதிர்ப்பது கடினம் என்பது நிச்சயம், ஆனால் தயவுசெய்து, மற்றவர்களால் பார்க்கக்கூடியவாறு "
+"இருப்பவர்களே புலப்படாத பயனர்களை விட கூடுதலாக புதிய பயனர்களை உருவாக்குகிறார்கள் என்பதை "
+"ஞாபகத்தில் வைத்திருக்கவும்."
+
+msgid "invisibleSettingsPageTitle"
+msgstr "புலப்படாத பயன்முறை"
+
+msgid "modelUsersBalance"
+msgstr "கணக்கு"
+
+msgid "modelUsersInvisibleeWalk"
+msgstr "பிற சுயவிவரங்களிலுள்ள பார்வையாளர்கள் பட்டியலிலிருந்து என்னை மறைக்கவும்"
+
+msgid "modelUsersInvisibleOnline"
+msgstr "மற்றைய பயனர்களிடமிருந்து எனது ஆன்லைன் நிலையை மறைக்கவும்"
+
+msgid "modelUsersInvisibleSuperstarStatus"
+msgstr "மற்றைய பயனர்களிடமிருந்து எனது சூப்பர்ஸ்டார் நிலையை மறைக்கவும்"
+
+msgid "moderatorProductPresentsAddButton"
+msgstr "ஒரு பரிசுப்பொருளைச் சேர்"
+
+msgid "monetizationInfoPageSearchText"
+msgstr "மகிழ்ச்சியான உறவுக்கான உங்கள் வாய்ப்புகளை அதிகரிக்கவும்"
+
+msgid "monetizationInfoPageSearchTitle"
+msgstr "தேடல் முடிவுகளில் 1 நிலை"
+
+msgid "monetizationInfoPageSuperstarButton"
+msgstr "சூப்பர்ஸ்டாராக ஆகவும்"
+
+msgid "monetizationInfoPageSuperstarText"
+msgstr "”டேட்டுகள்” விளையாட்டில் முன்னுரிமை"
+
+msgid "monetizationInfoPageSuperstarTitle"
+msgstr "சூப்பர்ஸ்டார் நிலை"
+
+msgid "monetizationInfoPageText"
+msgstr ""
+"நீங்கள் வலைத்தளத்தில் <a href='#' id='%s'>நாணயங்களை வாங்கலாம்</a> அல்லது அவற்றை "
+"கண்டுபிடிக்கலாம்."
+
+msgid "monetizationInfoPageText2"
+msgstr "நாங்கள் உங்களுக்கு நாளொன்றுக்கு ஒரு இலவச நாணயத்தை வழங்குகிறோம்."
+
+msgid "monetizationInfoPageTitle"
+msgstr "கூடுதல் பிரபலமாக நாணயங்களைப் பயன்படுத்தவும்."
+
+msgid "monetizationInfoPageTopFacesButton"
+msgstr "பிரபலத்தன்மையை அதிகரிக்கவும்"
+
+msgid "monetizationInfoPageTopFacesText"
+msgstr ""
+"நாங்கள் உங்கள் விருப்பத்தேர்வுகளைக் கவனத்தில்கொண்டு, ஒரு தனித்துவமான படிமுறையை "
+"அடிப்படையாகக் கொண்டு பொருத்தமானவர்களைத் தேர்ந்தெடுக்கிறோம்."
+
+msgid "monetizationInfoPageTopFacesTitle"
+msgstr "TOP இலுள்ள நிலை"
+
+msgid "monetizationAboutTopTitle"
+msgstr "சுயவிவரத்தை மேம்படுத்தவும்"
+
+msgid "monetizationAboutTopText"
+msgstr "தேடல் முடிவுகளிலும் புகைப்பட பின்னூட்டத்திலும் நிலையை முன்னேற்றவும்"
+
+msgid "monetizationAboutTopButton"
+msgstr "TOP க்கு மேம்படுத்தவும்"
+
+msgid "monetizationAboutGiftsTitle"
+msgstr "பரிசுப்பொருட்கள்"
+
+msgid "monetizationAboutGiftsText"
+msgstr "உங்கள் பிரபலத்தை அதிகரியுங்கள்"
+
+msgid "monetizationAboutUnlimitedTitle"
+msgstr "வரம்பில்லாதது"
+
+msgid "monetizationAboutUnlimitedText"
+msgstr "அனைத்துக் கட்டுப்பாடுகளையும் அகற்றவும்"
+
+msgid "monetizationAboutUnlimitedButton"
+msgstr "கட்டுப்பாடுகளை அகற்றவும்"
+
+msgid "monetizationAboutVipTitle"
+msgstr "வி.ஐ.பி"
+
+msgid "monetizationAboutVipText"
+msgstr "உங்கள் சுயவிவரத்தின் தோற்றத்தை அதிகரியுங்கள்"
+
+msgid "monetizationAboutVipButton"
+msgstr "ஒரு வி.ஐ.பி ஆகுங்கள்"
+
+msgid "monetizationAboutIncognitoTitle"
+msgstr "காண இயலாத"
+
+msgid "monetizationAboutIncognitoText"
+msgstr "மற்றைய நபர்களுக்கு காண இயலாதவராகத் தோன்றவும்"
+
+msgid "monetizationAboutIncognitoButton"
+msgstr "ஆஃப்லைனாக தோன்றவும்"
+
+msgid "monetizationBalanceSendSMS"
+msgstr "SMS அனுப்புக"
+
+msgid "monetizationBalanceSum"
+msgstr "கட்டணத் தொகை"
+
+msgid "monetizationBalancePhoneNumber"
+msgstr "தொலைபேசி எண்"
+
+msgid "monetizationBalanceOrderNumber"
+msgstr "ஆர்டர் எண்"
+
+msgid "monetizationBalanceYouPayOrder"
+msgstr "நீங்கள் ஆர்டரை செலுத்துங்கள்"
+
+msgid "monetizationBalanceCheckOrder"
+msgstr "ஆர்டரை சரிபாருங்கள்"
+
+msgid "monetizationBalanceOperator"
+msgstr "ஆப்பரேட்டர்"
+
+msgid "monetizationBalanceUpText"
+msgstr ""
+"%s காசுகள் (VAT நீங்கலாக  செலவுகள் %s) மூலம் பேலன்ஸை அதிகரிக்க, நீங்கள் ஒரு "
+"செய்தியை அனுப்ப வேண்டும்."
+
+msgid "monetizationBalanceNumber"
+msgstr "எண்"
+
+msgid "monetizationBalanceText"
+msgstr "செய்தி முக்கிய பகுதி"
+
+msgid "paymentDialogMessageSuperstarForSearch"
+msgstr ""
+"மேம்பட்ட தேடலைப் பயன்படுத்திக் கண்டுபிடித்த சுயவிவரங்களைக் காண, நீங்கள் சூப்பர்ஸ்டார் நிலைக்கு "
+"செயல்படுத்த வேண்டும்."
+
+msgid "paymentDialogTitleDefault"
+msgstr "நாணயங்களைப் பெறுக"
+
+msgid "paymentDialogTitleSuperstar"
+msgstr "சூப்பர்ஸ்டார் நிலையை வாங்குக"
+
+msgid "paymentDialogTitleTopFaces"
+msgstr "TOP க்குச் சேர்"
+
+msgid "paymentDialogWidgetBuy"
+msgstr "பணம் செலுத்து"
+
+msgid "paymentDialogWidgetTermsOfUse"
+msgstr "பயன்பாட்டு விதிமுறைகள்"
+
+msgid "productPresentModelCodePatternMessage"
+msgstr ""
+"தயாரிப்புக் குறியீடு 'present-*' போல இருக்க வேண்டும், இங்கு * என்பது ஒன்று அல்லது அதிக "
+"இலக்கங்கள் அல்லது இலத்தீன் அகரவரிசையிலுள்ள சிறிய எழுத்துக்கள்"
+
+msgid "productPresentModelImageFieldLabel"
+msgstr "படிமம்"
+
+msgid "productSuperstar12PublicTitle"
+msgstr "12 மாதங்களுக்கு சூப்பர்ஸ்டார் நிலை"
+
+msgid "productSuperstar1PublicTitle"
+msgstr "11 மாதத்துக்கு சூப்பர்ஸ்டார் நிலை"
+
+msgid "productSuperstar3PublicTitle"
+msgstr "3 மாதங்களுக்கு சூப்பர்ஸ்டார் நிலை"
+
+msgid "productSuperstar6PublicTitle"
+msgstr "6 மாதங்களுக்கு சூப்பர்ஸ்டார் நிலை"
+
+msgid "productSuperstarFriendly"
+msgstr "நட்பாக"
+
+msgid "productSuperstarStatusModelFieldPeriod"
+msgstr "கால அளவு"
+
+msgid "productSuperstarStatusModelFieldType"
+msgstr "வகை"
+
+msgid "productSuperstarTypeRomantic"
+msgstr "காதலுக்குரிய"
+
+msgid "productTopFacesPublicTitle"
+msgstr "மேலே சேர்க்கவும்"
+
+msgid "publicFlashNotifierWidgetPresentBalanceWasChanged"
+msgstr "கணக்கு மீதி %d %s ஆல் குறைக்கப்பட்டது"
+
+msgid "publicFlashNotifierWidgetPresentNotice"
+msgstr "நீங்கள் ஒரு பரிசுப்பொருளைத் தேர்வுசெய்துள்ளீர்கள்"
+
+msgid "sendGiftDialogCommentLabel"
+msgstr "உங்கள் செய்தி அல்லது வாழ்த்து"
+
+msgid "sendGiftDialogHiddenFieldLabel"
+msgstr "பெறுநர் மட்டுமே பரிசுப்பொருளைப் பார்க்கலாம்"
+
+msgid "sendGiftDialogSubmit"
+msgstr "அனுப்புக"
+
+msgid "sendGiftDialogText"
+msgstr "உங்களை நோக்கிக் கவனத்தை ஈர்க்க அதுவே மிகச் சிறந்த வழி"
+
+msgid "sendGiftDialogTitle"
+msgstr "பரிசுப்பொருட்களை அனுப்புக"
+
+msgid "superstarModelAttributeBegin"
+msgstr "தொடங்குக"
+
+msgid "superstarModelAttributeFinish"
+msgstr "முடிக்கவும்"
+
+msgid "superstarModelAttributeUser"
+msgstr "பயனர்"
+
+msgid "topFacesDialogNotice"
+msgstr "விலை %d %s"
+
+msgid "userRatingAndBalanceWidgetBecameSuperstar"
+msgstr "சூப்பர்ஸ்டார் ஆகுக"
+
+msgid "userRatingAndBalanceWidgetRatingExtraLow"
+msgstr "மிகக் குறைவு"
+
+msgid "userRatingAndBalanceWidgetRatingLow"
+msgstr "குறைவு"
+
+msgid "userRatingAndBalanceWidgetRatingMiddle"
+msgstr "சராசரி"
+
+msgid "userRatingAndBalanceWidgetRatingHigh"
+msgstr "அதிகம்"
+
+msgid "userRatingAndBalanceWidgetRatingExtraHigh"
+msgstr "மிக அதிகம்"
+
+msgid "userRatingAndBalanceWidgetFillUpBalance"
+msgstr "நாணயங்களைப் பெறுக"
+
+msgid "userRatingAndBalanceWidgetIncrease"
+msgstr "அதிகரி"
+
+msgid "userRatingAndBalanceWidgetRatingAndVisitorsText"
+msgstr ""
+"உங்கள் தேடல் நிலை <a href='%s'>%s</a> ஆகும், மேலும் இன்று நீங்கள் <a href='%s'>%d</a> "
+"%s பெறுகிறீர்கள்"
+
+msgid "userRatingAndBalanceWidgetToTop"
+msgstr "TOP வரை"
+
+msgid "userRatingAndBalanceWidgetYourRating"
+msgstr "உங்கள் பிரபலத்தன்மை"
+
+msgid "userViewBalloonActivateSuperstar"
+msgstr "சூப்பர்ஸ்டார் நிலையை செயல்படுத்துக"
+
+msgid "userViewBalloonReturnToBasicSearch"
+msgstr "தேடலுக்கு மீண்டும் செல்க"
+
+msgid "userViewBalloonTitle"
+msgstr ""
+"மேம்பட்ட தேடலைப் பயன்படுத்திக் கண்டுபிடித்த சுயவிவரங்களைக் காண, நீங்கள் சூப்பர்பவரை "
+"செயல்படுத்த வேண்டும்."
+
+msgid "walletBalanceChangesAmount"
+msgstr "தொகை"
+
+msgid "walletBalanceChangesBalance"
+msgstr "தற்போதைய கணக்கு மீதி"
+
+msgid "walletBalanceChangesCode"
+msgstr "குறியீடு"
+
+msgid "walletBalanceChangesDescription"
+msgstr "விளக்கம்"
+
+msgid "walletBalanceChangesPrice"
+msgstr "விலை"
+
+msgid "walletBalanceChangesProductId"
+msgstr "தயாரிப்பு"
+
+msgid "walletBalanceChangesTimestamp"
+msgstr "நேரம்"
+
+msgid "walletBalanceChangesUserId"
+msgstr "பயனர்"
+
+msgid "walletProductsCode"
+msgstr "குறியீடு"
+
+msgid "walletProductsCreatedAt"
+msgstr "உருவாக்கத் தேதி"
+
+msgid "walletProductsCreatedBy"
+msgstr "உருவாக்கியவர்"
+
+msgid "walletProductsDescription"
+msgstr "விளக்கம்"
+
+msgid "walletProductsPrice"
+msgstr "விலை"
+
+msgid "walletProductsTitle"
+msgstr "தலைப்பு"
+
+msgid "walletProductsUpdatedAt"
+msgstr "புதுப்பிக்கப்பட்டது"
+
+msgid "walletProductsUpdatedBy"
+msgstr "புதுப்பித்தவர்"
+
+msgid "YourBalanceWasIncreasedText"
+msgstr "உங்களுக்கு %d %s கிடைத்தது. தற்போதைய மீதி %d %s."
+
+msgid "YourBalanceWasIncreasedTitle"
+msgstr "மீதி அதிகரித்தது"
+
+msgid "YourPresentHasBeenSent"
+msgstr "உங்கள் பரிசுப்பொருள் அனுப்பப்பட்டது"
+
+msgid "sendGiftDialogFilterAll"
+msgstr "அனைத்தும்"
+
+msgid "sendGiftDialogFilterFriendly"
+msgstr "நட்பாக"
+
+msgid "sendGiftDialogFilterRomantic"
+msgstr "காதலுக்குரிய"
+
+msgid "paymentDialogBuyCoins"
+msgstr "நாணயங்களைப் பெறுக"
+
+msgid "carouselNeedBuySuperstarNotice"
+msgstr "சுயவிவரங்களைக் காண, நீங்கள் சூப்பர்ஸ்டார் நிலையை <a href=\"%s\">வாங்க</a> வேண்டும்"
+
+msgid "leftMenuSearchPosition"
+msgstr "தேடல் நிலை"
+
+msgid "leftMenuVisitorsToday"
+msgstr "இன்று %s"
+
+msgid "leftMenuButtonTop"
+msgstr "TOP"
+
+msgid "leftMenuButtonSuperstar"
+msgstr "சூப்பர்ஸ்டார்"
+
+msgid "leftMenuBalance"
+msgstr "பேலன்ஸ்"
+
+msgid "balanceChangeTitle"
+msgstr "பேலன்ஸை மாற்றுக"
+
+msgid "balanceChangeBuyProductDecreaseTitle"
+msgstr "பொருட்களை வாங்குதல்"
+
+msgid "balanceChangeByAdminTitle"
+msgstr "நிர்வாகியால் மீதியை மாற்றுதல்"
+
+msgid "balanceChangeDailyTitle"
+msgstr "தினசரி மீதியை அதிகரித்தல்"
+
+msgid "balanceChangePSIncreaseTitle"
+msgstr "நாணயங்களைப் பெறுக"
+
+msgid "userProfileAddPresentBaitF"
+msgstr "அவளுக்கு ஒரு பரிசுப்பொருள் அனுப்புங்கள், அவள் உங்களைக் கவனிப்பாள்!"
+
+msgid "userProfileAddPresentBaitM"
+msgstr "அவனுக்கு ஒரு பரிசுப்பொருள் அனுப்புங்கள், அவன் உங்களைக் கவனிப்பான்!"
+
+msgid "mailTemplateTitleNewPresent"
+msgstr ""
+"%name%, நீங்கள் %host% இல் %sender_name% இடமிருந்து ஒரு புதிய பரிசுப்பொருளைப் "
+"பெற்றுள்ளீர்கள்"
+
+msgid "mailTemplateBodyNewPresent"
+msgstr ""
+"<a href='%sender_profile_url%'>அனுப்புநர் பெயர்</a> உங்களுக்கு ஒரு பரிசுப்பொருளை "
+"அனுப்பியுள்ளார். இதை நீங்கள் உங்கள் <a href='%profile_url%'>சுயவிவரத்தில்</a> பார்க்கலாம்."
+
+msgid "balanceChangeBuyProductSuperstarDecreaseTitle"
+msgstr "சூப்பர்ஸ்டார் நிலையின் செயல்படுத்தலுக்கான கட்டணம்."
+
+msgid "balanceChangeBuyProductPresentDecreaseTitle"
+msgstr "பரிசுப்பொருள் வாங்குவதற்கான கட்டணம்"
+
+msgid "balanceChangeBuyProductTopFacesDecreaseTitle"
+msgstr "உங்கள் பிரபலத்தை அதிகரிப்பதற்கான கட்டணம்"
+
+msgid "userTransactionsPageTitle"
+msgstr "உங்கள் தற்போதைய மீதி: %d %s"
+
+msgid "userTransactionsPageDescription"
+msgstr ""
+"உங்கள் கணக்கும் வாங்குதல்கள் வரலாறும் எங்கள் வலைத்தளத்திலுள்ளன.<br /> “கணக்கு நிலை” "
+"என்பதில், உங்கள் கணக்கின் தற்போதைய நிலையைப் பற்றிய ஒரு பட்டியலை பார்த்து<br /> தொடர்பான "
+"ஆவணங்களை அச்சிடலாம். “வாங்குதல் வரலாறு” என்பதில் நீங்கள் உங்கள் செலவுகள் மற்றும் கடந்தகால "
+"வாங்குதல்களின் பட்டியலைக் காணலாம்."
+
+msgid "userTransactionsPageLinkTypeExpenses"
+msgstr "கணக்கு நிலை"
+
+msgid "userTransactionsPageLinkTypeIncomes"
+msgstr "வாங்குதல் வரலாறு"
+
+msgid "userTransactionsPageTableHeaderCol1"
+msgstr "பரிமாற்றம்"
+
+msgid "userTransactionsPageTableHeaderCol2"
+msgstr "தேதி"
+
+msgid "userTransactionsPageTableHeaderCol3"
+msgstr "தொகை"
+
+msgid "userTransactionsPageLinkAll"
+msgstr "அனைத்தையும் காண்க"
+
+msgid "monetizationInfoPageLinkTransactions"
+msgstr "கட்டணங்களைச் செலுத்துதல்"
+
+msgid "SuperstarPaymentWasPurchasedTitle"
+msgstr "நீங்கள் வெற்றிகரமாக சூப்பர்ஸ்டார் நிலையை செயல்படுத்தியுள்ளீர்கள்!"
+
+msgid "monetizationInfoPageLinkRecharge"
+msgstr "நாணயங்களைப் பெறுக"
+
+msgid "messageNewPresentText"
+msgstr ""
+
+msgid "superstarInfoPageTitle"
+msgstr "சூப்பர்ஸ்டார் ஆகுக!"
+
+msgid "superstarInfoPageTitleNotice"
+msgstr ""
+"சூப்பர்ஸ்டார் பயன்முறையானது கூடுதல் நபர்களை, வேகமாகச் சந்திக்க உங்களுக்கு உதவுகிறது."
+
+msgid "superstarInfoPageEncountersTitle"
+msgstr "நேரடிச் சந்திப்புகள் - உங்களை யார் சந்திக்க விரும்புகிறார் என்பதைக் கண்டுபிடிக்கவும்"
+
+msgid "superstarInfoPageEncountersNotice"
+msgstr ""
+"’ஆம்’ என்று கூறியது யார் என்பதை கண்டுபிடிக்க நேரடிச் சந்திப்புகள் கோப்புறையைப் பெறுக!"
+
+msgid "superstarInfoPageAdvancedSearchTitle"
+msgstr "மேம்பட்ட தேடல்"
+
+msgid "superstarInfoPageAdvancedSearchNotice"
+msgstr "நீங்கள் தேடுவதுடன் மிகச்சரியாகப் பொருந்தும் சுயவிவரங்களைச் சரிபார்க்கவும்."
+
+msgid "superstarInfoPageInvisibleModeTitle"
+msgstr "புலப்படாத பயன்முறை"
+
+msgid "superstarInfoPageInvisibleModeNotice"
+msgstr ""
+"புலப்படாதவாறு மற்ற உறுப்பினர்களின் சுயவிவரங்களைக் காண்க! நீங்கள் அங்கு இருப்பதை அவர்கள் "
+"ஒருபோதும் அறியமாட்டார்கள்..."
+
+msgid "superstarInfoPageLimitsTitle"
+msgstr "வரம்புகள் எதுவும் இல்லை"
+
+msgid "superstarInfoPageLimitsNotice"
+msgstr "வரம்பற்ற பந்தய ஓட்டங்கள், தேடல்கள் மற்றும் அரட்டைகள்."
+
+msgid "superstarInfoPageButtonBuy"
+msgstr "சூப்பர்ஸ்டார் ஆகுக"
+
+msgid "superstarInfoPageButtonRun"
+msgstr "இதை இலவசமாக முயற்சிசெய்க"
+
+msgid "or"
+msgstr "அல்லது"
+
+msgid "close"
+msgstr "மூடுக"
+
+msgid "YouHaveReceivedAGift"
+msgstr "நீங்கள் ஒரு பரிசுப்பொருளைப் பெற்றுக்கொண்டீர்கள்"
+
+msgid "YouHaveMadeAGift"
+msgstr "நீங்கள் ஒரு பரிசுப்பொருளை அனுப்பிவிட்டீர்கள்"
+
+msgid "paymentDialogWidgetTermsOfUseText"
+msgstr ""
+"'#button#' ஐ அழுத்துவதன் மூலம் நீங்கள், #domain# இல் பயன்படுத்தக்கூடிய #starAmount# "
+"#coins# க்காக #paySystemName# #moneyAmount# #moneyCurrency# இலிருந்து பணத்தை "
+"எடுத்துக்கொள்ள #ltd# ஐ அனுமதிக்கிறீர்கள் மற்றும் நீங்கள் பின்வரும் #siteName# இல் நாணயத்தின் "
+"பயன்பாட்டு விதிமுறைகளை ஏற்றுக்கொள்கிறீர்கள். நீங்கள் கட்டணம் செலுத்தும் முறையை மாற்ற "
+"விரும்பினால், உங்கள் அமைப்புகளைப் புதுப்பித்துக் கொள்ளலாம். <br/> <br/>#siteName# இல் "
+"நாணயங்களின் பயன்பாட்டு விதிமுறைகள்:<br/> <br/>1. நீங்கள் நாணயங்களை வாங்கும்போது அல்லது "
+"பெறும்போது, நீங்கள் அந்த நாணயங்களுக்கு சொந்தக்காரர் அல்ல. ஆனால் #siteName# ஆல் வழங்கப்படும் "
+"பரிசுப்பொருட்கள், Superstar நிலை, போன்ற அம்சங்களை வாங்குவதற்கு இந்த நாணயங்களைப் "
+"பயன்படுத்தும் உரிமை உங்களுக்கு உள்ளது. <br/>2. நாணயங்களை வாங்குதல்கள் பணத்தைத் "
+"திரும்பப்பெற முடியாதவை. <br/>3. நாங்கள் எந்த நேரத்திலும் நாணயங்களுக்கான வாங்கும் "
+"விலையை, அதோடு வலைத்தளத்தில் அவற்றைப் பயன்படுத்தக்கூடிய வழிகளை மாற்றலாம். நாணயங்களை "
+"வழங்குவதை நிறுத்துகின்ற உரிமையையும் எங்களுக்கென வைத்திருக்கிறோம். <br/>4. நாங்கள் "
+"எழுத்தில் இணங்கினால் அன்றி நாணயங்களை எந்தவொரு பணத்தொகைக்கும் அல்லது பணஞ்சார்ந்த மதிப்புக்கும் "
+"விலைகொடுத்துத் திரும்பிவாங்க முடியாது. <br/>5. பயன்படுத்தாத நாணயங்கள் அவற்றை வாங்கி 6 "
+"மாதங்களின் பின்னர் காலாவதியாகின்றன. <br/>6. உங்கள் கணக்கை நீங்கள் நீக்கிவிட்டால் அல்லது "
+"பயன்பாட்டு விதிமுறைகளை மீறியதற்காக #siteName# இன் நெறியாளர்களால் உங்கள் கணக்கு "
+"நிறுத்தப்பட்டுவிட்டால், நீங்கள் ஒன்றுசேர்க்கப்பட்ட நாணயங்கள் அனைத்தையும் இழப்பீர்கள். <br/>7. "
+"மேம்பாடுகள் மூலம் நீங்கள் இலவச நாணயங்களைப் பெற்றால், அவற்றை காலாவதியாக்கும் உரிமையை நாங்கள் "
+"தக்கவைத்திருக்கிறோம். <br/> <br/> கட்டணங்கள் #ltd# ஆல் செயலாக்கப்படுகின்றன."
+
+msgid "payonlineTetmsOfUse"
+msgstr ""
+"<p>இறுதிக் கட்டணத் தொகை, வலை முகவரி அல்லது நிறுவனப் பெயர், ஒரு பணியின் அடையாளங்காட்டி "
+"(எண்) அல்லது பணம்செலுத்த உத்தரவாதமுள்ள கட்டளை.</p><p>உங்கள் தனிப்பட்ட தகவல்கள் PayOnline "
+"முறைமையில் தன்னந்தனியாக சேமிக்கப்படுகிறது. பொது அதிகாரசபைகளிடமிருந்து எழுத்திலுள்ள "
+"கோரிக்கையைச் சமர்ப்பிப்பதன் மூலம் Russian Federation இன் பொருத்தமான சட்டத்துக்கு "
+"இணங்கினால் அன்றி, எந்தவொரு சந்தர்ப்பங்களின் கீழும் இந்தத் தகவல்கள் மூன்றாம் தரப்புகளுக்கு "
+"வெளிப்படுத்தப்பட மாட்டாது என்று உத்தரவாதமளிக்கிறோம்.</p><p>PayOnline Systems Ltd. "
+"ஆனது பதிவு எண் 10-0104880 இன் கீழ் Federal Register of Operators உடன் "
+"பதிவுசெய்யப்படுகிறது மற்றும் இயல்பான நபர்களின் தனிப்பட்ட தரவுகளைச் சேகரித்து, சேமித்து, "
+"செயலாக்கவென உத்தேசிக்கப்படுகிறது.</p><p>உங்கள் கிரெடிட் கார்டு தகவலானது பரிமாற்ற "
+"சமயத்தில் மட்டுமே பயன்படுத்தப்படும். மேலும் இது பெறுகின்ற வங்கிக்கு பாதுகாப்பான நெறிமுறை "
+"வழியாக ஒரு குறியாக்கப்பட்ட வடிவத்திலேயே அனுப்பப்படுகிறது. உங்கள் கிரெடிட் கார்டின் "
+"விவரங்கள் PayOnline முறைமையில் சேமிக்கப்படுவதில்லை, ஆகவேதான், எந்தவொரு சந்தர்ப்பங்களின் "
+"கீழும் அதை மூன்றாம் தரப்புகளுக்கு பரிமாற முடியாது.</p><p>கட்டணம் தொடர்பாக உங்களுக்கு "
+"ஏதேனும் கேள்விகள் இருந்தால், தொலைபேசி மூலம் +8 (800) 7000 729 (ரஷ்யாவில் கட்டணமில்லை), "
+"+7 (495) 666 2143 ஆகிய எண்களை அழைத்து; அல்லது மின்னஞ்சல் மூலம் support@payonline.ru "
+"என்ற முகவரியிலும் வாடிக்கையாளர் ஆதரவைத் தொடர்புகொள்க.</p><p>நீங்கள், Lovetime.com ID "
+"ஐப் பயன்படுத்தி உங்கள் வங்கி அறிக்கையில் இந்த கட்டணத்தைக் கண்டுபிடிக்கலாம்.</p><p>உங்கள் IP- "
+"முகவரி உங்கள் தனிப்பட்ட தகவலின் அங்கீகரிக்கப்படாத பயன்பாட்டைத் தடுப்பதற்காக சேமிக்கப்படும் "
+"என்பதை கவனத்தில் கொள்க. தனிப்பட்ட தகவலின் ஏதாவது அங்கீகரிக்கப்படாத பயன்பாடானது ஆபத்தானதாக "
+"எடுத்துரைக்கப்பட்டு, நிறுத்தப்பட்டு, வழக்குத் தொடரப்படும்.</p>"
+
+msgid "unsubscribeWrongEmail"
+msgstr "தவறான மின்னஞ்சல் முகவரி"
+
+msgid "contestMain"
+msgstr ""
+
+msgid "contestFindYourLove"
+msgstr "உங்கள் காதலரைக் கண்டுபிடியுங்கள்"
+
+msgid "contestIncreaseChanceSuccess"
+msgstr "வெற்றிக்கான வாய்ப்புகளை அதிகரிக்கவும்"
+
+msgid "contestOr"
+msgstr "அல்லது"
+
+msgid "contestFindLove"
+msgstr "காதலரைக் கண்டுபிடியுங்கள்"
+
+msgid "contestResult"
+msgstr "முடிவு"
+
+msgid "contestSelectAll"
+msgstr "எல்லாம் தேர்ந்தெடு"
+
+msgid "contestPhotoPhrase1"
+msgstr "புகைப்படம் இல்லையா? பரிசுப்பொருட்கள் இல்லை!"
+
+msgid "contestPhotoPhrase2"
+msgstr ""
+"மன்னிக்கவும், புகைப்படங்களுடன் சரிபார்க்கப்பட்ட பயனர்கள் மட்டுமே எங்கள் சிறந்த பரிசுகளைப் பெற "
+"முடியும்,<br />தயவுசெய்து புகைப்படத்தைச் சேர்க்கவும்."
+
+msgid "contestPhotoPhrase3"
+msgstr ""
+"பதிவேற்றுவதற்கு<br /> உங்கள் கோப்பு அமைப்பிலிருந்து கோப்புகளை<br /> இங்கே இழுத்து "
+"விடவும்"
+
+msgid "contestUploadPhoto"
+msgstr "புகைப்படத்தைப் பதிவேற்று"
+
+msgid "contestImportPhoto"
+msgstr "அல்லது பின்வருவதிலிருந்து புகைப்படத்தை இறக்குமதி செய்"
+
+msgid "contestFbProfile"
+msgstr "Facebook சுயவிவரம்"
+
+msgid "contestGoogleProfile"
+msgstr "Google+ சுயவிவரம்"
+
+msgid "contestInviteMorePhrase"
+msgstr ""
+"நீங்கள் <span>%d</span> பயனர்களை அழைத்துள்ளீர்கள்...<br> அவர்களில் எவராவது வெற்றிபெற்றால்,"
+"<br> <b>நீங்களும் கூட ஒரு பரிசை வெல்வீர்கள்!</b><button class='n-d-more-"
+"button'>உங்களுக்குள்ள வாய்ப்புகளை அதிகரியுங்கள் &rarr;<ins>அதிகமானவர்களை அழையுங்கள்!</"
+"ins></button>அல்லது <a href='/' target='_blank'>உங்கள் காதலரைக் கண்டுபிடியுங்கள்</"
+"a>!"
+
+msgid "contestAnnouncePhrase1"
+msgstr ""
+"நீங்கள் <strong class='announce-contest__highlight'>%d</strong> பயனர்களை "
+"அழைத்துள்ளீர்கள்!"
+
+msgid "contestAnnouncePhrase2"
+msgstr "அவர்களில் எவரேனும் வெற்றிபெற்றால்,"
+
+msgid "contestAnnouncePhrase3"
+msgstr "நீங்களும் அதே பரிசைப் பெறுவீர்கள்!"
+
+msgid "contestAnnouncePhrase4"
+msgstr "அதிக நபர்களை அழையுங்கள்"
+
+msgid "contestAnnouncePhrase5"
+msgstr "உங்கள் வெற்றிபெறும் வாய்ப்பை அதிகரியுங்கள்."
+
+msgid "contestAnnouncePhrase6"
+msgstr "Lovetime பரிசு இழுப்பு!"
+
+msgid "contestAnnouncePhrase7"
+msgstr "கனவுகள் நனவாகின்றன..."
+
+msgid "contestAnnouncePhrase8"
+msgstr "இப்போதே பதிவு பெற்று, வெற்றிபெறுங்கள்"
+
+msgid "contest"
+msgstr "போட்டி"
+
+msgid "step1"
+msgstr "படி 1"
+
+msgid "step2"
+msgstr "படி 2"
+
+msgid "step3"
+msgstr "படி 3"
+
+msgid "contestInviteByOtherServices"
+msgstr ""
+"வெற்றிபெறுவதற்கு உங்கள் வாய்ப்புகளை அதிகரியுங்கள்!  இன்னும் ஒரு அஞ்சல்பெட்டியை (Hotmail, "
+"Yahoo, Gmail) இணையுங்கள் அல்லது <a href=\"%s\" target=\"_blank\">உங்கள் Facebook "
+"நண்பர்களை அழையுங்கள்</a> அல்லது இணைப்பு %s ஐ நகலெடுங்கள்"
+
+msgid "cntTitle"
+msgstr ""
+
+msgid "cntRegister"
+msgstr ""
+
+msgid "cntInviteFriends"
+msgstr ""
+
+msgid "cntSamePrize"
+msgstr ""
+
+msgid "cntHigherChances"
+msgstr ""
+
+msgid "cntAddFriends"
+msgstr ""
+
+msgid "cntBannerUsersOnly"
+msgstr ""
+
+msgid "cntBannerParticipatePrizeDraw"
+msgstr ""
+
+msgid "cntBannerFbDescription"
+msgstr ""
+
+msgid "cntPhotoDrag"
+msgstr ""
+
+msgid "cntPhotoUpload"
+msgstr ""
+
+msgid "cntPhotoImport"
+msgstr ""
+
+msgid "cntNext"
+msgstr ""
+
+msgid "cntNotSelected"
+msgstr ""
+
+msgid "cntInvited"
+msgstr ""
+
+msgid "cntWinsSamePrize"
+msgstr ""
+
+msgid "cntIncreaseChances"
+msgstr ""
+
+msgid "cntDropHere"
+msgstr ""
+
+msgid "cntUnselectAll"
+msgstr ""
+
+msgid "cntSelectAll"
+msgstr ""
+
+msgid "cntHours"
+msgstr ""
+
+msgid "cntMinutes"
+msgstr ""
+
+msgid "cntSeconds"
+msgstr ""
+
+msgid "emailContestSubject"
+msgstr ""
+
+msgid "emailContestTitle"
+msgstr ""
+
+msgid "emailContestJoinUs"
+msgstr ""
+
+msgid "emailContestPrizesDescriptions"
+msgstr ""
+
+msgid "emailContestRegister"
+msgstr ""
+
+msgid "emailContestTerms"
+msgstr ""
+
+msgid "emailContestClickHere"
+msgstr ""
+
+msgid "emailContestPrizes"
+msgstr ""
+
+msgid "emailContestUnsubscribe"
+msgstr ""
+
+msgid "actionNote"
+msgstr "குறிப்பை எழுது"
+
+msgid "noteEdit"
+msgstr "திருத்துக"
+
+msgid "noteRemove"
+msgstr "நீக்குக"
+
+msgid "noteSave"
+msgstr "சேமி"
+
+msgid "noteConfirmDelete"
+msgstr "நீங்கள் நிச்சயமாக இந்தக் குறிப்பை நீக்க விரும்புகிறீர்களா?"
+
+msgid "lettersCheckSpamFolder"
+msgstr ""
+"எங்கள் செய்தி வடிகட்டப்பட்டு அகற்றப்படவில்லை என்பதை உறுதிசெய்ய உங்கள் ஸ்பேம் கோப்புறையைச் "
+"சோதியுங்கள். வடிகட்டப்பட்டிருந்தால், அதைத் தேர்ந்தெடுத்து ஸ்பேம் அல்ல என்பதைக் கிளிக் செய்க."
+
+msgid "lettersMarkEmailNotSpam"
+msgstr "மேலும் இந்த மின்னஞ்சலை ஸ்பேம் அல்ல என்று குறியிடுக"
+
+msgid "pagesContacts"
+msgstr ""
+"<b>முகவரி:</b> <br /> 25/4, சொய் ரட்சதபிசக் 36, ரட்சதபிசக் ரோடு, சான்கசெம், "
+"சத்துசாக், பாங்காக் 10900 தாய்லாந்து <br /><br /> <br />ஃப்னாம் பென் டவர், 12F, #445, "
+"232/93 (மானிவாங் பௌலவாட்), ஃப்னாம் பென், கம்போடியா, 12258 <br /><br /> <br /> "
+"ரஷ்யா, மாஸ்கோ, ஸ்வோபாடி தெரு. 50, பில்ட் 3, 125364 <br /><br /> <b>மின்னஞ்சல்:</"
+"b><br /><a href=\"mailto:info@lovetime.com\">info@lovetime.com</a>"
+
+msgid "seocatalogTitleInCity"
+msgstr ""
+"%city_title% நகரில் ஒரு இளம் பெண்ணை, இளம் ஆணை, ஆணை, பெண்ணை சந்திப்பதற்கான ஒரு டேட்டிங் "
+"தளம்"
+
+msgid "seocatalogH1InCity"
+msgstr "%city_title% நகரில் டேட்டிங்"
+
+msgid "seocatalogSeeking"
+msgstr "தேடுகிறது"
+
+msgid "seocatalogAge"
+msgstr "வயது"
+
+msgid "seocatalogAppearance"
+msgstr "தோற்றம்"
+
+msgid "seocatalogOther"
+msgstr "ஏனையவை"
+
+msgid "seocatalogNext"
+msgstr "மேலும்"
+
+msgid "seocatalogWoman"
+msgstr "பெண்"
+
+msgid "seocatalogMen"
+msgstr "ஆண்"
+
+msgid "seocatalogLesbian"
+msgstr "ஓரினச்சேர்க்கை பெண்"
+
+msgid "seocatalogGay"
+msgstr "ஓரினச்சேர்க்கை ஆண்"
+
+msgid "seocatalogBisexual"
+msgstr "இருபாலினம்"
+
+msgid "seocatalogFriendship"
+msgstr "நட்பு மற்றும் தகவல்தொடர்பு"
+
+msgid "seocatalogRomanticRelations"
+msgstr "காதல் உறவுகள்"
+
+msgid "seocatalogFlirt"
+msgstr "விளையாட்டாகப் பேசி உறவாடுங்கள்"
+
+msgid "seocatalogSex"
+msgstr "பாலுறவு"
+
+msgid "seocatalogBlondes"
+msgstr "பொன்னிற மேனியர்"
+
+msgid "seocatalogBrunettes"
+msgstr "கரிய நிற மேனியர்"
+
+msgid "seocatalogBrownHair"
+msgstr "மண்ணிற முடியுள்ளவர்"
+
+msgid "seocatalogAthletic"
+msgstr "கட்டுடல் கொண்டவர்"
+
+msgid "seocatalogSlim"
+msgstr "மெல்லியவர்கள்"
+
+msgid "seocatalogHeavy"
+msgstr "கனமானவர்கள்"
+
+msgid "seocatalogForeigner"
+msgstr "வெளிநாட்டவர்"
+
+msgid "seocatalogRich"
+msgstr "பணக்காரர்"
+
+msgid "seocatalogSingle"
+msgstr "திருமணமாகாதவர்"
+
+msgid "seocatalogNoBadHabits"
+msgstr "கெட்ட பழக்கங்கள் இல்லாதவர்"
+
+msgid "chatFilterManGifts"
+msgstr ""
+"%s தன்னுடைய செய்தி வடிகட்டியை அமைத்துவிட்டார், ஆகவே நீங்கள் செய்திகளை அனுப்ப முடியாது. "
+"<b>அவருக்கு ஒரு பரிசுப்பொருள் அனுப்புங்கள்</b>. இது வரையறையை அகற்றும். அல்லது வேறு "
+"ஒருவருடன் அரட்டையடிக்க முயற்சிசெய்யுங்கள்."
+
+msgid "chatFilterWomanGifts"
+msgstr ""
+"%s தன்னுடைய செய்தி வடிகட்டியை அமைத்துவிட்டார், ஆகவே நீங்கள் செய்திகளை அனுப்ப முடியாது. "
+"<b>அவருக்கு ஒரு பரிசுப்பொருள் அனுப்புங்கள்</b>. இது வரையறையை அகற்றும். அல்லது வேறு "
+"ஒருவருடன் அரட்டையடிக்க முயற்சிசெய்யுங்கள்."
+
+msgid "modelLoginFormEmailOrNick"
+msgstr "மின்னஞ்சல்"
+
+msgid "modelLoginFormPassword"
+msgstr "கடவுச்சொல்"
+
+msgid "modelLoginFormAlien"
+msgstr "எனது கணினி இல்லை"
+
+msgid "loginErrorInvalidEmailOrPassword"
+msgstr "தவறான மின்னஞ்சல் அல்லது கடவுச்சொல்"
+
+msgid "systemForgotPassword"
+msgstr "உங்களுடைய கடவுச்சொல்லை மறந்து விட்டீர்கள்"
+
+msgid "loginErrorUserNotVisible"
+msgstr "பயனர் %s க்கு அணுகல் மறுக்கப்பட்டது."
+
+msgid "wrongEmail"
+msgstr "தவறான மின்னஞ்சல்"
+
+msgid "errorEmailExists"
+msgstr "வேறொரு மின்னஞ்சலை உள்ளிடுக"
+
+msgid "citationsDefault1"
+msgstr "ஹாய், நீங்கள் எப்படி இருக்கிறீர்கள்?"
+
+msgid "citationsDefault2"
+msgstr "ஹாய், நீங்கள் என்ன செய்கிறீர்கள்?"
+
+msgid "modelUsersValidateReservedNicks"
+msgstr "தயவுசெய்து வேறொரு புனைபெயரைத் தேர்ந்தெடுக்கவும்"
+
+msgid "registrationFormWrongDate"
+msgstr "சரியல்லாத தரவு"
+
+msgid "months1"
+msgstr "ஜனவரி"
+
+msgid "months2"
+msgstr "ஃபிப்ரவரி"
+
+msgid "months3"
+msgstr "மார்ச்"
+
+msgid "months4"
+msgstr "ஏப்ரல்"
+
+msgid "months5"
+msgstr "மே"
+
+msgid "months6"
+msgstr "ஜூன்"
+
+msgid "months7"
+msgstr "ஜூலை"
+
+msgid "months8"
+msgstr "ஆகஸ்ட்"
+
+msgid "months9"
+msgstr "செப்டம்பர்"
+
+msgid "months10"
+msgstr "அக்டோபர்"
+
+msgid "months11"
+msgstr "நவம்பர்"
+
+msgid "months12"
+msgstr "டிசம்பர்"
+
+msgid "modelSmileCode"
+msgstr "குறியீடு"
+
+msgid "modelSmileImage"
+msgstr "படிமம்"
+
+msgid "modelSmileVisible"
+msgstr "புலப்படுதன்மை"
+
+msgid "Noactive"
+msgstr "இல்லை"
+
+msgid "modelSpamersName"
+msgstr ""
+
+msgid "modelUsersName"
+msgstr "புனைபெயர்"
+
+msgid "modelUsersEmail"
+msgstr "மின்னஞ்சல்"
+
+msgid "modelComplaintsStatus"
+msgstr "நிலை"
+
+msgid "modelSpamersTime"
+msgstr ""
+
+msgid "modelSpamersMessages"
+msgstr ""
+
+msgid "modelComplaintsSenderId"
+msgstr "அனுப்புனர்"
+
+msgid "modelComplaintsCompanionId"
+msgstr "குற்றஞ்சாட்டப்பட்டவர்"
+
+msgid "modelComplaintsReasonText"
+msgstr "காரணம்"
+
+msgid "modelComplaintsComment"
+msgstr "கருத்து"
+
+msgid "modelComplaintsCompanion"
+msgstr "பிரதிவாதி"
+
+msgid "modelComplaintsSender"
+msgstr "வழக்குத் தொடர்பவர்"
+
+msgid "complainReason1"
+msgstr "ஸ்பேம், விளம்பரம்செய்தல்"
+
+msgid "complainReason2"
+msgstr "மோசடி"
+
+msgid "complainReason3"
+msgstr "நாகரிகமற்ற முன்மொழிவுகள்"
+
+msgid "complainReason4"
+msgstr "முரட்டுத்தன்மை, அச்சுறுத்தல்கள்"
+
+msgid "complainReason5"
+msgstr "உரிமையற்ற புகைப்படங்கள்"
+
+msgid "complainReason6"
+msgstr "பாலியல்சார் சேவை"
+
+msgid "photosRefuseReasonPicture"
+msgstr "வரைதல், பொருள் அல்லது விலங்கு"
+
+msgid "photosRefuseReasonErotica"
+msgstr "சிற்றின்பக்கலை, அவமதிப்பு"
+
+msgid "photosRefuseReasonFamous"
+msgstr "பிரபலம்"
+
+msgid "photosRefuseReasonSpam"
+msgstr "தேவையில்லாதது, விளம்பரம் செய்தல்"
+
+msgid "photosRefuseReasonPoorQuality"
+msgstr "மோசமான தரம்"
+
+msgid "photosRefuseReasonOnlyYouMustBeSeen"
+msgstr "நீங்கள் மட்டும் தான் தெரிய வேண்டும்"
+
+msgid "photosRefuseReasonNotVisibleFace"
+msgstr "புலப்படாத முகம்"
+
+msgid "photosRefuseReasonChildOnThePhoto"
+msgstr "புகைப்படத்தில் குழந்தை"
+
+msgid "photosRefuseReasonExcessiveDecoration"
+msgstr "அதிகப்படியான அலங்கரிப்பு"
+
+msgid "photosStatusAccept"
+msgstr "ஏற்றுக்கொள்க"
+
+msgid "photosStatusRefuse"
+msgstr "மறுக்கவும்"
+
+msgid "userName"
+msgstr "பெயர்"
+
+msgid "feedbackText"
+msgstr "உரை"
+
+msgid "userWrongOldPasswError"
+msgstr "தவறான கடவுச்சொல்"
+
+msgid "userPasswTooShort"
+msgstr "புதிய கடவுச்சொல் மிகவும் குறுகியது (குறைந்தபட்சம் {min} எழுத்துக்குறிகள்)"
+
+msgid "dateFormat"
+msgstr "மதிப்புகள் தேதி.மாதம்.ஆண்டு வடிவமைப்பில் இருக்க வேண்டும்"
+
+msgid "modelUsersValidateRequireMessage"
+msgstr "புலம் %s தேவைப்படுகிறது"
+
+msgid "modelUsersLookingFor"
+msgstr "நான் தேடுவது"
+
+msgid "modelUsersPassword"
+msgstr "கடவுச்சொல்"
+
+msgid "modelUsersOldPassword"
+msgstr "தற்போதைய கடவுச்சொல்"
+
+msgid "modelUsersNewPassword"
+msgstr "புதிய கடவுச்சொல்"
+
+msgid "modelUsersVisible"
+msgstr "புலப்படுதன்மை"
+
+msgid "modelUsersRole"
+msgstr "குழு"
+
+msgid "modelUsersPhone"
+msgstr "தொலைபேசி எண்"
+
+msgid "modelUsersVkId"
+msgstr "ஐ.டி Vkontakte"
+
+msgid "modelUsersFacebookId"
+msgstr "ஐ.டி Facebook"
+
+msgid "modelUsersTwitterId"
+msgstr "ஐ.டி Twitter"
+
+msgid "modelUsersAvatar"
+msgstr "அவதாரம்"
+
+msgid "modelUsersDefaultAvatar"
+msgstr "இயல்பான அவதாரம்"
+
+msgid "modelUsersCity"
+msgstr "நகரம்"
+
+msgid "modelUsersCountry"
+msgstr "நாடு"
+
+msgid "modelUsersResidence"
+msgstr "இருப்பிடம்"
+
+msgid "modelUsersLat"
+msgstr "அட்சரேகை"
+
+msgid "modelUsersLng"
+msgstr "தீர்க்கரேகை"
+
+msgid "modelUsersAbout"
+msgstr "என்னைப் பற்றி"
+
+msgid "profileStatus"
+msgstr "நிலை"
+
+msgid "modelUsersIntroduceMyself"
+msgstr "எனது நிலை"
+
+msgid "modelUsersWantToMeet"
+msgstr "கண்டுபிடிக்க விரும்புவது"
+
+msgid "modelUsersPreferredAge"
+msgstr "விருப்பமான வயது"
+
+msgid "dateofbirth"
+msgstr "பிறந்த தேதி"
+
+msgid "modelUsersHeight"
+msgstr "உயரம்"
+
+msgid "modelUsersWeight"
+msgstr "எடை"
+
+msgid "modelUsersPhysique"
+msgstr "உடல் வகை"
+
+msgid "modelUsersColor"
+msgstr "முடி நிறம்"
+
+msgid "modelUsersColorEyes"
+msgstr "கண் நிறம்"
+
+msgid "modelUsersSign"
+msgstr "இராசி"
+
+msgid "modelUsersType"
+msgstr "டேட்டிங்கின் நோக்கம்"
+
+msgid "modelUsersAcquainted"
+msgstr "நான் அறிமுகமானேன் ..."
+
+msgid "modelUsersBed"
+msgstr "பாலினத்தில் நான் விரும்புவது"
+
+msgid "modelUsersExcites"
+msgstr "இது குறித்து பதட்டமாக உள்ளேன்"
+
+msgid "modelUsersStatus"
+msgstr "உறவு நிலை"
+
+msgid "modelUsersChildren"
+msgstr "குழந்தைகள்"
+
+msgid "modelUsersOrientation"
+msgstr "பாலின ஈர்ப்பு"
+
+msgid "modelUsersSmoking"
+msgstr "புகைப்பிடித்தல்"
+
+msgid "modelUsersAlcohol"
+msgstr "குடிப்பழக்கம்"
+
+msgid "modelUsersEducation"
+msgstr "கல்வி"
+
+msgid "modelUsersJob"
+msgstr "வேலை"
+
+msgid "modelUsersIncome"
+msgstr "வருமானம்"
+
+msgid "modelUsersLove_work"
+msgstr "வேலையில் நான் விரும்புவது"
+
+msgid "modelUsersLove_institute"
+msgstr "பல்கலைக்கழகத்தில் நான் விரும்புவது"
+
+msgid "modelUsersLove_go"
+msgstr "நான் சென்றுபார்க்க விரும்புகிறேன்"
+
+msgid "modelUsersLove_music"
+msgstr "பிடித்த இசை"
+
+msgid "modelUsersBan"
+msgstr "தடைசெய்க"
+
+msgid "modelUsersSendEmails"
+msgstr "மின்னஞ்சல் மூலம் அறிவிப்புகளைப் பெறுக"
+
+msgid "modelUsersSounds"
+msgstr "ஒலிச் செய்தியை இயக்குக"
+
+msgid "modelUsersShowPixeledImages"
+msgstr "அறியாத நபர்களுக்கு தெளிவற்ற புகைப்படங்களைக் காண்பிக்கவும்"
+
+msgid "modelUsersHideImages"
+msgstr "ஒரு புகைப்படத்தை மறைக்கவும்"
+
+msgid "modelUsersTimeZone"
+msgstr "நேர மண்டலம்"
+
+msgid "moduleUsersAutoSelectTimeZone"
+msgstr "தானாகவே வரையறுக்கவும்"
+
+msgid "modelUsersRegistered"
+msgstr "பதிவுசெய்யப்பட்டவர்"
+
+msgid "modelUsersInvitedBy"
+msgstr "அழைப்பு"
+
+msgid "modelUsersLoginWithToken"
+msgstr "மின்னஞ்சல் இணைப்பிலிருந்து தானியங்கு உள்நுழைவு"
+
+msgid "physiqueSlim"
+msgstr "மெல்லிய"
+
+msgid "physiqueAverage"
+msgstr "சராசரியான"
+
+msgid "physiqueAthletic"
+msgstr "கட்டுடல் கொண்ட"
+
+msgid "physiqueMuscular"
+msgstr "பருத்த உடலமைப்புடைய"
+
+msgid "physiqueHeavy"
+msgstr "கனமான"
+
+msgid "physiqueFull"
+msgstr "ஒரு சில கூடுதல் பவுண்டுகள்"
+
+msgid "colorEyesBrown"
+msgstr "மண்ணிறம்"
+
+msgid "colorEyesGreen"
+msgstr "பச்சை"
+
+msgid "colorEyesBlue"
+msgstr "நீலம்"
+
+msgid "colorEyesGray"
+msgstr "சாம்பல்"
+
+msgid "colorEyesBlack"
+msgstr "கறுப்பு"
+
+msgid "colorEyesHazel"
+msgstr "செம்பழுப்பு"
+
+msgid "smokingDoNotSmoke"
+msgstr "இல்லை"
+
+msgid "smokingRarely"
+msgstr "சிலவேளைகளில்"
+
+msgid "smokingGiving"
+msgstr "வெளியேற முயற்சித்தல்"
+
+msgid "smokingOften"
+msgstr "அடிக்கடி"
+
+msgid "alcoholDoNotDrink"
+msgstr "ஒருபோதுமில்லை"
+
+msgid "alcoholILikeToDrink"
+msgstr "அடிக்கடி"
+
+msgid "alcoholOnHolidays"
+msgstr "சமூக ரீதியாக"
+
+msgid "educationSecondary"
+msgstr "உயர் பள்ளி"
+
+msgid "educationTechnical"
+msgstr "இரண்டு-ஆண்டுக் கல்லூரி"
+
+msgid "educationHigher"
+msgstr "கல்லூரி/பல்கலைக்கழகம்"
+
+msgid "incomeLow"
+msgstr "குறைவு"
+
+msgid "incomeMedium"
+msgstr "இடைத்தரம்"
+
+msgid "incomeHigh"
+msgstr "அதிகம்"
+
+msgid "systemAdministrator"
+msgstr "நிர்வாகி"
+
+msgid "childrenNo"
+msgstr "இல்லை"
+
+msgid "childrenYes"
+msgstr "ஆம்"
+
+msgid "signAries"
+msgstr "மேஷம்"
+
+msgid "signTaurus"
+msgstr "ரிஷபம்"
+
+msgid "signTwins"
+msgstr "மிதுனம்"
+
+msgid "signCancer"
+msgstr "கடகம்"
+
+msgid "signLion"
+msgstr "சிம்மம்"
+
+msgid "signVirgo"
+msgstr "கன்னி"
+
+msgid "signLibra"
+msgstr "துலாம்"
+
+msgid "signScorpio"
+msgstr "விருச்சிகம்"
+
+msgid "signSagittarius"
+msgstr "தனுசு"
+
+msgid "signCapricorn"
+msgstr "மகரம்"
+
+msgid "signAquarius"
+msgstr "கும்பம்"
+
+msgid "signPisces"
+msgstr "மீனம்"
+
+msgid "changeFieldInSearch"
+msgstr "சுறுசுறுப்பான தேடல்"
+
+msgid "changeFieldHasAFriend"
+msgstr "உறவுமுறையில்"
+
+msgid "changeFieldMarried"
+msgstr "திருமணமானவர்"
+
+msgid "changeFieldNotInSearch"
+msgstr "பார்க்கவில்லை"
+
+msgid "changeFieldBreaked"
+msgstr "விவாகரத்துப் பெற்றவர்"
+
+msgid "haircolorLight"
+msgstr "பொன் மேனியர்"
+
+msgid "haircolorDark"
+msgstr "கருமையான"
+
+msgid "haircolorRed"
+msgstr "சிவப்பு"
+
+msgid "haircolorTanned"
+msgstr "வரிவரியாக உள்ள"
+
+msgid "haircolorBright"
+msgstr "பிரகாஷமான"
+
+msgid "haircolorWhite"
+msgstr "சாம்பல்"
+
+msgid "haircolorSkin"
+msgstr "சவரம் செய்த"
+
+msgid "haircolorBald"
+msgstr "வழுக்கை"
+
+msgid "changeFieldHetero"
+msgstr "நேரான"
+
+msgid "changeFieldGay"
+msgstr "ஓரினச்சேர்க்கை ஆண்/ ஓரினச்சேர்க்கைப் பெண்"
+
+msgid "changeFieldBi"
+msgstr "இருபாலுக்குரிய"
+
+msgid "ofWoman"
+msgstr "பெண்"
+
+msgid "ofMan"
+msgstr "ஆண்"
+
+msgid "introduceMyselfOnlyMyself"
+msgstr "திருமணமாகாதவர்"
+
+msgid "introduceMyselfAsPair"
+msgstr "ஜோடி"
+
+msgid "changeFieldFriendship"
+msgstr "நட்பு மற்றும் தகவல்தொடர்பு"
+
+msgid "changeFieldFlirt"
+msgstr "விளையாட்டாக பேசி உறவாடு"
+
+msgid "changeFieldRomantic"
+msgstr "காதல்சார் உறவுகள்"
+
+msgid "changeFieldSex"
+msgstr "செக்ஸ்"
+
+msgid "changeFieldAtWork"
+msgstr "வேலையில்"
+
+msgid "changeFieldNeighbor"
+msgstr "அக்கம்பக்கத்தில்"
+
+msgid "changeFieldSchool"
+msgstr "பள்ளியில் / பல்கலைக்கழகத்தில்"
+
+msgid "changeFieldStreet"
+msgstr "தெருவில்"
+
+msgid "changeFieldOral"
+msgstr "வாய்வழி செக்ஸ்"
+
+msgid "changeFieldAnal"
+msgstr "ஏனல் செக்ஸ்"
+
+msgid "changeFieldGroup"
+msgstr "குழு உடலுறவு"
+
+msgid "changeFieldPublic"
+msgstr "வழக்கத்துக்கு மாறான இடங்களில் உடலுறவு"
+
+msgid "changeFieldRoleplay"
+msgstr "ரோல் பிளேகள்"
+
+msgid "changeFieldToys"
+msgstr "பொம்மைகள்"
+
+msgid "changeFieldBdsm"
+msgstr "சாடோமசோஷிஸ்ம்"
+
+msgid "changeFieldClassicSex"
+msgstr "கிளாசிக் செக்ஸ்"
+
+msgid "changeFieldSmells"
+msgstr "மணங்கள்"
+
+msgid "changeFieldHighHair"
+msgstr "முடியிருக்கும் தன்மை"
+
+msgid "changeFieldTattoo"
+msgstr "டாட்டூ மற்றும் பியர்ஸிங்"
+
+msgid "changeFieldDarkskin"
+msgstr "கருமையான உடல்நிறம்"
+
+msgid "changeFieldUnderwear"
+msgstr "அண்டர்வேர்"
+
+msgid "changeFieldUniform"
+msgstr "யூனிஃபார்ம்"
+
+msgid "changeFieldStockings"
+msgstr "ஸ்டாக்கிங்ஸ்"
+
+msgid "changeFieldFootwear"
+msgstr "ஃபுட்வேர்"
+
+msgid "changeFieldDominate"
+msgstr "ஆதிக்கம் அல்லது அடங்குதல்"
+
+msgid "changeFieldBondage"
+msgstr "கட்டுப்பாடு மற்றும் அசைக்க முடியாத தன்மை"
+
+msgid "changeFieldPain"
+msgstr "வலி"
+
+msgid "monthsJan"
+msgstr "ஜனவரி"
+
+msgid "monthsFeb"
+msgstr "ஃபிப்ரவரி"
+
+msgid "monthsMar"
+msgstr "மார்ச்"
+
+msgid "monthsApr"
+msgstr "ஏப்ரல்"
+
+msgid "monthsMay"
+msgstr "மே"
+
+msgid "monthsJun"
+msgstr "ஜூன்"
+
+msgid "monthsJul"
+msgstr "ஜூலை"
+
+msgid "monthsAug"
+msgstr "ஆகஸ்ட்"
+
+msgid "monthsSep"
+msgstr "செப்டம்பர்"
+
+msgid "monthsOct"
+msgstr "அக்டோபர்"
+
+msgid "monthsNov"
+msgstr "நவம்பர்"
+
+msgid "monthsDec"
+msgstr "டிசம்பர்"
+
+msgid "removingProfileCauseIPlaGoBack"
+msgstr "தற்காலிகமாக தளத்தை விட்டுச் செல்கிறேன், ஆனால் நான் திரும்பி வருவேன்."
+
+msgid "profileLastVisit"
+msgstr "கடைசி வருகை"
+
+msgid "dateToday"
+msgstr "இன்று"
+
+msgid "dateYesterday"
+msgstr "நேற்று"
+
+msgid "date2DaysAgo"
+msgstr "நேற்று முன்தினம்"
+
+msgid "profileLastVisitAt"
+msgstr " "
+
+msgid "chatBigMessage"
+msgstr "செய்தி மிக நீளமானது. 2000 எழுத்துக்குறிகளை விடக் குறைவாக."
+
+msgid "errorFolderCreate"
+msgstr "நீங்கள் இந்தப் பெயருடன் கோப்புறையை ஏற்கனவே வைத்திருக்கிறீர்கள்."
+
+msgid "foldersDeleteError"
+msgstr "மன்னிக்கவும், ஒரு தேர்வுசெய்த கோப்புறையை நீக்கத் தவறியது:("
+
+msgid "noteErrorTooLong"
+msgstr "குறிப்பு 1000 எழுத்துக்குறிகளை மீறக்கூடாது"
+
+msgid "noteErrorTags"
+msgstr "குறிப்பு HTML குறிக்குழுக்களைக் கொண்டிருக்கக் கூடாது."
+
+msgid "guestsWasMan"
+msgid_plural "guestsWasWoman"
+msgstr[0] "கடைசியாகப் பார்த்தது"
+msgstr[1] "கடைசியாகப் பார்த்தவை"
+
+msgid "guestsYear"
+msgid_plural "guestsYears"
+msgstr[0] "%d ஆண்டு"
+msgstr[1] "%d ஆண்டுகள்"
+
+msgid "guestsMonth"
+msgid_plural "guestsMonths"
+msgstr[0] "%d மாதம்"
+msgstr[1] "%d மாதங்கள்"
+
+msgid "guestsDay"
+msgid_plural "guestsDays"
+msgstr[0] "%d நாள்"
+msgstr[1] "%d நாட்கள்"
+
+msgid "guestsHour"
+msgid_plural "guestsHours"
+msgstr[0] "%s மணிநேரம்"
+msgstr[1] "%s மணி"
+
+msgid "guestsMinute"
+msgid_plural "guestsMinutes"
+msgstr[0] "%s நிமிடம்"
+msgstr[1] "%s நிமிடங்கள்"
+
+msgid "guestsBack"
+msgstr "முன்பு"
+
+msgid "topfacesMessageTooShort"
+msgstr "செய்தி 140 எழுத்துக்குறிகளை மீறக்கூடாது."
+
+msgid "topfaceStatusInvalidValue"
+msgstr "நிலைப் புலம் ஆனது செல்லாத மதிப்பைக் கொண்டுள்ளது"
+
+msgid "formErrorNewPasswRepeat"
+msgstr "தவறான கடவுச்சொல்"
+
+msgid "modelLoginFormEmail"
+msgstr "மின்னஞ்சல்"
+
+msgid "modelForgotpassPassword"
+msgstr "கடவுச்சொல்"
+
+msgid "modelForgotpassPasswordRepeat"
+msgstr "மீண்டும் கடவுச்சொல்"
+
+msgid "modelFogotpassEmailExists"
+msgstr "அந்த மின்னஞ்சல் முகவரியுடன் பதிவுசெய்த பயனர் எவரும் இல்லை"
+
+msgid "modelFogotpassInvalidLink"
+msgstr "செல்லுபடியாகாத இணைப்பு"
+
+msgid "modelFogotpassPassDoNotMatch"
+msgstr "கடவுச்சொற்கள் பொருந்தவில்லை"
+
+msgid "visitors"
+msgstr ""
+
+msgid "facebookLikeShowUsYouLikeUs"
+msgstr "நீங்கள் எங்களை லைக் பண்ணுவதைக் காண்பியுங்கள்!"
+
+msgid "systemRegisterSmall"
+msgstr "பதிவு செய்தல்"
+
+msgid "chatMoveIn"
+msgstr "இதற்கு நகர்த்தவும்"
+
+msgid "chatFoldersFirst"
+msgstr "பொது"
+
+msgid "chatFoldersSecond"
+msgstr "பிடித்தவை"
+
+msgid "chatFoldersThird"
+msgstr "புறக்கணிக்கப்பட்டவை"
+
+msgid "langRussian"
+msgstr "ரஷியன்"
+
+msgid "yourPhotoHere"
+msgstr "உங்கள் புகைப்படம் இங்கே"
+
+msgid "topfacesAdd"
+msgstr "இதை&nbsp;டாப் செய்யுங்கள்!"
+
+msgid "topfacesItsYou"
+msgstr "அதுதான் நீங்கள்!"
+
+msgid "userBalloonChat"
+msgstr "ஒரு செய்தியைத் தொகுக்கவும்"
+
+msgid "userBalloonProfile"
+msgstr "சுயவிவரத்தை காண்க"
+
+msgid "topfacesDialogTitle"
+msgstr "உங்களை டாப்பில்&nbsp;சேர்க்கவும்!"
+
+msgid "topfacesDialogChoosePhoto"
+msgstr ""
+"உங்கள் புகைப்படத்தைத் தேர்ந்தெடுக்கவும் அல்லது  ஒரு புதிய&nbsp;புகைப்படத்தை <a href=\"/"
+"users/view/%s\">பதிவேற்றவும்"
+
+msgid "topfacesDialogTypeMessage"
+msgstr "ஒரு குறும் செய்தியைத் தட்டச்சுசெய்யவும்"
+
+msgid "actionSend"
+msgstr "அனுப்புக"
+
+msgid "topfacesDialogNoPhotos"
+msgstr ""
+"புகைப்படங்களை&nbsp;டாப்புக்குச் சேர்க்க, நீங்கள் முதலில் ஒரு சுயவிவரத்தை <a href=\"/"
+"users/view/%s\">பதிவேற்ற</a>&nbsp;வேண்டும்."
+
+msgid "TopFacesLimitExceeded"
+msgstr ""
+"ஒரு மணி நேரத்திற்கு ஒரு படத்துக்கு கூடுதலாக சேர்க்க அனுமதிக்கப்படுவதில்லை. தயவுசெய்து "
+"காத்திருங்கள்."
+
+msgid "emailConfirmPleaseTitle"
+msgstr ""
+"உறுதிப்படுத்த இணைப்பு உங்கள் மின்னஞ்சல் முகவரிக்கு அனுப்பப்பட்டு விட்டது. உங்கள் மின்னஞ்சல் "
+"முகவரியை உறுதி செய்த பின்னர், வலைத்தளத்திலுள்ள அனைத்து அம்சங்களுக்கும் அணுகலைப் "
+"பெறுவீர்கள். <a href='%link%'>இணைப்பை இன்னும் பெறவில்லையா</a>?"
+
+msgid "emailConfirmCheckSpam"
+msgstr ""
+"செய்திகள் வடிகட்டப்படவில்லை என்பதை உறுதிசெய்ய உங்கள் ஸ்பேம் கோப்புறையைச் சரிபார்க்கவும். "
+"அப்படி இருந்தால், தயவுசெய்து அதைத் தேர்ந்தெடுத்து, <b>ஸ்பேம் இல்லை</b> என்பதைக் கிளிக் "
+"செய்யவும்."
+
+msgid "emailConfirmPleaseNotice"
+msgstr "&nbsp;"
+
+msgid "socialLikeStr"
+msgstr "விருப்பம்"
+
+msgid "complainHead"
+msgstr "இதைப் பற்றிப் புகாரளிக்கவும்"
+
+msgid "complainIgnore"
+msgstr "அலட்சியம்செய்க"
+
+msgid "complainIgnoreDescription"
+msgstr ""
+"நீங்கள் இந்த நபரிடமிருந்து செய்திகளைப் பெற மாட்டீர்கள். பின்னர், விரும்பினால், இந்தச் "
+"செயல்பாட்டைச் செயல்தவிர்க்கலாம்."
+
+msgid "complainError1"
+msgstr "புகாருக்கான காரணத்தை குறிப்பிடவும்"
+
+msgid "complainSubmit"
+msgstr "அனுப்புக"
+
+msgid "complainOr"
+msgstr "அல்லது"
+
+msgid "complainClose"
+msgstr "ரத்துசெய்க"
+
+msgid "menuFeedback"
+msgstr "பின்னூட்டம்"
+
+msgid "menuRules"
+msgstr "விதிமுறைகள்"
+
+msgid "menuContacts"
+msgstr "தொடர்பு கொள்க"
+
+msgid "menuHelpUs"
+msgstr "எங்களுக்கு உதவவும்"
+
+msgid "flirtNear"
+msgstr "அருகிலுள்ளவர்களை கண்டுபிடிக்க"
+
+msgid "menuAbout"
+msgstr "எங்களைப் பற்றி"
+
+msgid "menuSearch"
+msgstr "தேடல்"
+
+msgid "flirtCarousel"
+msgstr "டேட்"
+
+msgid "menuChat"
+msgstr "அரட்டை"
+
+msgid "mainTitle"
+msgstr ""
+"உங்களுக்கு அறிமுகமானவர்களை, உங்களுடைய சக பணியாளர்களை மற்றும் பக்கத்து வீட்டுக்காரர்களை "
+"அழையுங்கள்..."
+
+msgid "mainTitle2"
+msgstr "மேலும் அடையாளமற்றவராகவே விளையாட்டாகப் பேசி உறவாடுங்கள்"
+
+msgid "menTitles1"
+msgstr "உங்கள் பக்கத்துவீட்டுக்காரரை விரும்புகிறீர்களா?"
+
+msgid "menTitles2"
+msgstr "உங்கள் சகபணியாளரை விரும்புகிறீர்களா?"
+
+msgid "menTitles3"
+msgstr "உங்கள் முன்னாள் நண்பருடன் விளையாட்டாகப் பேசி உறவாட விரும்புகிறீர்களா?"
+
+msgid "menTitles4"
+msgstr "உங்களுக்குச் சலிப்பாக உள்ளதா?"
+
+msgid "womanTitles1"
+msgstr "உங்கள் பக்கத்துவீட்டுக்காரரை விரும்புகிறீர்களா?"
+
+msgid "womanTitles2"
+msgstr "உங்கள் சகபணியாளரை விரும்புகிறீர்களா?"
+
+msgid "womanTitles3"
+msgstr "உங்கள் முன்னாள் நண்பருடன் விளையாட்டாகப் பேசி உறவாட விரும்புகிறீர்களா?"
+
+msgid "womanTitles4"
+msgstr "உங்களுக்குச் சலிப்பாக உள்ளதா?"
+
+msgid "menTexts1"
+msgstr ""
+"ஒரு அஞ்சலட்டை அனுப்பி அவளை <a href=\"/\">அழையுங்கள்</a>. அவளுடைய கார் விண்ட்ஷீல்டின் கீழ் "
+"அல்லது அஞ்சல் பெட்டியில் போடுங்கள்."
+
+msgid "menTexts2"
+msgstr ""
+"அவளுடைய மின்னஞ்சலைக் கண்டுபிடித்து, Lovetime க்கு <a href=\"/\">அழையுங்கள்</a>."
+
+msgid "menTexts3"
+msgstr ""
+"அவளுடைய மின்னஞ்சலை அல்லது தொலைபேசி எண்ணைக் கண்டுபிடித்து, Lovetime க்கு <a href=\"/"
+"\">அழையுங்கள்</a>."
+
+msgid "menTexts4"
+msgstr ""
+"”<a href=\"/#flirt\" class=\"top-flirt\">பேசி உறவாடு</a>” என்பதை அழுத்தி, "
+"அறிமுகப்படுத்திக் கொள்ளுங்கள்"
+
+msgid "womanTexts1"
+msgstr ""
+"ஒரு அஞ்சலட்டை அனுப்பி அவரை <a href=\"/\">அழையுங்கள்</a>. அவருடைய கார் விண்ட்ஷீல்டின் கீழ் "
+"அல்லது அஞ்சல் பெட்டியில் போடுங்கள்."
+
+msgid "womanTexts2"
+msgstr "அவருடைய மின்னஞ்சலைக் கண்டுபிடித்து, Lovetime க்கு <a href=\"/\">அழையுங்கள்</a>"
+
+msgid "womanTexts3"
+msgstr ""
+"அவருடைய மின்னஞ்சலை அல்லது தொலைபேசி எண்ணைக் கண்டுபிடித்து, Lovetime க்கு <a href=\"/"
+"\">அழையுங்கள்</a>."
+
+msgid "womanTexts4"
+msgstr ""
+"”<a href=\"/#flirt\" class=\"top-flirt\">பேசி உறவாடு</a>” என்பதை அழுத்தி, "
+"அறிமுகப்படுத்திக் கொள்ளுங்கள்."
+
+msgid "foldersTitle"
+msgstr "கோப்புறைப் பெயரை உள்ளிடுக"
+
+msgid "foldersCancel"
+msgstr "ரத்து"
+
+msgid "foldersCreate"
+msgstr "உருவாக்குக"
+
+msgid "foldersRename"
+msgstr "மறுபெயரிடுக"
+
+msgid "userBalloonCarousel"
+msgstr "தேதி"
+
+msgid "userBalloonExchange"
+msgstr "புலங்களைப் பரிமாறுக"
+
+msgid "chatBalloonMove"
+msgstr "நகர்த்துக"
+
+msgid "chatBalloonSelect1"
+msgstr "தேர்ந்தெடுத்தது"
+
+msgid "chatBalloonSelect2"
+msgstr "தேர்ந்தெடுத்தது"
+
+msgid "chatBalloonSelect3"
+msgstr "தேர்ந்தெடுத்தது"
+
+msgid "errorFolderEmpty"
+msgstr "தயவுசெய்து ஒரு கோப்புறைப் பெயரை உள்ளிடுக"
+
+msgid "dateDaysBefore"
+msgstr "நாட்களுக்கு முன்"
+
+msgid "dateMomentAgo"
+msgstr "இப்போதுதான்"
+
+msgid "dateSecondAgo_plural_1"
+msgstr "ஒரு தருணத்துக்கு முன்"
+
+msgid "dateSecondAgo_plural_2"
+msgstr "வினாடிகளுக்கு முன்"
+
+msgid "dateSecondAgo_plural_3"
+msgstr "வினாடிகளுக்கு முன்"
+
+msgid "dateMinuteAgo_plural_1"
+msgstr "ஒரு நிமிடம் முன்"
+
+msgid "dateMinuteAgo_plural_2"
+msgstr "நிமிடங்களுக்கு முன்"
+
+msgid "dateMinuteAgo_plural_3"
+msgstr "நிமிடங்களுக்கு முன்"
+
+msgid "dateCoupleMinutesAgo"
+msgstr "ஒரு சில நிமிடங்களுக்கு முன்"
+
+msgid "dateHourAgo_plural_1"
+msgstr "ஒரு மணிநேரம் முன்"
+
+msgid "dateHourAgo_plural_2"
+msgstr "மணிநேரங்களுக்கு முன்"
+
+msgid "dateHourAgo_plural_3"
+msgstr "மணிநேரங்களுக்கு முன்"
+
+msgid "messages_plural_1"
+msgstr "செய்தி"
+
+msgid "messages_plural_2"
+msgstr "செய்தி"
+
+msgid "messages_plural_3"
+msgstr "செய்திகள்"
+
+msgid "usersAddToFavorite"
+msgstr "பிடித்தவைக்குச் சேர்க்கவும்"
+
+msgid "actionBlock"
+msgstr "அலட்சியம்செய்க"
+
+msgid "chatComplain"
+msgstr "முறையிடு"
+
+msgid "usersRemoveFromFavorite"
+msgstr "பிடித்தவையிலிருந்து அகற்றுக"
+
+msgid "actionOr"
+msgstr "அல்லது"
+
+msgid "actionDelete"
+msgstr "நீக்குக"
+
+msgid "galleryClose"
+msgstr "மூடுக"
+
+msgid "galleryUploadError"
+msgstr "பதிவேற்றுகையில் ஒரு பிழை ஏற்பட்டது. தயவுசெய்து பின்னர் மீண்டும் முயற்சிசெய்க."
+
+msgid "galleryUploadFilesName"
+msgstr "படிமக் கோப்புகள்"
+
+msgid "galleryUploadPossibleFiles"
+msgstr "நீங்கள் படிமக் கோப்புகளை மட்டுமே பதிவேற்றலாம். அனுமதிக்கப்படும் வடிவமைப்புகள்:"
+
+msgid "modelUsersHasPhoto"
+msgstr "புகைப்படம்"
+
+msgid "modelUsersHasPhotoCondition"
+msgstr "புகைப்படத்துடன் "
+
+msgid "modelUsersHasNoPhotoCondition"
+msgstr "புகைப்படம் இல்லாமல்"
+
+msgid "searchHair"
+msgstr "முடியின் நிறம்"
+
+msgid "requireRegistration4MaleTitle"
+msgstr "உங்களை விட ஏராளமான தனிப்பட்ட தகவல்களை %s பகிர்ந்துள்ளார்."
+
+msgid "requireRegistration4FemaleTitle"
+msgstr "உங்களை விட ஏராளமான தனிப்பட்ட தகவல்களை %s பகிர்ந்துள்ளார்."
+
+msgid "requireRegistrationNote"
+msgstr "பிற சுயவிவரங்களைக் காணுவதற்கு, நீங்கள் பதிவுசெய்ய வேண்டும்."
+
+msgid "requireRegistrationCancel"
+msgstr "ரத்துசெய்"
+
+msgid "requireRegistrationRegister"
+msgstr "பதிவுசெய்"
+
+msgid "increaseInfoConfirmNote"
+msgstr "பிற சுயவிவரங்களைக் காண, உங்களுடையதை குறைந்தது 50% க்கு நிரப்பவேண்டும்."
+
+msgid "increaseInfoConfirmFillNow"
+msgstr "இப்போது நிரப்புக"
+
+msgid "increaseInfoConfirmCancel"
+msgstr "ரத்து"
+
+msgid "Credit Card"
+msgstr "கடன் அட்டை"
+
+msgid "registerHello"
+msgstr "ஹாய்"
+
+msgid "registerForEnd"
+msgstr ""
+"பதிவுசெய்தலை முடிக்க, எங்கள் தளத்தில் உங்களுக்கு ஒரு சுயவிவரம் உள்ளது என்பதை "
+"உறுதிசெய்யவா?"
+
+msgid "registerYes"
+msgstr "ஆம்"
+
+msgid "registerNo"
+msgstr "இல்லை"
+
+msgid "registerForEndYes"
+msgstr "தயவுசெய்து கடவுச்சொல்லை உள்ளிடுக"
+
+msgid "registerBack"
+msgstr "பின்செல்க"
+
+msgid "registerForEndNo"
+msgstr "தகவலைச் சரிபார்க்கவும்"
+
+msgid "registerUnderNick"
+msgstr ""
+"உங்களுடைய உண்மையான பெயரை இட வேண்டாம் அல்லது உங்களைக் கண்டுபிடிக்கக்கூடிய பெயரால் "
+"புனைபெயர் உருவாக்க வேண்டாம்."
+
+msgid "registerEmailTip"
+msgstr "யாரும் இதைப் பார்க்க முடியாது"
+
+msgid "birthDay"
+msgstr "நாள்"
+
+msgid "birthMonth"
+msgstr "மாதம்"
+
+msgid "birthYear"
+msgstr "வருடம்"
+
+msgid "systemLoginAllRight"
+msgstr "அனைத்தும் சரி."
+
+msgid "registerRequire"
+msgstr "தயவுசெய்து அனைத்து தேவையான புலங்களையும் நிரப்புக"
+
+msgid "socialAuthFailed"
+msgstr "அங்கீகாரம் தோல்வியுற்றது"
+
+msgid "registerAuthOk"
+msgstr ""
+"அங்கீகாரம் வெற்றிகரமானது, இப்போது நீங்கள் பிரதான பக்கத்துக்கு அனுப்பப்படுவீர்கள். அல்லது "
+"அழுத்துக"
+
+msgid "registerAuthHere"
+msgstr "இங்கே"
+
+msgid "registerAuthNone"
+msgstr "பயனர் இல்லை"
+
+msgid "registerAlreadyYes"
+msgstr "ஒரே மின்னஞ்சலைக் கொண்ட பயனர் ஏற்கனவே பதிவுசெய்யப்பட்டுள்ளார்"
+
+msgid "registerAuthFailed"
+msgstr "அதிகாரமளித்தல் தோல்வியுற்றது"
+
+msgid "registerCreateFailed"
+msgstr "பயனரை உருவாக்குவது தோல்வியுற்றது. அனைத்துப் புலங்களையும் சரிபார்க்கவும்."
+
+msgid "authFacebook"
+msgstr "Facebook வழியாக அதிகாரமளிக்கவும்"
+
+msgid "authVkontakte"
+msgstr "Vkontakte வழியாக அதிகாரமளிக்கவும்"
+
+msgid "citationNotExist"
+msgstr "மேற்கோள் காணப்படவில்லை"
+
+msgid "citationAccessDenied"
+msgstr "மேற்கோள் உங்களுக்குச் சொந்தமானது அல்ல"
+
+msgid "VIP"
+msgstr "வி.ஐ.பி"
+
+msgid "questRegister"
+msgstr "பதிவுசெய்தல்"
+
+msgid "balanceChangeInQuest"
+msgstr "இருப்பை மாற்றுதல் (விசாரணை)"
+
+msgid "superstarModelAttributeIsReseted"
+msgstr ""
+
+msgid "payonlinesystemError3"
+msgstr ""
+"கட்டணமானது உங்கள் கடன் அட்டை வழங்கும் வங்கியால் கழிக்கப்படும். உங்கள் கட்டணம் கழிக்கப்பட்டதற்குக் "
+"காரணத்தை அறிய வங்கியைத் தொடர்புகொண்டு, பின்னர் மீண்டும் முயற்சிசெய்க."
+
+msgid "payonlinesystemError2"
+msgstr ""
+"கடன் அட்டையால் பணம் செலுத்துவது சாத்தியமில்லை. நீங்கள் வேறொரு கட்டண முறையைப் பயன்படுத்த "
+"வேண்டும்."
+
+msgid "payonlinesystemError1"
+msgstr "தொழில்நுட்ப பிழை, தயவுசெய்து பின்னர் மீண்டும் முயற்சிசெய்க."
+
+msgid "payonlinesystemError0"
+msgstr "கட்டணம் செலுத்துவது சாத்தியமில்லை."
+
+msgid "seocatalogTitleDatingSite"
+msgstr ""
+"இது இளம் பெண்கள் மற்றும் பெண்கள், இளைஞர்கள் மற்றும் ஆண்களைச் சந்திப்பதற்கான ஒரு டேட்டிங் தளம்."
+
+msgid "seocatalogH1DatingSite"
+msgstr "ஒரு டேட்டிங் தளம்"
+
+msgid "seocatalogH1CountriesAndCities"
+msgstr "நாடுகள் மற்றும் நகரங்கள்"
+
+msgid "seocatalogTitleDatingWithWomen"
+msgstr "இளம் பெண்கள், பெண்களுடன் டேட்டிங்."
+
+msgid "seocatalogH1DatingWithWomen"
+msgstr "பெண்களுடன் டேட்டிங்"
+
+msgid "seocatalogTitleDatingWithMen"
+msgstr "இளம் ஆண்கள், ஆண்களுடன் டேட்டிங்."
+
+msgid "seocatalogH1DatingWithMen"
+msgstr "ஆண்களுடன் டேட்டிங்"
+
+msgid "seocatalogTitleDatingWithLesbian"
+msgstr "ஓரினச்சேர்க்கை பெண்களுடன் டேட்டிங்."
+
+msgid "seocatalogH1DatingWithLesbian"
+msgstr "ஓரினச்சேர்க்கை பெண்ணுடன் டேட்டிங்"
+
+msgid "seocatalogTitleDatingWithGays"
+msgstr "ஓரினச்சேர்க்கை ஆண்களுடன் டேட்டிங்."
+
+msgid "seocatalogH1DatingWithGays"
+msgstr "ஓரினச்சேர்க்கை ஆண்களுடன் டேட்டிங்"
+
+msgid "seocatalogTitleDatingWithBisexuals"
+msgstr "இருபாலினத்தவர்களுடன் டேட்டிங்."
+
+msgid "seocatalogH1DatingWithBisexuals"
+msgstr "இருபாலினத்தவர்களுடன் டேட்டிங்"
+
+msgid "seocatalogTitleGuysGirls_18_20"
+msgstr "18 முதல் 20 வரையான வயதைச் சேர்ந்த பெண்களும் ஆண்களும்"
+
+msgid "seocatalogH1GuysGirls_18_20"
+msgstr "இளம் ஆண்களும் இளம் பெண்களும் 18-20 வயது"
+
+msgid "seocatalogTitleGuysGirls_21_25"
+msgstr "20 முதல் 25 வரையான வயதைச் சேர்ந்த ஆண்களும் பெண்களும்"
+
+msgid "seocatalogH1GuysGirls_21_25"
+msgstr "இளம் ஆண்கள் மற்றும் இளம் பெண்கள் 21-25 வயது"
+
+msgid "seocatalogTitleGuysGirls_26_30"
+msgstr "25 முதல் 30 வரையான வயதைச் சேர்ந்த பெண்களும் ஆண்களும்"
+
+msgid "seocatalogH1GuysGirls_26_30"
+msgstr "ஆண்களும் பெண்களும் 26-30 வயது"
+
+msgid "seocatalogTitleGuysGirls_31_35"
+msgstr "31 முதல் 35 வரையான வயதைச் சேர்ந்த ஆண்களும் பெண்களும்"
+
+msgid "seocatalogH1GuysGirls_31_35"
+msgstr "ஆண்களும் பெண்களும் 31-35 வயது"
+
+msgid "seocatalogTitleGuysGirls_35_40"
+msgstr "35 முதல் 40 வரையான வயதைச் சேர்ந்த பெண்களும் ஆண்களும்"
+
+msgid "seocatalogH1GuysGirls_35_40"
+msgstr "ஆண்களும் பெண்களும் 35-40 வயது"
+
+msgid "seocatalogTitleMeetingForCommunication"
+msgstr "நட்பு மற்றும் தகவல்தொடர்புக்காக சந்தியுங்கள்"
+
+msgid "seocatalogH1MeetingForCommunication"
+msgstr "தகவல்தொடர்புக்கான சந்திப்பு"
+
+msgid "seocatalogTitleMeetingRorRomanticRelations"
+msgstr "நட்பு மற்றும் தகவல்தொடர்புக்காக சந்தியுங்கள்"
+
+msgid "seocatalogH1MeetingRorRomanticRelations"
+msgstr "காதல் உறவுகளுக்கான சந்திப்பு"
+
+msgid "seocatalogTitleMeetingForFlirt"
+msgstr "விளையாட்டாகப் பேசி உறவாடுவதற்காக சந்தியுங்கள்"
+
+msgid "seocatalogH1MeetingForFlirt"
+msgstr "விளையாட்டாகப் பேசி உறவாடுவதற்கான சந்திப்பு "
+
+msgid "seocatalogTitleMeetingForCloseRelations"
+msgstr "நெருங்கிய உறவுகள், உள்ளார்ந்த தொடர்புகள் மற்றும் பாலுறவுக்காக சந்தியுங்கள்"
+
+msgid "seocatalogH1MeetingForCloseRelations"
+msgstr "நெருங்கிய உறவுகளுக்கான சந்திப்பு"
+
+msgid "seocatalogTitleBlondes"
+msgstr "பொன்னிற மேனியுள்ள ஆண்களும் பெண்களும்"
+
+msgid "seocatalogH1Blondes"
+msgstr "பொன்னிற மேனியுள்ள ஆணும் பெண்ணும்"
+
+msgid "seocatalogTitleBrunettes"
+msgstr "கரிய நிற மேனியுள்ள ஆண்களும் பெண்களும்"
+
+msgid "seocatalogH1Brunettes"
+msgstr "கரிய நிற மேனியுள்ள ஆண்களும் பெண்களும்"
+
+msgid "seocatalogTitleBrownHaired"
+msgstr ""
+"சிவந்த மேனியுள்ள ஆண்களையும் பெண்களையும் மற்றும் பொன்னிற மேனியுள்ள ஆண்களையும் பெண்களையும் "
+"சந்தியுங்கள்"
+
+msgid "seocatalogH1BrownHaired"
+msgstr "மண்ணிற முடியுள்ள ஆண்களும் பெண்களும்"
+
+msgid "seocatalogTitleDatingWithAthletic"
+msgstr "கட்டுடல் கொண்ட இளம் பெண்களை அல்லது கட்டுடல் கொண்ட இளம் ஆண்களை சந்தியுங்கள்"
+
+msgid "seocatalogH1DatingWithAthletic"
+msgstr "கட்டுடல் கொண்ட இளம் ஆண்களுடனும் இளம் பெண்களுடனும் டேட்டிங்"
+
+msgid "seocatalogTitleDatingWithSlim"
+msgstr "மெல்லிய இளம் பெண்களை அல்லது மெல்லிய இளம் ஆண்களை சந்தியுங்கள்"
+
+msgid "seocatalogH1DatingWithSlim"
+msgstr "மெல்லிய இளம் ஆண்களுடனும் இளம் பெண்களுடனும் டேட்டிங்"
+
+msgid "seocatalogTitleDatingWithHeavy"
+msgstr "கனமான இளம் பெண்களை அல்லது கனமான இளம் ஆண்களை சந்தியுங்கள்"
+
+msgid "seocatalogH1DatingWithHeavy"
+msgstr "கனமான இளம் ஆண்களுடனும் இளம் பெண்களுடனும் டேட்டிங்"
+
+msgid "seocatalogTitleDatingWithForeigners"
+msgstr "வெளிநாட்டவர் ஒருவரைச் சந்தியுங்கள்"
+
+msgid "seocatalogH1DatingWithForeigners"
+msgstr "வெளிநாட்டவர்களுடன் டேட்டிங்"
+
+msgid "seocatalogTitleDatingWithRich"
+msgstr "பணக்கார நபர்களைச் சந்தியுங்கள்"
+
+msgid "seocatalogH1DatingWithRich"
+msgstr "பணக்கார நபர்களுடன் டேட்டிங்"
+
+msgid "seocatalogTitleDatingWithSingles"
+msgstr "திருமணமாகாதவர்களைச் சந்தியுங்கள்"
+
+msgid "seocatalogH1DatingWithSingles"
+msgstr "திருமணமாகாதவர்களுடன் டேட்டிங்"
+
+msgid "seocatalogTitleDatingWithPeopleHavingNoBadHabits"
+msgstr "கெட்ட பழக்கங்கள் இல்லாத நபர்களைச் சந்தியுங்கள்"
+
+msgid "seocatalogH1DatingWithPeopleHavingNoBadHabits"
+msgstr "கெட்ட பழக்கங்கள் இல்லாத நபர்களுடன் டேட்டிங்"
+
+msgid "searchShowMore"
+msgstr "கூடுதலாகக் காண்பி"
+
+msgid "seocatalogTitleCountriesAndCities"
+msgstr "நாடுகள் மற்றும் நகரங்கள்"
+
+msgid "age"
+msgstr "வயது"
+
+msgid "modelUsersSexWoman"
+msgstr "பெண்"
+
+msgid "modelUsersSexMan"
+msgstr "ஆண்"
+
+msgid "modelUsersSexAny"
+msgstr "ஏதேனும் பாலினம்"
+
+msgid "searchUsersRegion"
+msgstr "பிராந்தியம்"
+
+msgid "actionFind"
+msgstr "கண்டுபிடி"
+
+msgid "mainTitle3Noa"
+msgstr "இலவச ஆன்லை டேட்டிங்"
+
+msgid "clockNavExactSearch"
+msgstr "சரியான தேடல்"
+
+msgid "clockNavExactSearchSubtext"
+msgstr "20க்கும் மேற்பட்ட தேடல் பண்பளவுகள்"
+
+msgid "clockNavMeetings"
+msgstr "நீங்கள் விரும்பியவரை சந்திக்க "
+
+msgid "clockNavMeetingsSubtext"
+msgstr "<b>ஒரு சில நிமிடங்களில் டேட்டிங் அழைப்புகளை</b> அனுப்ப மற்றும் பெற"
+
+msgid "clockNavInstantCommunication"
+msgstr "உடனடி தொடர்பு"
+
+msgid "clockNavInstantCommunicationSubtext"
+msgstr "அரட்டையடிக்க <b>சில வினாடிகளிலே</b> ஒருவரைக் கண்டுபிடிக்க"
+
+msgid "clockNavWhosNear"
+msgstr "அருகே இருக்கும் மக்களை சந்திக்க "
+
+msgid "clockNavWhosNearSubtext"
+msgstr ""
+"<b>நூற்றுக்கு மேலான அழகானவர்களை</b> ஒரு கிலோமீட்டர் சுற்றுவட்டாரத்திற்குள் கண்டுபிடிக்க"
+
+msgid "clockNavHasContact"
+msgstr "பலதரப்பட்ட மக்களை சந்திக்க "
+
+msgid "clockNavHasContactSubtext"
+msgstr "<b>64 மொழிகளில்</b> கிடைக்கின்ற உள்ளமைந்த மொழிபெயர்ப்பாளர்"
+
+msgid "clockNavperfectCouple"
+msgstr "அதிவிரைவு பொருத்தம்"
+
+msgid "clockNavperfectCoupleSubtext"
+msgstr "<b>முன்னமைக்கப்பட்ட வார்தைகள்</b> மூலம் 30 வினாடிகளில் சந்திப்பு"
+
+msgid "peopleHere"
+msgstr "ஏற்கனவே இங்குள்ளார்கள்"
+
+msgid "carouselFillAnketa0"
+msgstr "பந்தயத்தை விளையாட"
+
+msgid "carouselFillAnketa1"
+msgstr "தயவுசெய்து, குறிப்பிடுக"
+
+msgid "carouselFillAnketa2"
+msgstr "உங்கள் வயது, நாடு, நகரம் மற்றும் ஒரு படத்தைப் பதிவேற்றுக"
+
+msgid "flirtSearch"
+msgstr "தேடுக"
+
+msgid "pagesAbout"
+msgstr ""
+"கிட்டத்தட்ட எல்லாருமே அவர்களுடைய வாழ்நாளில் தங்களுக்கு அறிமுகமானவர்களை "
+"விரும்பியிருக்கிறார்கள். ஆனால் அவர்களில் பெரும்பாலானவர்கள் தங்களுடைய உணர்வுகளை "
+"வெளிப்படையாகக் கூறப் பயப்பட்டிருந்தனர்.<br/><br/> இச்சேவையானது இப்பிரச்சனையைத் "
+"தீர்க்கிறது. இப்போது நீங்கள் நிராகரிக்கப்படுமோ என்ற பயம் இல்லாமல் பேசி உறவாட வாய்ப்பைப் "
+"பெற்றுள்ளீர்கள்.<br/><br/>&bull; நீங்கள் உங்கள் சகபணியாளுக்கு அருகில் அமர்ந்திருக்கிறீர்கள், "
+"ஆனால் அவரை எப்படி அணுகுவதென்று தெரியவில்லையா? சேவை உதவிசெய்யும்.<br/>&bull; பள்ளி "
+"அல்லது பல்கலைக்கழக நட்சத்திரம் ஒருவருடன் அறிமுகம் ஆகவேண்டுமா? இது எளிதானது.<br/"
+">&bull; நீங்கள் உங்கள் பக்கத்து வீட்டுக்காரியை விரும்புகிறீர்களா? அவளும் உங்களை "
+"விரும்புகிறாளா என்று கேளுங்கள்.<br/><br/> நீங்கள் விரும்புகின்ற நபர் எதைத் தேடுகிறார்... "
+"காதலையா செக்ஸையா? அவர் பணியில், பள்ளியில், இதுபோன்ற இடங்களில் வேறு எவரையாவது "
+"விரும்புகிறாரா? எல்லாவற்றையும் ஒரு கிளிக்கில் நீங்கள் கண்டுபிடிக்கலாம்."
+
+msgid "pagesRulesTitle2"
+msgstr "பயன்பாட்டு விதிமுறைகள் ஒப்பந்தம்"
+
+msgid "pagesRules"
+msgstr ""
+"<h2>Lovetime வலைத்தளத்தில் (தளம்) எனது தனிப்பட்ட தகவலை இடுவதன் மூலம், "
+"பின்வருவனவற்றுக்கு நான் இணங்குகிறேன்:</h2><ol><li> நான் விதிமுறைகள் மற்றும் "
+"நிபந்தனைகளைப் படித்துவிட்டேன் என்றும் அவற்றுக்கு இணங்க நடக்கத் தயாராக இருக்கிறேன் என்றும் "
+"உறுதிசெய்கிறேன். </li><li>எனக்கு குறைந்தது 18 வயது என்றும், உள்ளூர் சட்டவிதிகளின்கீழ் "
+"நான் பெரியவராகும் வயதைப் பூர்த்திசெய்கிறேன் என்றும் உறுதிசெய்கிறேன்.</li><li>தளத்தின் "
+"அனுமதி தேவைப்படுகின்ற, நான் வெளியிடும் உள்ளடக்கம் மற்றும் தகவல் அனைத்துக்கும் நேர்மைக்கும் "
+"அதிகாரத்துக்குமான பொறுப்பை ஏற்றுக்கொள்கிறேன்.</li><li> தளமானது வயது வந்தவர்களுக்கு "
+"மட்டுமென உத்தேசிக்கப்படும் தகவலைக் கொண்டிருக்கலாம் என்பதை அறிவேன்.</li><li> உள்ளூர் "
+"சட்டவிதிகளின்கீழ் இணங்க பொருந்தக்கூடிய சட்டங்களிற்கு இணங்க தளத்தைப் பயன்படுத்துவேன் என்று "
+"வாக்குக்கொடுக்கிறேன்.தளமானது வயது வந்தவர்களுக்கு மட்டுமென உத்தேசிக்கப்படும் தகவலைக் "
+"கொண்டிருக்கலாம் என்பதை அறிவேன்.</li><li> உள்ளூர் சட்டவிதிகளின்கீழ் இணங்க பொருந்தக்கூடிய "
+"சட்டங்களிற்கு இணங்க தளத்தைப் பயன்படுத்துவேன் என்று வாக்குக்கொடுக்கிறேன். </"
+"li><li>பின்வருவனவறை மட்டும் என்றில்லாமல் ஆனால் மின்னஞ்சல் முகவரிகள், தொலைபேசி எண்கள் "
+"அல்லது வலைத்தள இணைப்புகள் உள்ளிட்ட எதையும் வெளிப்படையாக வெளிப்படுத்த மாட்டேன் என்று "
+"வாக்குறுதியளிக்கிறேன். </li><li> அவமதிக்கின்ற, அவதூறாகப் பேசுகின்ற, வெறுப்பைக் "
+"காட்டுகின்ற, இழிவான அல்லது மற்றையபடி வெறுக்கத்தக்க உள்ளடக்கம் எதையும், கொடூரம், "
+"பயங்கரவாதம் அல்லது வன்முறையின் வடிவத்தை அதிகரிக்கின்ற உள்ளடக்கம் எதையும், மனித கௌரவத்தை "
+"பாதிக்கின்ற, அதோடு ஏதேனும் பிற சட்டத்து முரணான உள்ளடக்கம் எதையும் வெளியிட மாட்டேன் என்று "
+"வாக்குறுதியளிக்கிறேன்.</li><li>பிற பயனர்களை தவறாகப் பயன்படுத்த மாட்டேன் என்றும், அவர்களை "
+"விரட்டவோ தொந்தரவு செய்யவோ மாட்டேன் என்று வாக்குறுதியளிக்கிறேன்.</li><li>பயனர்களின் "
+"கவனத்தை உற்பத்திசெய்யப்படும், விற்கப்படும், என்னால் அல்லது மற்றவர்களால் செய்யப்படும் அல்லது "
+"வழங்கப்படும் பொருட்கள், பணிகள் அல்லது சேவைகளுக்குத் திருப்ப தளத்தைப் பயன்படுத்த மாட்டேன் "
+"என்று வாக்குறுதியளிக்கிறேன். மேலும், சட்டவிரோதமான பொருட்களை விளம்பரம்செய்ய அல்லது "
+"மேம்படுத்த தளத்தைப் பயன்படுத்த மாட்டேன் என்று வாக்குறுதியளிக்கிறேன்.</li><li> தளத்தில் "
+"இடப்பட்ட எனது தகவல், தள நிர்வாகத்தால் பொறுப்பேற்கப்படாத செயல்களைச் செய்யும் மற்ற இணையப் "
+"பயனர்களால் பார்க்கப்படும் என்பதை நான் அறிவேன் </li><li>மற்றப் பயனர்களுக்கு பெயரில்லாமல் "
+"அழைப்புகளை நான் அனுப்புவதால் ஏற்படும் சாத்தியமான எதிரான விளைவுகளுக்கான முழுப் "
+"பொறுப்பையும் நான் தாங்குகிறேன். </li></ol><h2>இவற்றுக்கு தள நிர்வாகம் பொறுப்பை ஏற்காது:"
+"</h2><ol><li>பயனர்களால் வெளியிடப்படும் தகவலின் உள்ளடக்கம், செல்லுபடிகாலம் மற்றும் "
+"துல்லியம்.</li><li> மொபைல் அல்லது வேறு ஏதேனும் தகவல்தொடர்பு வழிமுறை மூலம் தளத்தைப் "
+"பயன்படுத்தும் எந்தவொரு பயனருக்கும் உண்டாக்கப்படும் தீங்கு, சேதம் அல்லது தகவலிழப்பு எதற்கும்.</"
+"li><li>தளத்திலுள்ள பயனரால் சேர்க்கப்படும் (பதிப்புரிமைச் சட்டம் உள்ளிட்ட) பொருத்தமான "
+"சட்டங்களைப் பூர்த்திசெய்யாத உள்ளடக்கத்தை வெளியிடுவதன் மூலம் பயனர் பதிப்புரிமை மற்றும் "
+"மூன்றாம் தரப்புகளின் பிற உரிமைகள் எதனதும் மீறலுக்கு </li></ol>"
+
+msgid "error404"
+msgstr "பிழை 404"
+
+msgid "pageNotFound"
+msgstr "பக்கம் இல்லை"
+
+msgid "formMustFill"
+msgstr "தேவையானது"
+
+msgid "feedbackFile"
+msgstr "ஸ்கிரீன்ஷாட்"
+
+msgid "feedbackFileTip"
+msgstr "நீங்கள் தவறுகளுள்ள ஸ்கிரீன்ஷாட்டை இணைக்கலாம்"
+
+msgid "siteCopyrightTh"
+msgstr "Lovetime.com"
+
+msgid "man"
+msgstr "ஆண்"
+
+msgid "woman"
+msgstr "பெண்"
+
+msgid "countrySelectName"
+msgstr "நாடு"
+
+msgid "citySelectName"
+msgstr "நகரம்"
+
+msgid "signupBirthDay"
+msgstr "நாள்"
+
+msgid "signupBirthMonth"
+msgstr "மாதம்"
+
+msgid "signupBirthYear"
+msgstr "ஆண்டு"
+
+msgid "systemRegister"
+msgstr "பதிவுபெறுக"
+
+msgid "signupLicenseNote"
+msgstr ""
+"«பதிவுசெய்» என்பதை கிளிக் செய்வதன் மூலம் நீங்கள் 18 வயது பூர்த்தியானவர் என்பதை உறுதிசெய்து "
+"<a href=\"/pages/rules\">பயனாளி உடன்படிக்கையை</a> ஏற்றுக்கொள்கிறீர்கள்"
+
+msgid "searchExcite"
+msgstr "செக்ஸ் உத்தரவாதக் காரணிகள்"
+
+msgid "searchExcitesHe"
+msgstr "இதைப்பற்றி பதட்டம்"
+
+msgid "searchExcitesShe"
+msgstr "இதைப்பற்றி பதட்டம்"
+
+msgid "searchFrom"
+msgstr "  "
+
+msgid "searchTo"
+msgstr "முதல்"
+
+msgid "searchSm"
+msgstr "(செ.மீ)"
+
+msgid "searchKg"
+msgstr "(கி.கி)"
+
+msgid "searchSkipCond"
+msgstr "இந்த நிபந்தனையைத் தவிர்"
+
+msgid "sexYears"
+msgstr "வயது"
+
+msgid "searchHave"
+msgstr "ஆம்"
+
+msgid "searchHaveNot"
+msgstr "இல்லை"
+
+msgid "searchHaveChildren"
+msgstr "ஆம்"
+
+msgid "searchHaveNotChildren"
+msgstr "இல்லை"
+
+msgid "searchLocationUndefined"
+msgstr "ஏதேனும் இருப்பிடம்"
+
+msgid "nearFilterOnline"
+msgstr "ஆன்லைன்"
+
+msgid "nearFilterNew"
+msgstr "புதியது"
+
+msgid "nearFilterAll"
+msgstr "அனைத்தும்"
+
+msgid "searchAddParams"
+msgstr "மேம்பட்ட விருப்பங்கள்"
+
+msgid "searchAddToSearch"
+msgstr "தேடலுக்குச் சேர்"
+
+msgid "searchChooseAddParam"
+msgstr "மேம்பட்ட விருப்பத்தைத் தேர்வுசெய்க"
+
+msgid "carouselYes"
+msgstr "ஆம்"
+
+msgid "carouselMaybeYes"
+msgstr "பெரும்பாலும்"
+
+msgid "carouselNo"
+msgstr "இல்லை"
+
+msgid "carouselLikeHim"
+msgstr "நீங்கள் அவரை டேட் செய்ய விரும்புகிறீர்களா?"
+
+msgid "carouselLikeHer"
+msgstr "நீங்கள் அவளை டேட் செய்ய விரும்புகிறீர்களா?"
+
+msgid "carouselMutualGreeting"
+msgstr "<strong>வாழ்த்துக்கள்!</strong> உங்களுக்கு பரஸ்பர அன்பு உள்ளது"
+
+msgid "carouselMutualMessageFemale"
+msgstr "உங்களைச் சந்திக்கவும் விரும்புகிறேன்"
+
+msgid "carouselMutualMessageMale"
+msgstr "உங்களைச் சந்திக்கவும் விரும்புகிறேன்"
+
+msgid "chatWithHer"
+msgstr "அவளுடன் அரட்டையடிக்கவும்"
+
+msgid "chatWithHim"
+msgstr "அவருடன் அரட்டையடிக்கவும்"
+
+msgid "chatMutualGreeting_female"
+msgstr ""
+"உங்களைச் சந்திக்க %s இணங்கினாள்! ஒரு டேட்டை ஏற்பாடு செய்ய அவள் உங்களுக்காகக் "
+"காத்திருக்கிறாள்!"
+
+msgid "chatMutualGreeting_male"
+msgstr ""
+"உங்களைச் சந்திக்க %s இணங்கினார்! ஒரு டேட்டை ஏற்பாடு செய்ய அவர் உங்களுக்காகக் "
+"காத்திருக்கிறார்!"
+
+msgid "gallerySingleUploadBtn"
+msgstr "புகைப்படத்தைப் பதிவேற்றுக"
+
+msgid "km"
+msgstr "கி.மீ"
+
+msgid "profileMeet"
+msgstr "தேதி"
+
+msgid "wannaMeet"
+msgstr "சந்திக்க விருப்பமா?"
+
+msgid "wannaMeetHer"
+msgstr "அவளைச் சந்திக்க விருப்பமா?"
+
+msgid "wannaMeetHim"
+msgstr "அவரைச் சந்திக்க விருப்பமா?"
+
+msgid "locatorSpecifyLocationPart1"
+msgstr "வரைபடத்தில், உங்கள் இருப்பிடத்தைக் குறிப்பிடுக"
+
+msgid "locatorSpecifyLocationPart2"
+msgstr "அப்போதுதான் யார் அருகில் இருக்கிறார் என்பதை நாங்கள் உங்களுக்குக் காண்பிக்கலாம்."
+
+msgid "locatorSpecifyLocationPart3"
+msgstr "குறிப்பிடுக"
+
+msgid "corrBlackListConfirm"
+msgstr "நீங்கள் செய்திகளை கறுப்புப்பட்டியலுக்கு அனுப்ப நிச்சயமாக விரும்புகிறீர்களா?"
+
+msgid "corrBlackListConfirmNote"
+msgstr "பின்னர், தேவைப்பட்டால், நீங்கள் அவற்றை மீண்டும் பெறலாம்"
+
+msgid "actionMove"
+msgstr "நகர்த்துக"
+
+msgid "actionDontMove"
+msgstr "நகர்த்த வேண்டாம்"
+
+msgid "corrDeleteFolderConfirm"
+msgstr "நீங்கள் நிச்சயமாக கோப்புறையை நீக்க விரும்புகிறீர்களா?"
+
+msgid "corrDeleteFolderConfirmNote"
+msgstr ""
+"இங்கே இருக்கும் செய்திகள் மறைந்து போகாது, அவை&nbsp;பொது&laquo;கோப்புறை&raquo;க்கு "
+"நகர்த்தப்படும்"
+
+msgid "actionDontDelete"
+msgstr "நீக்க வேண்டாம்"
+
+msgid "guestsIgnoreOk"
+msgstr ""
+"இந்தப் பயனருடன் பரிமாறிய செய்திகள்&laquo;அலட்சியம் செய்யப்பட்டவை&raquo;க்கு அகற்றப்பட்டுள்ளன"
+
+msgid "guestsIgnoreNote"
+msgstr "நீங்கள் அவற்றைப் பின்னர் பெற்றுக்கொள்ளலாம்."
+
+msgid "actionClose"
+msgstr "மூடு"
+
+msgid "actionChat"
+msgstr "அரட்டை"
+
+msgid "invitePreviewFromColleagueFemale"
+msgstr "உங்கள் சகபணியாளர் உங்களைச் சந்திக்க விரும்புகிறார்"
+
+msgid "invitePreviewFromNeighborFemale"
+msgstr "உங்கள் பக்கத்து வீட்டுக்காரர் உங்களைச் சந்திக்க விரும்புகிறார்"
+
+msgid "invitePreviewFromClassmateFemale"
+msgstr "உங்கள் வகுப்புத்தோழர் உங்களைச் சந்திக்க விரும்புகிறார்"
+
+msgid "invitePreviewFromFamiliarFemale"
+msgstr "ஒருவர் உங்களைச் சந்திக்க விரும்புகிறார்"
+
+msgid "invitePreviewFromColleagueMale"
+msgstr "உங்கள் சகபணியாளர் உங்களைச் சந்திக்க விரும்புகிறார்"
+
+msgid "invitePreviewFromNeighborMale"
+msgstr "உங்கள் பக்கத்து வீட்டுக்காரர் உங்களைச் சந்திக்க விரும்புகிறார்"
+
+msgid "invitePreviewFromClassmateMale"
+msgstr "உங்கள் வகுப்புத்தோழர் உங்களைச் சந்திக்க விரும்புகிறார்"
+
+msgid "invitePreviewFromFamiliarMale"
+msgstr "ஒருவர் உங்களைச் சந்திக்க விரும்புகிறார்"
+
+msgid "invitePreviewTextFemale"
+msgstr ""
+"இது விளையாட்டு அல்ல என்று நிரூபிக்க, அவள் உங்களுக்கு ஒரு விசைச் சொற்றொடரைக் கூறுகிறாள், "
+"அதாவது"
+
+msgid "invitePreviewTextMale"
+msgstr ""
+"இது விளையாட்டு அல்ல என்று நிரூபிக்க, அவர் உங்களுக்கு ஒரு விசைச் சொற்றொடரைக் கூறுகிறார், "
+"அதாவது"
+
+msgid "invitePreviewDearFemale"
+msgstr "அன்புள்ள"
+
+msgid "invitePreviewDearMale"
+msgstr "அன்புள்ள"
+
+msgid "invitePreviewCodeTitle"
+msgstr "உங்களை யார் விரும்புகிறார் என்பதை அறிய:"
+
+msgid "invitePreviewCodeVisitLink"
+msgstr "இணைப்பில் கிளிக் செய்க"
+
+msgid "invitePreviewCodeLink"
+msgstr "நான் அழைக்கப்பட்டேன்"
+
+msgid "invitePreviewCodeSite"
+msgstr "தளத்தில் உள்நுழைக"
+
+msgid "invitePreviewCodeTopRight"
+msgstr "மேல் வலதுபக்கத்தில்"
+
+msgid "invitePreviewCodeType"
+msgstr "அழைப்புக் குறியீட்டை உள்ளிடுக"
+
+msgid "invitePreviewPostcardNote"
+msgstr ""
+"ஒரு அஞ்சலட்டையை அச்சிட்டு, அது உண்மையில் காணப்படுகின்ற இடத்தில் வைக்கவும். அதாவது காரின் "
+"காரின் விண்ட்ஷீல்டின் கீழ், அஞ்சல்பெட்டியில், பையில், மேஜை மீது... வேறு ஏதாவது யோசனைகள்?"
+
+msgid "invitePreviewPhoneResendNote"
+msgstr ""
+"நீங்கள் SMS ஐ மீண்டும் அனுப்ப விரும்பினால், தயவுசெய்து ஒரு தொலைபேசி எண்ணை உள்ளிடுக:"
+
+msgid "inviteResend"
+msgstr "மீண்டும் அனுப்புக"
+
+msgid "inviteSendInvite"
+msgstr "அழைப்பை அனுப்புக"
+
+msgid "inviteResent"
+msgstr "மீண்டும் அனுப்புக"
+
+msgid "inviteSummaryTitleColleagueFemale"
+msgstr "பெயரிட்ட அறிமுகமானவர்களுக்கு அழைப்பு"
+
+msgid "inviteSummaryTitleNeighborFemale"
+msgstr "பெயரிட்ட பக்கத்து வீட்டுக்காரருக்கு அழைப்பு"
+
+msgid "inviteSummaryTitleClassmateFemale"
+msgstr "பெயரிட்ட வகுப்புத்தோழருக்கு அழைப்பு"
+
+msgid "inviteSummaryTitleFamiliarFemale"
+msgstr "பெயரிட்ட அறிமுகமானவர்களுக்கு அழைப்பு"
+
+msgid "inviteSummaryTitleColleagueMale"
+msgstr "பெயரிட்ட சகபணியாளருக்கு அழைப்பு"
+
+msgid "inviteSummaryTitleNeighborMale"
+msgstr "பெயரிட்ட பக்கத்து வீட்டுக்காரருக்கு அழைப்பு"
+
+msgid "inviteSummaryTitleClassmateMale"
+msgstr "பெயரிட்ட வகுப்புத்தோழருக்கு அழைப்பு"
+
+msgid "inviteSummaryTitleFamiliarMale"
+msgstr "பெயரிட்ட அறிமுகமானவர்களுக்கு அழைப்பு"
+
+msgid "inviteSummaryStateAgree"
+msgstr "ஏற்றுக்கொள்ளப்பட்டது"
+
+msgid "inviteSummaryStateWait"
+msgstr "அனுப்பப்பட்டது"
+
+msgid "inviteSummaryNoKeyPhrase"
+msgstr "விசைச் சொற்றொடர்கள் இல்லாமல்"
+
+msgid "inviteFailCodeField"
+msgstr "இதுபோன்ற அழைப்பு இல்லை: (நீங்கள் சேர்க்கவில்லையா?"
+
+msgid "inviteApplySuccess"
+msgstr "அழைப்பு ஏற்றுக்கொள்ளப்பட்டது!"
+
+msgid "increaseInfoConfirm4MaleTitle"
+msgstr "%s உங்களை விட ஏராளமான தனிப்பட்ட தகவலைப் பகிர்ந்துள்ளார்."
+
+msgid "increaseInfoConfirm4FemaleTitle"
+msgstr "%s உங்களை விட ஏராளமான தனிப்பட்ட தகவலைப் பகிர்ந்துள்ளார்."
+
+msgid "needAddPhotoConfirmTitle"
+msgstr "நீங்கள் ஒரு புகைப்படத்தைச் சேர்க்க வேண்டும்"
+
+msgid "needAddPhotoConfirmNote"
+msgstr "பிற புகைப்படங்களைக் காண, உங்கள் சுயவிவரப் படத்தை நீங்கள் பதிவேற்ற வேண்டும்!"
+
+msgid "needAddPhotoConfirmYes"
+msgstr "புகைப்படத்தைப் பதிவேற்றுக"
+
+msgid "needAddPhotoConfirmNo"
+msgstr "ரத்து"
+
+msgid "requiredFieldsAlertConfirmTitle"
+msgstr "தேவையானது"
+
+msgid "requiredFieldsAlertConfirmText"
+msgstr ""
+"பின்வருவதைக் காணவில்லை: %s<br>தயவுசெய்து உங்கள் சுயவிவரத்துக்குச் சென்று, தேவையான "
+"புலத்தை(புலங்களை) நிரப்புக."
+
+msgid "requiredFieldsAlertConfirmYes"
+msgstr "இதற்குச் செல்க"
+
+msgid "noticeImageSizeLimit"
+msgstr "படிம அளவு வரம்பு"
+
+msgid "noticeImageSizeLimitText"
+msgstr "படிம அளவு 2 மெ.பை ஐ விடக் குறைவாக இருக்க வேண்டும்"
+
+msgid "emailConfirmTitle"
+msgstr "மின்னஞ்சல் முகவரியை உறுதிசெய்யவும்"
+
+msgid "emailConfirmAlertYes"
+msgstr "உறுதிப்படுத்துக"
+
+msgid "emailConfirmAlertNo"
+msgstr "ரத்து"
+
+msgid "bannedInfoAlertTitle"
+msgstr "உங்கள் கணக்கு முடக்கப்பட்டது"
+
+msgid "bannedInfoAlertNotice"
+msgstr "விவரங்களை சுயவிவரப் பக்கத்தில் காணலாம்"
+
+msgid "bannedInfoAlertYes"
+msgstr "சுயவிவரத்துக்குச் செல்"
+
+msgid "bannedInfoAlertNo"
+msgstr "வெளியேறு"
+
+msgid "emailDomainsReplaceAlertTitle"
+msgstr "மின்னஞ்சலை மாற்றுக"
+
+msgid "emailDomainsReplaceAlertText"
+msgstr ""
+"நாங்கள் உங்கள் மின்னஞ்சல் முகவரியை %s  க்கு மாற்றினோம், ஏனெனில் இது தவறாகத் தட்டச்சுச் "
+"செய்யப்பட்டதாகத் தெரிகிறது. தொடரவா அல்லது இதை மீண்டும் மாற்றவா?"
+
+msgid "emailDomainsReplaceAlertYes"
+msgstr "தொடர்க"
+
+msgid "emailDomainsReplaceAlertNo"
+msgstr "அதை மீண்டும் திருப்பிவிடுக"
+
+msgid "signinAction"
+msgstr "உள்நுழைக"
+
+msgid "signupAction"
+msgstr "பதிவு பெறுக"
+
+msgid "signinEmailEmptyError"
+msgstr "மின்னஞ்சலை உள்ளிடுக"
+
+msgid "signinEmailMaskError"
+msgstr "உங்களுடைய செல்லுபடியாகும் மின்னஞ்சல் முகவரியை உள்ளிடுக"
+
+msgid "signinPasswordEmptyError"
+msgstr "கடவுச்சொல்லை உள்ளிடுக"
+
+msgid "signinCountryEmptyError"
+msgstr "நாடு"
+
+msgid "signinCityEmptyError"
+msgstr "நகரம்"
+
+msgid "signinErrorBirthDayEmpty"
+msgstr "நாள்"
+
+msgid "signinErrorBirthMonthEmpty"
+msgstr "மாதம்"
+
+msgid "signinErrorBirthYearEmpty"
+msgstr "ஆண்டு"
+
+msgid "signinErrorTooYoung"
+msgstr "18 வயதை அடைகையில் மட்டுமே பதிவுசெய்தல் அனுமதிக்கப்படும்."
+
+msgid "citySelectDisabledTitle"
+msgstr "நாட்டைத் தேர்ந்தெடுக்கவும்"
+
+msgid "signinPasswordMinLengthError"
+msgstr "கடவுச்சொல் குறைந்தது 5 எழுத்துக்குறிகளாக இருக்க வேண்டும்"
+
+msgid "signinErrorNameEmpty"
+msgstr "உங்கள் பெயரை உள்ளிடுக"
+
+msgid "signinErrorSex"
+msgstr "உங்கள் பாலினத்தைத் தேர்ந்தெடுக்கவும்"
+
+msgid "loginVia"
+msgstr "%s"
+
+msgid "registerVia"
+msgstr "%s"
+
+msgid "timeToFindYourLove"
+msgstr "உங்கள் காதலைக் கண்டுபிடிப்பதற்கான நேரம்"
+
+msgid "socialLikeDescription"
+msgstr "காதல்செய்க, பேசி உறவாடுக, தொடர்புகொள்க. இலவசம் மற்றும் பெயரில்லாமல்..."
+
+msgid "showAll"
+msgstr "அனைத்தையும் காண்பி"
+
+msgid "actionMinimize"
+msgstr "சிறியதாக்கு"
+
+msgid "chatLoadingHistory"
+msgstr "முந்தைய செய்திகளை பதிவேற்றவும்"
+
+msgid "chatCitationsAdd"
+msgstr "மேற்கோள்களுக்குச் சேர்க்கவும்"
+
+msgid "chatCitationsTitle"
+msgstr "மேற்கோள்கள்"
+
+msgid "chatCitationsWelcome"
+msgstr ""
+"<p>உரையாடலில் விரைவாக அவற்றைச் செருகுவதற்கு, அடிக்கடி பயன்படுத்தும் சொற்றொடர்களை இங்கே "
+"சேர்க்கவும்</p><p>இடுவதற்கு, <span id=\"citations-welcome-button\">மேற்கோள்களுக்குச் "
+"சேர்க்கவும்</p> என்ற பொத்தானை அழுத்துக"
+
+msgid "statusOnline"
+msgstr "ஆன்லைன்"
+
+msgid "actionEdit"
+msgstr "திருத்து"
+
+msgid "chatCitationsRestore"
+msgstr "மேற்கோளை மீட்டெடு"
+
+msgid "chatNewMessageFrom"
+msgstr "இவரிடமிருந்து புதிய செய்தி"
+
+msgid "chatEmptyTitle"
+msgstr "உங்கள் அரட்டையில் செய்திகள் இல்லை"
+
+msgid "chatEmptyText"
+msgstr ""
+"தோழரைச் சேர்க்க, நீங்கள் விரும்பும் பயனர்களைத் தேர்ந்தெடுக்கவும், உதாரணமாக <a href=\"/"
+"\">தேடல்</a> என்பதிலிருந்து, பின்னர் “தட்டச்சுசெய்” என்பதைக் கிளிக் செய்க"
+
+msgid "formUploadFile"
+msgstr "கோப்பைப் பதிவேற்றுக"
+
+msgid "formDeleteFile"
+msgstr "கோப்பை நீக்குக"
+
+msgid "socialLikeTitle"
+msgstr "அருமையான தளம்! Lovetime"
+
+msgid "About Yiinka"
+msgstr "Yiinke பற்றி"
+
+msgid "systemInstruments"
+msgstr "கருவிகள்"
+
+msgid "Import CSV"
+msgstr "CSV இலிருந்து இறக்குமதிசெய்க"
+
+msgid "chatMessages"
+msgstr "செய்திகள்"
+
+msgid "profileMessages"
+msgstr "செய்திகள்"
+
+msgid "chatAll"
+msgstr "அனைத்தும்"
+
+msgid "chatOnline"
+msgstr "ஆன்லைன்"
+
+msgid "correspondencesActions"
+msgstr "செயல்கள்"
+
+msgid "actionMoveIn"
+msgstr "இதற்கு நகர்த்துக:"
+
+msgid "actionBlacklist"
+msgstr "கறுப்புப்பட்டியல்"
+
+msgid "chatEmptyFolder"
+msgstr "கோப்புறை வெறுமையாக உள்ளது"
+
+msgid "chatNoOnline"
+msgstr "அனைத்து உரையாடலில் பங்குபற்றுபவர்களும் இப்போது ஆஃப்லைனில் உள்ளனர்"
+
+msgid "correspondencesMessage"
+msgid_plural "correspondencesMessages"
+msgstr[0] "செய்தி"
+msgstr[1] "செய்திகள்"
+
+msgid "favoriteUsers"
+msgstr "பிடித்த பயனர்கள்"
+
+msgid "favoriteLocation"
+msgstr ""
+"நீங்கள் “செய்திகள்” பிரிவின் “பிடித்தவை” கோப்புறையில் “பிடித்தவை” என்பதற்குச் சேர்த்துள்ள "
+"பயனரைப் பார்க்கலாம்."
+
+msgid "favoriteHideTip"
+msgstr "ஒரு உதவிக்குறிப்பை மறைக்கவும்"
+
+msgid "favoriteNext"
+msgstr "அடுத்தது"
+
+msgid "favoriteCancel"
+msgstr "ரத்து"
+
+msgid "emailConfirmResultSuccess"
+msgstr "உங்கள் மின்னஞ்சல் முகவரி வெற்றிகரமாக உறுதிசெய்யப்பட்டது."
+
+msgid "emailConfirmAlreadyConfirmed"
+msgstr "மின்னஞ்சல் முகவரி ஏற்கனவே உறுதிசெய்யப்பட்டது"
+
+msgid "emailConfirmCheckYourEmailNow"
+msgstr "இப்போது உங்கள் மின்னஞ்சலைச் சரிபார்க்கவும்"
+
+msgid "emailConfirmClickLinkForComplete"
+msgstr ""
+"பதிவுசெய்தலை முடிக்க, <b>%email%</b> க்கு நாங்கள் அனுப்பிய மின்னஞ்சலில் உள்ள இணைப்பைக் "
+"கிளிக் செய்க"
+
+msgid "mailOpen"
+msgstr "திற"
+
+msgid "emailConfirmCantGetMessage"
+msgstr "மின்னஞ்சலைப் பெற்றீர்களா?"
+
+msgid "emailConfirmCheckYourEmailOrEnterAnother"
+msgstr "உங்கள் மின்னஞ்சல் முகவரியைச் சரிபார்க்கவும் அல்லது ஒரு புதிய மின்னஞ்சலை உள்ளிடுக"
+
+msgid "emailConfirmTypeValidEmail"
+msgstr "உங்கள் செல்லுபடியாகும் மின்னஞ்சல் முகவரியை உள்ளிடுக."
+
+msgid "emailConfirmSendAgain"
+msgstr "மீண்டும் அனுப்புக"
+
+msgid "profileGuests"
+msgstr "பார்வையாளர்கள்"
+
+msgid "guestsFemaleStranger"
+msgstr "புதியவர்"
+
+msgid "guestsMaleStranger"
+msgstr "புதியவர்"
+
+msgid "guestsNo"
+msgstr "குறிப்பிட்ட நேரத்தில் உங்களுக்கு எதுவித பார்வையாளர்களும் இல்லை."
+
+msgid "catalogUsersCatalog"
+msgstr "பயனர் கேட்லாக்"
+
+msgid "formPasswordSent"
+msgstr "உங்கள் மின்னஞ்சல் முகவரிக்கு கடவுச்சொல் மீட்டமைப்பு அறிவுறுத்தல்களை அனுப்பியுள்ளோம்."
+
+msgid "usersList"
+msgstr "பயனர்களின் பட்டியல்"
+
+msgid "likesNoData"
+msgstr "தரவு இல்லை"
+
+msgid "guestsDataError"
+msgstr "தரவுப் பிழை"
+
+msgid "usersPhotoAlbumOf"
+msgstr "பயனர் ஆல்பம்"
+
+msgid "actionUploadPhoto"
+msgstr "புகைப்படத்தைப் பதிவேற்றுக"
+
+msgid "banProfileNotice"
+msgstr ""
+"இந்தச் சுயவிவரத்தைக் காண முடியாது, ஏனெனில் இது பூர்த்திசெய்யப்படவில்லை அல்லது இது "
+"நெறியாளர்களால் தடுக்கப்பட்டுள்ளது. பிற பயனர்களைத் தேட முயற்சிசெய்க."
+
+msgid "banProfileHome"
+msgstr "முகப்பு"
+
+msgid "usersWriteMessage"
+msgstr "செய்தியை எழுதுக"
+
+msgid "usersInviteToChat"
+msgstr "அரட்டைக்கு அழை"
+
+msgid "usersAlreadyToFavorite"
+msgstr "ஏற்கனவே பிடித்தது"
+
+msgid "carouselDistance"
+msgstr "உங்களிடமிருந்து %s கி.மீ"
+
+msgid "carouselDistanceOn"
+msgstr "தூரத்தை"
+
+msgid "carouselDistanceUnknown"
+msgstr "தெரிந்துகொள்ள, உங்கள் இருப்பிடத்தைக் குறிப்பிடுக"
+
+msgid "porsonalInfo"
+msgstr "தனிப்பட்ட தகவல்"
+
+msgid "userProfilePersonalInfoShow"
+msgstr "காண்பி"
+
+msgid "formResetPassword"
+msgstr "கடவுச்சொல்லை மீட்டமைக்க ஒரு இணைப்பைப் பெறுக"
+
+msgid "carouselDisabledTitle"
+msgstr "உங்கள் புகைப்படம் தேவை"
+
+msgid "uploadPhoto"
+msgstr "புகைப்படத்தைப் பதிவேற்றுக"
+
+msgid "carouselDisabledText"
+msgstr ""
+"நீங்கள் ஒரு பேயுடன் டேட் போகத் தயாரா? இல்லை? அப்படியென்றால் குறைந்தது ஒரு சுயவிவரப் "
+"படத்தைப் பதிவேற்றுங்கள். வெற்றிக்கு உத்தரவாதம்!"
+
+msgid "backToPageDates"
+msgstr "டேட்டிங் துணையைத் தேர்வுசெய்க"
+
+msgid "profileRelations"
+msgstr "தேதி"
+
+msgid "profileLikesForMe"
+msgstr "டேட் வேண்டும்"
+
+msgid "profileMutualLikes"
+msgstr "பரஸ்பர அன்பு"
+
+msgid "profileMyLikes"
+msgstr "நான் டேட் செய்ய விரும்புகிறேன்"
+
+msgid "carouselHeYes"
+msgstr "அவர் <strong>&laquo;ஆம்&raquo;</strong> என்று சொன்னார்"
+
+msgid "carouselSheYes"
+msgstr "அவள் <strong>&laquo;ஆம்&raquo;</strong> என்று சொன்னாள்"
+
+msgid "carouselHeMaybe"
+msgstr "அவர் <strong>&laquo;பெரும்பாலும்&raquo;</strong> என்று சொன்னார்"
+
+msgid "carouselSheMaybe"
+msgstr "அவள் <strong>&laquo;பெரும்பாலும்&raquo;</strong> என்று சொன்னாள்"
+
+msgid "carouselAnswerYes"
+msgstr "ஆம்!"
+
+msgid "carouselAnswerMaybe"
+msgstr "பெரும்பாலும்"
+
+msgid "carouselAnswerNo"
+msgstr "இல்லை"
+
+msgid "carouselMyYes"
+msgstr "நீங்கள் <strong>&laquo;ஆம்&raquo;</strong> என்று சொன்னீர்கள்"
+
+msgid "carouselYouMaybe"
+msgstr "நீங்கள் <strong>&laquo;ஆம்&raquo;</strong> என்று சொன்னீர்கள்"
+
+msgid "updatePass"
+msgstr "புதிய கடவுச்சொல்லை உள்ளிடுக"
+
+msgid "modelForgotpassChangePassword"
+msgstr "கடவுச்சொல்லை மாற்றுக"
+
+msgid "nearTitle1"
+msgstr "அருகிலுள்ளவர் யார்"
+
+msgid "nearTitle2"
+msgstr "எனக்கு"
+
+msgid "meOnMap"
+msgstr "இருப்பிடம்"
+
+msgid "userLocationNotFound"
+msgstr "இருப்பிடம் காணப்படவில்லை"
+
+msgid "backToPageSearch"
+msgstr "தேடலுக்குத் திரும்பிச் செல்க"
+
+msgid "pageLocationTitle"
+msgstr "உங்கள் இருப்பிடத்தைக் குறிப்பிடுக"
+
+msgid "meOnMapText2"
+msgstr ""
+"மற்றப் பயனாளிகள் உங்கள் இருப்பிடத்தைப் பார்க்க முடியாது. தோராயமான தூரம் மட்டுமே தெரியும். "
+
+msgid "userLocationPlaceholder"
+msgstr "தயவுசெய்து வீட்டு எண், தெரு பெயர் மற்றும் நகரம் ஆகியவற்றை உள்ளிடுக"
+
+msgid "userLocationFind"
+msgstr "கண்டுபிடி"
+
+msgid "locationClear"
+msgstr "அடையாளத்தை அகற்றுக"
+
+msgid "usersRefuseFromMails"
+msgstr "அஞ்சல் அறிவிப்புகளை மறு"
+
+msgid "usersRefuseFromMailsOk"
+msgstr "நீங்கள் மின்னஞ்சல் மூலம் இனி அறிவிப்புகளைப் பெறமாட்டீர்கள்"
+
+msgid "profileMySettings"
+msgstr "அமைப்புகள்"
+
+msgid "profileNotificationSettings"
+msgstr "அறிவிப்பு அமைப்புகள்"
+
+msgid "inviteIncognitoTitle"
+msgstr "&laquo;மறைநிலை&raquo;"
+
+msgid "loginWidgetIncognitoText"
+msgstr "புகைப்படங்கள் பிற பயனர்களிடமிருந்து மறைக்கப்படுகின்றன"
+
+msgid "UTC-11:00"
+msgstr "(UTC-11:00) UTC வடிவமைப்பில் நேரம் 11"
+
+msgid "UTC-10:00"
+msgstr "(UTC-10:00) ஹவாய்"
+
+msgid "UTC-9:00"
+msgstr "(UTC-09:00) அலாஸ்கா"
+
+msgid "UTC-8:00[1]"
+msgstr "(UTC-08:00) பஜா கலிபோர்னியா"
+
+msgid "UTC-8:00[2]"
+msgstr "(UTC-08:00) பசுபிக் நேரம் (அமெரிக்கா மற்றும் கனடா)"
+
+msgid "UTC-7:00[1]"
+msgstr "(UTC-07:00) அரிசோனா"
+
+msgid "UTC-7:00[2]"
+msgstr "(UTC-07:00) மவுண்டெய்ன் நேரம் (அமெரிக்கா மற்றும் கனடா)"
+
+msgid "UTC-7:00[3]"
+msgstr "(UTC-07:00) லா பாஸ், மாஸட்லன், சிஹுவஹுவா"
+
+msgid "UTC-6:00[1]"
+msgstr "(UTC-06:00) குவாடலஜரா, மெக்சிக்கோ நகரம், மாண்டெரே"
+
+msgid "UTC-6:00[2]"
+msgstr "(UTC-06:00) சாஸ்கட்சேவான், மத்திய அமெரிக்கா"
+
+msgid "UTC-6:00[3]"
+msgstr "(UTC-06:00) மத்திய நேரம் (அமெரிக்கா மற்றும் கனடா)"
+
+msgid "UTC-5:00[1]"
+msgstr "(UTC-05:00) பொகோடா, குயிட்டோ, லிமா"
+
+msgid "UTC-5:00[2]"
+msgstr "(UTC-05:00) ஈஸ்டர்ன் டைம் (அமெரிக்கா மற்றும் கனடா)"
+
+msgid "UTC-5:00[3]"
+msgstr "(UTC-05:00) இண்டியானா (கிழக்கு)"
+
+msgid "UTC-4:30"
+msgstr "(UTC-04:30) கராகஸ்"
+
+msgid "UTC-4:00[1]"
+msgstr "(UTC-04:00) அசுசியன்"
+
+msgid "UTC-4:00[2]"
+msgstr "(UTC-04:00) அட்லாந்திக் நேரம் (கனடா)"
+
+msgid "UTC-4:00[3]"
+msgstr "(UTC-04:00) ஜார்ஜ்டவுன், லா பாஸ், மனவுஸ், சான் ஜுவான்"
+
+msgid "UTC-4:00[4]"
+msgstr "(UTC-04:00) குய்யபா"
+
+msgid "UTC-4:00[5]"
+msgstr "(UTC-04:00) சாண்டியாகோ"
+
+msgid "UTC-3:30"
+msgstr "(UTC-03: 30) நியூஃபௌண்ட்லாண்ட்"
+
+msgid "UTC-3:00[1]"
+msgstr "(UTC-03:00) பிரேசில்"
+
+msgid "UTC-3:00[2]"
+msgstr "(UTC-03: 00) பேனஸ் ஐரிஸ்"
+
+msgid "UTC-3:00[3]"
+msgstr "(UTC-03:00) கிரீன்லாந்து"
+
+msgid "UTC-3:00[4]"
+msgstr "(UTC-03:00) கேயன்னெ, ஃபோட்டேல்ஸா"
+
+msgid "UTC-3:00[5]"
+msgstr "(UTC-03:00) மாண்டிவீடியோ"
+
+msgid "UTC-2:00[1]"
+msgstr "(UTC-02:00) UTC வடிவமைப்பில் நேரம் 02:00"
+
+msgid "UTC-2:00[2]"
+msgstr "(UTC-02:00)  மத்திய அட்லாந்திக் நேரம்"
+
+msgid "UTC-1:00[1]"
+msgstr "(UTC-01:00) அசோரெஸ்"
+
+msgid "UTC-1:00[2]"
+msgstr "(UTC-01:00) கேப் வேர்டி தீவுகள்"
+
+msgid "UTC0[2]"
+msgstr "(UTC) டப்ளின், லிஸ்பான், லண்டன், எடின்பேர்க்"
+
+msgid "UTC0[3]"
+msgstr "(UTC) கஸப்ளாங்கா"
+
+msgid "UTC0[4]"
+msgstr "(UTC) மன்ரோவியா, ரெயிக்யுவிக்"
+
+msgid "UTC+1[1]"
+msgstr "(UTC+01:00) ஆம்ஸ்டர்டாம், பெர்லின், பேர்ன், வியன்னா, ரோம், ஸ்டாக்ஹோல்ம்"
+
+msgid "UTC+1[2]"
+msgstr "(UTC+01:00) பெல்கிரேன், பிராட்டிஸ்லாவா, புடாபெஸ்ட், ஜுப்ல்ஜன, பிராக்"
+
+msgid "UTC+1[3]"
+msgstr "(UTC+01:00) புரூசெல்ஸ், கோபென்ஹஜென், மேட்ரிட், பாரிஸ்"
+
+msgid "UTC+1[4]"
+msgstr "(UTC+01:00) வார்சா, ஸாக்ரேப், சாராஜேவோ, ஸ்கோப்ஜே"
+
+msgid "UTC+1[5]"
+msgstr "(UTC+01:00) விண்ட்ஹோக்"
+
+msgid "UTC+1[6]"
+msgstr "(UTC+01:00) மேற்கு மத்திய ஆபிரிக்கா"
+
+msgid "UTC+2[1]"
+msgstr "(UTC+02:00) அம்மான்"
+
+msgid "UTC+2[2]"
+msgstr "(UTC+02:00) ஏதென்ஸ், புசரெஸ்ட்"
+
+msgid "UTC+2[3]"
+msgstr "(UTC+02:00) பெய்ரூட்"
+
+msgid "UTC+2[4]"
+msgstr "(UTC+02:00) வில்னியஸ், க்யிவ், ரிகா, சோஃபியா, டேலின், ஹெல்சிங்கி"
+
+msgid "UTC+2[5]"
+msgstr "(UTC+02:00) டமாஸ்கஸ்"
+
+msgid "UTC+2[6]"
+msgstr "(UTC+02:00) ஜெருசலேம்"
+
+msgid "UTC+2[7]"
+msgstr "(UTC+02:00) கெய்ரோ"
+
+msgid "UTC+2[8]"
+msgstr "(UTC+02:00) நிகோசியா"
+
+msgid "UTC+2[9]"
+msgstr "(UTC+02:00) இஸ்தான்புல்"
+
+msgid "UTC+2[10]"
+msgstr "(UTC+02:00) ஹராரே, ப்ரிடோரியா"
+
+msgid "UTC+3[1]"
+msgstr "(UTC+03:00) பாக்தாத்"
+
+msgid "UTC+3[2]"
+msgstr "(UTC+03:00) கலினிங்ராத், மின்ஸ்க்"
+
+msgid "UTC+3[3]"
+msgstr "(UTC+03:00) குவைத். ரியாத்"
+
+msgid "UTC+3[4]"
+msgstr "(UTC+03:00) நைரோபி"
+
+msgid "UTC+3:30"
+msgstr "(UTC+03:30) தெஹ்ரான்"
+
+msgid "UTC+4[1]"
+msgstr "(UTC+04:00) அபுதாபி, மஸ்கட்"
+
+msgid "UTC+4[2]"
+msgstr "(UTC+04:00) பாகு"
+
+msgid "UTC+4[3]"
+msgstr "(UTC+04:00) வோல்கோகிரெட், மாஸ்கோ, செயின்ட் பீட்டர்ஸ்பர்க்"
+
+msgid "UTC+4[4]"
+msgstr "(UTC +04:00) ஏரேவான்"
+
+msgid "UTC+4[5]"
+msgstr "(UTC+04:00) திபிலிசி"
+
+msgid "UTC+4:30"
+msgstr "(UTC+04:30) காபுல்"
+
+msgid "UTC+5[1]"
+msgstr "(UTC+05:00) இஸ்லாமாபாத், கராச்சி"
+
+msgid "UTC+5[2]"
+msgstr "(UTC+05:00) டாஷ்கண்ட்"
+
+msgid "UTC+5:30"
+msgstr "(UTC+05:30) கொல்கத்தா, மும்பை, புதுடில்லி, சென்னை"
+
+msgid "UTC+5:45"
+msgstr "(UTC+05:45) காத்மண்டு"
+
+msgid "UTC+6[1]"
+msgstr "(UTC+06:00) அஸ்டானா"
+
+msgid "UTC+6[2]"
+msgstr "(UTC+06:00) டாக்கா"
+
+msgid "UTC+6[3]"
+msgstr "(UTC+06:00) எக்கட்டெரின்பர்க்"
+
+msgid "UTC+6:30"
+msgstr "(UTC+06:30) யங்கூன்"
+
+msgid "UTC+7[1]"
+msgstr "(UTC+07:00) பாங்காக், ஜகார்த்தா, ஹனோய்"
+
+msgid "UTC+7[2]"
+msgstr "(UTC+07:00) நோவோஸிபிர்ஸ்க்"
+
+msgid "UTC+8[1]"
+msgstr "(UTC+08:00) ஹாங்காங், பீஜிங், உருங்கி, சோன்ஜிங்"
+
+msgid "UTC+8[2]"
+msgstr "(UTC+08:00) க்ரஸ்னோயார்ஸ்க்"
+
+msgid "UTC+8[3]"
+msgstr "(UTC+08:00) கோலாலம்பூர், சிங்கப்பூர்"
+
+msgid "UTC+8[4]"
+msgstr "(UTC+08:00) பெர்த்"
+
+msgid "UTC+8[5]"
+msgstr "(UTC+08:00) தைபே"
+
+msgid "UTC+8[6]"
+msgstr "(UTC+08:00) உலான்பாட்டார்"
+
+msgid "UTC+9[1]"
+msgstr "(UTC+09:00) இர்குட்ஸ்க்"
+
+msgid "UTC+9[2]"
+msgstr "(UTC+09:00) ஓஸாகா. ஸப்போரோ, டோக்கியோ"
+
+msgid "UTC+9[3]"
+msgstr "(UTC+09:00) சியோல்"
+
+msgid "UTC+9:30[1]"
+msgstr "(UTC+09:30) அடிலைட்"
+
+msgid "UTC+9:30[2]"
+msgstr "(UTC+09:30) டார்வின்"
+
+msgid "UTC+10[1]"
+msgstr "(UTC+10:00) பிரிஸ்பென்"
+
+msgid "UTC+10[2]"
+msgstr "(UTC+10:00) குயாம், போர்ட் மோர்ஸ்பை"
+
+msgid "UTC+10[3]"
+msgstr "(UTC+10:00) கன்பெரா, மெல்போர்ன், சிட்னி"
+
+msgid "UTC+10[4]"
+msgstr "(UTC+10:00) ஹோபர்ட்"
+
+msgid "UTC+10[5]"
+msgstr "(UTC+10:00) யாகுட்ஸ்க்"
+
+msgid "UTC+11[1]"
+msgstr "(UTC+11:00) வ்லாடிவோஸ்டோக்"
+
+msgid "UTC+11[2]"
+msgstr "(UTC+11:00) சாலமன் தீவுகள், புதிய கேலேடோனியா"
+
+msgid "UTC+12[1]"
+msgstr "(UTC+12:00) வெலிங்க்டன், ஆக்லாந்து"
+
+msgid "UTC+12[3]"
+msgstr "(UTC+12:00) மெகாடன்"
+
+msgid "UTC+12[4]"
+msgstr "(UTC+12:00) ஃபிஜி"
+
+msgid "UTC+13[1]"
+msgstr "(UTC+13:00) நுக்கு’அலோஃபா"
+
+msgid "UTC+13[2]"
+msgstr "(UTC+13:00) சமோவா"
+
+msgid "profileAdditional"
+msgstr "விருப்பத்துக்குரியது"
+
+msgid "saved"
+msgstr "சேமிக்கப்பட்டது"
+
+msgid "userSettingsChangePassword"
+msgstr "கடவுச்சொல்லை மாற்றுக"
+
+msgid "systemRegisterNew"
+msgstr "புதிய பயனர் பதிவு"
+
+msgid "systemRegisterChange"
+msgstr "சுயவிவரத்தை மாற்றுக"
+
+msgid "registerSex"
+msgstr "பாலினம்"
+
+msgid "siteRulesAccept"
+msgstr "பொத்தானைக் கிளிக் செய்வதன் மூலம் நீங்கள் ஏற்றுக்கொள்கிறீர்கள்"
+
+msgid "pagesRulesTitle"
+msgstr "பயனர் ஒப்பந்தம்"
+
+msgid "profileMyAnketa"
+msgstr "சுயவிவரம்"
+
+msgid "userProfileChangeCountry"
+msgstr ""
+"நீங்கள் <strong>%current_country%</strong> நாட்டைக் குறிப்பிட்டுள்ளீர்கள். உங்கள் தற்போதைய "
+"இருப்பிடம் - <strong>%country_by_ip%</strong>. <a %href_extension% href='%link"
+"%'>சுயவிவரத்தில் உங்கள் நாட்டை மாற்றவும்</a>"
+
+msgid "iLookingFor"
+msgstr "நான் தேடுவது"
+
+msgid "preferredAgeFrom"
+msgstr "  "
+
+msgid "preferredAgeTo"
+msgstr "முதல்"
+
+msgid "aboutMe"
+msgstr "என்னைப் பற்றி"
+
+msgid "userViewProfessionOrSphereOfActivity"
+msgstr "தொழில்/செயல்பாடு"
+
+msgid "contestUnselectAll"
+msgstr "அனைத்தையும் தேர்வுநீக்குக"
+
+msgid "step"
+msgstr ""
+
+msgid "locationSavedOk"
+msgstr "உங்களுடைய இருப்பிடம் சேமிக்கப்பட்டது"
+
+msgid "locationClearedOk"
+msgstr "உங்களுடைய இருப்பிட விவரங்கள் நீக்கப்பட்டன"
+
+msgid "locationSavedErr"
+msgstr "இருப்பித்தைச் சேமிப்பதில் பிழை"
+
+msgid "inviteCaptchaWrong"
+msgstr "தவறான குறியீடு"
+
+msgid "formIncorrectLink"
+msgstr ""
+"நீங்கள் கடவுச்சொல்லை மீட்டமைக்க மீண்டும் இணைப்பைப் பயன்படுத்த முடியாது.<br />இதைச் "
+"செய்யும்பொருட்டு, இணைப்பைக் கிளிக் செய்க"
+
+msgid "msgNoNearestNew"
+msgstr "கடந்த தடவை அருகில் யாரும் இருக்கவில்லை."
+
+msgid "msgNoNearestOnline"
+msgstr "மன்னிக்கவும் அருகில் யாரும் இல்லை."
+
+msgid "msgNoNearestAll"
+msgstr "மன்னிக்கவும் அருகில் யாரும் இல்லை."
+
+msgid "carouselUsersAreAbsent"
+msgstr "காண கூடுதல் பயனர் எவரும் இல்லை."
+
+msgid "profileAgeStr"
+msgstr "%s வயது"
+
+msgid "complainSuccess"
+msgstr "உங்களுடைய புகார் வெற்றிகரமாக நடுவருக்கு அனுப்பப்பட்டது"
+
+msgid "complainNoSuccess"
+msgstr "புகாரை அனுப்புவது தோல்வியடைந்தது"
+
+msgid "complainAllPoles"
+msgstr "தயவுசெய்து அனைத்து தேவையான புலங்களையும் நிரப்புக"
+
+msgid "feedbackFileError"
+msgstr "தவறான கோப்பு வடிவமைப்பு. ஆதரிக்கப்படும் வடிவமைப்புகள்: jpg, png."
+
+msgid "feedbackSentError"
+msgstr "செய்தியைச் சேமிப்பது தோல்வியடைந்தது. பின்னர் மீண்டும் முயற்சிக்கவும்."
+
+msgid "feedbackSent"
+msgstr "உங்களுடைய செய்தி அனுப்பப்பட்டுவிட்டது"
+
+msgid "unsubscribeSuccess"
+msgstr "நீங்கள் வெற்றிகரமாக மின்னஞ்சல் அறிவிப்புகளிலிருந்து விலகிவிட்டீர்கள்"
+
+msgid "unsubscribeNoSuchUser"
+msgstr "அந்த மின்னஞ்சல் முகவரியைக் கொண்டு பதிவுசெய்த பயனர் எவரும் இல்லை."
+
+msgid "loginWidgetPhotoDidNotModeratedYet"
+msgstr "புகைப்படம் இன்னும் தணிக்கை செய்யப்படவில்லை"
+
+msgid "loginWidgetPhotoDidNotPassModerated"
+msgstr "பின்வரும் காரணத்தால் புகைப்படம் தணிக்கையைக் கடக்கவில்லை:"
+
+msgid "chatSessionClose"
+msgstr "உங்களுடைய அமர்வு முடிந்துவிட்டது. தயவுசெய்து மறுபடியும் அதிகாரமளியுங்கள்"
+
+msgid "searchNoResults"
+msgstr "முடிவுகள் இல்லை"
+
+msgid "loginWidgetAddPhoto"
+msgstr "புகைப்படத்தைச் சேர்க்கவும்"
+
+msgid "systemExitConfirmTitle"
+msgstr "நீங்கள் நிச்சயமாக வெளியேற விரும்புகிறீர்களா?"
+
+msgid "systemExitConfirmBody"
+msgstr ""
+"அடுத்த&nbsp;முறை நீங்கள் மீண்டும் உள்நுழைய பயனர்பெயர்&nbsp;மற்றும் கடவுச்சொல்லை உள்ளிட் "
+"வேண்டும்."
+
+msgid "systemExitConfirmNo"
+msgstr "வெளியேற&nbsp;வில்லை"

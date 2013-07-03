@@ -1,0 +1,4144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-01 08:58+0000\n"
+"PO-Revision-Date: 2013-06-27 05:54+0200\n"
+"Last-Translator: Olesya <alesena@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/jowee/Development/flirteka/trunk\n"
+
+msgid "lettersGiftTitle"
+msgstr "你收到一份来自%s的礼物"
+
+msgid "lettersHelloName"
+msgstr "您好，%s"
+
+msgid "messageNewPresentLookAtButton"
+msgstr "查看"
+
+msgid "lettersFindYourLoveMatch"
+msgstr "找到您的真爱!"
+
+msgid "lettersUnsubscribe"
+msgstr ""
+"如果您不想收到邮件通知, 您可以 <a href=\"%s\" style=\"color: #0072bc;\">在邮"
+"件列表中注销</a>"
+
+msgid "lettersChangeDataByClickingTheLink"
+msgstr ""
+"您可以更改密码设置 <a href=\"%s\" style=\"color: #0072bc;\">通过点击此链接</"
+"a>"
+
+msgid "lettersUserSentGift"
+msgstr "用户<a href='%s'>%s</b>已向您赠送了一份礼物。"
+
+msgid "lettersBalanceIncreasedTitle"
+msgstr "您的余额已增加"
+
+msgid "lettersBalanceIncreased"
+msgid_plural "lettersBalanceIncreased"
+msgstr[0] "您的余额增加了%s 金币"
+
+msgid "inviteCaptcha"
+msgstr "连接代码"
+
+msgid "captchaNewCode"
+msgstr "新密码"
+
+msgid "moderatorSpamers"
+msgstr ""
+
+msgid "formSearch"
+msgstr "寻找"
+
+msgid "modelSpamersOneName"
+msgstr ""
+
+msgid "modelSpamersBack"
+msgstr ""
+
+msgid "modelSpamersBanTime"
+msgstr ""
+
+msgid "modelSpamersBanMessagesHeader"
+msgstr ""
+
+msgid "modelSpamersMessage"
+msgstr ""
+
+msgid "modelSpamersTranslate"
+msgstr ""
+
+msgid "modelSpamersDate"
+msgstr ""
+
+msgid "moderatorBannedUsers"
+msgstr "查封的用户"
+
+msgid "moderatorBan"
+msgstr "查封"
+
+msgid "moderatorUnban"
+msgstr "解除"
+
+msgid "statisticsMailchartsbytemplatesTemplateTitle"
+msgstr "模板  #%d (%s)"
+
+msgid "statisticsMailchartsbytemplatesQuantityChartTitle"
+msgstr "合计"
+
+msgid "statisticsMailchartsbytemplateQuantityChartYAxis"
+msgstr "合计"
+
+msgid "statisticsMailchartsbytemplatesPercentChartTitle"
+msgstr "百分比"
+
+msgid "statisticsMailchartsbytemplatePercentChartYAxis"
+msgstr "百分比"
+
+msgid "moderatorStatisticMenuMailTotal"
+msgstr ""
+
+msgid "moderatorStatisticMenuEximStats"
+msgstr ""
+
+msgid "statisticsMailTodayTitle"
+msgstr "当日邮件统计"
+
+msgid "statisticsMailDomainsTitle"
+msgstr "领域"
+
+msgid "statisticsMailUniqueOpens"
+msgstr "独特探索"
+
+msgid "statisticsMailUniqueClicks"
+msgstr "独特点击"
+
+msgid "statisticsMailAll"
+msgstr "全部"
+
+msgid "statisticsMailTemplateTitle"
+msgstr "消息标题"
+
+msgid "statisticsMailchartsbydomainDisplayDomains"
+msgstr "显示的领域"
+
+msgid "statisticsMailchartsbydomainAllDomains"
+msgstr "全部"
+
+msgid "statisticsMailchartsbydomainDisplayCounters"
+msgstr "显示"
+
+msgid "statisticsMailchartsbydomainSubmitButton"
+msgstr "更新"
+
+msgid "statisticsMailchartsbydomainQuantityChartTitle"
+msgstr "合计"
+
+msgid "statisticsMailchartsbydomainQuantityChartYAxis"
+msgstr "合计"
+
+msgid "statisticsMailchartsbydomainPercentChartTitle"
+msgstr "百分比"
+
+msgid "statisticsMailchartsbydomainPercentChartYAxis"
+msgstr "百分比"
+
+msgid "moderatorRefusalOfInvitation"
+msgstr "拒绝邀请"
+
+msgid "moderatorComplaintAboutUsers"
+msgstr "举报用户"
+
+msgid "moderatorFeedBack"
+msgstr "反馈"
+
+msgid "moderatorErrorMessages"
+msgstr "消息错误"
+
+msgid "moderatorUsers"
+msgstr "用户"
+
+msgid "moderatorContactsExclusion"
+msgstr "黑名单"
+
+msgid "moderatorPhotos"
+msgstr "照片"
+
+msgid "moderatorCarousel"
+msgstr "旋转"
+
+msgid "moderatorModeratingPhotos"
+msgstr "照片正在审核中"
+
+msgid "moderatorEmailNotifications"
+msgstr "邮箱通知"
+
+msgid "moderatorBlackListForDeliveries"
+msgstr "黑名单"
+
+msgid "moderatorUsernamesBlacklist"
+msgstr "用户黑名单"
+
+msgid "moderatorStatistic"
+msgstr "统计"
+
+msgid "moderatorStatisticOpenedClickedStats"
+msgstr ""
+
+msgid "moderatorStatisticMenuMailNumbers"
+msgstr "邮件-资料"
+
+msgid "moderatorStatisticMenuMailChartByDomain"
+msgstr "邮件-图表-领域"
+
+msgid "moderatorStatisticMenuMailChartByTemplate"
+msgstr "邮件-图表-模板"
+
+msgid "moderatorRemovedRestoredUsers"
+msgstr "删除\\恢复 资料"
+
+msgid "Advertising statistics"
+msgstr ""
+
+msgid "moderatorBalanceBilling"
+msgstr "帐单"
+
+msgid "moderatorMenuItemProducts"
+msgstr "产品"
+
+msgid "moderatorMenuItemProductPresents"
+msgstr "礼品"
+
+msgid "systemExit"
+msgstr "注销"
+
+msgid "systemUser"
+msgstr "用户"
+
+msgid "moderatorRemoveRecord"
+msgstr "删除记录"
+
+msgid "moderatorMaxUsersOnline"
+msgstr "在线用户（最多）"
+
+msgid "moderatorRegisteredStatistic"
+msgstr ""
+
+msgid "moderatorAudienceOfSystem"
+msgstr "观众系统"
+
+msgid "moderatorInAll"
+msgstr "总计"
+
+msgid "moderatorQuantityOfBoys"
+msgstr "男孩总数"
+
+msgid "moderatorQuantityOfGirls"
+msgstr "女孩总数"
+
+msgid "moderatorVisitsToday"
+msgstr "当日来访"
+
+msgid "moderatorVisitsOnWeek"
+msgstr "一星期内来访"
+
+msgid "moderatorVisitsOnMonth"
+msgstr "当月来访"
+
+msgid "moderatorUsersWithCoords"
+msgstr "已协调用户数量"
+
+msgid "moderatorUsersFillProfile"
+msgstr "已完成个人资料用户数量"
+
+msgid "moderatorUsersWithPhoto"
+msgstr "用户照片"
+
+msgid "moderatorPhotosToday"
+msgstr "今日照片"
+
+msgid "moderatorPhotosOnWeek"
+msgstr "本周照片"
+
+msgid "moderatorPhotosOnMonth"
+msgstr "本月照片"
+
+msgid "moderatorDialogs"
+msgstr "对话框"
+
+msgid "moderatorAverageNumberOfMessages"
+msgstr "消息平均数量"
+
+msgid "moderatorQuantityDialogsStartedBoys"
+msgstr "男孩开启对话框数量"
+
+msgid "moderatorQuantityDialogsStartedGirls"
+msgstr "女孩开启对话框数量"
+
+msgid "moderatorEmails"
+msgstr "邮箱"
+
+msgid "moderatorEmailsConfirmed"
+msgstr "已确定"
+
+msgid "moderatorEmailsNotConfirmed"
+msgstr "未确定"
+
+msgid "moderatorRemovedRestoredCauses"
+msgstr "删除原因"
+
+msgid "moderatorRemovedRestoredDivisionForSexAndTime"
+msgstr "区分性别和时间"
+
+msgid "guestsToday"
+msgstr "当天"
+
+msgid "guestsByWeek"
+msgstr "最近7天"
+
+msgid "guestsByMonth"
+msgstr "最近30天"
+
+msgid "male"
+msgstr ""
+
+msgid "female"
+msgstr ""
+
+msgid "moderatorProductPresentsTitle"
+msgstr "礼品"
+
+msgid "yes"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "moderatorProductPresentsCreateTitle"
+msgstr "创建一个新的礼品"
+
+msgid "moderatorProductPresentsUpdateTitle"
+msgstr "更新一个礼品"
+
+msgid "usersDeleteSelectedPhotos"
+msgstr "删除"
+
+msgid "usersDeletePhotoConfirm"
+msgstr "您确定要删除照片吗?"
+
+msgid "moderatorBack"
+msgstr "返回"
+
+msgid "moderatorNext"
+msgstr "下一页"
+
+msgid "moderatorAddRecord"
+msgstr "添加记录"
+
+msgid "actionSave"
+msgstr "保存"
+
+msgid "actionCancel"
+msgstr "取消"
+
+msgid "moderatorChangeRecord"
+msgstr "更改记录"
+
+msgid "moderatorRemove"
+msgstr "移除"
+
+msgid "formOperatorsBegin"
+msgstr "每搜索栏的开头"
+
+msgid "formOperatorsEnd"
+msgstr "您可以使用比较后的运行程序"
+
+msgid "formAdvancedSearch"
+msgstr "高级搜索"
+
+msgid "moderatorActionBanQuestion"
+msgstr "禁止？"
+
+msgid "formCreate"
+msgstr "创建条件"
+
+msgid "formRequired"
+msgstr "*必填信息栏"
+
+msgid "formNoactive"
+msgstr "否"
+
+msgid "formActive"
+msgstr "是"
+
+msgid "systemModerator"
+msgstr "版主"
+
+msgid "anketaPersonalsCustomLabel"
+msgstr "其它"
+
+msgid "coin"
+msgid_plural "coins"
+msgstr[0] "金币"
+
+msgid "moderatorUserFormBalanceChangeAlt"
+msgstr "账户"
+
+msgid "formSave"
+msgstr "更改保存"
+
+msgid "formManage"
+msgstr "管理条件"
+
+msgid "formUpdate"
+msgstr "编辑条件"
+
+msgid "formDelete"
+msgstr "删除条件"
+
+msgid "systemLogin"
+msgstr "登录"
+
+msgid "moderatorComplaintsResolved"
+msgstr "解决"
+
+msgid "moderatorComplaintsNew"
+msgstr "新的"
+
+msgid "sexFemale"
+msgstr "女士"
+
+msgid "sexMale"
+msgstr "男士"
+
+msgid "formList"
+msgstr "条件列表"
+
+msgid "formView"
+msgstr "查看条件"
+
+msgid "moderatorSlider"
+msgstr "滑块"
+
+msgid "moderatorMosaic"
+msgstr "马赛克"
+
+msgid "photosStatusNew"
+msgstr "新的"
+
+msgid "moderatorActions"
+msgstr "操作"
+
+msgid "moderatorAccept"
+msgstr "接受"
+
+msgid "moderatorRefuse"
+msgstr "拒绝"
+
+msgid "moderatorModerating"
+msgstr ""
+
+msgid "moderatorPhotosVersions"
+msgstr "照片版本"
+
+msgid "moderatorStatus"
+msgstr "状态"
+
+msgid "userID"
+msgstr "用户名"
+
+msgid "moderatorPhotosSearchInTheWeb"
+msgstr "在网页中搜索"
+
+msgid "modelUsersSex"
+msgstr "性别"
+
+msgid "searchGo"
+msgstr "搜索"
+
+msgid "moderatorRefuseReason"
+msgstr "拒绝原因"
+
+msgid "moderatorLastEditName"
+msgstr ""
+
+msgid "moderatorBalanceBillingGlobalCountersRegistrations"
+msgstr "登录\\已确认\\已支付"
+
+msgid "moderatorBalanceBillingGlobalCountersExpense"
+msgstr "全部用户付费"
+
+msgid "moderatorBalanceBillingGlobalCountersCurrent"
+msgstr "现有帐户余额"
+
+msgid "moderatorBalanceSetTitle"
+msgstr "更改账户余额"
+
+msgid "moderatorBalanceSetSuccessful"
+msgstr "账户余额更改成功"
+
+msgid "moderatorBalanceUserStatTitle"
+msgstr "余额统计"
+
+msgid "moderatorBalanceUserStatTableFieldTime"
+msgstr "时间"
+
+msgid "moderatorBalanceUserStatTableFieldDescription"
+msgstr "描述"
+
+msgid "moderatorBalanceUserStatTableFieldAmount"
+msgstr "总数"
+
+msgid "moderatorBalanceUserStatTableFieldCurrent"
+msgstr "余额"
+
+msgid "moderatorRegisteredToday"
+msgstr "合计今天已注册用户"
+
+msgid "bannedSecondChance"
+msgstr "好的，我了解了，我不会违反任何规定<a href='%s'>请解封我</a>"
+
+msgid "bannedForever"
+msgstr ""
+"请创建一个新的帐户并且不再违反任何规定.否则，我们将会再次查封您的帐号。"
+
+msgid "actionTranslate"
+msgstr "翻译"
+
+msgid "chatSendByClickOn"
+msgstr "发送通过"
+
+msgid "formPleaseFixErrors"
+msgstr "请修改以下错误"
+
+msgid "userBalloonAddToFavorite"
+msgstr "添加到收藏夹"
+
+msgid "ofPair"
+msgstr "配对"
+
+msgid "visitor"
+msgid_plural "visitors"
+msgstr[0] "来访者"
+
+msgid "signupMe"
+msgstr "我是"
+
+msgid "signupIAmSearching"
+msgstr "正在寻找"
+
+msgid "bannedInfoTitle"
+msgstr "您的帐户已被查封.这可能是出于以下原因："
+
+msgid "bannedInfoCauseSendSpam"
+msgstr "&mdash;邮件群发广告或垃圾邮件"
+
+msgid "bannedInfoCauseSendContacts"
+msgstr "&mdash；群发邮件包含私人联络信息，例如，电话号码，邮件，skype等等"
+
+msgid "bannedInfoCauseWrongProfile"
+msgstr "&mdash；资料包含不恰当的内容.例如，广告等等"
+
+msgid "bannedInfoCauseRudeAttitude"
+msgstr "&mdash；粗鲁的态度针对其他用户"
+
+msgid "bannedInfoRecommendation"
+msgstr ""
+"我们建议您阅览我们的<a href=\"http://lovetime.com/pages/rules\">使用条款协议"
+"</a>"
+
+msgid "bannedInfoCreateNewAccount"
+msgstr "请创建一个新的帐号并且不再违背条例。否则，我们将会再次查封您的帐号。"
+
+msgid "bannedInfoSendEmail"
+msgstr ""
+"假如您的帐号被错误查封，请发邮件联系我们到<a href=\"mailto:info@lovetime.com?"
+"subject=Wrongly banned user %id%\">info@lovetime.com</a>"
+
+msgid "loginErrorUserBanned"
+msgstr "拒绝通过.此用户%s已被查封"
+
+msgid "messageFilterTitle"
+msgstr "消息筛选"
+
+msgid "messageFilterSuggestion"
+msgstr "确认您想收到的消息"
+
+msgid "messageFilterReceiveFromAll"
+msgstr "全部消息"
+
+msgid "messageFilterReceiveFromWoman"
+msgstr "只收到来自女生的消息"
+
+msgid "messageFilterReceiveFromMen"
+msgstr "只收到来自男生的消息"
+
+msgid "messageFilterWithPhotoOnly"
+msgstr "只收到包含照片的消息"
+
+msgid "messageFilterAgedFrom"
+msgstr "用户年龄从"
+
+msgid "messageFilterAgedTo"
+msgstr "到"
+
+msgid "messageFilterFromMyCountry"
+msgstr "只收到来自本国用户的信息"
+
+msgid "modelUsersFilterSex"
+msgstr "性别过滤"
+
+msgid "modelUsersFilterPhoto"
+msgstr "只包含照片"
+
+msgid "modelUsersFilterAgeFrom"
+msgstr "用户年龄只从"
+
+msgid "modelUsersFilterAgeTo"
+msgstr "到"
+
+msgid "modelUsersFilterCountry"
+msgstr "只来自我的国家"
+
+msgid "chatFilterMan"
+msgstr "他已设置了消息过滤，所以您不能对他发送消息。尝试与其他用户聊天。"
+
+msgid "chatFilterWoman"
+msgstr "她已设置了消息过滤，所以您不能对她发送消息。尝试与其他用户聊天。"
+
+msgid "chatImpossibleCompanionBanned"
+msgstr "您无法发送聊天信息因为此用户已被管理员查封或已删除此用户的资料"
+
+msgid "lettersHiAndWelcome"
+msgstr "您好, %name%! %host% 欢迎您!"
+
+msgid "lettersAlmostDone"
+msgstr "就快完成了..."
+
+msgid "lettersConfirm"
+msgstr "确认"
+
+msgid "lettersPersonalData"
+msgstr "您的个人信息:"
+
+msgid "lettersNick"
+msgstr "昵称:"
+
+msgid "lettersEmail"
+msgstr "邮箱:"
+
+msgid "lettersAboutSite"
+msgstr "您可以在我们的网站上找到您的知音, 寻找浪漫关系, 匿名与您的好友调情."
+
+msgid "lettersTryIt"
+msgstr "<a href=\"%s\">试一试!</a> 这将会很刺激!"
+
+msgid "lettersTellAboutUs"
+msgstr "告诉您所有的好友关于我们网站."
+
+msgid "lettersThankYou"
+msgstr "非常感谢."
+
+msgid "lettersYouCanChangeData"
+msgstr "您可以更改您的个人资料:"
+
+msgid "removingProfileRemovingProfile"
+msgstr "帐户删除"
+
+msgid "removingProfileRemoveProfileAction"
+msgstr "删除"
+
+msgid "removingProfileQuestion"
+msgstr "您确定要删除帐户吗？"
+
+msgid "removingProfileCauseManagedFindYourSoulMate"
+msgstr "是的，我已经找到知音了。"
+
+msgid "removingProfileCauseICanNotFindAnyone"
+msgstr "我已经使用此网站很长时间仍然没有找到喜欢的人。"
+
+msgid "removingProfileCauseIPlanGoBack"
+msgstr "我只是暂时离开并且我会回来的"
+
+msgid "removingProfileCauseIHaveAnotherProfile"
+msgstr "我已经有另一个帐户"
+
+msgid "removingProfileCauseIWasInsultedByAnother"
+msgstr "我被其他用户侮辱了"
+
+msgid "removingProfileCauseIReceiveOffersEroticServices"
+msgstr "我已收到亲密的提议"
+
+msgid "removingProfileCauseOther"
+msgstr "其它"
+
+msgid "removingProfileIChangedMyMindAction"
+msgstr "没关系，我会留下"
+
+msgid "removingProfileNotification"
+msgstr ""
+"点击“删除”后，确认邮件将会发送到(%email%).根据此邮件内提供的链接并确认您的资"
+"料移除。如果您希望恢复您的账户（包括照片和联系人名单），您可以在30天内恢复。"
+
+msgid "removingProfileRemoveAction"
+msgstr "删除"
+
+msgid "removingProfileCanselAction"
+msgstr "取消"
+
+msgid "removingProfileEmailSendNotification"
+msgstr ""
+"确认您账户删除的邮件已发送。请按照指示并且点击邮件内提供的链接以完成账户删除"
+"程序。"
+
+msgid "removingProfileNextAction"
+msgstr "下一个"
+
+msgid "removingProfileEnterEmailAndCode"
+msgstr "输入您的邮箱地址和您收到的邀请码"
+
+msgid "removingProfileEmail"
+msgstr "邮箱"
+
+msgid "removingProfileEnterEmail"
+msgstr "输入邮箱"
+
+msgid "removingProfileCodeOfPost"
+msgstr "消息代码"
+
+msgid "removingProfileEnterCodeOfPost"
+msgstr "输入代码"
+
+msgid "removingProfileDoNotGo"
+msgstr "请不要离开！这些人会想念您的！"
+
+msgid "removingProfileCancelRemovingAction"
+msgstr "取消删除"
+
+msgid "removingProfileContinueAction"
+msgstr "继续"
+
+msgid "removingProfileRemovedStatus"
+msgstr "您的资料状态 &mdash; 已删除"
+
+msgid "removingProfileRemovedMessage"
+msgstr ""
+"您的资料页也注明为已删除。您所有的消息，联系人，照片和设置将会保存30天，之后"
+"将会在我们的系统中永久删除。"
+
+msgid "removingProfileRestoreProfileAction"
+msgstr "恢复账户"
+
+msgid "modelUsersHobbies"
+msgstr "自我描述"
+
+msgid "balanceChangesBuyProductDecreaseProductId"
+msgstr "产品"
+
+msgid "balanceChangesByAdminUserId"
+msgstr "用户"
+
+msgid "balanceChangesPSIncreasePSId"
+msgstr "支付系统"
+
+msgid "BalanceIncreaseErrorTitle"
+msgstr "帐户余额增加错误"
+
+msgid "everyDayBalanceIncreasingDesc"
+msgstr "帐户每日余额增加"
+
+msgid "invisibleSettingsFormButton"
+msgstr "保存"
+
+msgid "invisibleSettingsPageText"
+msgstr ""
+"我们建议您不要过度使用此模式。虽然很难抗拒，但是请您在注意，那些可见的用户比"
+"匿名用户更容易的交到新朋友。"
+
+msgid "invisibleSettingsPageTitle"
+msgstr "匿名模式"
+
+msgid "modelUsersBalance"
+msgstr "账户"
+
+msgid "modelUsersInvisibleeWalk"
+msgstr "在其他用户的来访者名单中隐藏我"
+
+msgid "modelUsersInvisibleOnline"
+msgstr "对其他用户隐藏我的在线状态"
+
+msgid "modelUsersInvisibleSuperstarStatus"
+msgstr "对其他用户隐藏我的超级明星状态"
+
+msgid "moderatorProductPresentsAddButton"
+msgstr "添加一个礼品"
+
+msgid "monetizationInfoPageSearchText"
+msgstr "增加您获得幸福的机会"
+
+msgid "monetizationInfoPageSearchTitle"
+msgstr "在搜索结果中的位列第一"
+
+msgid "monetizationInfoPageSuperstarButton"
+msgstr "成为超级明星"
+
+msgid "monetizationInfoPageSuperstarText"
+msgstr "约会游戏优先权"
+
+msgid "monetizationInfoPageSuperstarTitle"
+msgstr "超级明星状态"
+
+msgid "monetizationInfoPageText"
+msgstr "您可以 <a href='#' id='%s'>购买金币</a>或从网站获得"
+
+msgid "monetizationInfoPageText2"
+msgstr "每日免费赠送您一枚金币"
+
+msgid "monetizationInfoPageTitle"
+msgstr "使用金币增加人气"
+
+msgid "monetizationInfoPageTopFacesButton"
+msgstr "置顶"
+
+msgid "monetizationInfoPageTopFacesText"
+msgstr "我们基于独特的算法研究您的偏爱并且寻找配对"
+
+msgid "monetizationInfoPageTopFacesTitle"
+msgstr "TOP排名"
+
+msgid "monetizationAboutTopTitle"
+msgstr "提升个人主页"
+
+msgid "monetizationAboutTopText"
+msgstr "提高您在搜索结果和照片库中的排行位置"
+
+msgid "monetizationAboutTopButton"
+msgstr "提升到前列"
+
+msgid "monetizationAboutGiftsTitle"
+msgstr "礼物"
+
+msgid "monetizationAboutGiftsText"
+msgstr "提升您的人气度"
+
+msgid "monetizationAboutUnlimitedTitle"
+msgstr "无限"
+
+msgid "monetizationAboutUnlimitedText"
+msgstr "移除所有的限制"
+
+msgid "monetizationAboutUnlimitedButton"
+msgstr "移除限制"
+
+msgid "monetizationAboutVipTitle"
+msgstr "VIP"
+
+msgid "monetizationAboutVipText"
+msgstr " 提高您的个人主页外观"
+
+msgid "monetizationAboutVipButton"
+msgstr "成为VIP"
+
+msgid "monetizationAboutIncognitoTitle"
+msgstr "隐身"
+
+msgid "monetizationAboutIncognitoText"
+msgstr "对其他用户隐身"
+
+msgid "monetizationAboutIncognitoButton"
+msgstr "显示脱机"
+
+msgid "monetizationBalanceSendSMS"
+msgstr ""
+
+msgid "monetizationBalanceSum"
+msgstr ""
+
+msgid "monetizationBalancePhoneNumber"
+msgstr ""
+
+msgid "monetizationBalanceOrderNumber"
+msgstr ""
+
+msgid "monetizationBalanceYouPayOrder"
+msgstr ""
+
+msgid "monetizationBalanceCheckOrder"
+msgstr ""
+
+msgid "monetizationBalanceOperator"
+msgstr ""
+
+msgid "monetizationBalanceUpText"
+msgstr ""
+
+msgid "monetizationBalanceNumber"
+msgstr ""
+
+msgid "monetizationBalanceText"
+msgstr ""
+
+msgid "paymentDialogMessageSuperstarForSearch"
+msgstr "使用高级搜索查看个人资料，您需要先激活超级明星状态。"
+
+msgid "paymentDialogTitleDefault"
+msgstr "账户充值"
+
+msgid "paymentDialogTitleSuperstar"
+msgstr "购买超级明星状态"
+
+msgid "paymentDialogTitleTopFaces"
+msgstr "充值"
+
+msgid "paymentDialogWidgetBuy"
+msgstr "支付"
+
+msgid "paymentDialogWidgetTermsOfUse"
+msgstr "使用条款"
+
+msgid "productPresentModelCodePatternMessage"
+msgstr "产品代码必须像 '现在-*', 哪里*一个或更多的的数字或拉丁小写字母"
+
+msgid "productPresentModelImageFieldLabel"
+msgstr "图像"
+
+msgid "productSuperstar12PublicTitle"
+msgstr "12个月超级明星状态"
+
+msgid "productSuperstar1PublicTitle"
+msgstr "1个月超级明星状态"
+
+msgid "productSuperstar3PublicTitle"
+msgstr "3个月超级明星状态"
+
+msgid "productSuperstar6PublicTitle"
+msgstr "6个月超级明星状态"
+
+msgid "productSuperstarFriendly"
+msgstr "友好"
+
+msgid "productSuperstarStatusModelFieldPeriod"
+msgstr "时段"
+
+msgid "productSuperstarStatusModelFieldType"
+msgstr "类型"
+
+msgid "productSuperstarTypeRomantic"
+msgstr "浪漫的"
+
+msgid "productTopFacesPublicTitle"
+msgstr "添加到顶部"
+
+msgid "publicFlashNotifierWidgetPresentBalanceWasChanged"
+msgstr "账户余额已减少在%d %s"
+
+msgid "publicFlashNotifierWidgetPresentNotice"
+msgstr "您已经选择一份礼品"
+
+msgid "sendGiftDialogCommentLabel"
+msgstr "您的消息或恭维"
+
+msgid "sendGiftDialogHiddenFieldLabel"
+msgstr "只有接收人能看见礼品"
+
+msgid "sendGiftDialogSubmit"
+msgstr "发送"
+
+msgid "sendGiftDialogText"
+msgstr "让您获得注意的最好方式"
+
+msgid "sendGiftDialogTitle"
+msgstr "赠送礼品"
+
+msgid "superstarModelAttributeBegin"
+msgstr "开始"
+
+msgid "superstarModelAttributeFinish"
+msgstr "完成"
+
+msgid "superstarModelAttributeUser"
+msgstr "用户"
+
+msgid "topFacesDialogNotice"
+msgstr "价格是 %d %s"
+
+msgid "userRatingAndBalanceWidgetBecameSuperstar"
+msgstr "成为超级明星"
+
+msgid "userRatingAndBalanceWidgetRatingExtraLow"
+msgstr "非常低"
+
+msgid "userRatingAndBalanceWidgetRatingLow"
+msgstr "低"
+
+msgid "userRatingAndBalanceWidgetRatingMiddle"
+msgstr "平均"
+
+msgid "userRatingAndBalanceWidgetRatingHigh"
+msgstr "高"
+
+msgid "userRatingAndBalanceWidgetRatingExtraHigh"
+msgstr "非常高"
+
+msgid "userRatingAndBalanceWidgetFillUpBalance"
+msgstr "充值"
+
+msgid "userRatingAndBalanceWidgetIncrease"
+msgstr "增加"
+
+msgid "userRatingAndBalanceWidgetRatingAndVisitorsText"
+msgstr "您的搜索位置在 <a href='%s'>%s</a> 而且今天您有<a href='%s'>%d</a> %s"
+
+msgid "userRatingAndBalanceWidgetToTop"
+msgstr "置顶"
+
+msgid "userRatingAndBalanceWidgetYourRating"
+msgstr "您的人气"
+
+msgid "userViewBalloonActivateSuperstar"
+msgstr "激活超级明星状态"
+
+msgid "userViewBalloonReturnToBasicSearch"
+msgstr "回到搜索"
+
+msgid "userViewBalloonTitle"
+msgstr "通过高级搜索查看个人资料，您需要先激活超级能量。"
+
+msgid "walletBalanceChangesAmount"
+msgstr "总数"
+
+msgid "walletBalanceChangesBalance"
+msgstr "现有账户余额"
+
+msgid "walletBalanceChangesCode"
+msgstr "代码"
+
+msgid "walletBalanceChangesDescription"
+msgstr "描述"
+
+msgid "walletBalanceChangesPrice"
+msgstr "价格"
+
+msgid "walletBalanceChangesProductId"
+msgstr "产品"
+
+msgid "walletBalanceChangesTimestamp"
+msgstr "时间"
+
+msgid "walletBalanceChangesUserId"
+msgstr "用户"
+
+msgid "walletProductsCode"
+msgstr "代码"
+
+msgid "walletProductsCreatedAt"
+msgstr "创建日期"
+
+msgid "walletProductsCreatedBy"
+msgstr "创建人"
+
+msgid "walletProductsDescription"
+msgstr "描述"
+
+msgid "walletProductsPrice"
+msgstr "价格"
+
+msgid "walletProductsTitle"
+msgstr "标题"
+
+msgid "walletProductsUpdatedAt"
+msgstr "已更新"
+
+msgid "walletProductsUpdatedBy"
+msgstr "更新由"
+
+msgid "YourBalanceWasIncreasedText"
+msgstr "您的账户余额增加%d %s。现有余额是%d %s."
+
+msgid "YourBalanceWasIncreasedTitle"
+msgstr "增加账户余额"
+
+msgid "YourPresentHasBeenSent"
+msgstr "您的礼品已赠送"
+
+msgid "sendGiftDialogFilterAll"
+msgstr "全部"
+
+msgid "sendGiftDialogFilterFriendly"
+msgstr "友好的"
+
+msgid "sendGiftDialogFilterRomantic"
+msgstr "浪漫的"
+
+msgid "paymentDialogBuyCoins"
+msgstr "账户充值"
+
+msgid "carouselNeedBuySuperstarNotice"
+msgstr "查看个人资料前您需要d <a href=\"%s\">购买</a> 超级明星状态"
+
+msgid "leftMenuSearchPosition"
+msgstr "搜索位置"
+
+msgid "leftMenuVisitorsToday"
+msgstr "%s 今天"
+
+msgid "leftMenuButtonTop"
+msgstr "顶端"
+
+msgid "leftMenuButtonSuperstar"
+msgstr "超级明星"
+
+msgid "leftMenuBalance"
+msgstr "账户余额"
+
+msgid "balanceChangeTitle"
+msgstr "更改账户余额"
+
+msgid "balanceChangeBuyProductDecreaseTitle"
+msgstr "购买商品"
+
+msgid "balanceChangeByAdminTitle"
+msgstr "由管理员更改"
+
+msgid "balanceChangeDailyTitle"
+msgstr "每日更改"
+
+msgid "balanceChangePSIncreaseTitle"
+msgstr "通过支付系统充值"
+
+msgid "userProfileAddPresentBaitF"
+msgstr "向她赠送礼品并且她将会注意您"
+
+msgid "userProfileAddPresentBaitM"
+msgstr "赠送他一份礼物并且他将会注意您！"
+
+msgid "mailTemplateTitleNewPresent"
+msgstr "%name%,您收到一份新的礼物来自 %sender_name%在%host%"
+
+msgid "mailTemplateBodyNewPresent"
+msgstr ""
+"<a href='%sender_profile_url%'>%sender_name%</a> 赠送给您一份礼物。您可以在 "
+"<a href='%profile_url%'>个人主页</a>中查看."
+
+msgid "balanceChangeBuyProductSuperstarDecreaseTitle"
+msgstr "超级明星状态激活的支付款"
+
+msgid "balanceChangeBuyProductPresentDecreaseTitle"
+msgstr "购买礼物的支付款"
+
+msgid "balanceChangeBuyProductTopFacesDecreaseTitle"
+msgstr "增加人气的支付款"
+
+msgid "userTransactionsPageTitle"
+msgstr "您的账户余额: %d %s"
+
+msgid "userTransactionsPageDescription"
+msgstr ""
+"您在此网站的账户和支付记录。<br />在“账户状态”中您可以查看您的账户状态并且"
+"<br />打印相关文件。在“支付记录”中您可以查看您的支付和以往订单。"
+
+msgid "userTransactionsPageLinkTypeExpenses"
+msgstr "账户状态"
+
+msgid "userTransactionsPageLinkTypeIncomes"
+msgstr "支付记录"
+
+msgid "userTransactionsPageTableHeaderCol1"
+msgstr "交易"
+
+msgid "userTransactionsPageTableHeaderCol2"
+msgstr "日期"
+
+msgid "userTransactionsPageTableHeaderCol3"
+msgstr "总数"
+
+msgid "userTransactionsPageLinkAll"
+msgstr "查看全部"
+
+msgid "monetizationInfoPageLinkTransactions"
+msgstr "收支结算"
+
+msgid "SuperstarPaymentWasPurchasedTitle"
+msgstr "您已成功激活超级明星状态"
+
+msgid "monetizationInfoPageLinkRecharge"
+msgstr "获得硬币"
+
+msgid "messageNewPresentText"
+msgstr ""
+
+msgid "superstarInfoPageTitle"
+msgstr "成为超级明星"
+
+msgid "superstarInfoPageTitleNotice"
+msgstr "超级明星模式帮助您更快的认识跟多人"
+
+msgid "superstarInfoPageEncountersTitle"
+msgstr "邂逅——找出谁想要认识您"
+
+msgid "superstarInfoPageEncountersNotice"
+msgstr "到邂逅文档中找出谁说了“是的”"
+
+msgid "superstarInfoPageAdvancedSearchTitle"
+msgstr "高级搜索"
+
+msgid "superstarInfoPageAdvancedSearchNotice"
+msgstr "查看完全匹配您的资料"
+
+msgid "superstarInfoPageInvisibleModeTitle"
+msgstr "匿名模式"
+
+msgid "superstarInfoPageInvisibleModeNotice"
+msgstr "匿名查看其他用户资料！他们不会知道你来过。。。"
+
+msgid "superstarInfoPageLimitsTitle"
+msgstr "取消限制"
+
+msgid "superstarInfoPageLimitsNotice"
+msgstr "无限旋转选区"
+
+msgid "superstarInfoPageButtonBuy"
+msgstr "成为超级明星"
+
+msgid "superstarInfoPageButtonRun"
+msgstr "免费使用"
+
+msgid "or"
+msgstr "或"
+
+msgid "close"
+msgstr "关闭"
+
+msgid "YouHaveReceivedAGift"
+msgstr "您收到一份礼物"
+
+msgid "YouHaveMadeAGift"
+msgstr "您已发送一份礼物"
+
+msgid "paymentDialogWidgetTermsOfUseText"
+msgstr ""
+"点击 '#button#', 您允许 #ltd# 提取来自 #paySystemName# #moneyAmount# "
+"#moneyCurrency# 针对 #starAmount# #coins# 能使用于 #domain# 并且您也接受以下"
+"硬币使用条款 #siteName#. 您可以更改您的设置如果您希望更改您的支付方式。<br/> "
+"<br/> 硬币使用条款 #siteName#: <br/> <br/> 1. 当您购买或收到硬币时, 您并不拥"
+"有它. 但是您有权使用这些硬币购买 #siteName# 例如礼物，超级明星状态，等等所提"
+"供的特征。<br/> 2. 购买的硬币不能退还. <br/> 3. 我们可能随时更改硬币的购买价"
+"格，以及他们可以用在此网站的方式。我们还保留停止发售硬币的权利。<br/> 4.硬币"
+"无法赎回针对任何金额和货币价值除非有我们的书面同意. <br/> 5. 尚未使用的硬币将"
+"会在购买起的六个月后过期. <br/> 6. 如果您删除了您的帐户或者您的帐户因违反使用"
+"条款被#siteName# 封号,您将失去所有的剩余硬币. <br/> 7. 如果您通过促销获得免费"
+"硬币，我们保留在任何时候使其过期的权利. <br/> <br/> 支付程序由 #ltd#受理."
+
+msgid "payonlineTetmsOfUse"
+msgstr ""
+"<p>最终支付数量，网站地址或公司名，任务识别码或支付命令。</p><p>您的个人信息"
+"将专门储存在PayOnline System。我们保证这些信息在任何情况下都不会被透露给第三"
+"方，除符合Russian Federation的法律适用提交的书面请求</p><p>Payonline System "
+"Ltd. 是与 Federal Registe注册在注册号10-0104880和针对收集，存储和处理自然人的"
+"个人资料。</p><p>你的信用卡信息只有在交易的时候使用并且以发送加密的形式通过保"
+"密协议到指定银行。你的信用卡信息不存储在payonline系统，因此，不能转让给第三方"
+"在任何情况下。</p><p>如果您有关于付款的任何问题，您可以通过电话联系客户支持："
+"+ 8（800）7000 729（在俄罗斯免费），+ 7（495）666 2143；或通过电子邮件："
+"support@payonline.ru。</p><p>你可以使用您的lovetime.com ID在你的银行报表中找"
+"到此付款。</p><p>请注意您的IP地址将被存储以防止未经授权使用您的个人信息。任何"
+"未经授权使用的个人信息将被严肃对待，停止和起诉。</p>"
+
+msgid "unsubscribeWrongEmail"
+msgstr "邮箱地址错误"
+
+msgid "contestMain"
+msgstr ""
+
+msgid "contestFindYourLove"
+msgstr "找寻您的真爱"
+
+msgid "contestIncreaseChanceSuccess"
+msgstr "增加成功的几率"
+
+msgid "contestOr"
+msgstr "或"
+
+msgid "contestFindLove"
+msgstr "找寻真爱"
+
+msgid "contestResult"
+msgstr "结果"
+
+msgid "contestSelectAll"
+msgstr "全选"
+
+msgid "contestPhotoPhrase1"
+msgstr "没有照片？那就没有礼物！！"
+
+msgid "contestPhotoPhrase2"
+msgstr "抱歉，仅对已核实的拥有照片的用户给予我们的奖励。<br />请添加照片。"
+
+msgid "contestPhotoPhrase3"
+msgstr "拖放<br />来自您的文件系统中的文件<br />上传这里"
+
+msgid "contestUploadPhoto"
+msgstr "上传照片"
+
+msgid "contestImportPhoto"
+msgstr "或添加照片从"
+
+msgid "contestFbProfile"
+msgstr "Facebook主页"
+
+msgid "contestGoogleProfile"
+msgstr "Google+个人资料"
+
+msgid "contestInviteMorePhrase"
+msgstr ""
+"您已邀请<span>%</span>用户。。。<br>假如他们中有人中奖<br><b>您也将获得奖励！"
+"</b><button class='n-d-more-button'>增加您的机会&rarr; <ins>邀请更多用户！</"
+"ins></button>或<a href='/' target='_blank'>找寻您的真爱</a>！"
+
+msgid "contestAnnouncePhrase1"
+msgstr "您已邀请<strong class='announce-contest__highlight'>%d</strong>用户！"
+
+msgid "contestAnnouncePhrase2"
+msgstr "假如他们中的任何一个中奖"
+
+msgid "contestAnnouncePhrase3"
+msgstr "您也将获得相同奖励"
+
+msgid "contestAnnouncePhrase4"
+msgstr "邀请更多地人"
+
+msgid "contestAnnouncePhrase5"
+msgstr "增加您中奖的机会"
+
+msgid "contestAnnouncePhrase6"
+msgstr "Loveitime抽奖"
+
+msgid "contestAnnouncePhrase7"
+msgstr "梦将会成真。。。"
+
+msgid "contestAnnouncePhrase8"
+msgstr "马上注册并参与抽奖"
+
+msgid "contest"
+msgstr "抽奖"
+
+msgid "step1"
+msgstr "步骤1"
+
+msgid "step2"
+msgstr "步骤2"
+
+msgid "step3"
+msgstr "步骤3"
+
+msgid "contestInviteByOtherServices"
+msgstr ""
+"增加您中奖的机会！再绑定一个邮箱（hotmail，Yahoo，Gmail)或<a href=\"%s\" "
+"target=\"_blank\">邀请您的Facebook好友</a>或复制此链接%s"
+
+msgid "cntTitle"
+msgstr ""
+
+msgid "cntRegister"
+msgstr ""
+
+msgid "cntInviteFriends"
+msgstr ""
+
+msgid "cntSamePrize"
+msgstr ""
+
+msgid "cntHigherChances"
+msgstr ""
+
+msgid "cntAddFriends"
+msgstr ""
+
+msgid "cntBannerUsersOnly"
+msgstr ""
+
+msgid "cntBannerParticipatePrizeDraw"
+msgstr ""
+
+msgid "cntBannerFbDescription"
+msgstr ""
+
+msgid "cntPhotoDrag"
+msgstr ""
+
+msgid "cntPhotoUpload"
+msgstr ""
+
+msgid "cntPhotoImport"
+msgstr ""
+
+msgid "cntNext"
+msgstr ""
+
+msgid "cntNotSelected"
+msgstr ""
+
+msgid "cntInvited"
+msgstr ""
+
+msgid "cntWinsSamePrize"
+msgstr ""
+
+msgid "cntIncreaseChances"
+msgstr ""
+
+msgid "cntDropHere"
+msgstr ""
+
+msgid "cntUnselectAll"
+msgstr ""
+
+msgid "cntSelectAll"
+msgstr ""
+
+msgid "cntHours"
+msgstr ""
+
+msgid "cntMinutes"
+msgstr ""
+
+msgid "cntSeconds"
+msgstr ""
+
+msgid "emailContestSubject"
+msgstr ""
+
+msgid "emailContestTitle"
+msgstr ""
+
+msgid "emailContestJoinUs"
+msgstr ""
+
+msgid "emailContestPrizesDescriptions"
+msgstr ""
+
+msgid "emailContestRegister"
+msgstr ""
+
+msgid "emailContestTerms"
+msgstr ""
+
+msgid "emailContestClickHere"
+msgstr ""
+
+msgid "emailContestPrizes"
+msgstr ""
+
+msgid "emailContestUnsubscribe"
+msgstr ""
+
+msgid "actionNote"
+msgstr "注明"
+
+msgid "noteEdit"
+msgstr "编辑"
+
+msgid "noteRemove"
+msgstr "删除"
+
+msgid "noteSave"
+msgstr "保存"
+
+msgid "noteConfirmDelete"
+msgstr "您确定要删除此注明?"
+
+msgid "lettersCheckSpamFolder"
+msgstr ""
+"请查看您的垃圾邮件夹以确定我们的消息没有被过滤在内。如果是的，请将它从垃圾邮"
+"件夹中移除。"
+
+msgid "lettersMarkEmailNotSpam"
+msgstr "并且将此邮件设定为非垃圾邮件"
+
+msgid "pagesContacts"
+msgstr ""
+"<b>地址:</b> <br /> 25/4 Soi Ratchadaphisak 36, Ratchadaphisak Rd., "
+"ChanKasem, Chatuchak BKK 10900 Thailand <br /><br /> <br /> Phnom Penh "
+"Tower, 12F, #445, 232/93 (Monivong Blvd), Phnom Penh, Cambodia, 12258 <br /"
+"><br /> <br /> Russia,  Moscow,  Svobody str. 50,  Build. 3, 125364 <br /"
+"><br /> <b>Email:</b><br /><a href=\"mailto:info@lovetime.com"
+"\">info@lovetime.com</a>"
+
+msgid "seocatalogTitleInCity"
+msgstr "一个可以在%city_title%约会女生，男生，男士，女士的约会网站"
+
+msgid "seocatalogH1InCity"
+msgstr "在%city_title%约会"
+
+msgid "seocatalogSeeking"
+msgstr "搜索"
+
+msgid "seocatalogAge"
+msgstr "年龄"
+
+msgid "seocatalogAppearance"
+msgstr "外观"
+
+msgid "seocatalogOther"
+msgstr "其它"
+
+msgid "seocatalogNext"
+msgstr "更多"
+
+msgid "seocatalogWoman"
+msgstr "女性"
+
+msgid "seocatalogMen"
+msgstr "男性"
+
+msgid "seocatalogLesbian"
+msgstr "女同志"
+
+msgid "seocatalogGay"
+msgstr "男同志"
+
+msgid "seocatalogBisexual"
+msgstr "雙性戀"
+
+msgid "seocatalogFriendship"
+msgstr "友誼與交流"
+
+msgid "seocatalogRomanticRelations"
+msgstr "浪漫關係"
+
+msgid "seocatalogFlirt"
+msgstr "調情"
+
+msgid "seocatalogSex"
+msgstr "性關係"
+
+msgid "seocatalogBlondes"
+msgstr "金髮"
+
+msgid "seocatalogBrunettes"
+msgstr "黑髮"
+
+msgid "seocatalogBrownHair"
+msgstr "棕髮"
+
+msgid "seocatalogAthletic"
+msgstr "運動型"
+
+msgid "seocatalogSlim"
+msgstr "運動型"
+
+msgid "seocatalogHeavy"
+msgstr "重量型"
+
+msgid "seocatalogForeigner"
+msgstr "外國人"
+
+msgid "seocatalogRich"
+msgstr "有錢"
+
+msgid "seocatalogSingle"
+msgstr "單身"
+
+msgid "seocatalogNoBadHabits"
+msgstr "無不良嗜好"
+
+msgid "chatFilterManGifts"
+msgstr ""
+"%s已设定了信息过滤，所以您不能向此用户发送信息。<b>赠送他一份礼物</b>并且他将"
+"会取消限制。或尝试与其它用户聊天。"
+
+msgid "chatFilterWomanGifts"
+msgstr ""
+"%s已设定了信息过滤，所以您不能向此用户发送信息。<b>赠送她一份礼物</b>并且他将"
+"会取消限制。或尝试与其它用户聊天。"
+
+msgid "modelLoginFormEmailOrNick"
+msgstr "邮箱"
+
+msgid "modelLoginFormPassword"
+msgstr "密码"
+
+msgid "modelLoginFormAlien"
+msgstr "不是本人的电脑"
+
+msgid "loginErrorInvalidEmailOrPassword"
+msgstr "用户名或密码无效"
+
+msgid "systemForgotPassword"
+msgstr "忘记密码"
+
+msgid "loginErrorUserNotVisible"
+msgstr "拒绝此用户%s通过."
+
+msgid "wrongEmail"
+msgstr "邮箱无效"
+
+msgid "errorEmailExists"
+msgstr "请输入其它邮箱"
+
+msgid "citationsDefault1"
+msgstr "嗨,您好吗?"
+
+msgid "citationsDefault2"
+msgstr "嗨,您在干吗?"
+
+msgid "modelUsersValidateReservedNicks"
+msgstr "请选择新的昵称"
+
+msgid "registrationFormWrongDate"
+msgstr "数据错误"
+
+msgid "months1"
+msgstr "一月"
+
+msgid "months2"
+msgstr "二月"
+
+msgid "months3"
+msgstr "三月"
+
+msgid "months4"
+msgstr "四月"
+
+msgid "months5"
+msgstr "五月"
+
+msgid "months6"
+msgstr "六月"
+
+msgid "months7"
+msgstr "七月"
+
+msgid "months8"
+msgstr "八月"
+
+msgid "months9"
+msgstr "九月"
+
+msgid "months10"
+msgstr "十月"
+
+msgid "months11"
+msgstr "十一月"
+
+msgid "months12"
+msgstr "十二月"
+
+msgid "modelSmileCode"
+msgstr "编码"
+
+msgid "modelSmileImage"
+msgstr "图像"
+
+msgid "modelSmileVisible"
+msgstr "可见的"
+
+msgid "Noactive"
+msgstr "否"
+
+msgid "modelSpamersName"
+msgstr ""
+
+msgid "modelUsersName"
+msgstr "昵称"
+
+msgid "modelUsersEmail"
+msgstr "邮箱"
+
+msgid "modelComplaintsStatus"
+msgstr "状态"
+
+msgid "modelSpamersTime"
+msgstr ""
+
+msgid "modelSpamersMessages"
+msgstr ""
+
+msgid "modelComplaintsSenderId"
+msgstr "发送人"
+
+msgid "modelComplaintsCompanionId"
+msgstr "举报"
+
+msgid "modelComplaintsReasonText"
+msgstr "原因"
+
+msgid "modelComplaintsComment"
+msgstr "评论"
+
+msgid "modelComplaintsCompanion"
+msgstr "被举报者"
+
+msgid "modelComplaintsSender"
+msgstr "举报者"
+
+msgid "complainReason1"
+msgstr "垃圾邮件，广告"
+
+msgid "complainReason2"
+msgstr "欺诈"
+
+msgid "complainReason3"
+msgstr "猥亵的提议"
+
+msgid "complainReason4"
+msgstr "无礼，威胁"
+
+msgid "complainReason5"
+msgstr "照片非本人"
+
+msgid "complainReason6"
+msgstr "性爱诱惑"
+
+msgid "photosRefuseReasonPicture"
+msgstr "绘图,物体或者动物"
+
+msgid "photosRefuseReasonErotica"
+msgstr "色情书籍,凌辱"
+
+msgid "photosRefuseReasonFamous"
+msgstr "名人"
+
+msgid "photosRefuseReasonSpam"
+msgstr "垃圾邮件,广告"
+
+msgid "photosRefuseReasonPoorQuality"
+msgstr "质量差"
+
+msgid "photosRefuseReasonOnlyYouMustBeSeen"
+msgstr "只有本人可见"
+
+msgid "photosRefuseReasonNotVisibleFace"
+msgstr "不可见的面孔"
+
+msgid "photosRefuseReasonChildOnThePhoto"
+msgstr "照片中包含小孩"
+
+msgid "photosRefuseReasonExcessiveDecoration"
+msgstr "过度装饰"
+
+msgid "photosStatusAccept"
+msgstr "接受"
+
+msgid "photosStatusRefuse"
+msgstr "拒绝"
+
+msgid "userName"
+msgstr "名称"
+
+msgid "feedbackText"
+msgstr "文本"
+
+msgid "userWrongOldPasswError"
+msgstr "密码错误"
+
+msgid "userPasswTooShort"
+msgstr "新的密码过短(最少(min)字)"
+
+msgid "dateFormat"
+msgstr "内容必须按照日.月.年的格式"
+
+msgid "modelUsersValidateRequireMessage"
+msgstr "必填%s信息"
+
+msgid "modelUsersLookingFor"
+msgstr "我在寻找一位"
+
+msgid "modelUsersPassword"
+msgstr "密码"
+
+msgid "modelUsersOldPassword"
+msgstr "当前密码"
+
+msgid "modelUsersNewPassword"
+msgstr "新密码"
+
+msgid "modelUsersVisible"
+msgstr "可见的"
+
+msgid "modelUsersRole"
+msgstr "组"
+
+msgid "modelUsersPhone"
+msgstr "电话号码"
+
+msgid "modelUsersVkId"
+msgstr "Vkontakte账号"
+
+msgid "modelUsersFacebookId"
+msgstr "Facebook账号"
+
+msgid "modelUsersTwitterId"
+msgstr "Twitter账号"
+
+msgid "modelUsersAvatar"
+msgstr "个人头像"
+
+msgid "modelUsersDefaultAvatar"
+msgstr "标准头像"
+
+msgid "modelUsersCity"
+msgstr "城市"
+
+msgid "modelUsersCountry"
+msgstr "国家"
+
+msgid "modelUsersResidence"
+msgstr "位置"
+
+msgid "modelUsersLat"
+msgstr "纬度"
+
+msgid "modelUsersLng"
+msgstr "经度"
+
+msgid "modelUsersAbout"
+msgstr "关于我"
+
+msgid "profileStatus"
+msgstr "状态"
+
+msgid "modelUsersIntroduceMyself"
+msgstr "我的状态"
+
+msgid "modelUsersWantToMeet"
+msgstr "想寻找"
+
+msgid "modelUsersPreferredAge"
+msgstr "年龄要求"
+
+msgid "dateofbirth"
+msgstr "出生日期"
+
+msgid "modelUsersHeight"
+msgstr "身高"
+
+msgid "modelUsersWeight"
+msgstr "体重"
+
+msgid "modelUsersPhysique"
+msgstr "体形"
+
+msgid "modelUsersColor"
+msgstr "发色"
+
+msgid "modelUsersColorEyes"
+msgstr "眼睛的颜色"
+
+msgid "modelUsersSign"
+msgstr "星座"
+
+msgid "modelUsersType"
+msgstr "约会目的"
+
+msgid "modelUsersAcquainted"
+msgstr "我被结识了"
+
+msgid "modelUsersBed"
+msgstr "性爱爱好"
+
+msgid "modelUsersExcites"
+msgstr "让我感觉兴奋的"
+
+msgid "modelUsersStatus"
+msgstr "男女关系情况"
+
+msgid "modelUsersChildren"
+msgstr "生育情况"
+
+msgid "modelUsersOrientation"
+msgstr "性取向"
+
+msgid "modelUsersSmoking"
+msgstr "吸烟"
+
+msgid "modelUsersAlcohol"
+msgstr "喝酒"
+
+msgid "modelUsersEducation"
+msgstr "教育程度"
+
+msgid "modelUsersJob"
+msgstr "工作"
+
+msgid "modelUsersIncome"
+msgstr "收入"
+
+msgid "modelUsersLove_work"
+msgstr "在工作中我喜欢"
+
+msgid "modelUsersLove_institute"
+msgstr "在大学里我喜欢"
+
+msgid "modelUsersLove_go"
+msgstr "我想要访问"
+
+msgid "modelUsersLove_music"
+msgstr "最喜爱的音乐"
+
+msgid "modelUsersBan"
+msgstr "查封"
+
+msgid "modelUsersSendEmails"
+msgstr "通过邮箱收到通知"
+
+msgid "modelUsersSounds"
+msgstr "启用声音消息"
+
+msgid "modelUsersShowPixeledImages"
+msgstr "对陌生人显示模糊的照片"
+
+msgid "modelUsersHideImages"
+msgstr "隐藏照片"
+
+msgid "modelUsersTimeZone"
+msgstr "时区"
+
+msgid "moduleUsersAutoSelectTimeZone"
+msgstr "自动设置"
+
+msgid "modelUsersRegistered"
+msgstr "已注册"
+
+msgid "modelUsersInvitedBy"
+msgstr "邀请"
+
+msgid "modelUsersLoginWithToken"
+msgstr "从邮件链接自动登录"
+
+msgid "physiqueSlim"
+msgstr "苗条型"
+
+msgid "physiqueAverage"
+msgstr "平均型"
+
+msgid "physiqueAthletic"
+msgstr "运动型"
+
+msgid "physiqueMuscular"
+msgstr "丰满型"
+
+msgid "physiqueHeavy"
+msgstr "肥胖型"
+
+msgid "physiqueFull"
+msgstr "只胖了一点点而已"
+
+msgid "colorEyesBrown"
+msgstr "棕色"
+
+msgid "colorEyesGreen"
+msgstr "绿色"
+
+msgid "colorEyesBlue"
+msgstr "蓝色"
+
+msgid "colorEyesGray"
+msgstr "灰色"
+
+msgid "colorEyesBlack"
+msgstr "黑色"
+
+msgid "colorEyesHazel"
+msgstr "褐色"
+
+msgid "smokingDoNotSmoke"
+msgstr "否"
+
+msgid "smokingRarely"
+msgstr "有时"
+
+msgid "smokingGiving"
+msgstr "正准备戒"
+
+msgid "smokingOften"
+msgstr "经常"
+
+msgid "alcoholDoNotDrink"
+msgstr "一点也不"
+
+msgid "alcoholILikeToDrink"
+msgstr "经常"
+
+msgid "alcoholOnHolidays"
+msgstr "应酬性的"
+
+msgid "educationSecondary"
+msgstr "高中"
+
+msgid "educationTechnical"
+msgstr "专科"
+
+msgid "educationHigher"
+msgstr "大学"
+
+msgid "incomeLow"
+msgstr "低"
+
+msgid "incomeMedium"
+msgstr "中等"
+
+msgid "incomeHigh"
+msgstr "高"
+
+msgid "systemAdministrator"
+msgstr "管理员"
+
+msgid "childrenNo"
+msgstr "否"
+
+msgid "childrenYes"
+msgstr "是"
+
+msgid "signAries"
+msgstr "白羊座"
+
+msgid "signTaurus"
+msgstr "金牛座"
+
+msgid "signTwins"
+msgstr "双子座"
+
+msgid "signCancer"
+msgstr "巨蟹座"
+
+msgid "signLion"
+msgstr "狮子座"
+
+msgid "signVirgo"
+msgstr "处女座"
+
+msgid "signLibra"
+msgstr "天秤座"
+
+msgid "signScorpio"
+msgstr "天蝎座"
+
+msgid "signSagittarius"
+msgstr "射手座"
+
+msgid "signCapricorn"
+msgstr "摩羯座"
+
+msgid "signAquarius"
+msgstr "水瓶座"
+
+msgid "signPisces"
+msgstr "双鱼座"
+
+msgid "changeFieldInSearch"
+msgstr "积极寻找中"
+
+msgid "changeFieldHasAFriend"
+msgstr "交往中"
+
+msgid "changeFieldMarried"
+msgstr "已婚"
+
+msgid "changeFieldNotInSearch"
+msgstr "已订婚"
+
+msgid "changeFieldBreaked"
+msgstr "离婚"
+
+msgid "haircolorLight"
+msgstr "金发"
+
+msgid "haircolorDark"
+msgstr "黑色"
+
+msgid "haircolorRed"
+msgstr "红色"
+
+msgid "haircolorTanned"
+msgstr "挑染"
+
+msgid "haircolorBright"
+msgstr "光亮的"
+
+msgid "haircolorWhite"
+msgstr "灰色"
+
+msgid "haircolorSkin"
+msgstr "光头"
+
+msgid "haircolorBald"
+msgstr "秃头"
+
+msgid "changeFieldHetero"
+msgstr "正常"
+
+msgid "changeFieldGay"
+msgstr "同性恋"
+
+msgid "changeFieldBi"
+msgstr "双性恋"
+
+msgid "ofWoman"
+msgstr "女士"
+
+msgid "ofMan"
+msgstr "男士"
+
+msgid "introduceMyselfOnlyMyself"
+msgstr "单身"
+
+msgid "introduceMyselfAsPair"
+msgstr "情侣"
+
+msgid "changeFieldFriendship"
+msgstr "交友"
+
+msgid "changeFieldFlirt"
+msgstr "调情"
+
+msgid "changeFieldRomantic"
+msgstr "浪漫关系"
+
+msgid "changeFieldSex"
+msgstr "性爱"
+
+msgid "changeFieldAtWork"
+msgstr "工作场合"
+
+msgid "changeFieldNeighbor"
+msgstr "社区"
+
+msgid "changeFieldSchool"
+msgstr "学校/大学"
+
+msgid "changeFieldStreet"
+msgstr "街道上"
+
+msgid "changeFieldOral"
+msgstr "口交"
+
+msgid "changeFieldAnal"
+msgstr "肛交"
+
+msgid "changeFieldGroup"
+msgstr "群交"
+
+msgid "changeFieldPublic"
+msgstr "在奇怪的地方做爱"
+
+msgid "changeFieldRoleplay"
+msgstr "角色扮演"
+
+msgid "changeFieldToys"
+msgstr "性爱玩具"
+
+msgid "changeFieldBdsm"
+msgstr "性虐"
+
+msgid "changeFieldClassicSex"
+msgstr "正常性爱"
+
+msgid "changeFieldSmells"
+msgstr "气味"
+
+msgid "changeFieldHighHair"
+msgstr "多毛的"
+
+msgid "changeFieldTattoo"
+msgstr "纹身和穿洞"
+
+msgid "changeFieldDarkskin"
+msgstr "肤色黝黑"
+
+msgid "changeFieldUnderwear"
+msgstr "内衣"
+
+msgid "changeFieldUniform"
+msgstr "制服"
+
+msgid "changeFieldStockings"
+msgstr "丝袜"
+
+msgid "changeFieldFootwear"
+msgstr "恋鞋癖"
+
+msgid "changeFieldDominate"
+msgstr "支配方或者顺从方"
+
+msgid "changeFieldBondage"
+msgstr "捆绑和固定"
+
+msgid "changeFieldPain"
+msgstr "痛感"
+
+msgid "monthsJan"
+msgstr "一月"
+
+msgid "monthsFeb"
+msgstr "二月"
+
+msgid "monthsMar"
+msgstr "三月"
+
+msgid "monthsApr"
+msgstr "四月"
+
+msgid "monthsMay"
+msgstr "五月"
+
+msgid "monthsJun"
+msgstr "六月"
+
+msgid "monthsJul"
+msgstr "七月"
+
+msgid "monthsAug"
+msgstr "八月"
+
+msgid "monthsSep"
+msgstr "九月"
+
+msgid "monthsOct"
+msgstr "十月"
+
+msgid "monthsNov"
+msgstr "十一月"
+
+msgid "monthsDec"
+msgstr "十二月"
+
+msgid "removingProfileCauseIPlaGoBack"
+msgstr "我只是暂时离开此网站，我还会回来的。"
+
+msgid "profileLastVisit"
+msgstr "最近访问"
+
+msgid "dateToday"
+msgstr "今天"
+
+msgid "dateYesterday"
+msgstr "昨天"
+
+msgid "date2DaysAgo"
+msgstr "前天"
+
+msgid "profileLastVisitAt"
+msgstr "在"
+
+msgid "chatBigMessage"
+msgstr "消息过长.必须少于2000字."
+
+msgid "errorFolderCreate"
+msgstr "您已用过此文件名"
+
+msgid "foldersDeleteError"
+msgstr "非常抱歉,文件删除失败"
+
+msgid "noteErrorTooLong"
+msgstr "此注明不能超过1000字"
+
+msgid "noteErrorTags"
+msgstr "此注明不能包含HTML链接"
+
+msgid "guestsWasMan"
+msgid_plural "guestsWasWoman"
+msgstr[0] "最新评论"
+
+msgid "guestsYear"
+msgid_plural "guestsYears"
+msgstr[0] "%d 年"
+
+msgid "guestsMonth"
+msgid_plural "guestsMonths"
+msgstr[0] "%d 月"
+
+msgid "guestsDay"
+msgid_plural "guestsDays"
+msgstr[0] "%d 日"
+
+msgid "guestsHour"
+msgid_plural "guestsHours"
+msgstr[0] "%s 小时"
+
+msgid "guestsMinute"
+msgid_plural "guestsMinutes"
+msgstr[0] "%s 分钟"
+
+msgid "guestsBack"
+msgstr "之前"
+
+msgid "topfacesMessageTooShort"
+msgstr "此消息不能超过140字"
+
+msgid "topfaceStatusInvalidValue"
+msgstr "状态栏包含无效值"
+
+msgid "formErrorNewPasswRepeat"
+msgstr "密码错误"
+
+msgid "modelLoginFormEmail"
+msgstr "邮箱"
+
+msgid "modelForgotpassPassword"
+msgstr "密码"
+
+msgid "modelForgotpassPasswordRepeat"
+msgstr "再次输入密码"
+
+msgid "modelFogotpassEmailExists"
+msgstr "还没有任何用户用此邮箱注册过"
+
+msgid "modelFogotpassInvalidLink"
+msgstr "无效链接"
+
+msgid "modelFogotpassPassDoNotMatch"
+msgstr "密码不符合"
+
+msgid "visitors"
+msgstr ""
+
+msgid "facebookLikeShowUsYouLikeUs"
+msgstr "表达您对我们的喜爱!"
+
+msgid "systemRegisterSmall"
+msgstr "注册"
+
+msgid "chatMoveIn"
+msgstr "转到"
+
+msgid "chatFoldersFirst"
+msgstr "普通"
+
+msgid "chatFoldersSecond"
+msgstr "我的最爱"
+
+msgid "chatFoldersThird"
+msgstr "忽略"
+
+msgid "langRussian"
+msgstr "俄语"
+
+msgid "yourPhotoHere"
+msgstr "您的图片在这里"
+
+msgid "topfacesAdd"
+msgstr "置&nbsp;顶"
+
+msgid "topfacesItsYou"
+msgstr "这是您"
+
+msgid "userBalloonChat"
+msgstr "发信息"
+
+msgid "userBalloonProfile"
+msgstr "查看资料"
+
+msgid "topfacesDialogTitle"
+msgstr "使本人&nbsp; 置顶"
+
+msgid "topfacesDialogChoosePhoto"
+msgstr "选择您的照片或者 <a href=\"/users/view/%s\">上传&nbsp;新的照片</a>"
+
+msgid "topfacesDialogTypeMessage"
+msgstr "编写消息"
+
+msgid "actionSend"
+msgstr "发送"
+
+msgid "topfacesDialogNoPhotos"
+msgstr ""
+"添加照片到&nbsp;顶端您需要先 <a href=\"/users/view/%s\">上传</a>&nbsp;个人头"
+"像"
+
+msgid "TopFacesLimitExceeded"
+msgstr "每小时内允许添加不&nbsp;超过一张图片&nbsp;.请稍候再试."
+
+msgid "emailConfirmPleaseTitle"
+msgstr ""
+"确认链接已发送到您的邮箱地址.确认邮箱地址后，您将可以正常使用此网站.<a "
+"href='%link%'>还没有收到链接？</a>？"
+
+msgid "emailConfirmCheckSpam"
+msgstr ""
+"请查看您邮箱里的垃圾邮件,我们的邮件可能错误的出现在里面.假如发现,请注明它为"
+"<b>非垃圾邮件</b>."
+
+msgid "emailConfirmPleaseNotice"
+msgstr "&nbsp;"
+
+msgid "socialLikeStr"
+msgstr "喜欢"
+
+msgid "complainHead"
+msgstr "举报关于"
+
+msgid "complainIgnore"
+msgstr "忽略"
+
+msgid "complainIgnoreDescription"
+msgstr ""
+"您将不会再收到来自此人的任何信息。在此之后，如有需要，您可以解除此操作。"
+
+msgid "complainError1"
+msgstr "请注明举报原因"
+
+msgid "complainSubmit"
+msgstr "发送"
+
+msgid "complainOr"
+msgstr "或"
+
+msgid "complainClose"
+msgstr "取消"
+
+msgid "menuFeedback"
+msgstr "反馈"
+
+msgid "menuRules"
+msgstr "条款"
+
+msgid "menuContacts"
+msgstr "联系我们"
+
+msgid "menuHelpUs"
+msgstr "帮助我们"
+
+msgid "flirtNear"
+msgstr "附近的人"
+
+msgid "menuAbout"
+msgstr "关于我们"
+
+msgid "menuSearch"
+msgstr "搜索"
+
+msgid "flirtCarousel"
+msgstr "约会"
+
+msgid "menuChat"
+msgstr "聊天"
+
+msgid "mainTitle"
+msgstr "邀请您的好友,同事和邻居"
+
+msgid "mainTitle2"
+msgstr "并且匿名与之调情"
+
+msgid "menTitles1"
+msgstr "喜欢您的邻居?"
+
+msgid "menTitles2"
+msgstr "喜欢您的同事?"
+
+msgid "menTitles3"
+msgstr "想与您的前任调情?"
+
+msgid "menTitles4"
+msgstr "您很寂寞吗?"
+
+msgid "womanTitles1"
+msgstr "喜欢您的邻居?"
+
+msgid "womanTitles2"
+msgstr "喜欢您的同事?"
+
+msgid "womanTitles3"
+msgstr "想与您的前任调情?"
+
+msgid "womanTitles4"
+msgstr "您很寂寞吗?"
+
+msgid "menTexts1"
+msgstr ""
+"用明信片<a href=\"/\">邀请</a>她. 把它放在她车上的挡风玻璃下或者她的邮箱里."
+
+msgid "menTexts2"
+msgstr "找到她的邮箱并且 <a href=\"/\"> 邀请她</a>到lovetime"
+
+msgid "menTexts3"
+msgstr "找到她的邮箱或者电话号码并且<a href=\"/\"> 邀请她</a>到lovetime"
+
+msgid "menTexts4"
+msgstr "点击\"<a href=\"/#flirt\" class=\"top-flirt\">调情</a>\" 并且与之相识"
+
+msgid "womanTexts1"
+msgstr ""
+"用明信片<a href=\"/\">邀请</a>他. 把它放在他车上的挡风玻璃下或者他的邮箱里."
+
+msgid "womanTexts2"
+msgstr "找到他的邮箱并且 <a href=\"/\"> 邀请他</a>到lovetime"
+
+msgid "womanTexts3"
+msgstr "找到他的邮箱或者电话号码并且<a href=\"/\"> 邀请他</a>到lovetime"
+
+msgid "womanTexts4"
+msgstr "点击\"<a href=\"/#flirt\" class=\"top-flirt\">调情</a>\" 并且与之相识"
+
+msgid "foldersTitle"
+msgstr "请输入文件名"
+
+msgid "foldersCancel"
+msgstr "取消"
+
+msgid "foldersCreate"
+msgstr "创建"
+
+msgid "foldersRename"
+msgstr "重命名"
+
+msgid "userBalloonCarousel"
+msgstr "约会"
+
+msgid "userBalloonExchange"
+msgstr "交换信息"
+
+msgid "chatBalloonMove"
+msgstr "转移"
+
+msgid "chatBalloonSelect1"
+msgstr "已选择"
+
+msgid "chatBalloonSelect2"
+msgstr "已选择"
+
+msgid "chatBalloonSelect3"
+msgstr "已选择"
+
+msgid "errorFolderEmpty"
+msgstr "请输入文件名"
+
+msgid "dateDaysBefore"
+msgstr "天前"
+
+msgid "dateMomentAgo"
+msgstr "只要"
+
+msgid "dateSecondAgo_plural_1"
+msgstr "刚刚"
+
+msgid "dateSecondAgo_plural_2"
+msgstr "一秒前"
+
+msgid "dateSecondAgo_plural_3"
+msgstr "秒前"
+
+msgid "dateMinuteAgo_plural_1"
+msgstr "一分钟前"
+
+msgid "dateMinuteAgo_plural_2"
+msgstr "分钟前"
+
+msgid "dateMinuteAgo_plural_3"
+msgstr "分钟前"
+
+msgid "dateCoupleMinutesAgo"
+msgstr "数分钟前"
+
+msgid "dateHourAgo_plural_1"
+msgstr "一小时前"
+
+msgid "dateHourAgo_plural_2"
+msgstr "小时前"
+
+msgid "dateHourAgo_plural_3"
+msgstr "小时前"
+
+msgid "messages_plural_1"
+msgstr "消息"
+
+msgid "messages_plural_2"
+msgstr "消息"
+
+msgid "messages_plural_3"
+msgstr "消息"
+
+msgid "usersAddToFavorite"
+msgstr "加入到我的最爱"
+
+msgid "actionBlock"
+msgstr "忽略"
+
+msgid "chatComplain"
+msgstr "举报"
+
+msgid "usersRemoveFromFavorite"
+msgstr "从我的最爱移除"
+
+msgid "actionOr"
+msgstr "或者"
+
+msgid "actionDelete"
+msgstr "删除"
+
+msgid "galleryClose"
+msgstr "关闭"
+
+msgid "galleryUploadError"
+msgstr "&nbsp;上传出现错误.请稍后再试"
+
+msgid "galleryUploadFilesName"
+msgstr "图像文件"
+
+msgid "galleryUploadPossibleFiles"
+msgstr "您只能上传图像文件.允许格式:"
+
+msgid "modelUsersHasPhoto"
+msgstr "照片"
+
+msgid "modelUsersHasPhotoCondition"
+msgstr "与&nbsp;照片"
+
+msgid "modelUsersHasNoPhotoCondition"
+msgstr "没有照片"
+
+msgid "searchHair"
+msgstr "发色"
+
+msgid "requireRegistration4MaleTitle"
+msgstr "%s 已分享了比您更多的个人资料"
+
+msgid "requireRegistration4FemaleTitle"
+msgstr "%s 已分享了比您更多的个人资料"
+
+msgid "requireRegistrationNote"
+msgstr "查看其他用户资料之前，你需要先注册账号。"
+
+msgid "requireRegistrationCancel"
+msgstr "取消"
+
+msgid "requireRegistrationRegister"
+msgstr "注册"
+
+msgid "increaseInfoConfirmNote"
+msgstr "查看其它用户资料前,请确保您的资料已完成50%以上."
+
+msgid "increaseInfoConfirmFillNow"
+msgstr "马上填写"
+
+msgid "increaseInfoConfirmCancel"
+msgstr "取消"
+
+msgid "Credit Card"
+msgstr "信用卡"
+
+msgid "registerHello"
+msgstr "您好"
+
+msgid "registerForEnd"
+msgstr "完成注册前,请确定您在此网站的个人资料."
+
+msgid "registerYes"
+msgstr "是"
+
+msgid "registerNo"
+msgstr "否"
+
+msgid "registerForEndYes"
+msgstr "请输入密码"
+
+msgid "registerBack"
+msgstr "返回"
+
+msgid "registerForEndNo"
+msgstr "检查信息"
+
+msgid "registerUnderNick"
+msgstr "请不要输入能让别人认出您的真名或昵称"
+
+msgid "registerEmailTip"
+msgstr "不允许任何人看见它"
+
+msgid "birthDay"
+msgstr "日"
+
+msgid "birthMonth"
+msgstr "月"
+
+msgid "birthYear"
+msgstr "年"
+
+msgid "systemLoginAllRight"
+msgstr "全部正确"
+
+msgid "registerRequire"
+msgstr "请填写所有的必填栏目"
+
+msgid "socialAuthFailed"
+msgstr "授权失败"
+
+msgid "registerAuthOk"
+msgstr "授权成功.现在您将自动跳转到主页.或者点击"
+
+msgid "registerAuthHere"
+msgstr "这里"
+
+msgid "registerAuthNone"
+msgstr "此用户不存在"
+
+msgid "registerAlreadyYes"
+msgstr "已有用户注册此邮箱"
+
+msgid "registerAuthFailed"
+msgstr "授权失败"
+
+msgid "registerCreateFailed"
+msgstr "创建用户失败.请检查各资料栏."
+
+msgid "authFacebook"
+msgstr "通过Facebook授权"
+
+msgid "authVkontakte"
+msgstr "通过Vkontakte授权"
+
+msgid "citationNotExist"
+msgstr "无法找到引述"
+
+msgid "citationAccessDenied"
+msgstr "此引述不属于您"
+
+msgid "VIP"
+msgstr "VIP"
+
+msgid "questRegister"
+msgstr "注册"
+
+msgid "balanceChangeInQuest"
+msgstr "更改余额（寻求收支平衡）"
+
+msgid "superstarModelAttributeIsReseted"
+msgstr ""
+
+msgid "payonlinesystemError3"
+msgstr "您的信用卡所属银行拒绝支付.请联系银行并了解拒绝支付的原因后重试一次."
+
+msgid "payonlinesystemError2"
+msgstr "信用卡支付不可用.请使用其它支付方法."
+
+msgid "payonlinesystemError1"
+msgstr "技术错误,请重试一次."
+
+msgid "payonlinesystemError0"
+msgstr "无法支付"
+
+msgid "seocatalogTitleDatingSite"
+msgstr "是一個和女孩與女性、男孩與男性相遇的約會網站"
+
+msgid "seocatalogH1DatingSite"
+msgstr "約會網站"
+
+msgid "seocatalogH1CountriesAndCities"
+msgstr "国家和城市"
+
+msgid "seocatalogTitleDatingWithWomen"
+msgstr "與女孩和女性約會"
+
+msgid "seocatalogH1DatingWithWomen"
+msgstr "與女性約會"
+
+msgid "seocatalogTitleDatingWithMen"
+msgstr "與男孩和男性約會"
+
+msgid "seocatalogH1DatingWithMen"
+msgstr "與男性約會"
+
+msgid "seocatalogTitleDatingWithLesbian"
+msgstr "與女同志約會"
+
+msgid "seocatalogH1DatingWithLesbian"
+msgstr "與女同志約會"
+
+msgid "seocatalogTitleDatingWithGays"
+msgstr "與男同志約會"
+
+msgid "seocatalogH1DatingWithGays"
+msgstr "與男同志約會"
+
+msgid "seocatalogTitleDatingWithBisexuals"
+msgstr "與雙性戀約會"
+
+msgid "seocatalogH1DatingWithBisexuals"
+msgstr "與雙性戀約會"
+
+msgid "seocatalogTitleGuysGirls_18_20"
+msgstr "與18-20歲的女性與男性約會"
+
+msgid "seocatalogH1GuysGirls_18_20"
+msgstr "18-20歲的男孩與女孩"
+
+msgid "seocatalogTitleGuysGirls_21_25"
+msgstr "與20-25歲的男性與女性約會"
+
+msgid "seocatalogH1GuysGirls_21_25"
+msgstr "21-25歲的男孩與女孩"
+
+msgid "seocatalogTitleGuysGirls_26_30"
+msgstr "與25-30歲的女性與男性約會"
+
+msgid "seocatalogH1GuysGirls_26_30"
+msgstr "26-30歲的男性與女性"
+
+msgid "seocatalogTitleGuysGirls_31_35"
+msgstr "與31-35歲的男性與女性約會"
+
+msgid "seocatalogH1GuysGirls_31_35"
+msgstr "31-35歲的男性與女性"
+
+msgid "seocatalogTitleGuysGirls_35_40"
+msgstr "與35-40歲的女性與男性約會"
+
+msgid "seocatalogH1GuysGirls_35_40"
+msgstr "35-40歲的男性與女性"
+
+msgid "seocatalogTitleMeetingForCommunication"
+msgstr "為友誼與交流而相遇"
+
+msgid "seocatalogH1MeetingForCommunication"
+msgstr "為相互交流而相遇"
+
+msgid "seocatalogTitleMeetingRorRomanticRelations"
+msgstr "為友誼與交流而相遇"
+
+msgid "seocatalogH1MeetingRorRomanticRelations"
+msgstr "為浪漫關係而相遇"
+
+msgid "seocatalogTitleMeetingForFlirt"
+msgstr "為調情而相遇"
+
+msgid "seocatalogH1MeetingForFlirt"
+msgstr "為調情而相遇"
+
+msgid "seocatalogTitleMeetingForCloseRelations"
+msgstr "為密切關係、親密關係與性而相遇"
+
+msgid "seocatalogH1MeetingForCloseRelations"
+msgstr "為密切關係而相遇"
+
+msgid "seocatalogTitleBlondes"
+msgstr "與金髮 金髮 相遇"
+
+msgid "seocatalogH1Blondes"
+msgstr "金髮  與金髮"
+
+msgid "seocatalogTitleBrunettes"
+msgstr "與黑髮  黑髮 相遇"
+
+msgid "seocatalogH1Brunettes"
+msgstr "黑髮  與黑髮 "
+
+msgid "seocatalogTitleBrownHaired"
+msgstr "與紅髮 ，金髮 與金髮 相遇"
+
+msgid "seocatalogH1BrownHaired"
+msgstr "棕髮  與棕髮  "
+
+msgid "seocatalogTitleDatingWithAthletic"
+msgstr "與運動型的女孩與運動型的男孩相遇"
+
+msgid "seocatalogH1DatingWithAthletic"
+msgstr "與運動型的男孩與女孩約會"
+
+msgid "seocatalogTitleDatingWithSlim"
+msgstr "與纖瘦型的女孩與纖瘦型的男孩相遇"
+
+msgid "seocatalogH1DatingWithSlim"
+msgstr "與纖瘦型的男孩與女孩約會"
+
+msgid "seocatalogTitleDatingWithHeavy"
+msgstr "與重量型的女孩與重量型的男孩相遇"
+
+msgid "seocatalogH1DatingWithHeavy"
+msgstr "與重量型的男孩與女孩約會"
+
+msgid "seocatalogTitleDatingWithForeigners"
+msgstr "與外國人相遇"
+
+msgid "seocatalogH1DatingWithForeigners"
+msgstr "與外國人約會"
+
+msgid "seocatalogTitleDatingWithRich"
+msgstr "與有錢人相遇"
+
+msgid "seocatalogH1DatingWithRich"
+msgstr "與外國人約會"
+
+msgid "seocatalogTitleDatingWithSingles"
+msgstr "與單身者相遇"
+
+msgid "seocatalogH1DatingWithSingles"
+msgstr "與單身者約會"
+
+msgid "seocatalogTitleDatingWithPeopleHavingNoBadHabits"
+msgstr "與無不良嗜好者相遇"
+
+msgid "seocatalogH1DatingWithPeopleHavingNoBadHabits"
+msgstr "與無不良嗜好者約會"
+
+msgid "searchShowMore"
+msgstr "显示更多"
+
+msgid "seocatalogTitleCountriesAndCities"
+msgstr "国家和城市"
+
+msgid "age"
+msgstr "年龄"
+
+msgid "modelUsersSexWoman"
+msgstr "女"
+
+msgid "modelUsersSexMan"
+msgstr "男"
+
+msgid "modelUsersSexAny"
+msgstr "任何性别"
+
+msgid "searchUsersRegion"
+msgstr "地区"
+
+msgid "actionFind"
+msgstr "查找"
+
+msgid "mainTitle3Noa"
+msgstr "在线自由约会"
+
+msgid "clockNavExactSearch"
+msgstr "精确搜索"
+
+msgid "clockNavExactSearchSubtext"
+msgstr "20多个搜索特征"
+
+msgid "clockNavMeetings"
+msgstr "约会就在今天"
+
+msgid "clockNavMeetingsSubtext"
+msgstr "<b>数分钟内发送或收到</b>约会邀请"
+
+msgid "clockNavInstantCommunication"
+msgstr "马上联系"
+
+msgid "clockNavInstantCommunicationSubtext"
+msgstr "<b>数秒内</b>寻找聊天对象"
+
+msgid "clockNavWhosNear"
+msgstr "结识附近的人"
+
+msgid "clockNavWhosNearSubtext"
+msgstr "寻找在一公里内的 <b>成百上千的帅哥美女</b>"
+
+msgid "clockNavHasContact"
+msgstr "和不同地方的人结识"
+
+msgid "clockNavHasContactSubtext"
+msgstr "内置包含 <b>64种语言</b>的聊天翻译器"
+
+msgid "clockNavperfectCouple"
+msgstr "只要点击几下就能被结识"
+
+msgid "clockNavperfectCoupleSubtext"
+msgstr "<b>预置短语</b>-30秒内相遇"
+
+msgid "peopleHere"
+msgstr "已加入"
+
+msgid "carouselFillAnketa0"
+msgstr "玩旋转木马"
+
+msgid "carouselFillAnketa1"
+msgstr "请注明"
+
+msgid "carouselFillAnketa2"
+msgstr "您的年龄,国家,城市并且上传一张照片"
+
+msgid "flirtSearch"
+msgstr "搜索"
+
+msgid "pagesAbout"
+msgstr ""
+"在一生中几乎所有的人都喜欢他们的好友.但是大多数人都害怕表达他们的感觉.<br/"
+"><br/>此服务解决了这个问题.现在您有了机会不用害怕被拒绝.<br/><br/>&bull; 您就"
+"坐在您同事的旁边并且不知道怎样靠近她?此服务将会帮助您.<br/>&bull; 想与您学校"
+"的大红人结识吗?很简单.<br/>&bull;喜欢您的邻居吗?想知道她是否也喜欢您?<br/"
+"><br/>您想寻找怎样的人,真爱还是性爱?他在工作中,在学校里等等有喜欢谁吗?您只要"
+"单击一下就能知晓."
+
+msgid "pagesRulesTitle2"
+msgstr "注册条例"
+
+msgid "pagesRules"
+msgstr ""
+"<h2>在Lovetime网站(在此以后有关此网站的一切)提供本人的个人信息前,本人同意以下"
+"条例:</h2><ol><li>我确定我已阅读用户协议以及其条款并且遵从. </li><li>本人已满"
+"18周岁.</li><li>针对本人在此网站发表的内容或者其它信息,本人愿承担个人责任.针"
+"对其完整性和真实性需要本人在此网站的授权</li><li>本人知晓此网站将包含只对成年"
+"人开放的信息.</li><li>本人保证本人在使用此网站时符合本人所在地的相关法律.</"
+"li><li>本人保证将不会公开的散布消息,或邮箱地址,电话号码,链接或者其它详细资料."
+"</li><li>本人保证不发表任何侮辱，诽谤，亵渎，色情或其他不道德的材料.演示或促"
+"使残暴,恐怖主义或暴力的材料,冒犯人类尊严的材料.或其它违反相关法律的材料.</"
+"li><li>本人保证将不会误导其它用户并不追寻或骚扰其它用户.</li><li>我保证不利用"
+"此网站去吸引其它用户的注意并从我或者他人的执行或呈现中获得商品,工作或者产生服"
+"务,买卖.此外,本人保证不利用此网站宣传或推广违法材料.</li><li> 本人知晓本人放"
+"置在此网站的信息可能被其它网络用户查阅,针对此行为本网站管理方将不背负任何责任"
+"</li><li>针对本人所发送的匿名邀请所造成的任何可能带来的负面后果,本人将承担全"
+"部责任</li></ol><h2>本网站管理方将不承担任何责任针对以下:</h2><ol><li>针对任"
+"何用户发表的任何信息的内容,合法性和准确性.</li><li>针对任何用户使用此网站或经"
+"过移动通讯设备和其它通讯设备所导致的任何信息伤害，损害或损失.</li><li>针对用"
+"户发布或添加在此网站的任何材料所引起的用户版权侵犯和第三方的权利侵犯所造成的"
+"违法行为(包括版权法).</li></ol>"
+
+msgid "error404"
+msgstr "错误 404"
+
+msgid "pageNotFound"
+msgstr "页面不存在"
+
+msgid "formMustFill"
+msgstr "必填"
+
+msgid "feedbackFile"
+msgstr "截图"
+
+msgid "feedbackFileTip"
+msgstr "您可以附上截图里包含的错误"
+
+msgid "siteCopyrightTh"
+msgstr "Lovetime.com"
+
+msgid "man"
+msgstr "男士"
+
+msgid "woman"
+msgstr "女士"
+
+msgid "countrySelectName"
+msgstr "国家"
+
+msgid "citySelectName"
+msgstr "城市"
+
+msgid "signupBirthDay"
+msgstr "日"
+
+msgid "signupBirthMonth"
+msgstr "月"
+
+msgid "signupBirthYear"
+msgstr "年"
+
+msgid "systemRegister"
+msgstr "注册"
+
+msgid "signupLicenseNote"
+msgstr ""
+"点击&laquo注册&raquo;前,请确认您是否已满18岁并且同意<a href=\"/pages/rules\">"
+"用户协议</a>"
+
+msgid "searchExcite"
+msgstr "异性特征"
+
+msgid "searchExcitesHe"
+msgstr "兴奋刺激的"
+
+msgid "searchExcitesShe"
+msgstr "兴奋刺激的"
+
+msgid "searchFrom"
+msgstr "来自"
+
+msgid "searchTo"
+msgstr "到"
+
+msgid "searchSm"
+msgstr "(cm)"
+
+msgid "searchKg"
+msgstr "(kg)"
+
+msgid "searchSkipCond"
+msgstr "跳过选项"
+
+msgid "sexYears"
+msgstr "年"
+
+msgid "searchHave"
+msgstr "是"
+
+msgid "searchHaveNot"
+msgstr "否"
+
+msgid "searchHaveChildren"
+msgstr "是"
+
+msgid "searchHaveNotChildren"
+msgstr "否"
+
+msgid "searchLocationUndefined"
+msgstr "任何位置"
+
+msgid "nearFilterOnline"
+msgstr "在线"
+
+msgid "nearFilterNew"
+msgstr "新的"
+
+msgid "nearFilterAll"
+msgstr "全部"
+
+msgid "searchAddParams"
+msgstr "高级搜索"
+
+msgid "searchAddToSearch"
+msgstr "添加到&nbsp;搜索"
+
+msgid "searchChooseAddParam"
+msgstr "选择高级选项"
+
+msgid "carouselYes"
+msgstr "是"
+
+msgid "carouselMaybeYes"
+msgstr "可能"
+
+msgid "carouselNo"
+msgstr "否"
+
+msgid "carouselLikeHim"
+msgstr "您想要和&nbsp;他约会吗?"
+
+msgid "carouselLikeHer"
+msgstr "您想要和&nbsp;她约会吗?"
+
+msgid "carouselMutualGreeting"
+msgstr "<strong>恭喜您!</strong> 你们有共同喜爱"
+
+msgid "carouselMutualMessageFemale"
+msgstr "也想要&nbsp;结识&nbsp;您"
+
+msgid "carouselMutualMessageMale"
+msgstr "也想要&nbsp;结识&nbsp;您"
+
+msgid "chatWithHer"
+msgstr "和她聊天"
+
+msgid "chatWithHim"
+msgstr "和他聊天"
+
+msgid "chatMutualGreeting_female"
+msgstr "%s 您&nbsp;想要约会，已同意与你见面！她正等着您安排&nbsp;约会的消息。"
+
+msgid "chatMutualGreeting_male"
+msgstr "%s 您&nbsp;想要约会，已同意与你见面！他正等着您安排&nbsp;约会的消息。"
+
+msgid "gallerySingleUploadBtn"
+msgstr "上传照片"
+
+msgid "km"
+msgstr "公里"
+
+msgid "profileMeet"
+msgstr "约会"
+
+msgid "wannaMeet"
+msgstr "想结识吗?"
+
+msgid "wannaMeetHer"
+msgstr "想结识&nbsp;她吗?"
+
+msgid "wannaMeetHim"
+msgstr "想结识&nbsp;他吗?"
+
+msgid "locatorSpecifyLocationPart1"
+msgstr "标出您的位置"
+
+msgid "locatorSpecifyLocationPart2"
+msgstr "之后地图上将会显示谁在附近"
+
+msgid "locatorSpecifyLocationPart3"
+msgstr "标出"
+
+msgid "corrBlackListConfirm"
+msgstr "您确定要把消息转到\"黑名单\"?"
+
+msgid "corrBlackListConfirmNote"
+msgstr "必要时,您可以恢复它们."
+
+msgid "actionMove"
+msgstr "转移"
+
+msgid "actionDontMove"
+msgstr "不转移"
+
+msgid "corrDeleteFolderConfirm"
+msgstr "您确定要删除此文件夹?"
+
+msgid "corrDeleteFolderConfirmNote"
+msgstr ""
+"&nbsp;在此包含的消息没有&nbsp;消失,但是&nbsp;将会转移到&nbsp;普通&laquo;文件"
+"夹&raquo;"
+
+msgid "actionDontDelete"
+msgstr "不删除"
+
+msgid "guestsIgnoreOk"
+msgstr "&nbsp此用户的消息被转移到&laquo;忽略&raquo;"
+
+msgid "guestsIgnoreNote"
+msgstr "您可以恢复它"
+
+msgid "actionClose"
+msgstr "关闭"
+
+msgid "actionChat"
+msgstr "聊天"
+
+msgid "invitePreviewFromColleagueFemale"
+msgstr "您的同事想结识&nbsp;您"
+
+msgid "invitePreviewFromNeighborFemale"
+msgstr "您的邻居想结识&nbsp;您"
+
+msgid "invitePreviewFromClassmateFemale"
+msgstr "您的同学想结识&nbsp;您"
+
+msgid "invitePreviewFromFamiliarFemale"
+msgstr "有人想结识&nbsp;您"
+
+msgid "invitePreviewFromColleagueMale"
+msgstr "您的同事想结识&nbsp;您"
+
+msgid "invitePreviewFromNeighborMale"
+msgstr "您的邻居想结识&nbsp;您"
+
+msgid "invitePreviewFromClassmateMale"
+msgstr "您的同学想结识&nbsp;您"
+
+msgid "invitePreviewFromFamiliarMale"
+msgstr "有人想结识&nbsp;您"
+
+msgid "invitePreviewTextFemale"
+msgstr "为了&nbsp;证明它不是&nbsp;玩笑,她会告诉你一个关键词语."
+
+msgid "invitePreviewTextMale"
+msgstr "为了&nbsp;证明它不是&nbsp;玩笑,他会告诉你一个关键词语."
+
+msgid "invitePreviewDearFemale"
+msgstr "亲爱的"
+
+msgid "invitePreviewDearMale"
+msgstr "亲爱的"
+
+msgid "invitePreviewCodeTitle"
+msgstr "想知道谁喜欢你"
+
+msgid "invitePreviewCodeVisitLink"
+msgstr "点击&nbsp;链接"
+
+msgid "invitePreviewCodeLink"
+msgstr "我被邀请了"
+
+msgid "invitePreviewCodeSite"
+msgstr "登录到&nbsp;网站"
+
+msgid "invitePreviewCodeTopRight"
+msgstr "在右上方"
+
+msgid "invitePreviewCodeType"
+msgstr "输入邀请码"
+
+msgid "invitePreviewPostcardNote"
+msgstr ""
+"打印并且&nbsp;把明信片放在容易发现的&nbsp;地方,比如.汽车的挡风玻璃下&nbsp;,邮"
+"箱里&nbsp;,包里&nbsp;,桌&nbsp;上&nbsp;...任何主意?"
+
+msgid "invitePreviewPhoneResendNote"
+msgstr "假如您想发送短信,请输入电话好号码:"
+
+msgid "inviteResend"
+msgstr "重新发送"
+
+msgid "inviteSendInvite"
+msgstr "发送邀请"
+
+msgid "inviteResent"
+msgstr "重新发送"
+
+msgid "inviteSummaryTitleColleagueFemale"
+msgstr "发送给亲友的邀请&nbsp;已指定"
+
+msgid "inviteSummaryTitleNeighborFemale"
+msgstr "发送给邻居的邀请&nbsp;已指定"
+
+msgid "inviteSummaryTitleClassmateFemale"
+msgstr "发送给同学的邀请&nbsp;已指定"
+
+msgid "inviteSummaryTitleFamiliarFemale"
+msgstr "发送给亲友的邀请&nbsp;已指定"
+
+msgid "inviteSummaryTitleColleagueMale"
+msgstr "发送给同事的邀请&nbsp;已指定"
+
+msgid "inviteSummaryTitleNeighborMale"
+msgstr "发送给邻居的邀请&nbsp;已指定"
+
+msgid "inviteSummaryTitleClassmateMale"
+msgstr "发送给同学的邀请&nbsp;已指定"
+
+msgid "inviteSummaryTitleFamiliarMale"
+msgstr "发送给亲友的邀请&nbsp;已指定"
+
+msgid "inviteSummaryStateAgree"
+msgstr "接受"
+
+msgid "inviteSummaryStateWait"
+msgstr "已发送"
+
+msgid "inviteSummaryNoKeyPhrase"
+msgstr "不包含关键词语"
+
+msgid "inviteFailCodeField"
+msgstr "无法找到您的邀请 :( 您弄错了?"
+
+msgid "inviteApplySuccess"
+msgstr "邀请已接受"
+
+msgid "increaseInfoConfirm4MaleTitle"
+msgstr "%s 分享了比您更多的个人信息"
+
+msgid "increaseInfoConfirm4FemaleTitle"
+msgstr "%s 分享了比您更多的个人信息"
+
+msgid "needAddPhotoConfirmTitle"
+msgstr "您需要添加一张照片"
+
+msgid "needAddPhotoConfirmNote"
+msgstr "查看其它用户照片前,请确保您已上传一张照片."
+
+msgid "needAddPhotoConfirmYes"
+msgstr "上传照片"
+
+msgid "needAddPhotoConfirmNo"
+msgstr "取消"
+
+msgid "requiredFieldsAlertConfirmTitle"
+msgstr "还没填写"
+
+msgid "requiredFieldsAlertConfirmText"
+msgstr "以下为必填信息:%s<br>请在您资料内的空白栏填写缺失的信息."
+
+msgid "requiredFieldsAlertConfirmYes"
+msgstr "转到"
+
+msgid "noticeImageSizeLimit"
+msgstr "图像大小限定"
+
+msgid "noticeImageSizeLimitText"
+msgstr "图像大小必须少于 2 MB"
+
+msgid "emailConfirmTitle"
+msgstr "确定邮箱地址"
+
+msgid "emailConfirmAlertYes"
+msgstr "确定"
+
+msgid "emailConfirmAlertNo"
+msgstr "取消"
+
+msgid "bannedInfoAlertTitle"
+msgstr "您的帐号已被查封"
+
+msgid "bannedInfoAlertNotice"
+msgstr "相关细节请在资料页面查看"
+
+msgid "bannedInfoAlertYes"
+msgstr "到我的资料"
+
+msgid "bannedInfoAlertNo"
+msgstr "注销"
+
+msgid "emailDomainsReplaceAlertTitle"
+msgstr "更改邮箱"
+
+msgid "emailDomainsReplaceAlertText"
+msgstr "我们已更改您的邮箱地址到%s,请检查错误拼写. 继续或者恢复更改?"
+
+msgid "emailDomainsReplaceAlertYes"
+msgstr "继续"
+
+msgid "emailDomainsReplaceAlertNo"
+msgstr "恢复"
+
+msgid "signinAction"
+msgstr "登录"
+
+msgid "signupAction"
+msgstr "注册"
+
+msgid "signinEmailEmptyError"
+msgstr "请输入邮箱"
+
+msgid "signinEmailMaskError"
+msgstr "请输入有效的邮箱地址"
+
+msgid "signinPasswordEmptyError"
+msgstr "请输入密码"
+
+msgid "signinCountryEmptyError"
+msgstr "国家"
+
+msgid "signinCityEmptyError"
+msgstr "城市"
+
+msgid "signinErrorBirthDayEmpty"
+msgstr "日"
+
+msgid "signinErrorBirthMonthEmpty"
+msgstr "月"
+
+msgid "signinErrorBirthYearEmpty"
+msgstr "年"
+
+msgid "signinErrorTooYoung"
+msgstr "允许年满18周岁的用户注册"
+
+msgid "citySelectDisabledTitle"
+msgstr "选择国家"
+
+msgid "signinPasswordMinLengthError"
+msgstr "密码必须不少于5个&nbsp;字"
+
+msgid "signinErrorNameEmpty"
+msgstr "请输入您的名字"
+
+msgid "signinErrorSex"
+msgstr "请选择您的性别"
+
+msgid "loginVia"
+msgstr "通过%s登录"
+
+msgid "registerVia"
+msgstr "通过%s注册"
+
+msgid "timeToFindYourLove"
+msgstr "是时候找到您的爱"
+
+msgid "socialLikeDescription"
+msgstr "匿名与同事,同学,邻居和好友调情"
+
+msgid "showAll"
+msgstr "显示全部"
+
+msgid "actionMinimize"
+msgstr "最少"
+
+msgid "chatLoadingHistory"
+msgstr "上传先前的消息"
+
+msgid "chatCitationsAdd"
+msgstr "添加到&nbsp;引述"
+
+msgid "chatCitationsTitle"
+msgstr "消息模板"
+
+msgid "chatCitationsWelcome"
+msgstr ""
+"<p>请在这里添加常用的短语,以方便以后能快捷的添加到对话中.</p><p>添加请点击"
+"<span id=\"citations-welcome-button\"></span>添加引述</p>"
+
+msgid "statusOnline"
+msgstr "在线"
+
+msgid "actionEdit"
+msgstr "编辑"
+
+msgid "chatCitationsRestore"
+msgstr "恢复引述"
+
+msgid "chatNewMessageFrom"
+msgstr "新消息来自"
+
+msgid "chatEmptyTitle"
+msgstr "您的聊天栏里没有消息"
+
+msgid "chatEmptyText"
+msgstr ""
+"添加伙伴,选择您喜欢的用户. 比如来自 <a href=\"/\">搜索</a>,并且点击\"类型\""
+
+msgid "formUploadFile"
+msgstr "上次文件"
+
+msgid "formDeleteFile"
+msgstr "删除文件"
+
+msgid "socialLikeTitle"
+msgstr "非常棒的网站!lovetime"
+
+msgid "About Yiinka"
+msgstr "关于Yiinke"
+
+msgid "systemInstruments"
+msgstr "工具"
+
+msgid "Import CSV"
+msgstr "从CSV引进"
+
+msgid "chatMessages"
+msgstr "消息"
+
+msgid "profileMessages"
+msgstr "消息"
+
+msgid "chatAll"
+msgstr "全部"
+
+msgid "chatOnline"
+msgstr "在线"
+
+msgid "correspondencesActions"
+msgstr "操作"
+
+msgid "actionMoveIn"
+msgstr "转到"
+
+msgid "actionBlacklist"
+msgstr "黑名单"
+
+msgid "chatEmptyFolder"
+msgstr "空白文件夹"
+
+msgid "chatNoOnline"
+msgstr "所有对话者都不在线"
+
+msgid "correspondencesMessage"
+msgid_plural "correspondencesMessages"
+msgstr[0] "消息"
+
+msgid "favoriteUsers"
+msgstr "最喜爱的用户"
+
+msgid "favoriteLocation"
+msgstr ""
+"您可以在\"消息\"中的文件夹里找到\"我的最爱\"并且查看您之前\"添加到我的最爱"
+"\"中的用户"
+
+msgid "favoriteHideTip"
+msgstr "隐藏提示"
+
+msgid "favoriteNext"
+msgstr "下一页"
+
+msgid "favoriteCancel"
+msgstr "取消"
+
+msgid "emailConfirmResultSuccess"
+msgstr "您的邮箱地址确认成功"
+
+msgid "emailConfirmAlreadyConfirmed"
+msgstr "邮箱地址已确认"
+
+msgid "emailConfirmCheckYourEmailNow"
+msgstr "请查看您的新邮件"
+
+msgid "emailConfirmClickLinkForComplete"
+msgstr "完成注册前,请点击发送给您的 <b>%email%</b>里的链接"
+
+msgid "mailOpen"
+msgstr "打开"
+
+msgid "emailConfirmCantGetMessage"
+msgstr "还没有收到邮件?"
+
+msgid "emailConfirmCheckYourEmailOrEnterAnother"
+msgstr "请核对您的邮箱地址或者输入新的邮箱"
+
+msgid "emailConfirmTypeValidEmail"
+msgstr "请输入有效的邮箱地址"
+
+msgid "emailConfirmSendAgain"
+msgstr "再试一次"
+
+msgid "profileGuests"
+msgstr "来访者"
+
+msgid "guestsFemaleStranger"
+msgstr "陌生人"
+
+msgid "guestsMaleStranger"
+msgstr "陌生人"
+
+msgid "guestsNo"
+msgstr "在指定的时间内您还没有来访者"
+
+msgid "catalogUsersCatalog"
+msgstr "用户目录"
+
+msgid "formPasswordSent"
+msgstr "密码重置指令已发送到您的邮箱"
+
+msgid "usersList"
+msgstr "用户列表"
+
+msgid "likesNoData"
+msgstr "没有资料"
+
+msgid "guestsDataError"
+msgstr "资料错误"
+
+msgid "usersPhotoAlbumOf"
+msgstr "用户相册"
+
+msgid "actionUploadPhoto"
+msgstr "上传照片"
+
+msgid "banProfileNotice"
+msgstr "此个人资料未完成,已被版主拒绝或者不允许查看. 请查看其他用户."
+
+msgid "banProfileHome"
+msgstr "主页"
+
+msgid "usersWriteMessage"
+msgstr "编写消息"
+
+msgid "usersInviteToChat"
+msgstr "邀请加入聊天"
+
+msgid "usersAlreadyToFavorite"
+msgstr "已加入到我的最爱"
+
+msgid "carouselDistance"
+msgstr "离您%s km"
+
+msgid "carouselDistanceOn"
+msgstr "距离"
+
+msgid "carouselDistanceUnknown"
+msgstr "查找前,请先标出您的位置"
+
+msgid "porsonalInfo"
+msgstr "个人信息"
+
+msgid "userProfilePersonalInfoShow"
+msgstr "显示"
+
+msgid "formResetPassword"
+msgstr "密码重设链接"
+
+msgid "carouselDisabledTitle"
+msgstr "必须添加您的照片"
+
+msgid "uploadPhoto"
+msgstr "上传照片"
+
+msgid "carouselDisabledText"
+msgstr "您准备与鬼约会吗? 不是?那么请上传最少一张个人头像,保证成功."
+
+msgid "backToPageDates"
+msgstr "选择一位约会对象"
+
+msgid "profileRelations"
+msgstr "约会"
+
+msgid "profileLikesForMe"
+msgstr "想约会我"
+
+msgid "profileMutualLikes"
+msgstr "互有好感"
+
+msgid "profileMyLikes"
+msgstr "我想约会的"
+
+msgid "carouselHeYes"
+msgstr "他说 <strong>&laquo;是的&raquo; <strong>"
+
+msgid "carouselSheYes"
+msgstr "她说 <strong>&laquo;是的&raquo; <strong>"
+
+msgid "carouselHeMaybe"
+msgstr "他说 <strong>&laquo;也许&raquo; <strong>"
+
+msgid "carouselSheMaybe"
+msgstr "她说 <strong>&laquo;也许&raquo; <strong>"
+
+msgid "carouselAnswerYes"
+msgstr "是的!"
+
+msgid "carouselAnswerMaybe"
+msgstr "也许"
+
+msgid "carouselAnswerNo"
+msgstr "不"
+
+msgid "carouselMyYes"
+msgstr "您说<strong>&laquo;是的&raquo; <strong>"
+
+msgid "carouselYouMaybe"
+msgstr "您说<strong>&laquo;是的&raquo; <strong>"
+
+msgid "updatePass"
+msgstr "请输入新密码"
+
+msgid "modelForgotpassChangePassword"
+msgstr "更改密码"
+
+msgid "nearTitle1"
+msgstr "谁在附近"
+
+msgid "nearTitle2"
+msgstr "我"
+
+msgid "meOnMap"
+msgstr "位置"
+
+msgid "userLocationNotFound"
+msgstr "无法找到位置"
+
+msgid "backToPageSearch"
+msgstr "返回到搜索"
+
+msgid "pageLocationTitle"
+msgstr "标出您的位置"
+
+msgid "meOnMapText2"
+msgstr "其他用户将不会看到您的位置.只显示大概距离."
+
+msgid "userLocationPlaceholder"
+msgstr "请输入门牌号,街道名和城市"
+
+msgid "userLocationFind"
+msgstr "查找"
+
+msgid "locationClear"
+msgstr "移除目标"
+
+msgid "usersRefuseFromMails"
+msgstr "取消邮件通知"
+
+msgid "usersRefuseFromMailsOk"
+msgstr "您将不会收到任何邮件通知"
+
+msgid "profileMySettings"
+msgstr "设置"
+
+msgid "profileNotificationSettings"
+msgstr "通知设置"
+
+msgid "inviteIncognitoTitle"
+msgstr "&laquo;匿名&raquo;"
+
+msgid "loginWidgetIncognitoText"
+msgstr "不允许其他用户看到我的照片"
+
+msgid "UTC-11:00"
+msgstr "(UTC-11:00) 世界标准时间为11:00"
+
+msgid "UTC-10:00"
+msgstr "(UTC-10:00)夏威夷"
+
+msgid "UTC-9:00"
+msgstr "(UTC-09:00)阿拉斯加"
+
+msgid "UTC-8:00[1]"
+msgstr "(UTC-08:00) 南加利福尼亚"
+
+msgid "UTC-8:00[2]"
+msgstr "(UTC-08:00) 太平洋时间(美国和加拿大)"
+
+msgid "UTC-7:00[1]"
+msgstr "(UTC-07:00)亚利桑那州"
+
+msgid "UTC-7:00[2]"
+msgstr "(UTC-07:00)山地时间(美国和加拿大)"
+
+msgid "UTC-7:00[3]"
+msgstr "(UTC-07:00)拉巴斯，马萨特兰，奇瓦瓦 "
+
+msgid "UTC-6:00[1]"
+msgstr "(UTC-06:00)瓜达拉哈拉市，墨西哥市，蒙特雷"
+
+msgid "UTC-6:00[2]"
+msgstr "(UTC-06:00)萨斯喀彻温省，美国中部 "
+
+msgid "UTC-6:00[3]"
+msgstr "(UTC-06:00)中部标准时间(美国和加拿大)"
+
+msgid "UTC-5:00[1]"
+msgstr "(UTC-05:00)波哥大，基多，利马 "
+
+msgid "UTC-5:00[2]"
+msgstr "(UTC-05:00) 东部时间(美国和加拿大)"
+
+msgid "UTC-5:00[3]"
+msgstr "(UTC-05:00)印地安那州(东部)"
+
+msgid "UTC-4:30"
+msgstr "(UTC-04:30)加拉加斯"
+
+msgid "UTC-4:00[1]"
+msgstr "(UTC-04:00)亚松森"
+
+msgid "UTC-4:00[2]"
+msgstr "(UTC-04:00)大西洋时间(加拿大)"
+
+msgid "UTC-4:00[3]"
+msgstr "(UTC-04:00)乔治城，拉巴斯，马瑙斯，圣胡安 "
+
+msgid "UTC-4:00[4]"
+msgstr "(UTC-04:00)库亚巴"
+
+msgid "UTC-4:00[5]"
+msgstr "(UTC-04:00)圣地亚哥"
+
+msgid "UTC-3:30"
+msgstr "(UTC-03: 30)纽芬兰"
+
+msgid "UTC-3:00[1]"
+msgstr "(UTC-03:00)巴西"
+
+msgid "UTC-3:00[2]"
+msgstr "(UTC-03: 00)布宜诺斯艾利斯"
+
+msgid "UTC-3:00[3]"
+msgstr "(UTC-03:00)格陵兰"
+
+msgid "UTC-3:00[4]"
+msgstr "(UTC-03:00)卡宴, 福塔雷萨"
+
+msgid "UTC-3:00[5]"
+msgstr "(UTC-03:00)蒙得维的亚"
+
+msgid "UTC-2:00[1]"
+msgstr "(UTC-02:00) 世界标准时间为02:00"
+
+msgid "UTC-2:00[2]"
+msgstr "(UTC-02:00) 大西洋中部时间"
+
+msgid "UTC-1:00[1]"
+msgstr "(UTC-01:00) 亚述尔群岛"
+
+msgid "UTC-1:00[2]"
+msgstr "(UTC-01:00) 佛得角群岛"
+
+msgid "UTC0[2]"
+msgstr "(UTC) 都柏林，里斯本，伦敦，爱丁堡 "
+
+msgid "UTC0[3]"
+msgstr "(UTC) 卡萨布兰卡"
+
+msgid "UTC0[4]"
+msgstr "(UTC) 蒙罗维亚, 雷克雅末克"
+
+msgid "UTC+1[1]"
+msgstr "(UTC+01:00)阿姆斯特丹，柏林，伯尔尼，维也纳，罗马，斯德哥尔摩 "
+
+msgid "UTC+1[2]"
+msgstr "(UTC+01:00)贝尔格莱德，布拉迪斯拉发，布达佩斯，卢布尔雅那，布拉格 "
+
+msgid "UTC+1[3]"
+msgstr "(UTC+01:00)布鲁塞尔，哥本哈根，马德里，巴黎 "
+
+msgid "UTC+1[4]"
+msgstr "(UTC+01:00)华沙，萨格勒布，萨拉热窝，斯科普里 "
+
+msgid "UTC+1[5]"
+msgstr "(UTC+01:00) 温得和克"
+
+msgid "UTC+1[6]"
+msgstr "(UTC+01:00) 非洲中西部"
+
+msgid "UTC+2[1]"
+msgstr "(UTC+02:00)安曼"
+
+msgid "UTC+2[2]"
+msgstr "(UTC+02:00) 雅典，布加勒斯特 "
+
+msgid "UTC+2[3]"
+msgstr "(UTC+02:00) 贝鲁特"
+
+msgid "UTC+2[4]"
+msgstr "(UTC+02:00)维尔纽斯，基辅，里加，保加利亚，塔林，赫尔辛基 "
+
+msgid "UTC+2[5]"
+msgstr "(UTC+02:00) 大马士革"
+
+msgid "UTC+2[6]"
+msgstr "(UTC+02:00)耶路撒冷"
+
+msgid "UTC+2[7]"
+msgstr "(UTC+02:00) 开罗"
+
+msgid "UTC+2[8]"
+msgstr "(UTC+02:00)尼科西亚"
+
+msgid "UTC+2[9]"
+msgstr "(UTC+02:00)伊斯坦布尔"
+
+msgid "UTC+2[10]"
+msgstr "(UTC+02:00)哈拉雷, 比勒陀利亚 "
+
+msgid "UTC+3[1]"
+msgstr "(UTC+03:00)巴格达"
+
+msgid "UTC+3[2]"
+msgstr "(UTC+03:00)加里宁格勒，明斯克 "
+
+msgid "UTC+3[3]"
+msgstr "(UTC+03:00) 科威特, 利雅得 "
+
+msgid "UTC+3[4]"
+msgstr "(UTC+03:00)奈洛比"
+
+msgid "UTC+3:30"
+msgstr "(UTC+03:30)德黑兰"
+
+msgid "UTC+4[1]"
+msgstr "(UTC+04:00) 阿布扎比，马斯喀特 "
+
+msgid "UTC+4[2]"
+msgstr "(UTC+04:00)巴库"
+
+msgid "UTC+4[3]"
+msgstr "(UTC+04:00)伏尔加格勒，莫斯科，圣彼得堡 "
+
+msgid "UTC+4[4]"
+msgstr "(UTC +04:00) 耶烈万"
+
+msgid "UTC+4[5]"
+msgstr "(UTC+04:00)第比利斯"
+
+msgid "UTC+4:30"
+msgstr "(UTC+04:30)喀布尔"
+
+msgid "UTC+5[1]"
+msgstr "(UTC+05:00)伊斯兰堡，卡拉奇 "
+
+msgid "UTC+5[2]"
+msgstr "(UTC+05:00)塔什干"
+
+msgid "UTC+5:30"
+msgstr "(UTC+05:30)加尔各答，孟买，新德里，印度 "
+
+msgid "UTC+5:45"
+msgstr "(UTC+05:45)加德满都"
+
+msgid "UTC+6[1]"
+msgstr "(UTC+06:00)阿斯塔纳"
+
+msgid "UTC+6[2]"
+msgstr "(UTC+06:00)达卡"
+
+msgid "UTC+6[3]"
+msgstr "(UTC+06:00)叶卡捷琳堡"
+
+msgid "UTC+6:30"
+msgstr "(UTC+06:30) 仰光"
+
+msgid "UTC+7[1]"
+msgstr "(UTC+07:00)曼谷，雅加达，河内 "
+
+msgid "UTC+7[2]"
+msgstr "(UTC+07:00)新西伯利亚"
+
+msgid "UTC+8[1]"
+msgstr "(UTC+08:00) 香港，北京，乌鲁木齐，重庆"
+
+msgid "UTC+8[2]"
+msgstr "(UTC+08:00)克拉斯诺亚尔斯克"
+
+msgid "UTC+8[3]"
+msgstr "(UTC+08:00) 吉隆坡，新加坡 "
+
+msgid "UTC+8[4]"
+msgstr "(UTC+08:00)珀斯"
+
+msgid "UTC+8[5]"
+msgstr "(UTC+08:00) 台北"
+
+msgid "UTC+8[6]"
+msgstr "(UTC+08:00)乌兰巴托"
+
+msgid "UTC+9[1]"
+msgstr "(UTC+09:00) 伊尔库次克"
+
+msgid "UTC+9[2]"
+msgstr "(UTC+09:00)大阪，札幌，东京"
+
+msgid "UTC+9[3]"
+msgstr "(UTC+09:00)首尔"
+
+msgid "UTC+9:30[1]"
+msgstr "(UTC+09:30)阿德莱德"
+
+msgid "UTC+9:30[2]"
+msgstr "(UTC+09:30)达尔文"
+
+msgid "UTC+10[1]"
+msgstr "(UTC+10:00) 布里斯班"
+
+msgid "UTC+10[2]"
+msgstr "(UTC+10:00)关岛，莫尔兹比港"
+
+msgid "UTC+10[3]"
+msgstr "(UTC+10:00)堪培拉, 墨尔本, 悉尼 "
+
+msgid "UTC+10[4]"
+msgstr "(UTC+10:00)霍巴特"
+
+msgid "UTC+10[5]"
+msgstr "(UTC+10:00) 雅库茨克"
+
+msgid "UTC+11[1]"
+msgstr "(UTC+11:00)海参崴"
+
+msgid "UTC+11[2]"
+msgstr "(UTC+11:00)所罗门群岛，新喀里多尼亚 "
+
+msgid "UTC+12[1]"
+msgstr "(UTC+12:00)惠灵顿, 奥克兰 "
+
+msgid "UTC+12[3]"
+msgstr "(UTC+12:00)马加丹"
+
+msgid "UTC+12[4]"
+msgstr "(UTC+12:00)斐济"
+
+msgid "UTC+13[1]"
+msgstr "(UTC+13:00)努库阿洛法"
+
+msgid "UTC+13[2]"
+msgstr "(UTC+13:00)萨摩亚群岛"
+
+msgid "profileAdditional"
+msgstr "随机"
+
+msgid "saved"
+msgstr "已保存"
+
+msgid "userSettingsChangePassword"
+msgstr "更改密码"
+
+msgid "systemRegisterNew"
+msgstr "新用户注册"
+
+msgid "systemRegisterChange"
+msgstr "更改资料"
+
+msgid "registerSex"
+msgstr "性别"
+
+msgid "siteRulesAccept"
+msgstr "请点击同意"
+
+msgid "pagesRulesTitle"
+msgstr "用户协议"
+
+msgid "profileMyAnketa"
+msgstr "个人简介"
+
+msgid "userProfileChangeCountry"
+msgstr ""
+"您选定的所在国家<strong>%current_country%</strong>。您的当前位置-<strong>"
+"%country_by_ip%</strong>。<a %href_extension% href='%link%'>在个人资料中更改"
+"所在国家</a>"
+
+msgid "iLookingFor"
+msgstr "我正在寻找"
+
+msgid "preferredAgeFrom"
+msgstr "来自"
+
+msgid "preferredAgeTo"
+msgstr "到"
+
+msgid "aboutMe"
+msgstr "关于我"
+
+msgid "userViewProfessionOrSphereOfActivity"
+msgstr "职业/活动"
+
+msgid "contestUnselectAll"
+msgstr "不选"
+
+msgid "step"
+msgstr ""
+
+msgid "locationSavedOk"
+msgstr "您的位置已保存"
+
+msgid "locationClearedOk"
+msgstr "您的位置的详细信息已删除"
+
+msgid "locationSavedErr"
+msgstr "位置保存错误"
+
+msgid "inviteCaptchaWrong"
+msgstr "邀请码不正确"
+
+msgid "formIncorrectLink"
+msgstr "您已不能应用此链接重置密码.<br />重置密码请点此链接"
+
+msgid "msgNoNearestNew"
+msgstr "上一次无法搜索到附近的人."
+
+msgid "msgNoNearestOnline"
+msgstr "非常抱歉,搜索不到附近的人."
+
+msgid "msgNoNearestAll"
+msgstr "非常抱歉,搜索不到附近的人."
+
+msgid "carouselUsersAreAbsent"
+msgstr "查看不到更多的用户"
+
+msgid "profileAgeStr"
+msgstr "%s 岁"
+
+msgid "complainSuccess"
+msgstr "您已成功向管理员举报"
+
+msgid "complainNoSuccess"
+msgstr "举报失败"
+
+msgid "complainAllPoles"
+msgstr "请填写全部的信息"
+
+msgid "feedbackFileError"
+msgstr "文件格式不正确.支持格式: jpg, png."
+
+msgid "feedbackSentError"
+msgstr "保存图片失败.重试一次."
+
+msgid "feedbackSent"
+msgstr "您的消息已发送"
+
+msgid "unsubscribeSuccess"
+msgstr "您已成功从邮件通知中注销"
+
+msgid "unsubscribeNoSuchUser"
+msgstr "尚未有用户用此邮箱地址注册"
+
+msgid "loginWidgetPhotoDidNotModeratedYet"
+msgstr "照片还没有审核"
+
+msgid "loginWidgetPhotoDidNotPassModerated"
+msgstr "照片没有通过审核"
+
+msgid "chatSessionClose"
+msgstr "您的权限已超时.请重新授权."
+
+msgid "searchNoResults"
+msgstr "没有找到相关结果"
+
+msgid "loginWidgetAddPhoto"
+msgstr "添加照片"
+
+msgid "systemExitConfirmTitle"
+msgstr "您确定要注销吗?"
+
+msgid "systemExitConfirmBody"
+msgstr "下一次&nbsp; 您需要重新登录并且再次&nbsp;输入密码"
+
+msgid "systemExitConfirmNo"
+msgstr "不&nbsp;注销"
+

@@ -1,0 +1,4176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flirteka\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-01 08:58+0000\n"
+"PO-Revision-Date: 2013-07-01 12:35+0200\n"
+"Last-Translator: Olesya <alesena@gmail.com>\n"
+"Language-Team: My command <lunoxot@mail.ru>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /home/flirteka/wwwroot/trunk/protected\n"
+"X-Poedit-SearchPath-1: /Users/jowee/Development/flirteka/trunk\n"
+
+msgid "lettersGiftTitle"
+msgstr "คุณได้รับของขวัญบน %s"
+
+msgid "lettersHelloName"
+msgstr "สวัสดี %s"
+
+msgid "messageNewPresentLookAtButton"
+msgstr "ดู"
+
+msgid "lettersFindYourLoveMatch"
+msgstr "หาคู่รักของคุณ!"
+
+msgid "lettersUnsubscribe"
+msgstr ""
+"หากคุณไม่ต้องการรับการแจ้งผ่านทางอีเมล์ให้คลิก  <a href=\"%s\" style=\"color: #0072bc;"
+"\"> ยกเลิกรับจดหมาย </a>"
+
+msgid "lettersChangeDataByClickingTheLink"
+msgstr ""
+"คุณสามารถเปลี่ยนแปลงการออกเดทไดี่ <a href=\"%s\" style=\"color: #0072bc;\"> "
+"โดยคลิกที่นี่ </a>"
+
+msgid "lettersUserSentGift"
+msgstr "<b><a href='%s'>%s</a></b> ได้ส่งของขวัญให้คุณ"
+
+msgid "lettersBalanceIncreasedTitle"
+msgstr "ยอดเงินคงเหลือของคุณเพิ่มขึ้น"
+
+msgid "lettersBalanceIncreased"
+msgid_plural "lettersBalanceIncreased"
+msgstr[0] "ยอดคงเหลือของคุณเพิ่มขึ้น %s เหรียญ"
+
+msgid "inviteCaptcha"
+msgstr "รหัสความปลอดภัย"
+
+msgid "captchaNewCode"
+msgstr "รหัสใหม่"
+
+msgid "moderatorSpamers"
+msgstr ""
+
+msgid "formSearch"
+msgstr "ค้นหา"
+
+msgid "modelSpamersOneName"
+msgstr ""
+
+msgid "modelSpamersBack"
+msgstr ""
+
+msgid "modelSpamersBanTime"
+msgstr ""
+
+msgid "modelSpamersBanMessagesHeader"
+msgstr ""
+
+msgid "modelSpamersMessage"
+msgstr ""
+
+msgid "modelSpamersTranslate"
+msgstr ""
+
+msgid "modelSpamersDate"
+msgstr ""
+
+msgid "moderatorBannedUsers"
+msgstr "ผู้ใช้ที่ถูกแบน"
+
+msgid "moderatorBan"
+msgstr "แบน"
+
+msgid "moderatorUnban"
+msgstr "ยกเลิกการแบน"
+
+msgid "statisticsMailchartsbytemplatesTemplateTitle"
+msgstr "แม่แบบ #%d (%s)"
+
+msgid "statisticsMailchartsbytemplatesQuantityChartTitle"
+msgstr "จำนวน"
+
+msgid "statisticsMailchartsbytemplateQuantityChartYAxis"
+msgstr "จำนวน"
+
+msgid "statisticsMailchartsbytemplatesPercentChartTitle"
+msgstr "เปอร์เซ็นต์"
+
+msgid "statisticsMailchartsbytemplatePercentChartYAxis"
+msgstr "เปอร์เซ็นต์"
+
+msgid "moderatorStatisticMenuMailTotal"
+msgstr ""
+
+msgid "moderatorStatisticMenuEximStats"
+msgstr ""
+
+msgid "statisticsMailTodayTitle"
+msgstr "สถิติอีเมล์วันนี้"
+
+msgid "statisticsMailDomainsTitle"
+msgstr "โดเมน"
+
+msgid "statisticsMailUniqueOpens"
+msgstr "การค้นพบที่ไม่ซ้ำกัน"
+
+msgid "statisticsMailUniqueClicks"
+msgstr "คลิกที่ไม่ซ้ำกัน"
+
+msgid "statisticsMailAll"
+msgstr "ทั้งหมด"
+
+msgid "statisticsMailTemplateTitle"
+msgstr "หัวเรื่องข้อความ"
+
+msgid "statisticsMailchartsbydomainDisplayDomains"
+msgstr "โดเมนที่แสดง"
+
+msgid "statisticsMailchartsbydomainAllDomains"
+msgstr "ทั้งหมด"
+
+msgid "statisticsMailchartsbydomainDisplayCounters"
+msgstr "แสดง"
+
+msgid "statisticsMailchartsbydomainSubmitButton"
+msgstr "อัพเดท"
+
+msgid "statisticsMailchartsbydomainQuantityChartTitle"
+msgstr "จำนวน"
+
+msgid "statisticsMailchartsbydomainQuantityChartYAxis"
+msgstr "จำนวน"
+
+msgid "statisticsMailchartsbydomainPercentChartTitle"
+msgstr "เปอร์เซ็นต์"
+
+msgid "statisticsMailchartsbydomainPercentChartYAxis"
+msgstr "เปอร์เซ็นต์"
+
+msgid "moderatorRefusalOfInvitation"
+msgstr "ปฏิเสธคำเชิญ"
+
+msgid "moderatorComplaintAboutUsers"
+msgstr "ร้องเรียนเกี่ยวกับผู้ใช้"
+
+msgid "moderatorFeedBack"
+msgstr "ข้อเสนอแนะ"
+
+msgid "moderatorErrorMessages"
+msgstr "ข้อความผิดพลาด"
+
+msgid "moderatorUsers"
+msgstr "ผู้ใช้"
+
+msgid "moderatorContactsExclusion"
+msgstr "ช่องทางการติดต่อที่แยกออกมา"
+
+msgid "moderatorPhotos"
+msgstr "รูปภาพ"
+
+msgid "moderatorCarousel"
+msgstr "รูปภาพทั้งหมด"
+
+msgid "moderatorModeratingPhotos"
+msgstr "การกลั่นกรองรูปภาพ"
+
+msgid "moderatorEmailNotifications"
+msgstr "อีเมล์แจ้งเตือน"
+
+msgid "moderatorBlackListForDeliveries"
+msgstr "แบล็กลิสต์รายชื่อผู้รับจดหมาย"
+
+msgid "moderatorUsernamesBlacklist"
+msgstr "ชื่อผู้ใช้ที่เป็นแบล็คลิสต์"
+
+msgid "moderatorStatistic"
+msgstr "สถิติ"
+
+msgid "moderatorStatisticOpenedClickedStats"
+msgstr ""
+
+msgid "moderatorStatisticMenuMailNumbers"
+msgstr "อีเมล์ - ข้อมูล"
+
+msgid "moderatorStatisticMenuMailChartByDomain"
+msgstr "อีเมล์ - แผนภูมิ - โดเมน"
+
+msgid "moderatorStatisticMenuMailChartByTemplate"
+msgstr "อีเมล์ - แผนภูมิ - แม่แบบ"
+
+msgid "moderatorRemovedRestoredUsers"
+msgstr "โปรไฟล์ที่ถูกลบ / กู้คืน"
+
+msgid "Advertising statistics"
+msgstr ""
+
+msgid "moderatorBalanceBilling"
+msgstr "การเรียกเก็บเงิน"
+
+msgid "moderatorMenuItemProducts"
+msgstr "สินค้า"
+
+msgid "moderatorMenuItemProductPresents"
+msgstr "ของขวัญ"
+
+msgid "systemExit"
+msgstr "ออกจากระบบ"
+
+msgid "systemUser"
+msgstr "ผู้ใช้"
+
+msgid "moderatorRemoveRecord"
+msgstr "ลบข้อมูล"
+
+msgid "moderatorMaxUsersOnline"
+msgstr "ผู้ใช้ออนไลน์ (สูงสุด)"
+
+msgid "moderatorRegisteredStatistic"
+msgstr ""
+
+msgid "moderatorAudienceOfSystem"
+msgstr "ผู้ใช้ในระบบ"
+
+msgid "moderatorInAll"
+msgstr "ทั้งหมด"
+
+msgid "moderatorQuantityOfBoys"
+msgstr "จำนวนผู้ชาย"
+
+msgid "moderatorQuantityOfGirls"
+msgstr "จำนวนผู้หญิง"
+
+msgid "moderatorVisitsToday"
+msgstr "เข้าชมวันนี้"
+
+msgid "moderatorVisitsOnWeek"
+msgstr "เข้าชมสัปดาห์นี้"
+
+msgid "moderatorVisitsOnMonth"
+msgstr "เช้าชมเดือนนี้"
+
+msgid "moderatorUsersWithCoords"
+msgstr "จำนวนผู้ใช้ที่มีคู่"
+
+msgid "moderatorUsersFillProfile"
+msgstr "จำนวนผู้ใช้ที่กรอกโปรไฟล์"
+
+msgid "moderatorUsersWithPhoto"
+msgstr "ผู้ใช้ที่มีรูปภาพ"
+
+msgid "moderatorPhotosToday"
+msgstr "รูปภาพวันนี้"
+
+msgid "moderatorPhotosOnWeek"
+msgstr "รูปภาพสัปดาห์นี้"
+
+msgid "moderatorPhotosOnMonth"
+msgstr "รูปภาพเดือนนี้"
+
+msgid "moderatorDialogs"
+msgstr "บทสนทนา"
+
+msgid "moderatorAverageNumberOfMessages"
+msgstr "จำนวนเฉลี่ยของข้อความ"
+
+msgid "moderatorQuantityDialogsStartedBoys"
+msgstr "จำนวนบทสนทนาที่ผู้ชายเป็นผู้เริ่ม"
+
+msgid "moderatorQuantityDialogsStartedGirls"
+msgstr "จำนวนบทสนทนาที่ผู้หญิงเป็นผู้เริ่ม"
+
+msgid "moderatorEmails"
+msgstr "อีเมล์"
+
+msgid "moderatorEmailsConfirmed"
+msgstr "ได้รับการยืนยัน"
+
+msgid "moderatorEmailsNotConfirmed"
+msgstr "ไม่ได้รับการยืนยันแล้ว"
+
+msgid "moderatorRemovedRestoredCauses"
+msgstr "สาเหตุการลบ"
+
+msgid "moderatorRemovedRestoredDivisionForSexAndTime"
+msgstr "การแบ่งเพศและเวลา"
+
+msgid "guestsToday"
+msgstr "วันนี้"
+
+msgid "guestsByWeek"
+msgstr "สัปดาห์ที่แล้ว"
+
+msgid "guestsByMonth"
+msgstr "เดือนที่แล้ว"
+
+msgid "male"
+msgstr ""
+
+msgid "female"
+msgstr ""
+
+msgid "moderatorProductPresentsTitle"
+msgstr "ของขวัญ"
+
+msgid "yes"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "moderatorProductPresentsCreateTitle"
+msgstr "สร้างของขวัญใหม่"
+
+msgid "moderatorProductPresentsUpdateTitle"
+msgstr "อัพเดทของขวัญ"
+
+msgid "usersDeleteSelectedPhotos"
+msgstr "ลบ"
+
+msgid "usersDeletePhotoConfirm"
+msgstr "คุณต้องการลบรูปถ่ายใช่หรือไม่?"
+
+msgid "moderatorBack"
+msgstr "ย้อนกลับ"
+
+msgid "moderatorNext"
+msgstr "ถัดไป"
+
+msgid "moderatorAddRecord"
+msgstr "เพิ่มข้อมูล"
+
+msgid "actionSave"
+msgstr "บันทึก"
+
+msgid "actionCancel"
+msgstr "ยกเลิก"
+
+msgid "moderatorChangeRecord"
+msgstr "เปลี่ยนข้อมูล"
+
+msgid "moderatorRemove"
+msgstr "ลบ"
+
+msgid "formOperatorsBegin"
+msgstr "ในตอนต้นของการค้นหาในแต่ละบรรทัด"
+
+msgid "formOperatorsEnd"
+msgstr "คุณสามารถใช้ส่วนประกอบในการเปรียบเทียบ  "
+
+msgid "formAdvancedSearch"
+msgstr "การค้นหาขั้นสูง"
+
+msgid "moderatorActionBanQuestion"
+msgstr "แบน?"
+
+msgid "formCreate"
+msgstr "สร้างองค์ประกอบ"
+
+msgid "formRequired"
+msgstr "คุณต้องกรอกช่องที่มีเครื่องหมาย * "
+
+msgid "formNoactive"
+msgstr "ไม่"
+
+msgid "formActive"
+msgstr "ใช่"
+
+msgid "systemModerator"
+msgstr "ผู้ดูแล"
+
+msgid "anketaPersonalsCustomLabel"
+msgstr "อื่น ๆ"
+
+msgid "coin"
+msgid_plural "coins"
+msgstr[0] "เหรียญ"
+
+msgid "moderatorUserFormBalanceChangeAlt"
+msgstr "บัญชี"
+
+msgid "formSave"
+msgstr "บันทึกการเปลี่ยนแปลง"
+
+msgid "formManage"
+msgstr "การจัดการองค์ประกอบ"
+
+msgid "formUpdate"
+msgstr "แก้ไของค์ประกอบ"
+
+msgid "formDelete"
+msgstr "ลบองค์ประกอบ"
+
+msgid "systemLogin"
+msgstr "เข้าสู่ระบบ"
+
+msgid "moderatorComplaintsResolved"
+msgstr "แก้ไข"
+
+msgid "moderatorComplaintsNew"
+msgstr "ใหม่"
+
+msgid "sexFemale"
+msgstr "หญิง"
+
+msgid "sexMale"
+msgstr "ชาย"
+
+msgid "formList"
+msgstr "รายการขององค์ประกอบ"
+
+msgid "formView"
+msgstr "ดูองค์ประกอบ"
+
+msgid "moderatorSlider"
+msgstr "แถบเลื่อน"
+
+msgid "moderatorMosaic"
+msgstr "โมเสก"
+
+msgid "photosStatusNew"
+msgstr "ใหม่"
+
+msgid "moderatorActions"
+msgstr "กิจกรรม"
+
+msgid "moderatorAccept"
+msgstr "ยอมรับ"
+
+msgid "moderatorRefuse"
+msgstr "ปฏิเสธ"
+
+msgid "moderatorModerating"
+msgstr ""
+
+msgid "moderatorPhotosVersions"
+msgstr "เวอร์ชั่นรูปภาพ"
+
+msgid "moderatorStatus"
+msgstr "สถานะ"
+
+msgid "userID"
+msgstr "หมายเลขผู้ใช้"
+
+msgid "moderatorPhotosSearchInTheWeb"
+msgstr "ค้นหาในเว็บไซต์"
+
+msgid "modelUsersSex"
+msgstr "เพศ"
+
+msgid "searchGo"
+msgstr "ค้นหา"
+
+msgid "moderatorRefuseReason"
+msgstr "เหตุผลที่ปฏิเสธ"
+
+msgid "moderatorLastEditName"
+msgstr ""
+
+msgid "moderatorBalanceBillingGlobalCountersRegistrations"
+msgstr "ล็อกอิน/ยืนยันแล้ว/บัญชีที่จ่ายแล้ว"
+
+msgid "moderatorBalanceBillingGlobalCountersExpense"
+msgstr "ค่าใช้จ่ายทั้งหมดของผู้ใช้"
+
+msgid "moderatorBalanceBillingGlobalCountersCurrent"
+msgstr "ยอดเงินคงเหลือปัจจุบันในบัญชี"
+
+msgid "moderatorBalanceSetTitle"
+msgstr "เปลี่ยนยอดเงินคงเหลือในบัญชี"
+
+msgid "moderatorBalanceSetSuccessful"
+msgstr "ยอดเงินคงเหลือในบัญชีเปลี่ยนแปลงเรียบร้อยแล้ว"
+
+msgid "moderatorBalanceUserStatTitle"
+msgstr "สถิติยอดเงิน"
+
+msgid "moderatorBalanceUserStatTableFieldTime"
+msgstr "เวลา"
+
+msgid "moderatorBalanceUserStatTableFieldDescription"
+msgstr "คำอธิบาย"
+
+msgid "moderatorBalanceUserStatTableFieldAmount"
+msgstr "จำนวน"
+
+msgid "moderatorBalanceUserStatTableFieldCurrent"
+msgstr "ยอดเงิน"
+
+msgid "moderatorRegisteredToday"
+msgstr "รวมจดทะเบียนในวันนี้"
+
+msgid "bannedSecondChance"
+msgstr ""
+"ตกลง ฉันเข้าใจแล้ว ฉันจะไม่ทำผิดกฎอีกต่อไป <a href='%s'> กรุณายกเลิกการบล็อคฉัน</a>"
+
+msgid "bannedForever"
+msgstr "กรุณาสร้างบัญชีใหม่และอย่ากระทำผิดซ้ำ มิเช่นนั้นเราจะทำการบล็อคบัญชีของคุณอีกครั้ง"
+
+msgid "actionTranslate"
+msgstr "แปล"
+
+msgid "chatSendByClickOn"
+msgstr "ส่งผ่าน"
+
+msgid "formPleaseFixErrors"
+msgstr "กรุณาแก้ไขข้อผิดพลาดต่อไปนี้:"
+
+msgid "userBalloonAddToFavorite"
+msgstr "เพิ่มไปยังชื่นชอบ"
+
+msgid "ofPair"
+msgstr "ทั้งผู้ชายและผู้หญิง"
+
+msgid "visitor"
+msgid_plural "visitors"
+msgstr[0] "ผู้เยี่ยมชม"
+
+msgid "signupMe"
+msgstr "ฉันคือ"
+
+msgid "signupIAmSearching"
+msgstr "กำลังมองหา"
+
+msgid "bannedInfoTitle"
+msgstr "บัญชีของคุณถูกบล็อค เป็นเพราะสาเหตุใดสาเหตุหนึ่งต่อไปนี้:"
+
+msgid "bannedInfoCauseSendSpam"
+msgstr "&mdash; จดหมายโฆษณาหรือข้อความสแปม"
+
+msgid "bannedInfoCauseSendContacts"
+msgstr "&mdash; กระจายข้อความที่มีข้อมูลการติดต่อ เช่น โทรศัพท์, อีเมล์, skype ฯลฯ"
+
+msgid "bannedInfoCauseWrongProfile"
+msgstr "&mdash; เนื้อหาในโปรไฟล์ไม่เหมาะสม เช่น การโฆษณา ฯลฯ"
+
+msgid "bannedInfoCauseRudeAttitude"
+msgstr "&mdash; มีทัศนคติที่หยาบคายต่อผู้ใช้รายอื่น"
+
+msgid "bannedInfoRecommendation"
+msgstr ""
+"เราแนะนำให้คุณอ่าน <a href=\"http://lovetime.com/pages/rules\"> เงื่อนไขการใช้งาน "
+"</a>"
+
+msgid "bannedInfoCreateNewAccount"
+msgstr ""
+"กรุณาสร้างบัญชีใหม่และห้ามดำเนินการกระทำดังกล่าวซ้ำ มิเช่นนั้นเราจะทำการบล็อคบัญชีของคุณอีกครั้ง"
+
+msgid "bannedInfoSendEmail"
+msgstr ""
+"หากคุณคิดว่าบัญชีของคุณถูกบล็อคโดยเกิดจากข้อผิดพลาด กรุณาส่งอีเมล์มาหาเราที่ <a href=\"mailto:"
+"info@lovetime.com?subject=Wrongly banned user %id%\">info@lovetime.com</a>"
+
+msgid "loginErrorUserBanned"
+msgstr "การเข้าถึงถูกปฏิเสธ ผู้ใช้ %s ถูกแบน"
+
+msgid "messageFilterTitle"
+msgstr "ตัวกรองข้อความ"
+
+msgid "messageFilterSuggestion"
+msgstr "กำหนดว่าข้อความใดที่คุณต้องการรับ"
+
+msgid "messageFilterReceiveFromAll"
+msgstr "ข้อความทั้งหมด"
+
+msgid "messageFilterReceiveFromWoman"
+msgstr "ข้อความจากผู้หญิงเท่านั้น"
+
+msgid "messageFilterReceiveFromMen"
+msgstr "ข้อความจากผู้ชายเท่านั้น"
+
+msgid "messageFilterWithPhotoOnly"
+msgstr "ที่มีรูปภาพเท่านั้น"
+
+msgid "messageFilterAgedFrom"
+msgstr "อายุของผู้ใช้ตั้งแต่"
+
+msgid "messageFilterAgedTo"
+msgstr "ถึง"
+
+msgid "messageFilterFromMyCountry"
+msgstr "จากประเทศของฉันเท่านั้น"
+
+msgid "modelUsersFilterSex"
+msgstr "กรองจากเพศ"
+
+msgid "modelUsersFilterPhoto"
+msgstr "ที่มีรูปเท่านั้น"
+
+msgid "modelUsersFilterAgeFrom"
+msgstr "จากอายุของผู้ใช้เท่านั้น"
+
+msgid "modelUsersFilterAgeTo"
+msgstr "ถึง"
+
+msgid "modelUsersFilterCountry"
+msgstr "จากประเทศของฉันเท่านั้น"
+
+msgid "chatFilterMan"
+msgstr "เขาตั้งค่าการกรองข้อความคุณจึงไม่สามารถส่งข้อความถึงเขาได้ ลองแชทกับผู้อื่น"
+
+msgid "chatFilterWoman"
+msgstr "เธอตั้งค่าการกรองข้อความคุณจึงไม่สามารถส่งข้อความถึงเธอได้ ลองแชทกับผู้อื่น"
+
+msgid "chatImpossibleCompanionBanned"
+msgstr ""
+"คุณไม่สามารถส่งข้อความในกล่องแชทได้เนื่องจาก ผู้ใช้ %s "
+"ได้ถูกผู้ดูแลระบบบล็อกหรือลบโปรไฟล์ของเขา/เธอออกไปแล้ว"
+
+msgid "lettersHiAndWelcome"
+msgstr "สวัสดี %name%! ผู้ดูแลระบบ%host% ยินดีต้อนรับ."
+
+msgid "lettersAlmostDone"
+msgstr "เกือบเสร็จแล้ว..."
+
+msgid "lettersConfirm"
+msgstr "ยืนยันอีเมล์"
+
+msgid "lettersPersonalData"
+msgstr "ข้อมูลส่วนตัว:"
+
+msgid "lettersNick"
+msgstr "ชื่อเล่น:"
+
+msgid "lettersEmail"
+msgstr "Email:"
+
+msgid "lettersAboutSite"
+msgstr ""
+"คุณสามารถหาคู่แท้ได้ในเว็บไซต์ของเรา สร้างสัมพันธ์รักและจีบเพื่อนหรือคนรู้จักได้โดยไม่ออกนาม"
+
+msgid "lettersTryIt"
+msgstr "<a href=\"%s\">ลองดูซิ!</a> มันน่าตื่นเต้นน่ะ!"
+
+msgid "lettersTellAboutUs"
+msgstr "อย่าลืมบอกเพื่อนๆคุณเกี่ยวกับเว็บไซต์นี้"
+
+msgid "lettersThankYou"
+msgstr "ขอบคุณ"
+
+msgid "lettersYouCanChangeData"
+msgstr "คุณสามารถเปลี่ยนรายละเอียดโปรไฟล์ของคุณได้ท:"
+
+msgid "removingProfileRemovingProfile"
+msgstr "การลบบัญชี"
+
+msgid "removingProfileRemoveProfileAction"
+msgstr "ลบบัญชี"
+
+msgid "removingProfileQuestion"
+msgstr "คุณต้องการลบบัยชีของคุณใช่หรือไม่?"
+
+msgid "removingProfileCauseManagedFindYourSoulMate"
+msgstr "ใช่ ฉันพบคู่แท้ของฉันแล้ว"
+
+msgid "removingProfileCauseICanNotFindAnyone"
+msgstr "ฉันได้ใช้บริการในเว็บไซต์เป็นเวลานานแล้วแต่ยังไม่พบคนที่ถูกใจ"
+
+msgid "removingProfileCauseIPlanGoBack"
+msgstr "ฉันจะเลิกใช้เว็บไซต์ชั่วคราวและจะกลับมาใช้งานใหม่"
+
+msgid "removingProfileCauseIHaveAnotherProfile"
+msgstr "ฉันโปรไฟล์อีกโปรไฟล์นึง"
+
+msgid "removingProfileCauseIWasInsultedByAnother"
+msgstr "ฉันถูกผู้อื่นดูหมิ่น"
+
+msgid "removingProfileCauseIReceiveOffersEroticServices"
+msgstr "ฉันได้รับข้อเสนอทางเพศ"
+
+msgid "removingProfileCauseOther"
+msgstr "อื่นๆ"
+
+msgid "removingProfileIChangedMyMindAction"
+msgstr "ฉันเปลี่ยนใจ"
+
+msgid "removingProfileNotification"
+msgstr ""
+"เมื่อคุณคลิกปุ่ม \"ลบ\" ระบบจะส่งอีเมล์ยืนยันไปยังอีเมล์ของคุณ (%email%) "
+"คุณยืนยันการลบโฟรไฟล์ไดโดยคลิกลิงค์ที่อยู่ในอีเมล์ คุณสามารถกู้บัญชีคืนได้ภายใน 30 วัน "
+"หลังจากทำหารลบ (รวมทั้งรูปภาพและรายชื่อผู้ติดต่อของคุณ)"
+
+msgid "removingProfileRemoveAction"
+msgstr "ลบ"
+
+msgid "removingProfileCanselAction"
+msgstr "ยกเลิก"
+
+msgid "removingProfileEmailSendNotification"
+msgstr ""
+"ระบบได้ส่งอีเมล์สำหรับยืนยันการลบบัญชีของคุณไปแล้ว "
+"กรุณาทำตามขั้นตอนที่ระบุไว้และคลิกลิงค์ในอีเมล์เพื่อดำเนินการลบบัญชีอย่างสมบูรณ์"
+
+msgid "removingProfileNextAction"
+msgstr "ถัดไป"
+
+msgid "removingProfileEnterEmailAndCode"
+msgstr "กรอกอีเมล์และรหัสที่คุณได้รับ"
+
+msgid "removingProfileEmail"
+msgstr "อีเมล์"
+
+msgid "removingProfileEnterEmail"
+msgstr "กรอกอีเมล์"
+
+msgid "removingProfileCodeOfPost"
+msgstr "รหัสข้อความ"
+
+msgid "removingProfileEnterCodeOfPost"
+msgstr "กรอกรหัสข้อความ"
+
+msgid "removingProfileDoNotGo"
+msgstr "อย่าไปเลย! มีคนคิดถึงคุณ!"
+
+msgid "removingProfileCancelRemovingAction"
+msgstr "ยกเลิก"
+
+msgid "removingProfileContinueAction"
+msgstr "ต่อไป"
+
+msgid "removingProfileRemovedStatus"
+msgstr "สถานะโปรไฟล์ของคุณ - ลบแล้ว"
+
+msgid "removingProfileRemovedMessage"
+msgstr ""
+"หน้าโปรไฟล์ของคุณและทุกอย่างที่เกี่ยวข้องถูกลบออกจากเว็บไซต์แล้ว  ระบบจะเก็บโปรไฟล์ไว้เป็นเวลา "
+"30 วัน หลังจากทำการลบ"
+
+msgid "removingProfileRestoreProfileAction"
+msgstr "กู้โปรไฟล์คืน"
+
+msgid "modelUsersHobbies"
+msgstr "อธิบายเกี่ยวกับตัวคุณ"
+
+msgid "balanceChangesBuyProductDecreaseProductId"
+msgstr "สินค้า"
+
+msgid "balanceChangesByAdminUserId"
+msgstr "ผู้ใช้"
+
+msgid "balanceChangesPSIncreasePSId"
+msgstr "ระบบการชำระเงิน"
+
+msgid "BalanceIncreaseErrorTitle"
+msgstr "ผิดพลาด ยอดเงินคงเหลือในบัญชีเพิ่มขึ้น"
+
+msgid "everyDayBalanceIncreasingDesc"
+msgstr "ยอดเงินคงเหลือรายวันที่เพิ่มขึ้น"
+
+msgid "invisibleSettingsFormButton"
+msgstr "บัยทึก"
+
+msgid "invisibleSettingsPageText"
+msgstr ""
+"เราแนะนำให้คุณใช้โหมดนี้บ่อยๆ "
+"เนื่องจากผู้ใช้ที่เปิดเผยตัวตนให้ผู้ใช้รายอื่นมองเห็นสามารถหาเพื่อนใหม่ได้ง่ายกว่าคนที่ไม่เปิดเผยตัวตน"
+
+msgid "invisibleSettingsPageTitle"
+msgstr "โหมดล่องหน"
+
+msgid "modelUsersBalance"
+msgstr "บัญชี"
+
+msgid "modelUsersInvisibleeWalk"
+msgstr "ซ่อนฉันจากรายชื่อผู้เยี่ยมชมในโปรไฟล์ผู้อื่น"
+
+msgid "modelUsersInvisibleOnline"
+msgstr "ซ่อนสถานะออนไลน์ของฉันไม่ให้ผู้ใช้รายอื่นเห็น"
+
+msgid "modelUsersInvisibleSuperstarStatus"
+msgstr "ซ่อนสถานะ Superstar ของฉันไม่ให้ผู้ใช้รายอื่นเห็น"
+
+msgid "moderatorProductPresentsAddButton"
+msgstr "เพิ่มของขวัญ"
+
+msgid "monetizationInfoPageSearchText"
+msgstr "เพิ่มโอกาสสำหรับความสัมพันธ์ที่ดี"
+
+msgid "monetizationInfoPageSearchTitle"
+msgstr "1 ตำแหน่งในผลการค้นหา"
+
+msgid "monetizationInfoPageSuperstarButton"
+msgstr "เป็น Superstar"
+
+msgid "monetizationInfoPageSuperstarText"
+msgstr "สิทธิพิเศษในเกม \"ออกเดท\""
+
+msgid "monetizationInfoPageSuperstarTitle"
+msgstr "สถานะ Superstar"
+
+msgid "monetizationInfoPageText"
+msgstr "คุณสามารถ <a href='#' id='%s'>ซื้อเหรียญ</a>หรือหาเหรียญได้ภายในเว็บไซต์"
+
+msgid "monetizationInfoPageText2"
+msgstr "เราให้เหรียญฟรี 1 เหรียญต่อวัน"
+
+msgid "monetizationInfoPageTitle"
+msgstr "ใช้เหรียญเพื่อได้รับความนิยมมากขึ้น"
+
+msgid "monetizationInfoPageTopFacesButton"
+msgstr "ขึ้นไปด้านบน"
+
+msgid "monetizationInfoPageTopFacesText"
+msgstr "เราพิจารณาความชอบของคุณและเลือกบุคคลที่เหมาะสมให้ตามวิธีที่ไม่ซ้ำกัน"
+
+msgid "monetizationInfoPageTopFacesTitle"
+msgstr "ตำแหน่งใน ด้านบน"
+
+msgid "monetizationAboutTopTitle"
+msgstr "โปรโมทโปรไฟล์"
+
+msgid "monetizationAboutTopText"
+msgstr "พัฒนาตำแหน่งในผลการค้นหาและ ในฟีดรูปภาพ"
+
+msgid "monetizationAboutTopButton"
+msgstr "โปรโมทไปยังด้านบน"
+
+msgid "monetizationAboutGiftsTitle"
+msgstr "ของขวัญ"
+
+msgid "monetizationAboutGiftsText"
+msgstr "เพิ่มความนิยมของคุณ"
+
+msgid "monetizationAboutUnlimitedTitle"
+msgstr "ไม่จำกัด"
+
+msgid "monetizationAboutUnlimitedText"
+msgstr "ลบข้อจำกัดทั้งหมด"
+
+msgid "monetizationAboutUnlimitedButton"
+msgstr "ลบข้อจำกัด"
+
+msgid "monetizationAboutVipTitle"
+msgstr "VIP"
+
+msgid "monetizationAboutVipText"
+msgstr "พัฒนาลักษณะโปรไฟล์ของคุณให้ดีขึ้น"
+
+msgid "monetizationAboutVipButton"
+msgstr "กลายเป็น VIP"
+
+msgid "monetizationAboutIncognitoTitle"
+msgstr "ไม่ปรากฎตัว"
+
+msgid "monetizationAboutIncognitoText"
+msgstr "ผู้อื่นไม่สามารถมองเห็นคุณได้"
+
+msgid "monetizationAboutIncognitoButton"
+msgstr "แสดงสถานะออฟไลน์"
+
+msgid "monetizationBalanceSendSMS"
+msgstr "ส่ง SMS"
+
+msgid "monetizationBalanceSum"
+msgstr "จำนวนเงินที่ชำระ"
+
+msgid "monetizationBalancePhoneNumber"
+msgstr "หมายเลขโทรศัพท์"
+
+msgid "monetizationBalanceOrderNumber"
+msgstr "เลขที่สั่งซื้อ"
+
+msgid "monetizationBalanceYouPayOrder"
+msgstr "คุณต้องชำระการสั่งซื้อ"
+
+msgid "monetizationBalanceCheckOrder"
+msgstr "ตรวจสอบการสั่งซื้อ"
+
+msgid "monetizationBalanceOperator"
+msgstr "ผู้ดำเนินการ"
+
+msgid "monetizationBalanceUpText"
+msgstr "เพื่อเพิ่มยอดคงเหลือให้เป็น %s เหรียญ (รวม VAT) คุณต้องส่งข้อความ"
+
+msgid "monetizationBalanceNumber"
+msgstr "เลขที่"
+
+msgid "monetizationBalanceText"
+msgstr "เนื้อหาข้อความ"
+
+msgid "paymentDialogMessageSuperstarForSearch"
+msgstr "เพื่อดูโปรไฟล์ที่ค้นพบโดยใช้การค้นหาขั้นสูง คุณจำเป็นต้องเปิดการใช้งานสถานะ Superstar"
+
+msgid "paymentDialogTitleDefault"
+msgstr "เติมเงินเข้าบัญชี"
+
+msgid "paymentDialogTitleSuperstar"
+msgstr "ซื้อสถานะ Superstar "
+
+msgid "paymentDialogTitleTopFaces"
+msgstr "ด้านบน"
+
+msgid "paymentDialogWidgetBuy"
+msgstr "ชำระ"
+
+msgid "paymentDialogWidgetTermsOfUse"
+msgstr "ข้อกำหนดการใช้งาน"
+
+msgid "productPresentModelCodePatternMessage"
+msgstr ""
+"รหัสสินค้าต้องเป็นเช่นนี้  'ของขวัญ-*' ซึ่งเครื่องหมาย * เป็นตัวเลข 1 ตัวหรือมากกว่านั้น "
+"หรือเป็นตัวอักษรภาษาอังกฤษพิมพ์เล็ก"
+
+msgid "productPresentModelImageFieldLabel"
+msgstr "รูปภาพ"
+
+msgid "productSuperstar12PublicTitle"
+msgstr "สถานะ Superstar เป็นระยัเวลา 12 เดือน"
+
+msgid "productSuperstar1PublicTitle"
+msgstr "สถานะ Superstar เป็นระยัเวลา 1 เดือน"
+
+msgid "productSuperstar3PublicTitle"
+msgstr "สถานะ Superstar เป็นระยัเวลา 3 เดือน"
+
+msgid "productSuperstar6PublicTitle"
+msgstr "สถานะ Superstar เป็นระยัเวลา 6 เดือน"
+
+msgid "productSuperstarFriendly"
+msgstr "เป็นมิตร"
+
+msgid "productSuperstarStatusModelFieldPeriod"
+msgstr "ระยะเวลา"
+
+msgid "productSuperstarStatusModelFieldType"
+msgstr "ประเภท"
+
+msgid "productSuperstarTypeRomantic"
+msgstr "โรแมนติก"
+
+msgid "productTopFacesPublicTitle"
+msgstr "เพิ่มไปด้านบน"
+
+msgid "publicFlashNotifierWidgetPresentBalanceWasChanged"
+msgstr "เหรียญลดลง %d %s จากยอดคงเหลือ"
+
+msgid "publicFlashNotifierWidgetPresentNotice"
+msgstr "คุณได้เลือกของขวัญหนึ่งชิ้น"
+
+msgid "sendGiftDialogCommentLabel"
+msgstr "ข้อความหรือคำชมของคุณ"
+
+msgid "sendGiftDialogHiddenFieldLabel"
+msgstr "ผู้รับเท่านั้นที่สามารถมองเห็นของขวัญ"
+
+msgid "sendGiftDialogSubmit"
+msgstr "ส่ง"
+
+msgid "sendGiftDialogText"
+msgstr "นั่นเป็นวิธีที่ดีที่สุดในการดึงดูดความสนใจให้กับตัวเอง"
+
+msgid "sendGiftDialogTitle"
+msgstr "ส่งของขวัญ"
+
+msgid "superstarModelAttributeBegin"
+msgstr "เริ่ม"
+
+msgid "superstarModelAttributeFinish"
+msgstr "เสร็จ"
+
+msgid "superstarModelAttributeUser"
+msgstr "ผู้ใช้"
+
+msgid "topFacesDialogNotice"
+msgstr "ราคา %d %s"
+
+msgid "userRatingAndBalanceWidgetBecameSuperstar"
+msgstr "เป็น Superstar"
+
+msgid "userRatingAndBalanceWidgetRatingExtraLow"
+msgstr "ต่ำมาก"
+
+msgid "userRatingAndBalanceWidgetRatingLow"
+msgstr "ต่ำ"
+
+msgid "userRatingAndBalanceWidgetRatingMiddle"
+msgstr "โดยเฉลี่ย"
+
+msgid "userRatingAndBalanceWidgetRatingHigh"
+msgstr "สูง"
+
+msgid "userRatingAndBalanceWidgetRatingExtraHigh"
+msgstr "สูงมาก"
+
+msgid "userRatingAndBalanceWidgetFillUpBalance"
+msgstr "เติมเงิน"
+
+msgid "userRatingAndBalanceWidgetIncrease"
+msgstr "สูงขึ้น"
+
+msgid "userRatingAndBalanceWidgetRatingAndVisitorsText"
+msgstr "ตำแหน่งการค้นหาของคุณคือ<a href='%s'>%s</a>และวันนี้คุณมี<a href='%s'>%d</a> %s"
+
+msgid "userRatingAndBalanceWidgetToTop"
+msgstr "ขึ้นไปด้านบน"
+
+msgid "userRatingAndBalanceWidgetYourRating"
+msgstr "ความนิยมของคุณ"
+
+msgid "userViewBalloonActivateSuperstar"
+msgstr "เปิดการใช้งานสถานะ Superstar "
+
+msgid "userViewBalloonReturnToBasicSearch"
+msgstr "กลับไปยังการค้นหา"
+
+msgid "userViewBalloonTitle"
+msgstr "เพื่อดูโปรไฟล์ที่ค้นพบโดยใช้การค้นหาขั้นสูง คุณจำเป็นต้องเปิดใช้งาน Superpower"
+
+msgid "walletBalanceChangesAmount"
+msgstr "จำนวน"
+
+msgid "walletBalanceChangesBalance"
+msgstr "ยอดเงินคงเหลือปัจจุบัน"
+
+msgid "walletBalanceChangesCode"
+msgstr "รหัส"
+
+msgid "walletBalanceChangesDescription"
+msgstr "คำอธิบาย"
+
+msgid "walletBalanceChangesPrice"
+msgstr "ราคา"
+
+msgid "walletBalanceChangesProductId"
+msgstr "สินค้า"
+
+msgid "walletBalanceChangesTimestamp"
+msgstr "เวลา"
+
+msgid "walletBalanceChangesUserId"
+msgstr "ผู้ใช้"
+
+msgid "walletProductsCode"
+msgstr "รหัส"
+
+msgid "walletProductsCreatedAt"
+msgstr "วันที่สร้าง"
+
+msgid "walletProductsCreatedBy"
+msgstr "สร้างโดย"
+
+msgid "walletProductsDescription"
+msgstr "คำอธิบาย"
+
+msgid "walletProductsPrice"
+msgstr "ราคา"
+
+msgid "walletProductsTitle"
+msgstr "หัวข้อ"
+
+msgid "walletProductsUpdatedAt"
+msgstr "อัพเดทแล้ว"
+
+msgid "walletProductsUpdatedBy"
+msgstr "อัพเดทโดย"
+
+msgid "YourBalanceWasIncreasedText"
+msgstr "ยอดเงินคงเหลือของคุณเพิ่มขึ้น %d %s ยอดเงินคงเหลือปัจจุบันคือ %d %s"
+
+msgid "YourBalanceWasIncreasedTitle"
+msgstr "ยอดเงินคงเหลือเพิ่มขึ้น"
+
+msgid "YourPresentHasBeenSent"
+msgstr "ส่งของขวัญของคุณแล้ว"
+
+msgid "sendGiftDialogFilterAll"
+msgstr "ทั้งหมด"
+
+msgid "sendGiftDialogFilterFriendly"
+msgstr "เป็นมิตร"
+
+msgid "sendGiftDialogFilterRomantic"
+msgstr "โรแมนติก"
+
+msgid "paymentDialogBuyCoins"
+msgstr "เติมเงินเข้าบัญชี"
+
+msgid "carouselNeedBuySuperstarNotice"
+msgstr "เพื่อดูโปรไฟล์คุณจำเป็นต้อง<a href=\"%s\">ซื้อ</a>สถานะ Superstar"
+
+msgid "leftMenuSearchPosition"
+msgstr "ค้นหาตำแหน่ง"
+
+msgid "leftMenuVisitorsToday"
+msgstr "%s วันนี้"
+
+msgid "leftMenuButtonTop"
+msgstr "ด้านบน"
+
+msgid "leftMenuButtonSuperstar"
+msgstr "Superstar"
+
+msgid "leftMenuBalance"
+msgstr "ยอดคงเหลือ"
+
+msgid "balanceChangeTitle"
+msgstr "เปลี่ยนยอดเงินคงเหลือ"
+
+msgid "balanceChangeBuyProductDecreaseTitle"
+msgstr "ซื้อสินค้า"
+
+msgid "balanceChangeByAdminTitle"
+msgstr "เปลี่ยนแปลงโดยผู้ดูแล"
+
+msgid "balanceChangeDailyTitle"
+msgstr "ยอดเงินคงเหลือรายวันที่เพิ่มขึ้น"
+
+msgid "balanceChangePSIncreaseTitle"
+msgstr "เติมเงินโดยชำระผ่านระบบ"
+
+msgid "userProfileAddPresentBaitF"
+msgstr "ส่งของขัญไปให้เธอและเธอจะสังเกตเห็นคุณ"
+
+msgid "userProfileAddPresentBaitM"
+msgstr "ส่งของขัญไปให้เขาและเขาจะสังเกตเห็นคุณ"
+
+msgid "mailTemplateTitleNewPresent"
+msgstr "%name% คุณได้รับของขวัญใหม่จาก %sender_name% บน %host%"
+
+msgid "mailTemplateBodyNewPresent"
+msgstr ""
+"<a href='%sender_profile_url%'>%sender_name%</a>ได้ส่งของขวัญให้คุณ "
+"คุณสามารถเข้าไปดูได้ที่<a href='%profile_url%'>โปรไฟล์</a>"
+
+msgid "balanceChangeBuyProductSuperstarDecreaseTitle"
+msgstr "ชำระค่าบริการเปิดใช้งานสถานะ Superstar"
+
+msgid "balanceChangeBuyProductPresentDecreaseTitle"
+msgstr "ชำระค่าของขวัญ"
+
+msgid "balanceChangeBuyProductTopFacesDecreaseTitle"
+msgstr "ชำระค่าบริการในการเพิ่มความนิยม"
+
+msgid "userTransactionsPageTitle"
+msgstr "ยอดเงินคงเหลือปัจจุบันในบัญชี: %d %s"
+
+msgid "userTransactionsPageDescription"
+msgstr ""
+"ประวัติบัญชีและประวัติการซื้อของคุณในเว็บไซต์เรา<br /> "
+"คุณสามารถดูรายการสถานะปัจจุบันของบัญชีและสั่งพิมพ์เอกสารที่เกี่ยวข้อง<br />ได้ใน \"สถานะบัญชี\" "
+"คุณยังสามารถดูรายงานค่าใช้จ่ายและประวัติการซื้อย้อนหลังได้ที่ \"ประวัติการซื้อ\""
+
+msgid "userTransactionsPageLinkTypeExpenses"
+msgstr "สถานะบัญชี"
+
+msgid "userTransactionsPageLinkTypeIncomes"
+msgstr "ประวัติการซื้อ"
+
+msgid "userTransactionsPageTableHeaderCol1"
+msgstr "รายการ"
+
+msgid "userTransactionsPageTableHeaderCol2"
+msgstr "วันที่"
+
+msgid "userTransactionsPageTableHeaderCol3"
+msgstr "จำนวน"
+
+msgid "userTransactionsPageLinkAll"
+msgstr "ดูทั้งหมด"
+
+msgid "monetizationInfoPageLinkTransactions"
+msgstr "รายงานค่าใช้จ่าย"
+
+msgid "SuperstarPaymentWasPurchasedTitle"
+msgstr "คุณได้เปิดใช้งานสถานะ Superstar เรียบร้อยแล้ว"
+
+msgid "monetizationInfoPageLinkRecharge"
+msgstr "ซื้อเหรียญ"
+
+msgid "messageNewPresentText"
+msgstr ""
+
+msgid "superstarInfoPageTitle"
+msgstr "เป็น Superstar!"
+
+msgid "superstarInfoPageTitleNotice"
+msgstr "โหมด Superstar ช่วยให้คุณพบปะผู้คนมากขึ้นและเร็วขึ้น"
+
+msgid "superstarInfoPageEncountersTitle"
+msgstr "พบปะ – ค้นหาคนที่คุณต้องการพบ"
+
+msgid "superstarInfoPageEncountersNotice"
+msgstr "เข้าไปในโฟลเดอร์พบปะเพื่อค้นหาว่าใครตอบว่า 'ใช่'!"
+
+msgid "superstarInfoPageAdvancedSearchTitle"
+msgstr "ค้นหาขั้นสูง"
+
+msgid "superstarInfoPageAdvancedSearchNotice"
+msgstr "ดูโปรไฟล์ที่เหมาะกับคุณมากที่สุด"
+
+msgid "superstarInfoPageInvisibleModeTitle"
+msgstr "โหมดล่องหน"
+
+msgid "superstarInfoPageInvisibleModeNotice"
+msgstr "ดูโปรไฟล์ของสมาชิกได้โดยที่พวกเขาไม่ทราบว่าคุณเข้ามาดู"
+
+msgid "superstarInfoPageLimitsTitle"
+msgstr "ไม่จำกัด"
+
+msgid "superstarInfoPageLimitsNotice"
+msgstr "แสดงรูปในฟีดรูปภาพ, ค้นหาและแชทได้ไม่จำกัด"
+
+msgid "superstarInfoPageButtonBuy"
+msgstr "เป็น Superstar"
+
+msgid "superstarInfoPageButtonRun"
+msgstr "ลองใช้ฟรี"
+
+msgid "or"
+msgstr "หรือ"
+
+msgid "close"
+msgstr "ปิด"
+
+msgid "YouHaveReceivedAGift"
+msgstr "คุณได้รับของขวัญ"
+
+msgid "YouHaveMadeAGift"
+msgstr "คุณได้ส่งของขวัญ"
+
+msgid "paymentDialogWidgetTermsOfUseText"
+msgstr ""
+"การคลิก '#button#' หมายถึงคุณอนุญาตให้ #ltd# ถอนเงินออกจาก #paySystemName# "
+"#moneyAmount# #moneyCurrency# สำหรับ #starAmount# #coins# ซึ่งสามารถใช้งานได้บน "
+"#domain# และคุณยังยอมรับเงื่อนไขการใช้งานเหรียญบน #siteName# ดังต่อไปนี้ "
+"คุณสามารถอัพเดทการตั้งค่าของคุณหากคุณต้องการเปลี่ยนวิธีการชำระเงิน <br/> <br/> "
+"เงื่อนไขการใช้งานเหรียญบน #siteName#: <br/> <br/> 1. เมื่อคุณซื้อหรือได้รับเหรียญ "
+"คุณไม่ได้เป็นเจ้าของเหรียญแต่คุณมีสิทธิ์ใช้เหรียญในการซื้อคุณสมบัติต่างๆที่ #siteName# เสนอให้ เช่น "
+"ของขวัญ สถานะSuperstar ฯลฯ<br/> 2. การซื้อเหรียญไม่สามารถขอคืนเงินได้ <br/> 3. "
+"เราสามารถเปลี่ยนแปลงราคาการซื้อเหรียญและวิธีการใช้เหรียญบนเว็บไซต์ได้ตลอดเวลา "
+"เราขอสงวนสิทธิ์ในการหยุดซื้อขายเหรียญโดยไม่ต้องแจ้งให้ทราบล่วงหน้า <br/> 4. "
+"เหรียญที่ใช้งานไม่สามารถแลกเปลี่ยนเป็นเงินได้ เว้นแต่ได้รับการยินยอมจากเราโดยเป็นลายลักษณ์อักษร "
+"<br/> 5. เหรียญที่ไม่ได้ใช้งานจะหมดอายุภายใน 6 เดือน นับจากวันที่ซื้อ<br/> 6."
+"หากคุณทำการลบบัญชีหรือบัญชีของคุณถูกระงับการใช้งานโดยผู้ดูแลเว็บไซต์ #siteName# "
+"เนื่องจากละเมิดข้อตกลงการใช้งาน คุณจะสูญเสียเหรียญทั้งหมดที่คุณมีในบัญชี <br/> 7. "
+"หากคุณได้รับเหรียญฟรีจากโปรโมชั่น เราขอสงวนสิทธิ์ในการกำหนดให้เหรียญหมดอายุได้ทุกเมื่อ <br/> "
+"<br/> การชำระเงินจะถูกดำเนินการโดย #ltd#"
+
+msgid "payonlineTetmsOfUse"
+msgstr ""
+"<p>จำนวนเงินชำระสุทธิ ที่อยู่เว็บไซต์หรือชื่อบริษัท ตัวระบุ(จำนวน)"
+"ต่อหนึ่งงานหรือคำสั่งรับผิดชอบในการชำระ</p><p>ข้อมูลส่วนตัวของคุณจะถูกเก็บไว้พิเศษในระบบ "
+"PayOnline เราขอรับรองว่าข้อมูลนี้จะไม่ถูกเปิดเผยต่อบุคคลที่สามไม่ว่ากรณีใดๆ "
+"เว้นแต่จะต้องปฏิบัติตามกฎหมายบังคับใช้ของ Russian Federation "
+"โดยการส่งคำขอเป็นลายลักษณ์อักษรจากเจ้าหน้าที่ของรัฐ</p><p>PayOnline Systems Ltd. "
+"ได้จดทะเบียนกับ Federal Register ของผู้ประกอบการภายใต้หมายเลขทะเบียน 10-0104880 "
+"และเจตนาที่จะรวบรวม จัดเก็บปละประมวลผลข้อมูลส่วนตัวของบุคคลธรรมดา</"
+"p><p>ข้อมูลบัตรเครดิตของคุณจะใช้เฉพาะในช่วงเวลาการทำธุรกรรม "
+"มันจะถูกส่งในรูปแบบการเข้ารหัสผ่านทางโปรโตคอลที่ปลอดภัยไปยังธนาคาร "
+"ข้อมูลบัตรเครดิตของคุณจะไม่ถูกจัดเก็บในระบบ PayOnline "
+"ดังนั้นจึงไม่สามารถโอนถ่ายข้อมูลให้แก่บุคคลที่สามได้ไม่ว่ากรณีใดๆ</"
+"p><p>หากคุณมีคำถามด้านการชำระเงิน คุณสามารถติดต่อฝ่ายสนับสนุนลูกค้าได้ที่: +8 (800) 7000 "
+"729 (โทรฟรีในประเทศรัสเซีย) +7 (495) 666 2143 หรือส่งอีเมล์มาที่: support@payonline."
+"ru</p><p>คุณสามารถดูยอดการชำระเงินนี้ได้ในรายงานการเงินโดยใช้ ID ของ Lovetime.com</"
+"p><p>โปรดทราบ! IP- address ของคุณจะถูกจัดเก็บไว้เพื่อป้องกันการลักลอบใช้ข้อมูลส่วนตัวของคุณ "
+"การลักลอบใช้ข้อมูลส่วนตัวจะถูกดำเนินคดีและได้รับการแก้ไขอย่างจริงจัง</p>"
+
+msgid "unsubscribeWrongEmail"
+msgstr "อีเมล์ไม่ถูกต้อง"
+
+msgid "contestMain"
+msgstr "ขอแสดงความยินดี! คุณมีส่วนร่วมในการลุ้นรับรางวัล! ลงทะเบียนเพื่อลุ้นรับรางวัล"
+
+msgid "contestFindYourLove"
+msgstr "ตามหาความรักของคุณ"
+
+msgid "contestIncreaseChanceSuccess"
+msgstr "เพิ่มโอกาสในการลุ้นรับรางวัล"
+
+msgid "contestOr"
+msgstr "หรือ"
+
+msgid "contestFindLove"
+msgstr "ตามหาความรัก"
+
+msgid "contestResult"
+msgstr "ผลรางวัล"
+
+msgid "contestSelectAll"
+msgstr "เลือกทั้งหมด"
+
+msgid "contestPhotoPhrase1"
+msgstr "กรุณาเพิ่มรูปถ่าย เพื่อมีสิทธิ์ลุ้นรับรางวัล!"
+
+msgid "contestPhotoPhrase2"
+msgstr "ขออภัย ผู้ใช้งานที่มีรูปถ่ายเท่านั้นที่จะมีสิทธิได้รับของขวัญสุดพิเศษ  <br /> กรุณาเพิ่มรูปถ่าย"
+
+msgid "contestPhotoPhrase3"
+msgstr "ลากและวางไฟล์ <br /> จากระบบไฟล์ของคุณ <br /> เพื่ออัพโหลด"
+
+msgid "contestUploadPhoto"
+msgstr "อัพโหลดรูปถ่าย"
+
+msgid "contestImportPhoto"
+msgstr "หรืออิมพอร์ตรูปจาก"
+
+msgid "contestFbProfile"
+msgstr "โปรไฟล์ Facebook"
+
+msgid "contestGoogleProfile"
+msgstr "โปรไฟล์ Google+ "
+
+msgid "contestInviteMorePhrase"
+msgstr ""
+"คุณได้ชวนผู้ใช้งาน <span>%d</span>คน...<br> หากเขาได้รางวัล <br> <b> "
+"คุณก็จะได้รับรางวัลเช่นกัน! </b><button class=\"n-d-more-button\"> "
+"เพิ่มโอกาสของคุณ&rarr; <ins>ชวนเพื่อนเพิ่ม!</ins></button>หรือ <a href=\"/\" target="
+"\"_blank\">ตามหาความรักของคุณ</a>!"
+
+msgid "contestAnnouncePhrase1"
+msgstr ""
+"คุณได้ชวนผู้ใช้งาน <strong class=\"announce-contest__highlight\">%d</strong> คน!"
+
+msgid "contestAnnouncePhrase2"
+msgstr "หากเขาได้รางวัล"
+
+msgid "contestAnnouncePhrase3"
+msgstr "คุณจะได้รับรางวัลเช่นกัน!"
+
+msgid "contestAnnouncePhrase4"
+msgstr "ชวนเพื่อนเพิ่ม"
+
+msgid "contestAnnouncePhrase5"
+msgstr "เพิ่มโอกาสในการลุ้นรับรางวัล"
+
+msgid "contestAnnouncePhrase6"
+msgstr "ลุ้นรับของรางวัลกับ Lovetime!"
+
+msgid "contestAnnouncePhrase7"
+msgstr "ที่นี่..."
+
+msgid "contestAnnouncePhrase8"
+msgstr "ลงทะเบียนตอนนี้ มีสิทธิ์ลุ้นรับรางวัล"
+
+msgid "contest"
+msgstr "ลุ้นรับรางวัล"
+
+msgid "step1"
+msgstr "ขั้นตอนที่ 1"
+
+msgid "step2"
+msgstr "ขั้นตอนที่ 2"
+
+msgid "step3"
+msgstr "ขั้นตอนที่ 3"
+
+msgid "contestInviteByOtherServices"
+msgstr ""
+"เพิ่มโอกาสในการลุ้นรับรางวัล! เพียงเชื่อมต่ออีเมล์ (Hotmail, Yahoo, Gmail) หรือ <a href="
+"\"%s\" target=\"_blank\">ชวนเพื่อนของคุณใน Facebook</a> หรือคัดลอกลิงค์ %s"
+
+msgid "cntTitle"
+msgstr ""
+
+msgid "cntRegister"
+msgstr ""
+
+msgid "cntInviteFriends"
+msgstr ""
+
+msgid "cntSamePrize"
+msgstr ""
+
+msgid "cntHigherChances"
+msgstr ""
+
+msgid "cntAddFriends"
+msgstr ""
+
+msgid "cntBannerUsersOnly"
+msgstr ""
+
+msgid "cntBannerParticipatePrizeDraw"
+msgstr ""
+
+msgid "cntBannerFbDescription"
+msgstr ""
+
+msgid "cntPhotoDrag"
+msgstr ""
+
+msgid "cntPhotoUpload"
+msgstr ""
+
+msgid "cntPhotoImport"
+msgstr ""
+
+msgid "cntNext"
+msgstr ""
+
+msgid "cntNotSelected"
+msgstr ""
+
+msgid "cntInvited"
+msgstr ""
+
+msgid "cntWinsSamePrize"
+msgstr ""
+
+msgid "cntIncreaseChances"
+msgstr ""
+
+msgid "cntDropHere"
+msgstr ""
+
+msgid "cntUnselectAll"
+msgstr ""
+
+msgid "cntSelectAll"
+msgstr ""
+
+msgid "cntHours"
+msgstr ""
+
+msgid "cntMinutes"
+msgstr ""
+
+msgid "cntSeconds"
+msgstr ""
+
+msgid "emailContestSubject"
+msgstr ""
+
+msgid "emailContestTitle"
+msgstr ""
+
+msgid "emailContestJoinUs"
+msgstr ""
+
+msgid "emailContestPrizesDescriptions"
+msgstr ""
+
+msgid "emailContestRegister"
+msgstr ""
+
+msgid "emailContestTerms"
+msgstr ""
+
+msgid "emailContestClickHere"
+msgstr ""
+
+msgid "emailContestPrizes"
+msgstr ""
+
+msgid "emailContestUnsubscribe"
+msgstr ""
+
+msgid "actionNote"
+msgstr "สร้างบันทึก"
+
+msgid "noteEdit"
+msgstr "แก้ไข"
+
+msgid "noteRemove"
+msgstr "ลบ"
+
+msgid "noteSave"
+msgstr "บันทึก"
+
+msgid "noteConfirmDelete"
+msgstr "คุณต้องการลบบันทึกนี้ใช่หรือไม่?"
+
+msgid "lettersCheckSpamFolder"
+msgstr ""
+"เช็คโฟลเดอร์สแปมของคุณเพื่อให้มั่นใจว่าข้อความของเราไม่ได้ถูกกรองออกไป "
+"หากข้อความอยู่ในโฟลเดอร์สแปมให้เลือกและคลิกไม่ใช่สแปม"
+
+msgid "lettersMarkEmailNotSpam"
+msgstr "และทำเครื่องหมายอีเมล์นี้ให้เป็น<u>ไม่ใช่สแปม</u>"
+
+msgid "pagesContacts"
+msgstr ""
+"<b>ที่อยู่:</b><br /> 25/4 ซอยรัชดาภิเษก 36 ถนนรัชดาภิเษก จันทรเกษม จตุจักร กทม. 10900 "
+"ประเทศไทย <br /><br /> <br /> Phnom Penh Tower, 12F, #445, 232/93 (Monivong "
+"Blvd), Phnom Penh, Cambodia, 12258 <br /><br /> <br /> Russia,  Moscow,  "
+"Svobody str. 50,  Build. 3, 125364 <br /><br /> <b>Email:</b><br /><a href="
+"\"mailto:info@lovetime.com\">info@lovetime.com</a>"
+
+msgid "seocatalogTitleInCity"
+msgstr "เว็บหาคู่เพื่อหาสาว ชายหนุ่ม ผู้หญิง ผู้ชายใน %city_title%"
+
+msgid "seocatalogH1InCity"
+msgstr "ออกเดทใน %city_title%"
+
+msgid "seocatalogSeeking"
+msgstr "กำลังค้นหา"
+
+msgid "seocatalogAge"
+msgstr "อายุ"
+
+msgid "seocatalogAppearance"
+msgstr "ลักษณะ"
+
+msgid "seocatalogOther"
+msgstr "อื่นๆ"
+
+msgid "seocatalogNext"
+msgstr "เพิ่มเติม"
+
+msgid "seocatalogWoman"
+msgstr "หญิง"
+
+msgid "seocatalogMen"
+msgstr "ชาย"
+
+msgid "seocatalogLesbian"
+msgstr "เลสเบียน"
+
+msgid "seocatalogGay"
+msgstr "เกย์"
+
+msgid "seocatalogBisexual"
+msgstr "ไบเซ็กชวล"
+
+msgid "seocatalogFriendship"
+msgstr "แบบมิตรภาพและสานสัมพันธ์"
+
+msgid "seocatalogRomanticRelations"
+msgstr "ความสัมพันธ์แบบโรแมนติก"
+
+msgid "seocatalogFlirt"
+msgstr "จีบ"
+
+msgid "seocatalogSex"
+msgstr "เซ็กซ์"
+
+msgid "seocatalogBlondes"
+msgstr "ผมบลอนด์"
+
+msgid "seocatalogBrunettes"
+msgstr "ผมสีน้ำตาลเข้ม"
+
+msgid "seocatalogBrownHair"
+msgstr "ผมสีน้ำตาล"
+
+msgid "seocatalogAthletic"
+msgstr "หุ่นนักกีฬา"
+
+msgid "seocatalogSlim"
+msgstr "ผอมบาง"
+
+msgid "seocatalogHeavy"
+msgstr "รูปร่างใหญ่"
+
+msgid "seocatalogForeigner"
+msgstr "ชาวต่างชาติ"
+
+msgid "seocatalogRich"
+msgstr "รวย"
+
+msgid "seocatalogSingle"
+msgstr "โสด"
+
+msgid "seocatalogNoBadHabits"
+msgstr "นิสัยดี"
+
+msgid "chatFilterManGifts"
+msgstr ""
+"%s ได้ตั้งค่าตัวกรองข้อความของเขา คุณจึงไม่สามารถส่งข้อความถึงเขาได้ <b>ส่งของขวัญให้เขา</b> "
+"เพื่อลบตัวกรองออก หรือลองแชทกับคนอื่น"
+
+msgid "chatFilterWomanGifts"
+msgstr ""
+"%s ได้ตั้งค่าตัวกรองข้อความของเธอ คุณจึงไม่สามารถส่งข้อความถึงเธอได้ <b>ส่งของขวัญให้เธอ</b> "
+"เพื่อลบตัวกรองออก หรือลองแชทกับคนอื่น"
+
+msgid "modelLoginFormEmailOrNick"
+msgstr "อีเมล์"
+
+msgid "modelLoginFormPassword"
+msgstr "รหัสผ่าน"
+
+msgid "modelLoginFormAlien"
+msgstr "ไม่ใช่คอมพิวเตอร์ของฉัน"
+
+msgid "loginErrorInvalidEmailOrPassword"
+msgstr "อีเมล์หรือรหัสผ่านไม่ถูกต้อง"
+
+msgid "systemForgotPassword"
+msgstr "ลืมรหัสผ่าน"
+
+msgid "loginErrorUserNotVisible"
+msgstr "การเข้าถึงถูกปฏิเสธสำหรับผู้ใช้ %s"
+
+msgid "wrongEmail"
+msgstr "อีเมล์ไม่ถูกต้อง"
+
+msgid "errorEmailExists"
+msgstr "ใส่อีเมล์อื่น"
+
+msgid "citationsDefault1"
+msgstr "สวัสดี คุณเป็นอย่างไรบ้าง?"
+
+msgid "citationsDefault2"
+msgstr "สวัสดี คุณกำลังทำอะไรอยู่?"
+
+msgid "modelUsersValidateReservedNicks"
+msgstr "กรุณาเลือกชื่ออื่น"
+
+msgid "registrationFormWrongDate"
+msgstr "ข้อมูลไม่ถูกต้อง"
+
+msgid "months1"
+msgstr "มกราคม"
+
+msgid "months2"
+msgstr "กุมภาพันธ์"
+
+msgid "months3"
+msgstr "มีนาคม"
+
+msgid "months4"
+msgstr "เมษายน"
+
+msgid "months5"
+msgstr "พฤษภาคม"
+
+msgid "months6"
+msgstr "มิถุนายน"
+
+msgid "months7"
+msgstr "กรกฎาคม"
+
+msgid "months8"
+msgstr "สิงหาคม"
+
+msgid "months9"
+msgstr "กันยายน"
+
+msgid "months10"
+msgstr "ตุลาคม"
+
+msgid "months11"
+msgstr "พฤศจิกายน"
+
+msgid "months12"
+msgstr "ธันวาคม"
+
+msgid "modelSmileCode"
+msgstr "รหัส"
+
+msgid "modelSmileImage"
+msgstr "รูปภาพ"
+
+msgid "modelSmileVisible"
+msgstr "สามารถมองเห็นได้"
+
+msgid "Noactive"
+msgstr "ไม่"
+
+msgid "modelSpamersName"
+msgstr ""
+
+msgid "modelUsersName"
+msgstr "ชื่อเล่น"
+
+msgid "modelUsersEmail"
+msgstr "อีเมล์"
+
+msgid "modelComplaintsStatus"
+msgstr "สถานะ"
+
+msgid "modelSpamersTime"
+msgstr ""
+
+msgid "modelSpamersMessages"
+msgstr ""
+
+msgid "modelComplaintsSenderId"
+msgstr "ผู้ส่ง"
+
+msgid "modelComplaintsCompanionId"
+msgstr "ผู้ถูกกล่าวหา"
+
+msgid "modelComplaintsReasonText"
+msgstr "สาเหตุ"
+
+msgid "modelComplaintsComment"
+msgstr "ความคิดเห็น"
+
+msgid "modelComplaintsCompanion"
+msgstr "จำเลย"
+
+msgid "modelComplaintsSender"
+msgstr "ฝ่ายอัยการ"
+
+msgid "complainReason1"
+msgstr "สแปม, โฆษณา"
+
+msgid "complainReason2"
+msgstr "หลอกลวง"
+
+msgid "complainReason3"
+msgstr "การนำเสนอที่ไม่เหมาะสม"
+
+msgid "complainReason4"
+msgstr "ข่มขู่และหยาบคาย"
+
+msgid "complainReason5"
+msgstr "รูปภาพของผู้อื่น"
+
+msgid "complainReason6"
+msgstr "บริการเซ็กซ์"
+
+msgid "photosRefuseReasonPicture"
+msgstr "ภาพวาด, รูปวัตถุ หรือ รูปสัตว์"
+
+msgid "photosRefuseReasonErotica"
+msgstr "เปลือย, หยาบคาย"
+
+msgid "photosRefuseReasonFamous"
+msgstr "คนที่มีชื่อเสียง"
+
+msgid "photosRefuseReasonSpam"
+msgstr "โฆษณา, สแปม"
+
+msgid "photosRefuseReasonPoorQuality"
+msgstr "คุณภาพต่ำ"
+
+msgid "photosRefuseReasonOnlyYouMustBeSeen"
+msgstr "มีเพียงคุณเท่านั้นที่สามารถมองเห็น"
+
+msgid "photosRefuseReasonNotVisibleFace"
+msgstr "มองไม่เห็นใบหน้า"
+
+msgid "photosRefuseReasonChildOnThePhoto"
+msgstr "มีภาพเด็กในรูป"
+
+msgid "photosRefuseReasonExcessiveDecoration"
+msgstr "ตกแต่งมากเกินไป"
+
+msgid "photosStatusAccept"
+msgstr "ยอมรับ"
+
+msgid "photosStatusRefuse"
+msgstr "ปฏิเสธ"
+
+msgid "userName"
+msgstr "ชื่อ"
+
+msgid "feedbackText"
+msgstr "ข้อความ"
+
+msgid "userWrongOldPasswError"
+msgstr "รหัสผ่านไม่ถูกต้อง"
+
+msgid "userPasswTooShort"
+msgstr "รหัสผ่านใหม่สั้นเกินไป (ขั้นต่ำ {min} ตัวอักษร) "
+
+msgid "dateFormat"
+msgstr "รูปแบบวันที่ต้องเป็น วว.ดด.ปปปป"
+
+msgid "modelUsersValidateRequireMessage"
+msgstr "ช่องข้อมูล %s จำเป็น"
+
+msgid "modelUsersLookingFor"
+msgstr "ฉันกำลังมองหา"
+
+msgid "modelUsersPassword"
+msgstr "รหัสผ่าน"
+
+msgid "modelUsersOldPassword"
+msgstr "รหัสผ่านปัจจุบัน"
+
+msgid "modelUsersNewPassword"
+msgstr "รหัสผ่านใหม่"
+
+msgid "modelUsersVisible"
+msgstr "สามารถมองเห็นได้"
+
+msgid "modelUsersRole"
+msgstr "กลุ่ม"
+
+msgid "modelUsersPhone"
+msgstr "เบอร์โทรศัพท์"
+
+msgid "modelUsersVkId"
+msgstr "Vkontakte Id"
+
+msgid "modelUsersFacebookId"
+msgstr "Facebook Id"
+
+msgid "modelUsersTwitterId"
+msgstr "Twitter Id"
+
+msgid "modelUsersAvatar"
+msgstr "อวตาร"
+
+msgid "modelUsersDefaultAvatar"
+msgstr "อวตารมาตรฐาน"
+
+msgid "modelUsersCity"
+msgstr "จังหวัด"
+
+msgid "modelUsersCountry"
+msgstr "ประเทศ"
+
+msgid "modelUsersResidence"
+msgstr "สถานที่"
+
+msgid "modelUsersLat"
+msgstr "ละติจูด"
+
+msgid "modelUsersLng"
+msgstr "ลองจิจูด"
+
+msgid "modelUsersAbout"
+msgstr "เกี่ยวกับฉัน"
+
+msgid "profileStatus"
+msgstr "สถานะ"
+
+msgid "modelUsersIntroduceMyself"
+msgstr "สถานะของฉัน"
+
+msgid "modelUsersWantToMeet"
+msgstr "ฉันต้องการเจอ"
+
+msgid "modelUsersPreferredAge"
+msgstr "ช่วงอายุที่ต้องการ"
+
+msgid "dateofbirth"
+msgstr "วันเกิด"
+
+msgid "modelUsersHeight"
+msgstr "ความสูง"
+
+msgid "modelUsersWeight"
+msgstr "น้ำหนัก"
+
+msgid "modelUsersPhysique"
+msgstr "รูปร่าง"
+
+msgid "modelUsersColor"
+msgstr "สีผม"
+
+msgid "modelUsersColorEyes"
+msgstr "สีตา"
+
+msgid "modelUsersSign"
+msgstr "ราศี"
+
+msgid "modelUsersType"
+msgstr "วัตถุประสงค์ของการออกเดท"
+
+msgid "modelUsersAcquainted"
+msgstr "ฉันได้รู้จัก..."
+
+msgid "modelUsersBed"
+msgstr "เซ็กซ์ที่ฉันชอบ "
+
+msgid "modelUsersExcites"
+msgstr "สิ่งที่ทําให้ฉันรู้สึกตื่นเต้นคือ"
+
+msgid "modelUsersStatus"
+msgstr "สถานภาพสมรส"
+
+msgid "modelUsersChildren"
+msgstr "บุตร"
+
+msgid "modelUsersOrientation"
+msgstr "รสนิยมทางเพศ"
+
+msgid "modelUsersSmoking"
+msgstr "สูบบุหรี่"
+
+msgid "modelUsersAlcohol"
+msgstr "ดื่มแอลกอฮอล์"
+
+msgid "modelUsersEducation"
+msgstr "การศึกษา"
+
+msgid "modelUsersJob"
+msgstr "อาชีพ"
+
+msgid "modelUsersIncome"
+msgstr "รายได้"
+
+msgid "modelUsersLove_work"
+msgstr "ในที่ทํางานฉันชอบ"
+
+msgid "modelUsersLove_institute"
+msgstr "ในมหาวิทยาลัยฉันชอบ"
+
+msgid "modelUsersLove_go"
+msgstr "ฉันชอบไปที่"
+
+msgid "modelUsersLove_music"
+msgstr "เพลงที่ชื่นชอบ"
+
+msgid "modelUsersBan"
+msgstr "แบน"
+
+msgid "modelUsersSendEmails"
+msgstr "รับการแจ้งเตือนผ่านทางอีเมล์"
+
+msgid "modelUsersSounds"
+msgstr "เปิดเสียงเตือนข้อความ"
+
+msgid "modelUsersShowPixeledImages"
+msgstr "แสดงรูปที่ไม่ชัดให้กับบุคคลที่ไม่รู้จัก"
+
+msgid "modelUsersHideImages"
+msgstr "ซ่อนรูปภาพ"
+
+msgid "modelUsersTimeZone"
+msgstr "โซนเวลา"
+
+msgid "moduleUsersAutoSelectTimeZone"
+msgstr "กำหนดโดยอัตโนมัติ"
+
+msgid "modelUsersRegistered"
+msgstr "ลงทะเบียนแล้ว"
+
+msgid "modelUsersInvitedBy"
+msgstr "คําเชิญ"
+
+msgid "modelUsersLoginWithToken"
+msgstr "เข้าสู่ระบบจากลิงค์ในอีเมล์โดยอัตโนมัติ"
+
+msgid "physiqueSlim"
+msgstr "ผอมบาง"
+
+msgid "physiqueAverage"
+msgstr "สมส่วน"
+
+msgid "physiqueAthletic"
+msgstr "หุ่นนักกีฬา"
+
+msgid "physiqueMuscular"
+msgstr "ล่ำสัน"
+
+msgid "physiqueHeavy"
+msgstr "ท้วม"
+
+msgid "physiqueFull"
+msgstr "อ้วน"
+
+msgid "colorEyesBrown"
+msgstr "น้ำตาล"
+
+msgid "colorEyesGreen"
+msgstr "เขียว"
+
+msgid "colorEyesBlue"
+msgstr "น้ำเงิน"
+
+msgid "colorEyesGray"
+msgstr "เทา"
+
+msgid "colorEyesBlack"
+msgstr "ดํา"
+
+msgid "colorEyesHazel"
+msgstr "น้ำตาลอ่อน"
+
+msgid "smokingDoNotSmoke"
+msgstr "ไม่สูบบุหรี่"
+
+msgid "smokingRarely"
+msgstr "บางครั้ง"
+
+msgid "smokingGiving"
+msgstr "กำลังพยายามเลิก"
+
+msgid "smokingOften"
+msgstr "บ่อย"
+
+msgid "alcoholDoNotDrink"
+msgstr "ไม่ดื่ม"
+
+msgid "alcoholILikeToDrink"
+msgstr "บ่อย"
+
+msgid "alcoholOnHolidays"
+msgstr "กรณีเข้าสังคม"
+
+msgid "educationSecondary"
+msgstr "มัธยม"
+
+msgid "educationTechnical"
+msgstr "วิทยาลัย"
+
+msgid "educationHigher"
+msgstr "อุดมศึกษา/มหาวิทยาลัย"
+
+msgid "incomeLow"
+msgstr "น้อย"
+
+msgid "incomeMedium"
+msgstr "ปานกลาง"
+
+msgid "incomeHigh"
+msgstr "สูง"
+
+msgid "systemAdministrator"
+msgstr "ผู้ดูแลระบบ"
+
+msgid "childrenNo"
+msgstr "ไม่มี"
+
+msgid "childrenYes"
+msgstr "มี"
+
+msgid "signAries"
+msgstr "ราศีเมษ"
+
+msgid "signTaurus"
+msgstr "ราศีพฤษภ"
+
+msgid "signTwins"
+msgstr "ราศีเมถุน"
+
+msgid "signCancer"
+msgstr "ราศีกรกฎ"
+
+msgid "signLion"
+msgstr "ราศีสิงห์"
+
+msgid "signVirgo"
+msgstr "ราศีกันย์"
+
+msgid "signLibra"
+msgstr "ราศีตุล"
+
+msgid "signScorpio"
+msgstr "ราศีพิจิก"
+
+msgid "signSagittarius"
+msgstr "ราศีธนู"
+
+msgid "signCapricorn"
+msgstr "ราศีมังกร"
+
+msgid "signAquarius"
+msgstr "ราศีกุมภ์"
+
+msgid "signPisces"
+msgstr "ราศีมีน"
+
+msgid "changeFieldInSearch"
+msgstr "อยู่ระหว่างการค้นหา"
+
+msgid "changeFieldHasAFriend"
+msgstr "มีแฟนแล้ว"
+
+msgid "changeFieldMarried"
+msgstr "แต่งงานแล้ว"
+
+msgid "changeFieldNotInSearch"
+msgstr "หมั้นแล้ว"
+
+msgid "changeFieldBreaked"
+msgstr "หย่าร้าง"
+
+msgid "haircolorLight"
+msgstr "สีอ่อน"
+
+msgid "haircolorDark"
+msgstr "สีเข้ม"
+
+msgid "haircolorRed"
+msgstr "สีแดง"
+
+msgid "haircolorTanned"
+msgstr "ทำสีผม"
+
+msgid "haircolorBright"
+msgstr "สีสว่าง"
+
+msgid "haircolorWhite"
+msgstr "ผมหงอก"
+
+msgid "haircolorSkin"
+msgstr "โกนผม"
+
+msgid "haircolorBald"
+msgstr "ไม่มีผม"
+
+msgid "changeFieldHetero"
+msgstr "เพศตรงข้าม"
+
+msgid "changeFieldGay"
+msgstr "เกย์ / เลสเบี้ยน"
+
+msgid "changeFieldBi"
+msgstr "รักร่วมเพศ"
+
+msgid "ofWoman"
+msgstr "ผู้หญิง"
+
+msgid "ofMan"
+msgstr "ผู้ชาย"
+
+msgid "introduceMyselfOnlyMyself"
+msgstr "โสด"
+
+msgid "introduceMyselfAsPair"
+msgstr "มีคู่"
+
+msgid "changeFieldFriendship"
+msgstr "เพื่อเป็นเพื่อนและพูดคุย"
+
+msgid "changeFieldFlirt"
+msgstr "เพื่อจีบ"
+
+msgid "changeFieldRomantic"
+msgstr "เพื่อพัฒนาความสัมพันธ์"
+
+msgid "changeFieldSex"
+msgstr "เซ็กซ์"
+
+msgid "changeFieldAtWork"
+msgstr "ในที่ทํางาน"
+
+msgid "changeFieldNeighbor"
+msgstr "ในละแวกใกล้เคียง"
+
+msgid "changeFieldSchool"
+msgstr "ที่โรงเรียน / ที่มหาวิทยาลัย"
+
+msgid "changeFieldStreet"
+msgstr "กลางแจ้ง"
+
+msgid "changeFieldOral"
+msgstr "ออรัลเซ็กซ์"
+
+msgid "changeFieldAnal"
+msgstr "เซ็กซ์ทางทวาร"
+
+msgid "changeFieldGroup"
+msgstr "เซ็กซ์หมู่"
+
+msgid "changeFieldPublic"
+msgstr "เซ็กซ์ในสถานที่แปลกๆ"
+
+msgid "changeFieldRoleplay"
+msgstr "การแสดงบทบาท"
+
+msgid "changeFieldToys"
+msgstr "ของเล่น"
+
+msgid "changeFieldBdsm"
+msgstr "ซาดิสม์-การทารุณตนเอง "
+
+msgid "changeFieldClassicSex"
+msgstr "เซ็กซ์แบบธรรมดา"
+
+msgid "changeFieldSmells"
+msgstr "กลิ่น"
+
+msgid "changeFieldHighHair"
+msgstr "มีผมดก"
+
+msgid "changeFieldTattoo"
+msgstr "รอยสักและการเจาะตามผิวหนัง"
+
+msgid "changeFieldDarkskin"
+msgstr "ผิวสีเข้ม"
+
+msgid "changeFieldUnderwear"
+msgstr "ชุดชั้นใน"
+
+msgid "changeFieldUniform"
+msgstr "ชุดยุนิฟอร์ม"
+
+msgid "changeFieldStockings"
+msgstr "ถุงน่อง"
+
+msgid "changeFieldFootwear"
+msgstr "รองเท้า"
+
+msgid "changeFieldDominate"
+msgstr "การครอบครองหรือการยินยอม"
+
+msgid "changeFieldBondage"
+msgstr "การผูกมัดและการจำกัดการเคลื่อนไหว"
+
+msgid "changeFieldPain"
+msgstr "ความเจ็บปวด"
+
+msgid "monthsJan"
+msgstr "มกราคม"
+
+msgid "monthsFeb"
+msgstr "กุมภาพันธ์"
+
+msgid "monthsMar"
+msgstr "มีนาคม"
+
+msgid "monthsApr"
+msgstr "เมษายน"
+
+msgid "monthsMay"
+msgstr "พฤษภาคม"
+
+msgid "monthsJun"
+msgstr "มิถุนายน"
+
+msgid "monthsJul"
+msgstr "กรกฎาคม"
+
+msgid "monthsAug"
+msgstr "สิงหาคม"
+
+msgid "monthsSep"
+msgstr "กันยายน"
+
+msgid "monthsOct"
+msgstr "ตุลาคม"
+
+msgid "monthsNov"
+msgstr "พฤศจิกายน"
+
+msgid "monthsDec"
+msgstr "ธันวาคม"
+
+msgid "removingProfileCauseIPlaGoBack"
+msgstr "ฉันจะหยุดใช้บริการชั่วคราวและจะกลับมาใช้ภายหลัง"
+
+msgid "profileLastVisit"
+msgstr "เข้าชมครั้งล่าสุด"
+
+msgid "dateToday"
+msgstr "วันนี้"
+
+msgid "dateYesterday"
+msgstr "เมื่อวาน"
+
+msgid "date2DaysAgo"
+msgstr "เมื่อวานซืน"
+
+msgid "profileLastVisitAt"
+msgstr "เวลา"
+
+msgid "chatBigMessage"
+msgstr "ข้อความยาวเกินไป ความยาวไม่เกิน 2000 ตัวอักษร"
+
+msgid "errorFolderCreate"
+msgstr "คุณมีโฟลเดอร์ชื่อนี้แล้ว"
+
+msgid "foldersDeleteError"
+msgstr "ขออภัย การลบโฟลเดอร์ที่เลือกล้มเหลว:("
+
+msgid "noteErrorTooLong"
+msgstr "ตัวอักษรในข้อความต้องไม่เกิน 1000 ตัวอักษร"
+
+msgid "noteErrorTags"
+msgstr "ในข้อความต้องไม่มีแท็ก HTML"
+
+msgid "guestsWasMan"
+msgid_plural "guestsWasWoman"
+msgstr[0] "ชม"
+
+msgid "guestsYear"
+msgid_plural "guestsYears"
+msgstr[0] "%d ปี"
+
+msgid "guestsMonth"
+msgid_plural "guestsMonths"
+msgstr[0] "%d เดือน"
+
+msgid "guestsDay"
+msgid_plural "guestsDays"
+msgstr[0] "%d วัน"
+
+msgid "guestsHour"
+msgid_plural "guestsHours"
+msgstr[0] "%s ชั่วโมง"
+
+msgid "guestsMinute"
+msgid_plural "guestsMinutes"
+msgstr[0] "%s นาที"
+
+msgid "guestsBack"
+msgstr "ที่แล้ว"
+
+msgid "topfacesMessageTooShort"
+msgstr "ข้อความต้อมีตัวอักษรไม่เกิน 140 ตัวอักษร"
+
+msgid "topfaceStatusInvalidValue"
+msgstr "มีค่าที่ไม่ถูกต้องในช่องสถานะ"
+
+msgid "formErrorNewPasswRepeat"
+msgstr "รหัสผ่านไม่ถูกต้อง"
+
+msgid "modelLoginFormEmail"
+msgstr "อีเมล์"
+
+msgid "modelForgotpassPassword"
+msgstr "รหัสผ่าน"
+
+msgid "modelForgotpassPasswordRepeat"
+msgstr "ใส่รหัสผ่านอีกครั้ง"
+
+msgid "modelFogotpassEmailExists"
+msgstr "ไม่มีผู้ใช้ลงทะเบียนด้วยอีเมล์นั้น"
+
+msgid "modelFogotpassInvalidLink"
+msgstr "ลิงค์ไม่ถูกต้อง"
+
+msgid "modelFogotpassPassDoNotMatch"
+msgstr "รหัสผ่านไม่ตรงกัน"
+
+msgid "visitors"
+msgstr ""
+
+msgid "facebookLikeShowUsYouLikeUs"
+msgstr "แบ่งปันความรักกับเรา!"
+
+msgid "systemRegisterSmall"
+msgstr "การลงทะเบียน"
+
+msgid "chatMoveIn"
+msgstr "ย้ายไปยัง"
+
+msgid "chatFoldersFirst"
+msgstr "ทั่วไป"
+
+msgid "chatFoldersSecond"
+msgstr "ชื่นชอบ"
+
+msgid "chatFoldersThird"
+msgstr "แบล็กลิสต์"
+
+msgid "langRussian"
+msgstr "ภาษารัสเซีย"
+
+msgid "yourPhotoHere"
+msgstr "รูปภาพของคุณที่นี่"
+
+msgid "topfacesAdd"
+msgstr "ด้านบน"
+
+msgid "topfacesItsYou"
+msgstr "นี่คือคุณ!"
+
+msgid "userBalloonChat"
+msgstr "เขียนข้อความ"
+
+msgid "userBalloonProfile"
+msgstr "ดูโปรไฟล์"
+
+msgid "topfacesDialogTitle"
+msgstr "เพิ่มตัวคุณไปยัง&nbsp;ด้านบน"
+
+msgid "topfacesDialogChoosePhoto"
+msgstr ""
+"เลือกรูปภาพของคุณ 1 รูป หรือ<a href=\"/users/view/%s\">อัพโหลด&nbsp;รูปภาพใหม่</a>"
+
+msgid "topfacesDialogTypeMessage"
+msgstr "พิมพ์ข้อความสั้นๆ"
+
+msgid "actionSend"
+msgstr "ส่ง"
+
+msgid "topfacesDialogNoPhotos"
+msgstr ""
+"เพิ่มรูปภาพไปยัง&nbsp;ด้านบน ก่อนอื่น<a href=\"/users/view/%s\">คุณต้องอัพโหลด&nbsp; "
+"รูปภาพ </a> ไปยัง&nbsp;โปรไฟล์ของคุณ"
+
+msgid "TopFacesLimitExceeded"
+msgstr "ไม่อนุญาตให้เพิ่มรูป&nbsp;มากกว่า 1 รูปต่อ&nbsp;ชั่วโมง กรุณารอ"
+
+msgid "emailConfirmPleaseTitle"
+msgstr ""
+"ระบบได้ส่งลิงค์ยืนยันไปยังอีเมล์ของคุณ "
+"หลังจากทำการยืนยันอีเมล์คุณจะสามาถเข้าถึงคุณสมบัติทั้งหมดของเว็บไซต์ได้ <a href='%link%'> "
+"ยังไม่ได้รับลิงค์</a>?"
+
+msgid "emailConfirmCheckSpam"
+msgstr ""
+"ตรวจสอบสแปม / สงสัยกล่องจดหมายของคุณของคุณจดหมายของเราสามารถได้รับโดยมีข้อผิดพลาด "
+"ถ้ากรุณาทำเครื่องหมายว่าไม่ใช่สแปม"
+
+msgid "emailConfirmPleaseNotice"
+msgstr "&nbsp;"
+
+msgid "socialLikeStr"
+msgstr "ชอบ"
+
+msgid "complainHead"
+msgstr "ร้องเรียนเกี่ยวกับ"
+
+msgid "complainIgnore"
+msgstr "เพิกเฉย"
+
+msgid "complainIgnoreDescription"
+msgstr "คุณจะไม่ได้รับข้อความจากบุคคลนี้ แต่คุณสามารถยกเลิกในภายหลังได้"
+
+msgid "complainError1"
+msgstr "ระบุสาเหตุในการร้องเรียน"
+
+msgid "complainSubmit"
+msgstr "ส่ง"
+
+msgid "complainOr"
+msgstr "หรือ"
+
+msgid "complainClose"
+msgstr "ยกเลิก"
+
+msgid "menuFeedback"
+msgstr "ข้อเสนอแนะ"
+
+msgid "menuRules"
+msgstr "เงื่อนไข"
+
+msgid "menuContacts"
+msgstr "ติดต่อ"
+
+msgid "menuHelpUs"
+msgstr "ช่วยเรา"
+
+msgid "flirtNear"
+msgstr "ค้นหาบริเวณใกล้เคียง"
+
+msgid "menuAbout"
+msgstr "เกี่ยวกับเรา"
+
+msgid "menuSearch"
+msgstr "ค้นหา"
+
+msgid "flirtCarousel"
+msgstr "ออกเดท"
+
+msgid "menuChat"
+msgstr "แชท"
+
+msgid "mainTitle"
+msgstr "เชิญ คนรู้จัก, เพื่อนร่วมงานและเพื่อนบ้านของคุณ..."
+
+msgid "mainTitle2"
+msgstr "และเริ่มจีบโดยไม่ประสงค์ออกนาม"
+
+msgid "menTitles1"
+msgstr "คุณชอบเพื่อนบ้านของคุณหรือเปล่า?"
+
+msgid "menTitles2"
+msgstr "คุณชอบเพื่อนร่วมงานของคุณหรือเปล่า?"
+
+msgid "menTitles3"
+msgstr "คุณต้องการจีบคนที่เคยรู้จักกันหรือเปล่า?"
+
+msgid "menTitles4"
+msgstr "คุณเบื่อหรือเปล่า?"
+
+msgid "womanTitles1"
+msgstr "คุณชอบเพื่อนบ้านของคุณหรือเปล่า?"
+
+msgid "womanTitles2"
+msgstr "คุณชอบเพื่อนร่วมงานของคุณหรือเปล่า?"
+
+msgid "womanTitles3"
+msgstr "คุณต้องการจีบคนที่เคยรู้จักกันหรือเปล่า?"
+
+msgid "womanTitles4"
+msgstr "คุณเบื่อหรือเปล่า?"
+
+msgid "menTexts1"
+msgstr ""
+"<a href=\"/\">ส่งไปรษณียบัตร</a>เชิญเธอโดยวางการ์ดเชิญกระจกหน้ารถของเธอ หรือ "
+"ใส่ในกล่องรับจดหมาย"
+
+msgid "menTexts2"
+msgstr "ค้นหาอีเมล์ของเธอและ<a href=\"/\">เชิญ</a>เธอเข้าร่วม Lovetime"
+
+msgid "menTexts3"
+msgstr "ค้นหาอีเมล์หรือเบอร์โทรศัพท์ของเธอและ<a href=\"/\">เชิญ</a>เธอเข้าร่วม Lovetime"
+
+msgid "menTexts4"
+msgstr "คลิก\"<a href=\"/#flirt\" class=\"top-flirt\">จีบ</a>\"และทําความรู้จัก"
+
+msgid "womanTexts1"
+msgstr ""
+"<a href=\"/\">ส่งไปรษณียบัตร</a> เชิญเขาโดยวางไว้ที่กระจกหน้ารถของเขา หรือ "
+"ใส่ในกล่องรับจดหมาย"
+
+msgid "womanTexts2"
+msgstr "ค้นหาอีเมล์ของเขาและ<a href=\"/\">เชิญ</a>เขาให้เข้าร่วม Lovetime"
+
+msgid "womanTexts3"
+msgstr ""
+"ค้นหาอีเมล์หรือหมายเลขโทรศัพท์ของเขาและ<a href=\"/\"> เชิญ </a>ให้เข้าร่วม Lovetime"
+
+msgid "womanTexts4"
+msgstr "คลิก \"<a href=\"/#flirt\" class=\"top-flirt\">จีบ</a>\"และทําความรู้จัก"
+
+msgid "foldersTitle"
+msgstr "ใส่ชื่อโฟลเดอร์"
+
+msgid "foldersCancel"
+msgstr "ยกเลิก"
+
+msgid "foldersCreate"
+msgstr "สร้าง"
+
+msgid "foldersRename"
+msgstr "เปลี่ยนชื่อ"
+
+msgid "userBalloonCarousel"
+msgstr "ออกเดท"
+
+msgid "userBalloonExchange"
+msgstr "แลกเปลี่ยนเขตข้อมูล"
+
+msgid "chatBalloonMove"
+msgstr "ย้าย"
+
+msgid "chatBalloonSelect1"
+msgstr "ที่เลือก"
+
+msgid "chatBalloonSelect2"
+msgstr "ที่เลือก"
+
+msgid "chatBalloonSelect3"
+msgstr "ที่เลือก"
+
+msgid "errorFolderEmpty"
+msgstr "กรุณาใส่ชื่อโฟลเดอร์"
+
+msgid "dateDaysBefore"
+msgstr "วันที่แล้ว"
+
+msgid "dateMomentAgo"
+msgstr "เมื่อกี้"
+
+msgid "dateSecondAgo_plural_1"
+msgstr "เมื่อครู่นี้"
+
+msgid "dateSecondAgo_plural_2"
+msgstr "วินาทีที่แล้ว"
+
+msgid "dateSecondAgo_plural_3"
+msgstr "วินาทีที่แล้ว"
+
+msgid "dateMinuteAgo_plural_1"
+msgstr "1 นาทีที่แล้ว"
+
+msgid "dateMinuteAgo_plural_2"
+msgstr "นาทีที่แล้ว"
+
+msgid "dateMinuteAgo_plural_3"
+msgstr "นาทีที่แล้ว"
+
+msgid "dateCoupleMinutesAgo"
+msgstr "ไม่กี่วินาทีที่แล้ว"
+
+msgid "dateHourAgo_plural_1"
+msgstr "1 ชั่วโมงที่แล้ว"
+
+msgid "dateHourAgo_plural_2"
+msgstr "ชั่วโมงที่แล้ว"
+
+msgid "dateHourAgo_plural_3"
+msgstr "ชั่วโมงที่แล้ว"
+
+msgid "messages_plural_1"
+msgstr "ข้อความ"
+
+msgid "messages_plural_2"
+msgstr "ข้อความ"
+
+msgid "messages_plural_3"
+msgstr "ข้อความ"
+
+msgid "usersAddToFavorite"
+msgstr "เพิ่มไปที่ชื่นชอบ"
+
+msgid "actionBlock"
+msgstr "เพิกเฉย"
+
+msgid "chatComplain"
+msgstr "ร้องเรียน"
+
+msgid "usersRemoveFromFavorite"
+msgstr "ลบออกจากรายการโปรด"
+
+msgid "actionOr"
+msgstr "หรือ"
+
+msgid "actionDelete"
+msgstr "ลบ"
+
+msgid "galleryClose"
+msgstr "ปิด"
+
+msgid "galleryUploadError"
+msgstr "ข้อผิดพลาดเกิดขึ้นในขณะที่ &nbsp; อัพโหลด กรุณาลองใหม่ภายหลัง"
+
+msgid "galleryUploadFilesName"
+msgstr "ไฟล์รูป"
+
+msgid "galleryUploadPossibleFiles"
+msgstr "คุณสามารถอัพโหลดไฟล์รูปภาพได้ นามสกุลที่รองรับได้:"
+
+msgid "modelUsersHasPhoto"
+msgstr "รูปถ่าย"
+
+msgid "modelUsersHasPhotoCondition"
+msgstr "มีรูปถ่าย"
+
+msgid "modelUsersHasNoPhotoCondition"
+msgstr "ไม่มีรูปภาพ"
+
+msgid "searchHair"
+msgstr "ผม"
+
+msgid "requireRegistration4MaleTitle"
+msgstr "%s แบ่งปันข้อมูลส่วนตัวมากกว่าคุณ"
+
+msgid "requireRegistration4FemaleTitle"
+msgstr "%s แบ่งปันข้อมูลส่วนตัวมากกว่าคุณ"
+
+msgid "requireRegistrationNote"
+msgstr "เพื่อดูโปรไฟล์ของผู้อื่น คุณจำเป็นต้องลงทะเบียนก่อน"
+
+msgid "requireRegistrationCancel"
+msgstr "ยกเลิก"
+
+msgid "requireRegistrationRegister"
+msgstr "ลงทะเบียน"
+
+msgid "increaseInfoConfirmNote"
+msgstr "เพื่อดูโปรไฟล์คนอื่นคุณต้องกรอกรายละเอียดส่วนตัวของคุณอย่างน้อย 50%"
+
+msgid "increaseInfoConfirmFillNow"
+msgstr "กรอกตอนนี้"
+
+msgid "increaseInfoConfirmCancel"
+msgstr "ยกเลิก"
+
+msgid "Credit Card"
+msgstr "บัตรเครดิต"
+
+msgid "registerHello"
+msgstr "สวัสดี"
+
+msgid "registerForEnd"
+msgstr "เพื่อเสร็จสิ้นการลงทะเบียน กรุณาระบุว่าคุณมีโปรไฟล์ในเว็บไซต์ของเราหรือไม่?"
+
+msgid "registerYes"
+msgstr "ใช่"
+
+msgid "registerNo"
+msgstr "ไม่"
+
+msgid "registerForEndYes"
+msgstr "กรุณาป้อนรหัสผ่าน"
+
+msgid "registerBack"
+msgstr "ย้อนกลับ"
+
+msgid "registerForEndNo"
+msgstr "ตรวจสอบข้อมูล"
+
+msgid "registerUnderNick"
+msgstr "ไม่ต้องใส่ชื่อจริง หรือ ชื่อเล่นจริงของคุณ <br/> มิฉะนั้นคุณจะเป็นที่รู้จัก"
+
+msgid "registerEmailTip"
+msgstr "ไม่มีใครมองเห็น"
+
+msgid "birthDay"
+msgstr "วันเกิด"
+
+msgid "birthMonth"
+msgstr "เดือนเกิด"
+
+msgid "birthYear"
+msgstr "ปีเกิด"
+
+msgid "systemLoginAllRight"
+msgstr "ทั้งหมดถูกต้อง"
+
+msgid "registerRequire"
+msgstr "กรุณากรอช่องข้อมูลที่จำเป็นทั้งหมด"
+
+msgid "socialAuthFailed"
+msgstr "การเข้าสู่ระบบล้มเหลว"
+
+msgid "registerAuthOk"
+msgstr "การเข้าสู่ระบบสำเร็จแล้ว ตอนนี้คุณจะถูกพาไปหน้าหลัก หรือคลิก"
+
+msgid "registerAuthHere"
+msgstr "ที่นี่"
+
+msgid "registerAuthNone"
+msgstr "ไม่พบผู้ใช้"
+
+msgid "registerAlreadyYes"
+msgstr "ผู้ใช้รายอื่นลงทะเบียนด้วยอีเมล์นี้แล้ว"
+
+msgid "registerAuthFailed"
+msgstr "การเข้าสู่ระบบล้มเหลว"
+
+msgid "registerCreateFailed"
+msgstr "การสร้างบัญชีล้มเหลว กรุณาตรวจสอบทุกช่องข้อมูล"
+
+msgid "authFacebook"
+msgstr "เข้าสู่ระบบผ่าน Facebook"
+
+msgid "authVkontakte"
+msgstr "เข้าสู่ระบบผ่าน vkontakte"
+
+msgid "citationNotExist"
+msgstr "ไม่พบคำพูด"
+
+msgid "citationAccessDenied"
+msgstr "คำพูดนี้ไม่ได้เป็นของคุณ"
+
+msgid "VIP"
+msgstr "VIP"
+
+msgid "questRegister"
+msgstr "การลงทะเบียน"
+
+msgid "balanceChangeInQuest"
+msgstr "การเปลี่ยนแปลงยอดเงิน (เควส)"
+
+msgid "superstarModelAttributeIsReseted"
+msgstr ""
+
+msgid "payonlinesystemError3"
+msgstr ""
+"การชำระเงินผ่านบัตรเครดิตถูกปฏิเสธจากธนาคารผู้ออกบัตรของคุณ "
+"คุณจำเป็นต้องติดต่อธนาคารเพื่อหาเหตุผลว่าทําไมการชำระเงินของคุณถูกปฏิเสธแล้วลองใหม่อีกครั้ง"
+
+msgid "payonlinesystemError2"
+msgstr "ไม่สามารถชำระเงินด้วยบัตรเครดิตได้ คุณต้องใช้วิธีการชำระเงินอื่น"
+
+msgid "payonlinesystemError1"
+msgstr "ผิดพลาดทางเทคนิค กรุณาลองใหม่ภายหลัง"
+
+msgid "payonlinesystemError0"
+msgstr "ไม่สามารถทำการชำระเงินได้"
+
+msgid "seocatalogTitleDatingSite"
+msgstr "เป็นเว็บหาคู่เพื่อหาหญิงสาว เกย์ และชายหนุ่ม"
+
+msgid "seocatalogH1DatingSite"
+msgstr "เว็บหาคู่"
+
+msgid "seocatalogH1CountriesAndCities"
+msgstr "ประเทศและเมือง"
+
+msgid "seocatalogTitleDatingWithWomen"
+msgstr "ออกเดทกับหญิงสาว"
+
+msgid "seocatalogH1DatingWithWomen"
+msgstr "ออกเดทกับผู้หญิง"
+
+msgid "seocatalogTitleDatingWithMen"
+msgstr "ออกเดทกับเกย์ ผู้ชาย"
+
+msgid "seocatalogH1DatingWithMen"
+msgstr "ออกเดทกับผู้ชาย"
+
+msgid "seocatalogTitleDatingWithLesbian"
+msgstr "ออกเดทกับเลสเบียน"
+
+msgid "seocatalogH1DatingWithLesbian"
+msgstr "ออกเดทกับเลสเบียน"
+
+msgid "seocatalogTitleDatingWithGays"
+msgstr "ออกเดทกับเกย์"
+
+msgid "seocatalogH1DatingWithGays"
+msgstr "ออกเดทกับเกย์"
+
+msgid "seocatalogTitleDatingWithBisexuals"
+msgstr "ออกเดทกับเกย์ไบเซ็กชวล"
+
+msgid "seocatalogH1DatingWithBisexuals"
+msgstr "ออกเดทกับไบเซ็กชวล"
+
+msgid "seocatalogTitleGuysGirls_18_20"
+msgstr "หญิงและชายอายุตั้งแต่ 18 ถึง 20 ปี"
+
+msgid "seocatalogH1GuysGirls_18_20"
+msgstr "เกย์และผู้หญิงอายุ 18-20 ปี"
+
+msgid "seocatalogTitleGuysGirls_21_25"
+msgstr "ชายยและหญิงอายุตั้งแต่ 20 ถึง 25 ปี"
+
+msgid "seocatalogH1GuysGirls_21_25"
+msgstr "เกย์และผู้หญิงอายุ 21-25 ปี"
+
+msgid "seocatalogTitleGuysGirls_26_30"
+msgstr "ชายยและหญิงอายุตั้งแต่ 20 ถึง 25 ปี"
+
+msgid "seocatalogH1GuysGirls_26_30"
+msgstr "ผู้หญิงและผู้ชายอายุ 26-30 ปี"
+
+msgid "seocatalogTitleGuysGirls_31_35"
+msgstr "ชายยและหญิงอายุตั้งแต่ 31 ถึง 35 ปี"
+
+msgid "seocatalogH1GuysGirls_31_35"
+msgstr "ผู้หญิงและผู้ชายอายุ 31-35 ปี"
+
+msgid "seocatalogTitleGuysGirls_35_40"
+msgstr "หญิงและชายอายุตั้งแต่ 35 ถึง 40 ปี"
+
+msgid "seocatalogH1GuysGirls_35_40"
+msgstr "ผู้หญิงและผู้ชายอายุ 35-40 ปี"
+
+msgid "seocatalogTitleMeetingForCommunication"
+msgstr "คบเพื่อมิตรภาพและสานสัมพันธ์"
+
+msgid "seocatalogH1MeetingForCommunication"
+msgstr "คบเพื่อคุยสานสัมพันธ์"
+
+msgid "seocatalogTitleMeetingRorRomanticRelations"
+msgstr "คบเพื่อมิตรภาพและสานสัมพันธ์"
+
+msgid "seocatalogH1MeetingRorRomanticRelations"
+msgstr "คบเพื่อความสัมพันธ์แบบโรแมนติ"
+
+msgid "seocatalogTitleMeetingForFlirt"
+msgstr "คบเพื่อจีบ"
+
+msgid "seocatalogH1MeetingForFlirt"
+msgstr "คบเพื่อจีบ"
+
+msgid "seocatalogTitleMeetingForCloseRelations"
+msgstr "คบเพื่อความสัมพันธ์แบบใกล้ชิด สนิทสนม และเซ็กซ์"
+
+msgid "seocatalogH1MeetingForCloseRelations"
+msgstr "คบเพื่อความสัมพันธ์แบบใกล้ชิด"
+
+msgid "seocatalogTitleBlondes"
+msgstr "หาสาวผมบลอนด์และชายผมบลอนด์"
+
+msgid "seocatalogH1Blondes"
+msgstr "ชายผมบลอนด์และหญิงผมบลอนด์"
+
+msgid "seocatalogTitleBrunettes"
+msgstr "หาสาวผมน้ำตาลเข้มและชายผมน้ำตาลเข้ม"
+
+msgid "seocatalogH1Brunettes"
+msgstr "ชายผมน้ำตามเข้มและหญิงผมน้ำตาลเข้ม"
+
+msgid "seocatalogTitleBrownHaired"
+msgstr "หาหญิงและชายผมแดง สาวผมบลอนด์และชายผมบลอนด์"
+
+msgid "seocatalogH1BrownHaired"
+msgstr "ชายผมน้ำตาลและหญิงผมน้ำตาล"
+
+msgid "seocatalogTitleDatingWithAthletic"
+msgstr "หาสาวหุ่นนักกีฬาหรือชายหุ่นนักกีฬา"
+
+msgid "seocatalogH1DatingWithAthletic"
+msgstr "ออกเดทกับหญิงและชายหุ่นนักกีฬา"
+
+msgid "seocatalogTitleDatingWithSlim"
+msgstr "หาสาวหุ่นนักกีฬาหรือชายหุ่นนักกีฬา"
+
+msgid "seocatalogH1DatingWithSlim"
+msgstr "ออกเดทกับหญิงและชายรูปร่างผมบาง"
+
+msgid "seocatalogTitleDatingWithHeavy"
+msgstr "หาสาวรูปร่างใหญ่หรือชายรูปร่งใหญ่"
+
+msgid "seocatalogH1DatingWithHeavy"
+msgstr "ออกเดทกับหญิงและชายรูปร่างใหญ่"
+
+msgid "seocatalogTitleDatingWithForeigners"
+msgstr "หาชาวต่างชาติ"
+
+msgid "seocatalogH1DatingWithForeigners"
+msgstr "ออกเดทกับชาวต่างชาติ"
+
+msgid "seocatalogTitleDatingWithRich"
+msgstr "หาชาวต่างชาติ"
+
+msgid "seocatalogH1DatingWithRich"
+msgstr "ออกเดทกับคนรวย"
+
+msgid "seocatalogTitleDatingWithSingles"
+msgstr "หาคนโสด"
+
+msgid "seocatalogH1DatingWithSingles"
+msgstr "ออกเดทกับคนโสด"
+
+msgid "seocatalogTitleDatingWithPeopleHavingNoBadHabits"
+msgstr "หาคนโสด"
+
+msgid "seocatalogH1DatingWithPeopleHavingNoBadHabits"
+msgstr "ออกเดทกับคนนิสัยดี"
+
+msgid "searchShowMore"
+msgstr "แสดงเพิ่มเติม"
+
+msgid "seocatalogTitleCountriesAndCities"
+msgstr "ประเทศและเมือง"
+
+msgid "age"
+msgstr "อายุ"
+
+msgid "modelUsersSexWoman"
+msgstr "ผู้หญิง"
+
+msgid "modelUsersSexMan"
+msgstr "ผู้ชาย"
+
+msgid "modelUsersSexAny"
+msgstr "เพศใดก็ได้"
+
+msgid "searchUsersRegion"
+msgstr "ภูมิภาค"
+
+msgid "actionFind"
+msgstr "ค้นหา"
+
+msgid "mainTitle3Noa"
+msgstr "หาคู่ออนไลน์ ฟรี"
+
+msgid "clockNavExactSearch"
+msgstr "การค้นหาที่แม่นยำ"
+
+msgid "clockNavExactSearchSubtext"
+msgstr "ตัวแปรการค้นหามากกว่า 20 ตัวแปร"
+
+msgid "clockNavMeetings"
+msgstr "ออกเดทวันนี้"
+
+msgid "clockNavMeetingsSubtext"
+msgstr "รับและส่ง <b>คำเชิญการออกเดทภายในไม่กี่นาที</b>"
+
+msgid "clockNavInstantCommunication"
+msgstr "แชทตอนนี้"
+
+msgid "clockNavInstantCommunicationSubtext"
+msgstr "หาเพื่อนแชท <b>ในไม่กี่วินาที</b>"
+
+msgid "clockNavWhosNear"
+msgstr "พบปะผู้ที่อยู่บริเวณใกล้เคียง"
+
+msgid "clockNavWhosNearSubtext"
+msgstr "ค้นหา <b>คนสวยนับร้อย</b>ในรัศมีหนึ่งกิโลเมตร"
+
+msgid "clockNavHasContact"
+msgstr "พบปะผู้คนจากหลากหลายสถานที่"
+
+msgid "clockNavHasContactSubtext"
+msgstr "บริการโปรแกรมแปลในการแชทถึง <b>64 ภาษา</b>"
+
+msgid "clockNavperfectCouple"
+msgstr "ทำความรู้จักได้ภายในไม่กี่คลิก"
+
+msgid "clockNavperfectCoupleSubtext"
+msgstr "<b>ตั้งค่าคำพูดล่วงหน้า</b> - พบกันภายใน 30 นาที"
+
+msgid "peopleHere"
+msgstr "คนได้เข้ามาที่นี่แล้ว"
+
+msgid "carouselFillAnketa0"
+msgstr "เล่นม้าหมุน"
+
+msgid "carouselFillAnketa1"
+msgstr "กรุณาระบุ"
+
+msgid "carouselFillAnketa2"
+msgstr "อายุ,ประเทศ, จังหวัดและอัพโหลดรูปภาพ"
+
+msgid "flirtSearch"
+msgstr "ค้นหา"
+
+msgid "pagesAbout"
+msgstr ""
+"ทุกคนคงเคยประสบปัญหาในการทำความรู้จักกับคนที่คุณชอบ แต่คนส่วนใหญ่ไม่กล้าที่จะแสดงออกโดยตรง "
+"<br/><br/> บริการนี้สามารถแก้ปัญหาให้คุณได้ "
+"ขณะนี้คุณมีโอกาสที่จะทําความรู้จักโดยปราศจากความกลัวที่จะโดนปฏิเสธ  <br/><br/"
+">คุณนั่งใกล้กับเพื่อนร่วมงานและไม่รู้จะเริ่มต้นเข้าหาเธออย่างไร  <br/>&bull; "
+"อยากทำความรู้จักกับดาวเด่นในโรงเรียนหรือมหาวิทยาลัยมันง่ายเลย <br/>&bull; "
+"คุณตกหลุมรักเพื่อนบ้านคุณหรือเปล่า? ลองถามเธอว่าเธอชอบคุณหรือเปล่า? <br/><br/> "
+"คุณกำลังมองหาอะไรอยู่ ความรักหรือเซ็กซ์? เขาชอบใครในที่ทำงานหรือโรงเรียนหรือเปล่า? "
+"คุณสามารถค้นหาคำตอบได้ที่นี่ .."
+
+msgid "pagesRulesTitle2"
+msgstr "กฎระเบียบสำหรับการลงทะเบียน"
+
+msgid "pagesRules"
+msgstr ""
+"การให้ข้อมูลของฉันในเว็บไวต์ Lovetime (ดังต่อไปนี้ขอเรียกว่าไซต์)  "
+"ฉันยอมรับในข้อกำหนดดังต่อไปนี้:</h2><ol><li> "
+"ฉันยืนยันว่าฉันได้อ่านกฎและข้อบังคับและพร้อมจะปฏิบัติตามข้อกําหนดเหล่านั้น </li><li> "
+"ฉันยืนยันว่าฉันอายุไม่ต่ำกว่า 18 ปีบริบูรณ์ </li><li> "
+"ฉันรับผิดชอบข้อมูลและเนื้อหาอื่นๆที่เผยแพร่ในเว็บไซต์นี้ซึ่งเป็นปัจจัยสําคัญในการได้รับการอนุมัติของฉันบนเว็บไซต์นี้ "
+"</li><li> ฉันทราบว่าเว็บไซต์อาจมีข้อมูลสำหรับผู้ใหญ่เท่านั้น </li><li> "
+"ฉันสัญญาว่าจะใช้งานเว็บไซต์ให้สอดคล้องกับกฎหมายที่บังคับใช้ในพื้นที่นั้น </li><li>  "
+"ฉันจะไม่เผยแพร่ข้อความ, ที่อยู่, เบอร์โทรศัพท์, ลิงค์หรือข้อมูลต่างๆ </li><li>  "
+"ฉันจะไม่เผยแพร่คําหยาบคาย, เนื้อหาลามกอนาจาร "
+"หรือการกระทำใดๆที่ผิดศีลธรรมหรือส่งเสริมความรุนแรงหรือการเผยแพร่เนื้อหาใดๆที่ผิดต่อหลักกฎหมาย "
+"</li><li>  ฉันจะไม่ชักนำผู้ใช้คนอื่นๆไปในทางที่ผิด </li><li> "
+"ฉันจะไม่ใช้เว็บไซต์ในการขายสินค้าหรือบริการใดๆหรือหาผลประโยชน์รวมถึงการโฆษณา </li><li>  "
+"ฉันยอมรับว่าข้อมูลของฉันที่อยู่ในเว็บไวต์นี้อาจเข้าถึงได้โดยผู้ใช้อินเตอร์เน็ตอื่นๆซึ่งทางเว็บไซต์จะไม่รับผิดชอบในส่วนนั้น "
+"</li><li> ฉันจะรับผิดชอบต่อผลกระทบเชิงลบที่อาจเกิดขึ้นจากการส่งคำเชิญที่ไม่ระบุชื่อ </li></"
+"ol><h2> ทางเว็บไซต์จะไม่รับผิดชอบต่อ:</h2><ol><li> เนื้อหาและข้อมูลที่เผยแพร่โดยผู้ใช้ </"
+"li><li>  "
+"การกระทำใดๆที่เป็นอันตรายต่อความเสียหายหรือการสูญเสียข้อมูลที่เกิดขึ้นกับผู้ใช้หรือจากการใช้งานจากโทรศัพท์มือถือ</"
+"li><li> "
+"การละเมิดสิทธิ์ของผู้ใช้หรือของบุคคลที่สามโดยการเผยแพร่ข้อมูลและเนื้อหาที่ไม่ตรงกฎหมายบังคับใช้ "
+"(รวมถึงกฎหมายลิขสิทธ์) ซึ่งเพิ่มโดยผู้ใช้บนเว็บไซต์ </li></ol>"
+
+msgid "error404"
+msgstr "ผิดพลาด 404"
+
+msgid "pageNotFound"
+msgstr "ไม่พบหน้าเว็บ"
+
+msgid "formMustFill"
+msgstr "ต้องกรอก"
+
+msgid "feedbackFile"
+msgstr "ภาพหน้าจอ"
+
+msgid "feedbackFileTip"
+msgstr "คุณสามารถแนบภาพหน้าจอที่ผิดพลาดในข้อความได้"
+
+msgid "siteCopyrightTh"
+msgstr "Lovetime.com"
+
+msgid "man"
+msgstr "ผู้ชาย"
+
+msgid "woman"
+msgstr "ผู้หญิง"
+
+msgid "countrySelectName"
+msgstr "ประเทศ"
+
+msgid "citySelectName"
+msgstr "เมือง"
+
+msgid "signupBirthDay"
+msgstr "วันเกิด"
+
+msgid "signupBirthMonth"
+msgstr "เดือน"
+
+msgid "signupBirthYear"
+msgstr "ปี"
+
+msgid "systemRegister"
+msgstr "ลงทะเบียน"
+
+msgid "signupLicenseNote"
+msgstr ""
+"การคลิก «ลงทะเบียน» ถือว่าคุณยืนยันว่าคุณมีอายุ 18 ปีบริบูรณ์และยอมรับ<a target=\"_blank\" "
+"href=\"/pages/rules\">ข้อตกตลง</a>"
+
+msgid "searchExcite"
+msgstr "ที่ทำให้คุณเลือก"
+
+msgid "searchExcitesHe"
+msgstr "เขาจะตื่นเต้นโดย"
+
+msgid "searchExcitesShe"
+msgstr "เธอจะตื่นเต้นโดย"
+
+msgid "searchFrom"
+msgstr "จาก"
+
+msgid "searchTo"
+msgstr "ไปยัง"
+
+msgid "searchSm"
+msgstr "ซม."
+
+msgid "searchKg"
+msgstr "กก."
+
+msgid "searchSkipCond"
+msgstr "ข้ามเงื่อนไขนี้"
+
+msgid "sexYears"
+msgstr "ปี"
+
+msgid "searchHave"
+msgstr "ใช่"
+
+msgid "searchHaveNot"
+msgstr "ไม่ใช่"
+
+msgid "searchHaveChildren"
+msgstr "มีลูก"
+
+msgid "searchHaveNotChildren"
+msgstr "ไม่มีลูก"
+
+msgid "searchLocationUndefined"
+msgstr "สถานที่ใดๆ"
+
+msgid "nearFilterOnline"
+msgstr "ออนไลน์"
+
+msgid "nearFilterNew"
+msgstr "ใหม่"
+
+msgid "nearFilterAll"
+msgstr "ทั้งหมด"
+
+msgid "searchAddParams"
+msgstr "ตัวเลือกขั้นสูง"
+
+msgid "searchAddToSearch"
+msgstr "เพิ่มไปยังค้นหา"
+
+msgid "searchChooseAddParam"
+msgstr "เลือกตัวเลือกขั้นสูง"
+
+msgid "carouselYes"
+msgstr "ใช่"
+
+msgid "carouselMaybeYes"
+msgstr "อาจจะ"
+
+msgid "carouselNo"
+msgstr "ไม่ใช่"
+
+msgid "carouselLikeHim"
+msgstr "คุณต้องการออกเดท&nbspกับเขาหรือไม่?"
+
+msgid "carouselLikeHer"
+msgstr "คุณต้องการออกเดท&nbspกับเธอหรือไม่?"
+
+msgid "carouselMutualGreeting"
+msgstr "<strong>ขอแสดงความยินดี!</strong> คุณใจตรงกัน"
+
+msgid "carouselMutualMessageFemale"
+msgstr "ต้องการ&nbsp;ที่จะ&nbspออกเดทกับคุณเช่นกัน"
+
+msgid "carouselMutualMessageMale"
+msgstr "ต้องการ&nbsp;ที่จะ&nbsp;ออกเดทกับคุณเช่นกัน"
+
+msgid "chatWithHer"
+msgstr "แชทกับเธอ"
+
+msgid "chatWithHim"
+msgstr "แชทกับเขา"
+
+msgid "chatMutualGreeting_female"
+msgstr ""
+"%s ที่คุณ&nbsp;ต้องการออกเดท ตกลงที่จะออกเดทกับคุณ! เธอกำลังรอข้อความนัด&nbsp;เดทจากคุณ!"
+
+msgid "chatMutualGreeting_male"
+msgstr ""
+"%s ที่คุณ&nbsp;ต้องการออกเดท ตกลงที่จะออกเดทกับคุณ! เขากำลังรอข้อความนัด&nbsp;เดทจากคุณ"
+
+msgid "gallerySingleUploadBtn"
+msgstr "เพิ่มรูปถ่าย"
+
+msgid "km"
+msgstr "กม."
+
+msgid "profileMeet"
+msgstr "ออกเดท"
+
+msgid "wannaMeet"
+msgstr "คุณต้องการออกเดทใช่หรือไม่?"
+
+msgid "wannaMeetHer"
+msgstr "คุณต้องการออกเดท&nbsp;เธอใช่หรือไม่?"
+
+msgid "wannaMeetHim"
+msgstr "คุณต้องการออกเดท&nbsp;เขาใช่หรือไม่?"
+
+msgid "locatorSpecifyLocationPart1"
+msgstr "ระบุตำแหน่งของคุณ"
+
+msgid "locatorSpecifyLocationPart2"
+msgstr "แล้วเราเราสามารถแสดงให้คุณเห็นผู้ที่อยู่บริเวณใกล้เคียงได้"
+
+msgid "locatorSpecifyLocationPart3"
+msgstr "ระบุ"
+
+msgid "corrBlackListConfirm"
+msgstr "คุณต้องการย้ายข้อความไปยังแบล็คลิสต์ใช่หรือไม่?"
+
+msgid "corrBlackListConfirmNote"
+msgstr "หากหลังจากนี้คุณต้องการ คุณสามารถเรียกคืนได้"
+
+msgid "actionMove"
+msgstr "ย้าย"
+
+msgid "actionDontMove"
+msgstr "ไม่ย้าย"
+
+msgid "corrDeleteFolderConfirm"
+msgstr "คุณต้องการลบโฟลเดอร์นี้ใช่หรือไม่?"
+
+msgid "corrDeleteFolderConfirmNote"
+msgstr ""
+"ข้อความที่อยู่&nbsp;ที่นี่ไม่ได้หายไปไหน แต่&nbsp;มันจะถูกย้ายไปยัง&nbsp;โฟลเดอร์&laquo;"
+"ทั่วไป&raquo;"
+
+msgid "actionDontDelete"
+msgstr "ไม่ลบ"
+
+msgid "guestsIgnoreOk"
+msgstr "ข้อความโต้ตอบกับ&nbsp;ผู้ใช้ได้ถูกย้ายไปยัง&nbsp;โฟลเดอร์&laquo;ไม่สนใจ&raquo;"
+
+msgid "guestsIgnoreNote"
+msgstr "หากภายหลังคุณต้องการ คุณสามารถเรียกกลับคืนได้"
+
+msgid "actionClose"
+msgstr "ปิด"
+
+msgid "actionChat"
+msgstr "แชท"
+
+msgid "invitePreviewFromColleagueFemale"
+msgstr "เพื่อร่วมงานของคุณต้องการออกเดทกับ&nbsp;คุณ"
+
+msgid "invitePreviewFromNeighborFemale"
+msgstr "เพื่อนบ้านของคุณต้องการออกเดทกับ&nbsp;คุณ"
+
+msgid "invitePreviewFromClassmateFemale"
+msgstr "เพื่อนร่วมชั้นเรียนของคุณต้องการออกเดทกับ&nbsp;คุณ"
+
+msgid "invitePreviewFromFamiliarFemale"
+msgstr "ใครบางคนต้องการออกเดทกับ&nbsp;คุณ"
+
+msgid "invitePreviewFromColleagueMale"
+msgstr "เพื่อนร่วมงานของคุณต้องการออกเดทกับ&nbsp;คุณ"
+
+msgid "invitePreviewFromNeighborMale"
+msgstr "เพื่อนบ้านของคุณต้องการออกเดทกับ&nbsp;คุณ"
+
+msgid "invitePreviewFromClassmateMale"
+msgstr "เพื่อนร่วมชั้นเรียนของคุณต้องการออกเดทกับ&nbsp;คุณ"
+
+msgid "invitePreviewFromFamiliarMale"
+msgstr "ใครบางคนต้องการออกเดทกับ&nbsp;คุณ"
+
+msgid "invitePreviewTextFemale"
+msgstr "หากต้องการ&nbsp;พิสูจน์ว่ามันไม่ใช่&nbsp;การล้อเล่น เธอต้องการรู้จักคุณเร็วๆ"
+
+msgid "invitePreviewTextMale"
+msgstr "หากต้องการ&nbsp;พิสูจน์ว่ามันไม่ใช่&nbsp;การล้อเล่น เขาต้องการรู้จักคุณเร็วๆ"
+
+msgid "invitePreviewDearFemale"
+msgstr "ที่รัก"
+
+msgid "invitePreviewDearMale"
+msgstr "ที่รัก"
+
+msgid "invitePreviewCodeTitle"
+msgstr "เพื่อดูว่าใครชอบคุณ:"
+
+msgid "invitePreviewCodeVisitLink"
+msgstr "คลิกที่&nbsp;ลิงค์"
+
+msgid "invitePreviewCodeLink"
+msgstr "ฉันได้รับคำเชิญ"
+
+msgid "invitePreviewCodeSite"
+msgstr "ล็อกอินเข้าสู่&nbsp;เว็บไซต์"
+
+msgid "invitePreviewCodeTopRight"
+msgstr "ด้านขวาบน"
+
+msgid "invitePreviewCodeType"
+msgstr "ใส่รหัสคำเชิญ"
+
+msgid "invitePreviewPostcardNote"
+msgstr ""
+"พิมพ์และ&nbsp;วางโปสการ์ดใน&nbsp;บริเวณที่สามารถพบเจอได้ง่าย เช่น ตรงกระจกหน้ารถ, "
+"ใน&nbsp;กล่องจดหมาย, ใน&nbsp;กระเป๋า, บน&nbsp;โต๊ะ&nbsp;... "
+"หรือคุณมีไอเดียอื่นๆเพิ่มเติม?"
+
+msgid "invitePreviewPhoneResendNote"
+msgstr "หากคุณต้องการส่ง SMS อีกครั้ง กรุณากรอกเบอร์โทรศัพท์:"
+
+msgid "inviteResend"
+msgstr "ส่งอีกครั้ง"
+
+msgid "inviteSendInvite"
+msgstr "ส่งคำเชิญ"
+
+msgid "inviteResent"
+msgstr "ส่งอีกครั้ง"
+
+msgid "inviteSummaryTitleColleagueFemale"
+msgstr "ส่งคำเชิญให้คนรู้จัก&nbsp;ชื่อ"
+
+msgid "inviteSummaryTitleNeighborFemale"
+msgstr "ส่งคำเชิญให้เพื่อนบ้าน&nbsp;ชื่อ"
+
+msgid "inviteSummaryTitleClassmateFemale"
+msgstr "ส่งคำเชิญให้เพื่อนร่วมวชั้นเรียน&nbsp;ชื่อ"
+
+msgid "inviteSummaryTitleFamiliarFemale"
+msgstr "ส่งคำเชิญให้คนรู้จัก&nbsp;ชื่อ"
+
+msgid "inviteSummaryTitleColleagueMale"
+msgstr "ส่งคำเชิญให้เพื่อนร่วมงาน&nbsp;ชื่อ"
+
+msgid "inviteSummaryTitleNeighborMale"
+msgstr "ส่งคำเชิญให้เพื่อนบ้าน&nbsp;ชื่อ"
+
+msgid "inviteSummaryTitleClassmateMale"
+msgstr "ส่งคำเชิญให้เพื่อนร่วมวชั้นเรียน&nbsp;ชื่อ"
+
+msgid "inviteSummaryTitleFamiliarMale"
+msgstr "ส่งคำเชิญให้คนรู้จัก&nbsp;ชื่อ"
+
+msgid "inviteSummaryStateAgree"
+msgstr "ยอมรับแล้ว"
+
+msgid "inviteSummaryStateWait"
+msgstr "ส่งแล้ว"
+
+msgid "inviteSummaryNoKeyPhrase"
+msgstr "ไม่มีคีย์เวิร์ด"
+
+msgid "inviteFailCodeField"
+msgstr "ไม่มีรหัสคำเชิญดังกล่าว:( คุณสับสนหรือเปล่า?"
+
+msgid "inviteApplySuccess"
+msgstr "ยอมรับคำเชิญแล้ว!"
+
+msgid "increaseInfoConfirm4MaleTitle"
+msgstr "%s แบ่งปันข้อมูลส่วนตัวมากกว่าคุณ"
+
+msgid "increaseInfoConfirm4FemaleTitle"
+msgstr "%s ได้แบ่งปันรายละเอียดส่วนตัวมากกว่าคุณ"
+
+msgid "needAddPhotoConfirmTitle"
+msgstr "คุณควรเพิ่มรูปภาพ"
+
+msgid "needAddPhotoConfirmNote"
+msgstr "หากต้องการดูรูปภาพของบุคคลอื่น คุณต้องอัพโหลดรูปภาพของคุณเอง"
+
+msgid "needAddPhotoConfirmYes"
+msgstr "อัพโหลดรูปภาพ"
+
+msgid "needAddPhotoConfirmNo"
+msgstr "ยกเลิก"
+
+msgid "requiredFieldsAlertConfirmTitle"
+msgstr "ช่องข้อมูลจำเป็น"
+
+msgid "requiredFieldsAlertConfirmText"
+msgstr "ช่องข้อมูลต่อไปนี้จำเป็น: %s<br> กรุณาไปที่โปรไฟล์ของคุณและกรอกข้อมูลให้ครบทุกช่อง"
+
+msgid "requiredFieldsAlertConfirmYes"
+msgstr "ไปยัง"
+
+msgid "noticeImageSizeLimit"
+msgstr "จำกัดขนาดรูปภาพ"
+
+msgid "noticeImageSizeLimitText"
+msgstr "ขนาดรูปภาพต้องไม่เกิน 2 MB"
+
+msgid "emailConfirmTitle"
+msgstr "ยืนยันอีเมล์"
+
+msgid "emailConfirmAlertYes"
+msgstr "ยืนยัน"
+
+msgid "emailConfirmAlertNo"
+msgstr "ยกเลิก"
+
+msgid "bannedInfoAlertTitle"
+msgstr "บัญชีของคุณถูกบล็อค"
+
+msgid "bannedInfoAlertNotice"
+msgstr "ดูรายละเอียดได้ในหน้าโปรไฟล์"
+
+msgid "bannedInfoAlertYes"
+msgstr "ไปยังโปรไฟล์"
+
+msgid "bannedInfoAlertNo"
+msgstr "ออกจากระบบ"
+
+msgid "emailDomainsReplaceAlertTitle"
+msgstr "เปลี่ยนอีเมล์"
+
+msgid "emailDomainsReplaceAlertText"
+msgstr "เราเปลี่ยนที่อยู่อีเมล์ของคุณไปยัง% s เพราะอาจมีการพิมพ์ผิด ดำเนินการต่อหรือเปลี่ยนกลับไป"
+
+msgid "emailDomainsReplaceAlertYes"
+msgstr "ต่อไป"
+
+msgid "emailDomainsReplaceAlertNo"
+msgstr "เปลี่ยนกลับ"
+
+msgid "signinAction"
+msgstr "เข้าสู่ระบบ"
+
+msgid "signupAction"
+msgstr "ลงทะเบียน"
+
+msgid "signinEmailEmptyError"
+msgstr "กรอกอีเมล์"
+
+msgid "signinEmailMaskError"
+msgstr "กรอกอีเมล์ของคุณ"
+
+msgid "signinPasswordEmptyError"
+msgstr "กรอกรหัสผ่าน"
+
+msgid "signinCountryEmptyError"
+msgstr "ประเทศ"
+
+msgid "signinCityEmptyError"
+msgstr "จังหวัด"
+
+msgid "signinErrorBirthDayEmpty"
+msgstr "วันเกิด"
+
+msgid "signinErrorBirthMonthEmpty"
+msgstr "เดือนเกิด"
+
+msgid "signinErrorBirthYearEmpty"
+msgstr "ปีเกิด"
+
+msgid "signinErrorTooYoung"
+msgstr "การลงทะเบียนอนุญาตให้เฉพาะ&nbsp;ผู้ที่มีอายุไม่ต่ำกว่า 18 ปีบริบูรณ์"
+
+msgid "citySelectDisabledTitle"
+msgstr "เลือกประเทศ"
+
+msgid "signinPasswordMinLengthError"
+msgstr "รหัสผ่านต้อมีอย่างน้อย 5&nbsp;ตัวอักษร"
+
+msgid "signinErrorNameEmpty"
+msgstr "กรอกชื่อของคุณ"
+
+msgid "signinErrorSex"
+msgstr "เลือกเพศของคุณ"
+
+msgid "loginVia"
+msgstr "เข้าสู่ระบบด้วย %s"
+
+msgid "registerVia"
+msgstr "ลงทะเบียนด้วย %s"
+
+msgid "timeToFindYourLove"
+msgstr "ถึงเวลาตามหาความรักของคุณ"
+
+msgid "socialLikeDescription"
+msgstr "จีบเพื่อนร่วมงาน, เพื่อนร่วมชั้นเรียน, เพื่อนบ้านและคนรู้จักโดยไม่ประสงค์ออกนาม..."
+
+msgid "showAll"
+msgstr "แสดงทั้งหมด"
+
+msgid "actionMinimize"
+msgstr "ลด"
+
+msgid "chatLoadingHistory"
+msgstr "อัพโหลดข้อความก่อนหน้านี้"
+
+msgid "chatCitationsAdd"
+msgstr "เพิ่มไปยัง&nbsp;คำพูด"
+
+msgid "chatCitationsTitle"
+msgstr "คำพูด"
+
+msgid "chatCitationsWelcome"
+msgstr ""
+"<p>กรุณาเพิ่มวลีหรือคำพูดที่ใช้บ่อยได้ที่นี่ เพื่อแทรกวลีหรือคำพูด &nbsp;ใน&nbsp;the "
+"บนสนทนาได้อย่างรวดเร็ว</p><p>หากต้องการเพิ่มให้กดปุ่ม<span id=\"citations-welcome-"
+"button\"></span> เพิ่มคำพูด</p>"
+
+msgid "statusOnline"
+msgstr "ออนไลน์ขณะนี้"
+
+msgid "actionEdit"
+msgstr "แก้ไข"
+
+msgid "chatCitationsRestore"
+msgstr "กู้คำพูดคืน"
+
+msgid "chatNewMessageFrom"
+msgstr "ข้อความใหม่จาก"
+
+msgid "chatEmptyTitle"
+msgstr "ไม่มีข้อความในกล่องแชท"
+
+msgid "chatEmptyText"
+msgstr "เพื่อเพิ่มเพื่อน กรุณาเลือกผู้ใช้ที่คุณชื่นชอบจากการค้นหาและคลิก “พิมพ์”"
+
+msgid "formUploadFile"
+msgstr "อัปโหลดไฟล์"
+
+msgid "formDeleteFile"
+msgstr "ลบไฟล์"
+
+msgid "socialLikeTitle"
+msgstr "เว็บไซต์ดีเยี่ยม! Lovetime"
+
+msgid "About Yiinka"
+msgstr "เกี่ยวกับ Yiinke"
+
+msgid "systemInstruments"
+msgstr "เครื่องมือ"
+
+msgid "Import CSV"
+msgstr "นำเข้าจาก CSV"
+
+msgid "chatMessages"
+msgstr "ข้อความ"
+
+msgid "profileMessages"
+msgstr "ข้อความ"
+
+msgid "chatAll"
+msgstr "ทั้งหมด"
+
+msgid "chatOnline"
+msgstr "ออนไลน์"
+
+msgid "correspondencesActions"
+msgstr "การกระทำ"
+
+msgid "actionMoveIn"
+msgstr "ย้ายไปยัง:"
+
+msgid "actionBlacklist"
+msgstr "แบล็กลิสต์"
+
+msgid "chatEmptyFolder"
+msgstr "โฟลเดอร์ว่างเปล่า "
+
+msgid "chatNoOnline"
+msgstr "ไม่มีคู่สนทนาออนไลน์ในขณะนี้"
+
+msgid "correspondencesMessage"
+msgid_plural "correspondencesMessages"
+msgstr[0] "ข้อความ"
+
+msgid "favoriteUsers"
+msgstr "ผู้ใช้ที่ชื่นชอบ"
+
+msgid "favoriteLocation"
+msgstr ""
+"คุณสามารถเห็นผู้ใช้ที่คุณ \"เพิ่มไปยังชื่นชอบ\" ในโฟลเดอร์ \"ชื่นชอบ\"ของเมนู \"ข้อความ\""
+
+msgid "favoriteHideTip"
+msgstr "ซ่อนคำแนะนำ"
+
+msgid "favoriteNext"
+msgstr "ถัดไป"
+
+msgid "favoriteCancel"
+msgstr "ยกเลิก"
+
+msgid "emailConfirmResultSuccess"
+msgstr "อีเมล์ของคุณได้รับการยืนยันเรียบร้อยแล้ว"
+
+msgid "emailConfirmAlreadyConfirmed"
+msgstr "ยืนยันอีเมล์ของคุณแล้ว"
+
+msgid "emailConfirmCheckYourEmailNow"
+msgstr "เช็คอีเมล์ของคุณตอนนี้"
+
+msgid "emailConfirmClickLinkForComplete"
+msgstr "ลงทะเบียนที่สมบูรณ์ให้คลิกที่ลิงก์ในอีเมลที่เราส่งถึง <b>%email%</b>"
+
+msgid "mailOpen"
+msgstr "เปิด"
+
+msgid "emailConfirmCantGetMessage"
+msgstr "คุณไม่ได้รับอีเมล์หรือ"
+
+msgid "emailConfirmCheckYourEmailOrEnterAnother"
+msgstr "กรุณาตรวจสอบอีเมล์ของคุณหรือใส่อีเมล์ใหม่"
+
+msgid "emailConfirmTypeValidEmail"
+msgstr "กรุณาใส่อีเมล์ของคุณที่ถูกต้อง"
+
+msgid "emailConfirmSendAgain"
+msgstr "ส่งใหม่อีกครั้ง"
+
+msgid "profileGuests"
+msgstr "ผู้เยี่ยมชม"
+
+msgid "guestsFemaleStranger"
+msgstr "ผู้หญิงที่คุณไม่รู้จัก"
+
+msgid "guestsMaleStranger"
+msgstr "ผู้ชายที่คุณไม่รู้จัก"
+
+msgid "guestsNo"
+msgstr "คุณไม่มีผู้เยี่ยมชมใดๆในระยะเวลาที่กำหนด "
+
+msgid "catalogUsersCatalog"
+msgstr "แคตตาล็อกผู้ใช้"
+
+msgid "formPasswordSent"
+msgstr "ส่งคำแนะนำการตั้งค่ารหัสผ่านไปยังอีเมล์ของคุณแล้ว"
+
+msgid "usersList"
+msgstr "รายชื่อผู้ใช้"
+
+msgid "likesNoData"
+msgstr "ไม่มีข้อมูล"
+
+msgid "guestsDataError"
+msgstr "ข้อมูลผิดพลาด"
+
+msgid "usersPhotoAlbumOf"
+msgstr "อัลบั้มผู้ใช้"
+
+msgid "actionUploadPhoto"
+msgstr "อัพโหลดรูปภาพ"
+
+msgid "banProfileNotice"
+msgstr "โปรไฟล์นี้ยังไม่สมบูรณ์อาจถูกผู้ดูแลระบบปฏิเสธ หรือ ตั้งค่าไม่อนุญาติให้ดู ลองหาผู้ใช้รายอื่น"
+
+msgid "banProfileHome"
+msgstr "หน้าหลัก"
+
+msgid "usersWriteMessage"
+msgstr "เขียนข้อความ"
+
+msgid "usersInviteToChat"
+msgstr "เชิญเพื่อสนทนา"
+
+msgid "usersAlreadyToFavorite"
+msgstr "อยู่ในชื่นชอบอยู่แล้ว"
+
+msgid "carouselDistance"
+msgstr "ห่างจากคุณ %s กม."
+
+msgid "carouselDistanceOn"
+msgstr "ในระยะทาง"
+
+msgid "carouselDistanceUnknown"
+msgstr "หากต้องการรู้ กรุณาระบุตำแหน่งของคุณ"
+
+msgid "porsonalInfo"
+msgstr "ข้อมูลส่วนตัว"
+
+msgid "userProfilePersonalInfoShow"
+msgstr "แสดง"
+
+msgid "formResetPassword"
+msgstr "ขอลิงค์เพื่อตั้งค่ารหัสผ่านใหม่"
+
+msgid "carouselDisabledTitle"
+msgstr "กรุณาอัพโหลดรูปภาพของคุณ"
+
+msgid "uploadPhoto"
+msgstr "อัพโหลดรูปภาพ"
+
+msgid "carouselDisabledText"
+msgstr ""
+"คุณพร้อมออกเดทกับมนุษย์ต่างดาวหรือไม่? คำตอบคือ ไม่ หากเป็นเช่นนั้นกรุณาอัพโหลดรูปภาพอย่างน้อย "
+"1 รูป เรารับประกันว่ามันได้ผล!"
+
+msgid "backToPageDates"
+msgstr "เลือกคู่เดท"
+
+msgid "profileRelations"
+msgstr "ออกเดท"
+
+msgid "profileLikesForMe"
+msgstr "ต้องการออกเดท"
+
+msgid "profileMutualLikes"
+msgstr "ความชอบเหมือนกัน"
+
+msgid "profileMyLikes"
+msgstr "ฉันต้องการออกเดท"
+
+msgid "carouselHeYes"
+msgstr "เขาพูดว่า<strong>&laquo;ใช่&raquo;</strong>"
+
+msgid "carouselSheYes"
+msgstr "เธอพูดว่า<strong>&laquo;ใช่&raquo;</strong>"
+
+msgid "carouselHeMaybe"
+msgstr "เขาพูดว่า<strong>&laquo;เป็นไปได้&raquo;</strong>"
+
+msgid "carouselSheMaybe"
+msgstr "เธอพูดว่า <strong>&laquo;เป็นไปได้&raquo;</strong>"
+
+msgid "carouselAnswerYes"
+msgstr "ใช่!"
+
+msgid "carouselAnswerMaybe"
+msgstr "อาจจะ"
+
+msgid "carouselAnswerNo"
+msgstr "ไม่"
+
+msgid "carouselMyYes"
+msgstr "คุณพูดว่า <strong>&laquo;ใช่&raquo;</strong>"
+
+msgid "carouselYouMaybe"
+msgstr "คุณพูดว่า <strong>&laquo;ใช่&raquo;</strong>"
+
+msgid "updatePass"
+msgstr "ใส่รหัสผ่านใหม่"
+
+msgid "modelForgotpassChangePassword"
+msgstr "เปลี่ยนรหัสผ่าน"
+
+msgid "nearTitle1"
+msgstr "ใครอยู่บริเวณใกล้เคียง"
+
+msgid "nearTitle2"
+msgstr "ฉัน"
+
+msgid "meOnMap"
+msgstr "ตำแหน่งที่ตั้ง"
+
+msgid "userLocationNotFound"
+msgstr "ไม่พบตำแหน่ง"
+
+msgid "backToPageSearch"
+msgstr "กลับไปยัง&nbsp;ค้นหา"
+
+msgid "pageLocationTitle"
+msgstr "ระบุตำแหน่งของคุณ"
+
+msgid "meOnMapText2"
+msgstr "ผู้ใช้รายอื่นจะไม่สามารถเห็นตำแหน่งของคุณได้ จะเห็นเพียงระยะทางโดยประมานเท่านั้น"
+
+msgid "userLocationPlaceholder"
+msgstr "กรุณากรอกเลขที่บ้าน, ชื่อถนนและจังหวัด"
+
+msgid "userLocationFind"
+msgstr "ค้นหา"
+
+msgid "locationClear"
+msgstr "ลบเครื่องหมายออก"
+
+msgid "usersRefuseFromMails"
+msgstr "ปฏิเสธที่จะรับการแจ้งเตือนผ่านอีเมล์"
+
+msgid "usersRefuseFromMailsOk"
+msgstr "คุณจะไม่ได้รับการแจ้งเตือนใดๆ ผ่านทางอีเมล์อีกต่อไป"
+
+msgid "profileMySettings"
+msgstr "การตั้งค่า"
+
+msgid "profileNotificationSettings"
+msgstr "ตั้งค่าการแจ้งเตือน"
+
+msgid "inviteIncognitoTitle"
+msgstr "&laquo;ไม่ประสงค์ออกนาม&raquo;"
+
+msgid "loginWidgetIncognitoText"
+msgstr "รูปภาพจะถูกซ่อนไม่ให้ผู้ใช้รายอื่นเห็น"
+
+msgid "UTC-11:00"
+msgstr "(UTC-11: 00) เวลาในรูปแบบ UTC คือ 11"
+
+msgid "UTC-10:00"
+msgstr "(UTC-10:00) Hawaii"
+
+msgid "UTC-9:00"
+msgstr "(UTC-09:00) Alaska"
+
+msgid "UTC-8:00[1]"
+msgstr "(UTC-08:00) Baja California"
+
+msgid "UTC-8:00[2]"
+msgstr "(UTC-08:00) Pacific Time (U.S. and Canada)"
+
+msgid "UTC-7:00[1]"
+msgstr "(UTC-07:00) Arizona"
+
+msgid "UTC-7:00[2]"
+msgstr "(UTC-07:00) Mountain Time (U.S. and Canada)"
+
+msgid "UTC-7:00[3]"
+msgstr "(UTC-07:00) La Paz, Mazatlan, Chihuahua"
+
+msgid "UTC-6:00[1]"
+msgstr "(UTC-06:00) Guadalajara, Mexico City, Monterrey"
+
+msgid "UTC-6:00[2]"
+msgstr "(UTC-06:00) Saskatchewan, Central America"
+
+msgid "UTC-6:00[3]"
+msgstr "(UTC-06:00) Central Time (U.S. and Canada)"
+
+msgid "UTC-5:00[1]"
+msgstr "(UTC-05:00) Bogota, Quito, Lima"
+
+msgid "UTC-5:00[2]"
+msgstr "(UTC-05:00) Eastern Time (U.S. and Canada)"
+
+msgid "UTC-5:00[3]"
+msgstr "(UTC-05:00) Indiana (East)"
+
+msgid "UTC-4:30"
+msgstr "(UTC-04:30) Caracas"
+
+msgid "UTC-4:00[1]"
+msgstr "(UTC-04:00) Asuncion"
+
+msgid "UTC-4:00[2]"
+msgstr "(UTC-04:00) Atlantic Time (Canada)"
+
+msgid "UTC-4:00[3]"
+msgstr "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+
+msgid "UTC-4:00[4]"
+msgstr "(UTC-04:00) Cuiaba"
+
+msgid "UTC-4:00[5]"
+msgstr "(UTC-04:00) Santiago"
+
+msgid "UTC-3:30"
+msgstr "(UTC-03: 30) Newfoundland"
+
+msgid "UTC-3:00[1]"
+msgstr "(UTC-03:00) Brazil"
+
+msgid "UTC-3:00[2]"
+msgstr "(UTC-03: 00) Buenos Aires"
+
+msgid "UTC-3:00[3]"
+msgstr "(UTC-03:00) Greenland"
+
+msgid "UTC-3:00[4]"
+msgstr "(UTC-03:00) Cayenne, Fortaleza"
+
+msgid "UTC-3:00[5]"
+msgstr "(UTC-03:00) Montevideo"
+
+msgid "UTC-2:00[1]"
+msgstr "(UTC-02:00) Time in UTC format is 02:00"
+
+msgid "UTC-2:00[2]"
+msgstr "(UTC-02:00) Mid-Atlantic time"
+
+msgid "UTC-1:00[1]"
+msgstr "(UTC-01:00) Azores"
+
+msgid "UTC-1:00[2]"
+msgstr "(UTC-01:00) Cape Verde Islands"
+
+msgid "UTC0[2]"
+msgstr "(UTC) Dublin, Lisbon, London, Edinburgh"
+
+msgid "UTC0[3]"
+msgstr "(UTC) Casablanca"
+
+msgid "UTC0[4]"
+msgstr "(UTC) Monrovia, Reykjavik"
+
+msgid "UTC+1[1]"
+msgstr "(UTC+01:00) Amsterdam, Berlin, Bern, Vienna, Rome, Stockholm"
+
+msgid "UTC+1[2]"
+msgstr "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+
+msgid "UTC+1[3]"
+msgstr "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris"
+
+msgid "UTC+1[4]"
+msgstr "(UTC+01:00) Warsaw, Zagreb, Sarajevo, Skopje"
+
+msgid "UTC+1[5]"
+msgstr "(UTC+01:00) Windhoek"
+
+msgid "UTC+1[6]"
+msgstr "(UTC+01:00) West Central Africa"
+
+msgid "UTC+2[1]"
+msgstr "(UTC+02:00) Amman"
+
+msgid "UTC+2[2]"
+msgstr "(UTC+02:00) Athens, Bucharest"
+
+msgid "UTC+2[3]"
+msgstr "(UTC+02:00) Beirut"
+
+msgid "UTC+2[4]"
+msgstr "(UTC+02:00) Vilnius, Kiev, Riga, Sofia, Tallinn, Helsinki"
+
+msgid "UTC+2[5]"
+msgstr "(UTC+02:00) Damascus"
+
+msgid "UTC+2[6]"
+msgstr "(UTC+02:00) Jerusalem"
+
+msgid "UTC+2[7]"
+msgstr "(UTC+02:00) Cairo"
+
+msgid "UTC+2[8]"
+msgstr "(UTC+02:00) Nicosia"
+
+msgid "UTC+2[9]"
+msgstr "(UTC+02:00) Istanbul"
+
+msgid "UTC+2[10]"
+msgstr "(UTC+02:00) Harare, Pretoria"
+
+msgid "UTC+3[1]"
+msgstr "(UTC+03:00) Baghdad"
+
+msgid "UTC+3[2]"
+msgstr "(UTC+03:00) Kaliningrad, Minsk"
+
+msgid "UTC+3[3]"
+msgstr "(UTC+03:00) Kuwait, Riyadh"
+
+msgid "UTC+3[4]"
+msgstr "(UTC+03:00) Nairobi"
+
+msgid "UTC+3:30"
+msgstr "(UTC+03:30) Tehran"
+
+msgid "UTC+4[1]"
+msgstr "(UTC+04:00) Abu Dhabi, Muscat"
+
+msgid "UTC+4[2]"
+msgstr "(UTC+04:00) Baku"
+
+msgid "UTC+4[3]"
+msgstr "(UTC+04:00) Volgograd, Moscow, St. Petersburg"
+
+msgid "UTC+4[4]"
+msgstr "(UTC +04:00) Yerevan"
+
+msgid "UTC+4[5]"
+msgstr "(UTC+04:00) Tbilisi"
+
+msgid "UTC+4:30"
+msgstr "(UTC+04:30) Kabul"
+
+msgid "UTC+5[1]"
+msgstr "(UTC+05:00) Islamabad, Karachi"
+
+msgid "UTC+5[2]"
+msgstr "(UTC+05:00) Tashkent"
+
+msgid "UTC+5:30"
+msgstr "(UTC+05:30) Kolkata, Mumbai, New Delhi, Chennai"
+
+msgid "UTC+5:45"
+msgstr "(UTC+05:45) Katmandu"
+
+msgid "UTC+6[1]"
+msgstr "(UTC+06:00) Astana"
+
+msgid "UTC+6[2]"
+msgstr "(UTC+06:00) Dacca"
+
+msgid "UTC+6[3]"
+msgstr "(UTC+06:00) Yekaterinburg"
+
+msgid "UTC+6:30"
+msgstr "(UTC+06:30) Yangon"
+
+msgid "UTC+7[1]"
+msgstr "(UTC+07:00) Bangkok, Jakarta, Hanoi"
+
+msgid "UTC+7[2]"
+msgstr "(UTC+07:00) Novosibirsk"
+
+msgid "UTC+8[1]"
+msgstr "(UTC+08:00) Hong Kong, Beijing, Urumqi, Chongqing"
+
+msgid "UTC+8[2]"
+msgstr "(UTC+08:00) Krasnoyarsk"
+
+msgid "UTC+8[3]"
+msgstr "(UTC+08:00) Kuala Lumpur, Singapore"
+
+msgid "UTC+8[4]"
+msgstr "(UTC+08:00) Perth"
+
+msgid "UTC+8[5]"
+msgstr "(UTC+08:00) Taipei"
+
+msgid "UTC+8[6]"
+msgstr "(UTC+08:00) Ulaanbaatar"
+
+msgid "UTC+9[1]"
+msgstr "(UTC+09:00) Irkutsk"
+
+msgid "UTC+9[2]"
+msgstr "(UTC+09:00) Osaka, Sapporo, Tokyo"
+
+msgid "UTC+9[3]"
+msgstr "(UTC+09:00) Seoul"
+
+msgid "UTC+9:30[1]"
+msgstr "(UTC+09:30) Adelaide"
+
+msgid "UTC+9:30[2]"
+msgstr "(UTC+09:30) Darwin"
+
+msgid "UTC+10[1]"
+msgstr "(UTC+10:00) Brisbane"
+
+msgid "UTC+10[2]"
+msgstr "(UTC+10:00) Guam, Port Moresby"
+
+msgid "UTC+10[3]"
+msgstr "(UTC+10:00) Canberra, Melbourne, Sydney"
+
+msgid "UTC+10[4]"
+msgstr "(UTC+10:00) Hobart"
+
+msgid "UTC+10[5]"
+msgstr "(UTC+10:00) Yakutsk"
+
+msgid "UTC+11[1]"
+msgstr "(UTC+11:00) Vladivostok"
+
+msgid "UTC+11[2]"
+msgstr "(UTC+11:00) Solomon Islands, New Caledonia"
+
+msgid "UTC+12[1]"
+msgstr "(UTC+12:00) Wellington, Auckland"
+
+msgid "UTC+12[3]"
+msgstr "(UTC+12:00) Magadan"
+
+msgid "UTC+12[4]"
+msgstr "(UTC+12:00) Fiji"
+
+msgid "UTC+13[1]"
+msgstr "(UTC+13:00) Nuku'alofa"
+
+msgid "UTC+13[2]"
+msgstr "(UTC+13:00) Samoa"
+
+msgid "profileAdditional"
+msgstr "ตัวเลือก"
+
+msgid "saved"
+msgstr "บันทึกแล้ว"
+
+msgid "userSettingsChangePassword"
+msgstr "เปลี่ยนรหัสผ่าน"
+
+msgid "systemRegisterNew"
+msgstr "การลงทะเบียนผู้ใช้ใหม่"
+
+msgid "systemRegisterChange"
+msgstr "เปลี่ยนรายละเอียดโปรไฟล์"
+
+msgid "registerSex"
+msgstr "เพศ"
+
+msgid "siteRulesAccept"
+msgstr "การคลิกปุ่มนี้ถือว่าคุณยอมรับ"
+
+msgid "pagesRulesTitle"
+msgstr "ข้อตกลงผู้ใช้"
+
+msgid "profileMyAnketa"
+msgstr "โปรไฟล์"
+
+msgid "userProfileChangeCountry"
+msgstr ""
+"คุณได่ระบุประเทศ <strong>%current_country%</strong> ตำแหน่งปัจจุบันของคุณ- <strong>"
+"%country_by_ip%</strong> <a %href_extension% href='%link"
+"%'>เปลี่ยนประเทศในโปรไฟล์</a>"
+
+msgid "iLookingFor"
+msgstr "ฉันกำลังมองหา"
+
+msgid "preferredAgeFrom"
+msgstr "จาก"
+
+msgid "preferredAgeTo"
+msgstr "ถึง"
+
+msgid "aboutMe"
+msgstr "เกี่ยวกับฉัน"
+
+msgid "userViewProfessionOrSphereOfActivity"
+msgstr "อาชีพหรือสาขาอาชีพ"
+
+msgid "contestUnselectAll"
+msgstr "ยกเลิกการเลือกทั้งหมด"
+
+msgid "step"
+msgstr ""
+
+msgid "locationSavedOk"
+msgstr "บันทึกตำแหน่งของคุณแล้ว"
+
+msgid "locationClearedOk"
+msgstr "รายละเอียดตำแหน่งของคุณถูกลบ"
+
+msgid "locationSavedErr"
+msgstr "การบันทึกตำแหน่งผิดพลาด"
+
+msgid "inviteCaptchaWrong"
+msgstr "รหัสไม่ถูกต้อง"
+
+msgid "formIncorrectLink"
+msgstr "คุณไม่สามารถใช้ลิงค์นี้ซ้ำเพื่อตั้งรหัสผ่านใหม่ <br /> ต้องการตั้งรหัสผ่านใหม่คลิกที่ลิงค์"
+
+msgid "msgNoNearestNew"
+msgstr "ไม่มีใครปรากฎในบริเวณใกล้เคียงในครั้งล่าสุด"
+
+msgid "msgNoNearestOnline"
+msgstr "ขออภัย ไม่มีบุคคลใดอยู่บริเวณใกล้เคียง"
+
+msgid "msgNoNearestAll"
+msgstr "ขออภัยไม่มีใครอยู่บริเวณใกล้เคียง"
+
+msgid "carouselUsersAreAbsent"
+msgstr "ไม่มีผู้ใช้รายอื่นให้ดูแล้ว"
+
+msgid "profileAgeStr"
+msgstr "%s ปี"
+
+msgid "complainSuccess"
+msgstr "การร้องเรียนของคุณได้ถูกส่งไปยังผู้ดูแลระบบแล้ว "
+
+msgid "complainNoSuccess"
+msgstr "การส่งเรื่องร้องเรียนล้มเหลว"
+
+msgid "complainAllPoles"
+msgstr "กรุณากรอกข้อมูลในช่องข้อมูลทั้งหมด"
+
+msgid "feedbackFileError"
+msgstr "นามสกุลไฟล์ไม่ถูกต้อง นามสกุลไฟล์ที่รองรับคือ jpg, png"
+
+msgid "feedbackSentError"
+msgstr "การบันทึกข้อความล้มเหลว ลองใหม่อีกครั้งภายหลัง"
+
+msgid "feedbackSent"
+msgstr "ส่งข้อความของคุณแล้ว"
+
+msgid "unsubscribeSuccess"
+msgstr "คุณได้ยกเลิกการแจ้งเตือนผ่านอีเมล์เรียบร้อยแล้ว"
+
+msgid "unsubscribeNoSuchUser"
+msgstr "ไม่มีผู้ใช้ลงทะเบียนด้วยอีเมล์นั้น"
+
+msgid "loginWidgetPhotoDidNotModeratedYet"
+msgstr "รูปภาพยังไม่ได้ผ่านการกลั่นกรอง"
+
+msgid "loginWidgetPhotoDidNotPassModerated"
+msgstr "ภาพไม่ผ่านการกลั่นกรอง:"
+
+msgid "chatSessionClose"
+msgstr "เกินระยะเวลาที่กำหนด กรุณาเข้าสู่ระบบใหม่อีกครั้ง"
+
+msgid "searchNoResults"
+msgstr "ไม่พบผลลัพธ์"
+
+msgid "loginWidgetAddPhoto"
+msgstr "เพิ่มรูปภาพ"
+
+msgid "systemExitConfirmTitle"
+msgstr "คุณต้องการออกจากระบบใช่หรือไม่?"
+
+msgid "systemExitConfirmBody"
+msgstr "ครั้ง&nbsp;ต่อไป คุณต้องใส่ชื่อผู้ใช้และ&nbsp;รหัสผ่านอีกครั้ง"
+
+msgid "systemExitConfirmNo"
+msgstr "ไม่&nbsp;ออกจากระบบ"

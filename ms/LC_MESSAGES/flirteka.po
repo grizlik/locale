@@ -1,0 +1,4287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-01 08:57+0000\n"
+"PO-Revision-Date: 2013-07-01 09:09+0200\n"
+"Last-Translator: Olesya <alesena@gmail.com>\n"
+"Language-Team: \n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/jowee/Development/flirteka/trunk\n"
+
+msgid "lettersGiftTitle"
+msgstr "Anda telah mendapat hadiah daripada %s."
+
+msgid "lettersHelloName"
+msgstr "Hello, %s"
+
+msgid "messageNewPresentLookAtButton"
+msgstr "Lihat"
+
+msgid "lettersFindYourLoveMatch"
+msgstr "Carilah pasangan cinta anda!"
+
+msgid "lettersUnsubscribe"
+msgstr ""
+"Tidak mahu menerima e-mel notifikasi anda boleh klik <a href=\"%s\" style="
+"\"color: #0072bc;\">tidak melanggan hantaran e-mel</a>."
+
+msgid "lettersChangeDataByClickingTheLink"
+msgstr ""
+"Tukar aturan anda <a href=\"%s\" style=\"color: #0072bc;\">Klik pautan ini</"
+"a>"
+
+msgid "lettersUserSentGift"
+msgstr "Pengguna <b><a href='%s'>%s</a></b> telah menghantar anda hadiah."
+
+msgid "lettersBalanceIncreasedTitle"
+msgstr "Jumlah baki anda telah meningkat"
+
+msgid "lettersBalanceIncreased"
+msgid_plural "lettersBalanceIncreased"
+msgstr[0] ""
+" Plural Form 0Jumlah baki anda telah meningkat sebanyak %s koinPlural Form "
+"1Jumlah baki anda telah meningkat sebanyak %s koin"
+
+msgid "inviteCaptcha"
+msgstr "Kod Keselamatan"
+
+msgid "captchaNewCode"
+msgstr "Kod baru"
+
+msgid "moderatorSpamers"
+msgstr ""
+
+msgid "formSearch"
+msgstr "Cari"
+
+msgid "modelSpamersOneName"
+msgstr ""
+
+msgid "modelSpamersBack"
+msgstr ""
+
+msgid "modelSpamersBanTime"
+msgstr ""
+
+msgid "modelSpamersBanMessagesHeader"
+msgstr ""
+
+msgid "modelSpamersMessage"
+msgstr ""
+
+msgid "modelSpamersTranslate"
+msgstr ""
+
+msgid "modelSpamersDate"
+msgstr ""
+
+msgid "moderatorBannedUsers"
+msgstr "Sekat pengguna"
+
+msgid "moderatorBan"
+msgstr "Sekat"
+
+msgid "moderatorUnban"
+msgstr "Padam sekatan"
+
+msgid "statisticsMailchartsbytemplatesTemplateTitle"
+msgstr "Sari kata #%d (%s)"
+
+msgid "statisticsMailchartsbytemplatesQuantityChartTitle"
+msgstr "Jumlah"
+
+msgid "statisticsMailchartsbytemplateQuantityChartYAxis"
+msgstr "Jumlah"
+
+msgid "statisticsMailchartsbytemplatesPercentChartTitle"
+msgstr "Peratusan"
+
+msgid "statisticsMailchartsbytemplatePercentChartYAxis"
+msgstr "Peratus"
+
+msgid "moderatorStatisticMenuMailTotal"
+msgstr ""
+
+msgid "moderatorStatisticMenuEximStats"
+msgstr ""
+
+msgid "statisticsMailTodayTitle"
+msgstr "Statistik e-mel hari ini"
+
+msgid "statisticsMailDomainsTitle"
+msgstr "Domain"
+
+msgid "statisticsMailUniqueOpens"
+msgstr "Penemuan unik"
+
+msgid "statisticsMailUniqueClicks"
+msgstr "Klik unik"
+
+msgid "statisticsMailAll"
+msgstr "Jumlah"
+
+msgid "statisticsMailTemplateTitle"
+msgstr "Tajuk pesanan"
+
+msgid "statisticsMailchartsbydomainDisplayDomains"
+msgstr "Domain untuk paparan"
+
+msgid "statisticsMailchartsbydomainAllDomains"
+msgstr "Semua"
+
+msgid "statisticsMailchartsbydomainDisplayCounters"
+msgstr "Paparan"
+
+msgid "statisticsMailchartsbydomainSubmitButton"
+msgstr "Kemaskini"
+
+msgid "statisticsMailchartsbydomainQuantityChartTitle"
+msgstr "Jumlah"
+
+msgid "statisticsMailchartsbydomainQuantityChartYAxis"
+msgstr "Jumlah"
+
+msgid "statisticsMailchartsbydomainPercentChartTitle"
+msgstr "Peratus"
+
+msgid "statisticsMailchartsbydomainPercentChartYAxis"
+msgstr "Peratus"
+
+msgid "moderatorRefusalOfInvitation"
+msgstr "Menolak jemputan"
+
+msgid "moderatorComplaintAboutUsers"
+msgstr "Aduan tentang pengguna"
+
+msgid "moderatorFeedBack"
+msgstr "Maklum balas"
+
+msgid "moderatorErrorMessages"
+msgstr "Pesanan gagal"
+
+msgid "moderatorUsers"
+msgstr "Pengguna"
+
+msgid "moderatorContactsExclusion"
+msgstr "Kenalan-pengecualian"
+
+msgid "moderatorPhotos"
+msgstr "Foto"
+
+msgid "moderatorCarousel"
+msgstr "Karosel"
+
+msgid "moderatorModeratingPhotos"
+msgstr "Sederhanakan foto"
+
+msgid "moderatorEmailNotifications"
+msgstr " E-mel Notifikasi"
+
+msgid "moderatorBlackListForDeliveries"
+msgstr "Senarai hitamkan penghantaran"
+
+msgid "moderatorUsernamesBlacklist"
+msgstr "Senarai hitamkan nama panggilan"
+
+msgid "moderatorStatistic"
+msgstr "Statistik"
+
+msgid "moderatorStatisticOpenedClickedStats"
+msgstr ""
+
+msgid "moderatorStatisticMenuMailNumbers"
+msgstr "Mel - Data"
+
+msgid "moderatorStatisticMenuMailChartByDomain"
+msgstr "Mel - carta - domain"
+
+msgid "moderatorStatisticMenuMailChartByTemplate"
+msgstr "Mel-carta-templat"
+
+msgid "moderatorRemovedRestoredUsers"
+msgstr "Padam/kembalikan profil"
+
+msgid "Advertising statistics"
+msgstr ""
+
+msgid "moderatorBalanceBilling"
+msgstr "Bil"
+
+msgid "moderatorMenuItemProducts"
+msgstr "Produk"
+
+msgid "moderatorMenuItemProductPresents"
+msgstr "Hadiah"
+
+msgid "systemExit"
+msgstr "Daftar keluar"
+
+msgid "systemUser"
+msgstr "Pengguna"
+
+msgid "moderatorRemoveRecord"
+msgstr "Hapus rekod"
+
+msgid "moderatorMaxUsersOnline"
+msgstr "Pengguna online (maksima)"
+
+msgid "moderatorRegisteredStatistic"
+msgstr ""
+
+msgid "moderatorAudienceOfSystem"
+msgstr "Pengikut"
+
+msgid "moderatorInAll"
+msgstr "Jumlah"
+
+msgid "moderatorQuantityOfBoys"
+msgstr "Jumlah lelaki"
+
+msgid "moderatorQuantityOfGirls"
+msgstr "Jumlah wanita"
+
+msgid "moderatorVisitsToday"
+msgstr "Kunjungan hari ini"
+
+msgid "moderatorVisitsOnWeek"
+msgstr "Kunjungan minggu ini"
+
+msgid "moderatorVisitsOnMonth"
+msgstr "Kunjungan bulan ini"
+
+msgid "moderatorUsersWithCoords"
+msgstr "Mengkordinasikan bilangan pengguna"
+
+msgid "moderatorUsersFillProfile"
+msgstr "Bilangan pengguna dengan profil lengkap"
+
+msgid "moderatorUsersWithPhoto"
+msgstr "Pengguna dengan foto"
+
+msgid "moderatorPhotosToday"
+msgstr "Gambar-gambar hari ini"
+
+msgid "moderatorPhotosOnWeek"
+msgstr "Gambar-gambar minggu ini"
+
+msgid "moderatorPhotosOnMonth"
+msgstr "Gambar-gambar bulan ini"
+
+msgid "moderatorDialogs"
+msgstr "Dialog"
+
+msgid "moderatorAverageNumberOfMessages"
+msgstr "Purata nombor pesanan"
+
+msgid "moderatorQuantityDialogsStartedBoys"
+msgstr "Kuantiti dialog bermula dengan lelaki"
+
+msgid "moderatorQuantityDialogsStartedGirls"
+msgstr "Kuantiti dialog bermula dengan wanita"
+
+msgid "moderatorEmails"
+msgstr "E-mel"
+
+msgid "moderatorEmailsConfirmed"
+msgstr "Disahkan"
+
+msgid "moderatorEmailsNotConfirmed"
+msgstr "Tidak disahkan"
+
+msgid "moderatorRemovedRestoredCauses"
+msgstr "Sebab-sebab dipadamkan"
+
+msgid "moderatorRemovedRestoredDivisionForSexAndTime"
+msgstr "Bahagian untuk seks dan masa"
+
+msgid "guestsToday"
+msgstr "hari ini"
+
+msgid "guestsByWeek"
+msgstr "7 hari lepas"
+
+msgid "guestsByMonth"
+msgstr "30 hari lepas"
+
+msgid "male"
+msgstr ""
+
+msgid "female"
+msgstr ""
+
+msgid "moderatorProductPresentsTitle"
+msgstr "Hadiah"
+
+msgid "yes"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "moderatorProductPresentsCreateTitle"
+msgstr "Cipta hadiah baru"
+
+msgid "moderatorProductPresentsUpdateTitle"
+msgstr "Kemaskini hadiah"
+
+msgid "usersDeleteSelectedPhotos"
+msgstr "Hapus"
+
+msgid "usersDeletePhotoConfirm"
+msgstr "Anda pasti untuk padamkan gambar?"
+
+msgid "moderatorBack"
+msgstr "Kembali"
+
+msgid "moderatorNext"
+msgstr "Seterusnya"
+
+msgid "moderatorAddRecord"
+msgstr "Tambah Rekod"
+
+msgid "actionSave"
+msgstr "Simpan"
+
+msgid "actionCancel"
+msgstr "Batalkan"
+
+msgid "moderatorChangeRecord"
+msgstr "Tukar Rekod"
+
+msgid "moderatorRemove"
+msgstr "Buang"
+
+msgid "formOperatorsBegin"
+msgstr "Pada permulaan setiap garis carian"
+
+msgid "formOperatorsEnd"
+msgstr "Gunakan pengendali untuk perbezaan"
+
+msgid "formAdvancedSearch"
+msgstr "Carian tercepat"
+
+msgid "moderatorActionBanQuestion"
+msgstr "Diharamkan?"
+
+msgid "formCreate"
+msgstr "Bina elemen"
+
+msgid "formRequired"
+msgstr "Ruang bertanda * diperlukan"
+
+msgid "formNoactive"
+msgstr "Tidak"
+
+msgid "formActive"
+msgstr "Ya"
+
+msgid "systemModerator"
+msgstr "Moderator"
+
+msgid "anketaPersonalsCustomLabel"
+msgstr "Lain-lain"
+
+msgid "coin"
+msgid_plural "coins"
+msgstr[0] "Koin"
+
+msgid "moderatorUserFormBalanceChangeAlt"
+msgstr "Akaun"
+
+msgid "formSave"
+msgstr "Simpan pertukaran"
+
+msgid "formManage"
+msgstr "Urus elemen"
+
+msgid "formUpdate"
+msgstr "Ubah elemen"
+
+msgid "formDelete"
+msgstr "Padam Elemen"
+
+msgid "systemLogin"
+msgstr "Daftar Masuk"
+
+msgid "moderatorComplaintsResolved"
+msgstr "Diselesaikan"
+
+msgid "moderatorComplaintsNew"
+msgstr "Baru"
+
+msgid "sexFemale"
+msgstr "Perempuan"
+
+msgid "sexMale"
+msgstr "Lelaki"
+
+msgid "formList"
+msgstr "Senarai elemen"
+
+msgid "formView"
+msgstr "Lihat elemen"
+
+msgid "moderatorSlider"
+msgstr "Peluncur"
+
+msgid "moderatorMosaic"
+msgstr "Mozek"
+
+msgid "photosStatusNew"
+msgstr "Baru"
+
+msgid "moderatorActions"
+msgstr "Tindakan"
+
+msgid "moderatorAccept"
+msgstr "Terima"
+
+msgid "moderatorRefuse"
+msgstr "Enggan"
+
+msgid "moderatorModerating"
+msgstr ""
+
+msgid "moderatorPhotosVersions"
+msgstr "Versi foto"
+
+msgid "moderatorStatus"
+msgstr "Status"
+
+msgid "userID"
+msgstr "ID Pengguna"
+
+msgid "moderatorPhotosSearchInTheWeb"
+msgstr "Cari melalui laman web"
+
+msgid "modelUsersSex"
+msgstr "Jantina"
+
+msgid "searchGo"
+msgstr "Carian"
+
+msgid "moderatorRefuseReason"
+msgstr "Sebab penolakan"
+
+msgid "moderatorLastEditName"
+msgstr ""
+
+msgid "moderatorBalanceBillingGlobalCountersRegistrations"
+msgstr "Daftar masuk/dipastikan/akaun dibayar"
+
+msgid "moderatorBalanceBillingGlobalCountersExpense"
+msgstr "Jumlah perbelanjaan pengguna"
+
+msgid "moderatorBalanceBillingGlobalCountersCurrent"
+msgstr "Baki akaun semasa"
+
+msgid "moderatorBalanceSetTitle"
+msgstr "Tukar baki akaun"
+
+msgid "moderatorBalanceSetSuccessful"
+msgstr "Baki akaun berjaya ditukar"
+
+msgid "moderatorBalanceUserStatTitle"
+msgstr "statistik baki"
+
+msgid "moderatorBalanceUserStatTableFieldTime"
+msgstr "masa"
+
+msgid "moderatorBalanceUserStatTableFieldDescription"
+msgstr "keterangan"
+
+msgid "moderatorBalanceUserStatTableFieldAmount"
+msgstr "amaun"
+
+msgid "moderatorBalanceUserStatTableFieldCurrent"
+msgstr "baki"
+
+msgid "moderatorRegisteredToday"
+msgstr "Didaftarkan hari ini"
+
+msgid "bannedSecondChance"
+msgstr ""
+"Ok, saya faham, saya tidak akan melanggar syarat dan peraturan<a "
+"href='%s'>tolong jangan sekat akaun saya</a>"
+
+msgid "bannedForever"
+msgstr ""
+"Sila buat akaun yang baru dan jangan diulang melakukan perkara tersebut. "
+"Jika tidak, akaun anda akan disekat oleh pihak kami sekali lagi."
+
+msgid "actionTranslate"
+msgstr "Terjemah"
+
+msgid "chatSendByClickOn"
+msgstr "Hantar Melalui"
+
+msgid "formPleaseFixErrors"
+msgstr "Sila betulkan kesalahan berikut:"
+
+msgid "userBalloonAddToFavorite"
+msgstr "Tambah ke kegemaran"
+
+msgid "ofPair"
+msgstr "Pasangan"
+
+msgid "visitor"
+msgid_plural "visitors"
+msgstr[0] "Pelawat"
+
+msgid "signupMe"
+msgstr "Saya"
+
+msgid "signupIAmSearching"
+msgstr "Sedang mencari"
+
+msgid "bannedInfoTitle"
+msgstr ""
+"Akaun anda telah disekat. Berkemungkinan di antara salah satu sebab-sebab "
+"berikut:"
+
+msgid "bannedInfoCauseSendSpam"
+msgstr "&mdash; terlalu banyak iklan atau mesej spam;"
+
+msgid "bannedInfoCauseSendContacts"
+msgstr "&mdash; Mempunyai banyak e-mel iklan dan mesej spam;"
+
+msgid "bannedInfoCauseWrongProfile"
+msgstr "&mdash; Profil kurang sesuai, seperti pengiklanan dan sebagainya;"
+
+msgid "bannedInfoCauseRudeAttitude"
+msgstr "&mdash; kurang sopan terhadap pengguna lain;"
+
+msgid "bannedInfoRecommendation"
+msgstr ""
+"Kami cadangkan anda membaca <a href=\"http://lovetime.com/pages/rules"
+"\">Syarat-syarat Kepenggunaan</a>"
+
+msgid "bannedInfoCreateNewAccount"
+msgstr ""
+"Sila daftarkan akaun baru dan jangan mengulangi tindakan sedemikian. Jika "
+"diulangi, pihak kami akan menyekat akaun sekali lagi."
+
+msgid "bannedInfoSendEmail"
+msgstr ""
+"Jika mendapati akaun anda disekat kerana kesilapan sistem, sila e-mel kepada "
+"kami melalui <a href=\"mailto:info@lovetime.com?subject=Wrongly banned user "
+"%id%\">info@lovetime.com</a>"
+
+msgid "loginErrorUserBanned"
+msgstr "Akses ditolak. Pengguna %s telah disekat"
+
+msgid "messageFilterTitle"
+msgstr "Tapisan pesanan"
+
+msgid "messageFilterSuggestion"
+msgstr "Tentukan jenis pesanan yang ingin diterima..."
+
+msgid "messageFilterReceiveFromAll"
+msgstr "Semua pesanan."
+
+msgid "messageFilterReceiveFromWoman"
+msgstr "Hanya pesanan daripada wanita."
+
+msgid "messageFilterReceiveFromMen"
+msgstr "Hanya pesanan daripada jejaka."
+
+msgid "messageFilterWithPhotoOnly"
+msgstr "Hanya dengan gambar."
+
+msgid "messageFilterAgedFrom"
+msgstr "Pengguna berumur dari "
+
+msgid "messageFilterAgedTo"
+msgstr "kepada"
+
+msgid "messageFilterFromMyCountry"
+msgstr "Hanya dari Negara."
+
+msgid "modelUsersFilterSex"
+msgstr "Tapis mengikut jantina"
+
+msgid "modelUsersFilterPhoto"
+msgstr "Hanya dengan gambar"
+
+msgid "modelUsersFilterAgeFrom"
+msgstr "Hanya daripada pengguna yang berusia "
+
+msgid "modelUsersFilterAgeTo"
+msgstr "ke"
+
+msgid "modelUsersFilterCountry"
+msgstr "Hanya pengguna dari Negara"
+
+msgid "chatFilterMan"
+msgstr ""
+"Telah melakukan tapisan pesanan dan mesej tidak dapat dihantar. Sila lakukan "
+"perbualan dengan pengguna yang lain"
+
+msgid "chatFilterWoman"
+msgstr ""
+"Telah melakukan tapisan pesanan dan mesej tidak dapat dihantar. Sila lakukan "
+"perbualan dengan pengguna yang lain"
+
+msgid "chatImpossibleCompanionBanned"
+msgstr ""
+"Anda tidak dapat berbual dengan pengguna %s kerana telah ditahan oleh admin "
+"atau profilnya telah dihapuskan."
+
+msgid "lettersHiAndWelcome"
+msgstr "Hai, %name%! %host% selamat datang!"
+
+msgid "lettersAlmostDone"
+msgstr "Ianya hampir selesai..."
+
+msgid "lettersConfirm"
+msgstr "Sahkan e-mel anda"
+
+msgid "lettersPersonalData"
+msgstr "Maklumat Peribadi:"
+
+msgid "lettersNick"
+msgstr "Nama Panggilan:"
+
+msgid "lettersEmail"
+msgstr "E-mel:"
+
+msgid "lettersAboutSite"
+msgstr ""
+"Carilah pasangan cinta anda di laman kami, berkenalan dengan rakan dan orang "
+"diminati."
+
+msgid "lettersTryIt"
+msgstr "<a href=\"%s\">Cubalah!</a> Ianya menarik!"
+
+msgid "lettersTellAboutUs"
+msgstr "Beritahu kawan tentang laman web ini."
+
+msgid "lettersThankYou"
+msgstr "Terima Kasih."
+
+msgid "lettersYouCanChangeData"
+msgstr "Tukar maklumat profil anda di:"
+
+msgid "removingProfileRemovingProfile"
+msgstr "Padam profil"
+
+msgid "removingProfileRemoveProfileAction"
+msgstr "Padam "
+
+msgid "removingProfileQuestion"
+msgstr "Adakah anda ingin padamkan profil anda?"
+
+msgid "removingProfileCauseManagedFindYourSoulMate"
+msgstr "Ya, saya temui pasangan jiwa saya!"
+
+msgid "removingProfileCauseICanNotFindAnyone"
+msgstr ""
+"Telah lama gunakan laman web ini tetapi tidak menemui seseorang yang saya "
+"sukai."
+
+msgid "removingProfileCauseIPlanGoBack"
+msgstr "Saya tinggalkan laman web buat sementara dan akan kembali."
+
+msgid "removingProfileCauseIHaveAnotherProfile"
+msgstr "Terdapat profil saya yang lain"
+
+msgid "removingProfileCauseIWasInsultedByAnother"
+msgstr "Saya telah dihina oleh pengguna lain"
+
+msgid "removingProfileCauseIReceiveOffersEroticServices"
+msgstr "Saya menerima tawaran intim."
+
+msgid "removingProfileCauseOther"
+msgstr "Lain-lain"
+
+msgid "removingProfileIChangedMyMindAction"
+msgstr "Saya telah ubah fikiran"
+
+msgid "removingProfileNotification"
+msgstr ""
+"Apabila klik 'Padam', e-mel pengesahan akan dihantar ke (%email%). Sila klik "
+"pautan yang disediakan di e-mel ini dan sahkan untuk memadam profil. Untuk "
+"kembali kepada akaun asal (termasuk gambar dan senarai kenalan) ianya boleh "
+"dilakukan dalam tempoh 30 hari."
+
+msgid "removingProfileRemoveAction"
+msgstr "Padam"
+
+msgid "removingProfileCanselAction"
+msgstr "Batal"
+
+msgid "removingProfileEmailSendNotification"
+msgstr ""
+"E-mel pengesahan untuk padamkan akaun telah dihantar. Sila ikuti keterangan "
+"dan klik pautan yang disediakan di e-mel anda untuk melengkapkan proses "
+"padamkan akaun."
+
+msgid "removingProfileNextAction"
+msgstr "Seterusnya"
+
+msgid "removingProfileEnterEmailAndCode"
+msgstr "Masukkan kod dan alamat e-mel anda"
+
+msgid "removingProfileEmail"
+msgstr "E-mel"
+
+msgid "removingProfileEnterEmail"
+msgstr "Masukkan e-mel"
+
+msgid "removingProfileCodeOfPost"
+msgstr "Kod Pesanan"
+
+msgid "removingProfileEnterCodeOfPost"
+msgstr "Masukkan kod pesanan"
+
+msgid "removingProfileDoNotGo"
+msgstr "Jangan tinggalkan! mereka akan rindukan anda!"
+
+msgid "removingProfileCancelRemovingAction"
+msgstr "Batal"
+
+msgid "removingProfileContinueAction"
+msgstr "Teruskan"
+
+msgid "removingProfileRemovedStatus"
+msgstr "Status profil anda telah dibuang"
+
+msgid "removingProfileRemovedMessage"
+msgstr ""
+"Profil anda telah dipadamkan. Semua pesanan, kenalan, gambar dan tetapan "
+"dapat dikembalikan dalam masa 30 hari sebelum ianya kekal dipadamkan "
+"daripada sistem kami. "
+
+msgid "removingProfileRestoreProfileAction"
+msgstr "Masukkan semula profil"
+
+msgid "modelUsersHobbies"
+msgstr "Gambarkan diri anda"
+
+msgid "balanceChangesBuyProductDecreaseProductId"
+msgstr "Produk"
+
+msgid "balanceChangesByAdminUserId"
+msgstr "Pengguna"
+
+msgid "balanceChangesPSIncreasePSId"
+msgstr "Sistem pembayaran"
+
+msgid "BalanceIncreaseErrorTitle"
+msgstr "Kesalahan kenaikan baki akaun"
+
+msgid "everyDayBalanceIncreasingDesc"
+msgstr "Kenaikan baki akaun harian"
+
+msgid "invisibleSettingsFormButton"
+msgstr "Simpan"
+
+msgid "invisibleSettingsPageText"
+msgstr ""
+"Kami menasihati anda agar tidak memnggunakan mod ini dengan kerap. Memang "
+"agak sukar, tetapi mereka yang sering dilihat mempunyai peluang lebih tinggi "
+"untuk mendapat kawan baru berbanding pengguna yang tidak dilihat"
+
+msgid "invisibleSettingsPageTitle"
+msgstr "Mod tidak kelihatan"
+
+msgid "modelUsersBalance"
+msgstr "Akaun"
+
+msgid "modelUsersInvisibleeWalk"
+msgstr "Sembunyikan saya dari senarai Pelawat di profil lain"
+
+msgid "modelUsersInvisibleOnline"
+msgstr "Sembunyikan status online dari pengguna lain"
+
+msgid "modelUsersInvisibleSuperstarStatus"
+msgstr "Sembunyikan status Superstar saya dari pengguna lain"
+
+msgid "moderatorProductPresentsAddButton"
+msgstr "Tambah hadiah"
+
+msgid "monetizationInfoPageSearchText"
+msgstr ""
+"Dapatkan banyak peluang anda untuk mempunyai hubungan yang menyeronokkan"
+
+msgid "monetizationInfoPageSearchTitle"
+msgstr "1 kedudukan dalam keputusan carian"
+
+msgid "monetizationInfoPageSuperstarButton"
+msgstr "Menjadi Superstar"
+
+msgid "monetizationInfoPageSuperstarText"
+msgstr "Keutamaan dalam permainan \"Temujanji\""
+
+msgid "monetizationInfoPageSuperstarTitle"
+msgstr "Status Superstar"
+
+msgid "monetizationInfoPageText"
+msgstr ""
+"Anda boleh <a href='#' id='%s'>membeli koin</a> atau mencari mereka di laman "
+"web"
+
+msgid "monetizationInfoPageText2"
+msgstr "Kami memberi koin percuma setiap hari"
+
+msgid "monetizationInfoPageTitle"
+msgstr "Gunakan koin untuk menjadi lebih popular"
+
+msgid "monetizationInfoPageTopFacesButton"
+msgstr "Tingkatkan Populariti"
+
+msgid "monetizationInfoPageTopFacesText"
+msgstr ""
+"Kami mempertimbangkan keutamaan anda dan memilih orang yang sesuai "
+"berdasarkan algoritma unik."
+
+msgid "monetizationInfoPageTopFacesTitle"
+msgstr "Kedudukan ATAS"
+
+msgid "monetizationAboutTopTitle"
+msgstr "Perkenalkan profil"
+
+msgid "monetizationAboutTopText"
+msgstr "Tingkatkan posisi melalui hasil carian dan masukkan gambar"
+
+msgid "monetizationAboutTopButton"
+msgstr "Tingkatkan ke ATAS"
+
+msgid "monetizationAboutGiftsTitle"
+msgstr "Hadiah"
+
+msgid "monetizationAboutGiftsText"
+msgstr "Tingkatkan populariti anda"
+
+msgid "monetizationAboutUnlimitedTitle"
+msgstr "Tanpa had"
+
+msgid "monetizationAboutUnlimitedText"
+msgstr "Buang semua halangan"
+
+msgid "monetizationAboutUnlimitedButton"
+msgstr "Buang penghalang"
+
+msgid "monetizationAboutVipTitle"
+msgstr "VIP"
+
+msgid "monetizationAboutVipText"
+msgstr "Tingkatkan penampilan profil anda"
+
+msgid "monetizationAboutVipButton"
+msgstr "Menjadi seorang VIP"
+
+msgid "monetizationAboutIncognitoTitle"
+msgstr "Tidak kelihatan"
+
+msgid "monetizationAboutIncognitoText"
+msgstr "Tidak kelihatan oleh orang lain"
+
+msgid "monetizationAboutIncognitoButton"
+msgstr "Status offline"
+
+msgid "monetizationBalanceSendSMS"
+msgstr ""
+
+msgid "monetizationBalanceSum"
+msgstr ""
+
+msgid "monetizationBalancePhoneNumber"
+msgstr ""
+
+msgid "monetizationBalanceOrderNumber"
+msgstr ""
+
+msgid "monetizationBalanceYouPayOrder"
+msgstr ""
+
+msgid "monetizationBalanceCheckOrder"
+msgstr ""
+
+msgid "monetizationBalanceOperator"
+msgstr ""
+
+msgid "monetizationBalanceUpText"
+msgstr ""
+
+msgid "monetizationBalanceNumber"
+msgstr ""
+
+msgid "monetizationBalanceText"
+msgstr ""
+
+msgid "paymentDialogMessageSuperstarForSearch"
+msgstr ""
+"Untuk melihat profil menggunakan carian segera, anda perlu aktifkan status "
+"Superstar."
+
+msgid "paymentDialogTitleDefault"
+msgstr "Tambah nilai akaun"
+
+msgid "paymentDialogTitleSuperstar"
+msgstr "Beli status Superstar"
+
+msgid "paymentDialogTitleTopFaces"
+msgstr "Ke Atas"
+
+msgid "paymentDialogWidgetBuy"
+msgstr "Bayar"
+
+msgid "paymentDialogWidgetTermsOfUse"
+msgstr "Terma Kepenggunaan"
+
+msgid "productPresentModelCodePatternMessage"
+msgstr ""
+"kod produk seperti 'hadiah-*', di mana * ialah digit satu, lebih atau huruf "
+"kecil abjad Latin"
+
+msgid "productPresentModelImageFieldLabel"
+msgstr "gambar"
+
+msgid "productSuperstar12PublicTitle"
+msgstr "Status Superstar dalam 12 bulan"
+
+msgid "productSuperstar1PublicTitle"
+msgstr "Status Superstar dalam 1bulan"
+
+msgid "productSuperstar3PublicTitle"
+msgstr "Status  Superstar dalam 3 bulan"
+
+msgid "productSuperstar6PublicTitle"
+msgstr "Status Superstar dalam 6 bulan"
+
+msgid "productSuperstarFriendly"
+msgstr "mesra"
+
+msgid "productSuperstarStatusModelFieldPeriod"
+msgstr "tempoh masa"
+
+msgid "productSuperstarStatusModelFieldType"
+msgstr "jenis"
+
+msgid "productSuperstarTypeRomantic"
+msgstr "romantik"
+
+msgid "productTopFacesPublicTitle"
+msgstr "Tambah ke ATAS"
+
+msgid "publicFlashNotifierWidgetPresentBalanceWasChanged"
+msgstr "Baki akaun telah dikurangkan sebanyak  %d %s"
+
+msgid "publicFlashNotifierWidgetPresentNotice"
+msgstr "Anda telah memilih hadiah"
+
+msgid "sendGiftDialogCommentLabel"
+msgstr "Mesej anda atau pujian"
+
+msgid "sendGiftDialogHiddenFieldLabel"
+msgstr "Hanya penerima boleh melihat hadiah"
+
+msgid "sendGiftDialogSubmit"
+msgstr "Hantar"
+
+msgid "sendGiftDialogText"
+msgstr "Ini cara terbaik untuk anda mendapat perhatian"
+
+msgid "sendGiftDialogTitle"
+msgstr "Hantar hadiah"
+
+msgid "superstarModelAttributeBegin"
+msgstr "Mula"
+
+msgid "superstarModelAttributeFinish"
+msgstr "Tamat"
+
+msgid "superstarModelAttributeUser"
+msgstr "Pengguna"
+
+msgid "topFacesDialogNotice"
+msgstr "Harga ialah %d %s"
+
+msgid "userRatingAndBalanceWidgetBecameSuperstar"
+msgstr "Menjadi Superstar"
+
+msgid "userRatingAndBalanceWidgetRatingExtraLow"
+msgstr "sangat rendah"
+
+msgid "userRatingAndBalanceWidgetRatingLow"
+msgstr "rendah"
+
+msgid "userRatingAndBalanceWidgetRatingMiddle"
+msgstr "purata"
+
+msgid "userRatingAndBalanceWidgetRatingHigh"
+msgstr "tinggi"
+
+msgid "userRatingAndBalanceWidgetRatingExtraHigh"
+msgstr "sangat tinggi"
+
+msgid "userRatingAndBalanceWidgetFillUpBalance"
+msgstr "tambah nilai"
+
+msgid "userRatingAndBalanceWidgetIncrease"
+msgstr "menaikkan"
+
+msgid "userRatingAndBalanceWidgetRatingAndVisitorsText"
+msgstr ""
+"Kedudukan carian anda adalah <a href='%s'>%s</a> dan hari ini anda mempunyai "
+"<a href='%s'>%d</a> %s"
+
+msgid "userRatingAndBalanceWidgetToTop"
+msgstr "Naik ke Atas"
+
+msgid "userRatingAndBalanceWidgetYourRating"
+msgstr "Populariti anda"
+
+msgid "userViewBalloonActivateSuperstar"
+msgstr "Aktifkan status Superstar"
+
+msgid "userViewBalloonReturnToBasicSearch"
+msgstr "Kembali pada carian"
+
+msgid "userViewBalloonTitle"
+msgstr ""
+"Untuk melihat profil menggunakan carian segera, anda perlu aktifkan "
+"Superpower."
+
+msgid "walletBalanceChangesAmount"
+msgstr "Amaun"
+
+msgid "walletBalanceChangesBalance"
+msgstr "Baki akaun semasa"
+
+msgid "walletBalanceChangesCode"
+msgstr "Kod"
+
+msgid "walletBalanceChangesDescription"
+msgstr "keterangan"
+
+msgid "walletBalanceChangesPrice"
+msgstr "Harga"
+
+msgid "walletBalanceChangesProductId"
+msgstr "produk"
+
+msgid "walletBalanceChangesTimestamp"
+msgstr "masa"
+
+msgid "walletBalanceChangesUserId"
+msgstr "pengguna"
+
+msgid "walletProductsCode"
+msgstr "kod"
+
+msgid "walletProductsCreatedAt"
+msgstr "tarikh dicipta"
+
+msgid "walletProductsCreatedBy"
+msgstr "dicipta oleh"
+
+msgid "walletProductsDescription"
+msgstr "keterangan"
+
+msgid "walletProductsPrice"
+msgstr "harga"
+
+msgid "walletProductsTitle"
+msgstr "tajuk"
+
+msgid "walletProductsUpdatedAt"
+msgstr "dikemaskini"
+
+msgid "walletProductsUpdatedBy"
+msgstr "dikemaskini oleh"
+
+msgid "YourBalanceWasIncreasedText"
+msgstr ""
+"Baki akaun anda telah meningkat sebanyak %d %s. Akaun semasa adalah %d %s."
+
+msgid "YourBalanceWasIncreasedTitle"
+msgstr "Menambah baki akaun"
+
+msgid "YourPresentHasBeenSent"
+msgstr "Hadiah anda telah dihantar"
+
+msgid "sendGiftDialogFilterAll"
+msgstr "Semua"
+
+msgid "sendGiftDialogFilterFriendly"
+msgstr "Mesra"
+
+msgid "sendGiftDialogFilterRomantic"
+msgstr "romantik"
+
+msgid "paymentDialogBuyCoins"
+msgstr "Tambah nilai akaun"
+
+msgid "carouselNeedBuySuperstarNotice"
+msgstr ""
+"Untuk melihat profil anda perlu <a href=\"%s\">membeli</a> status Superstar"
+
+msgid "leftMenuSearchPosition"
+msgstr "kedudukan carian"
+
+msgid "leftMenuVisitorsToday"
+msgstr "%s hari ini"
+
+msgid "leftMenuButtonTop"
+msgstr "ATAS"
+
+msgid "leftMenuButtonSuperstar"
+msgstr "Superstar"
+
+msgid "leftMenuBalance"
+msgstr "Baki akaun"
+
+msgid "balanceChangeTitle"
+msgstr "Tukar baki akaun"
+
+msgid "balanceChangeBuyProductDecreaseTitle"
+msgstr "Pembelian barang"
+
+msgid "balanceChangeByAdminTitle"
+msgstr "Baki telah ditukar oleh pihak pengurusan"
+
+msgid "balanceChangeDailyTitle"
+msgstr "perubahan harian"
+
+msgid "balanceChangePSIncreaseTitle"
+msgstr "Dapatkan koin"
+
+msgid "userProfileAddPresentBaitF"
+msgstr "Hantarkan hadiah kepadanya dan dia akan menyedari kehadiran anda!"
+
+msgid "userProfileAddPresentBaitM"
+msgstr "Hantar dia hadiah dan dia akan ingati anda"
+
+msgid "mailTemplateTitleNewPresent"
+msgstr ""
+"%name%, anda telah menerima hadiah baru daripada %sender_name% di %host%"
+
+msgid "mailTemplateBodyNewPresent"
+msgstr ""
+"<a href='%sender_profile_url%'>%sender_name%</a> menghantar hadiah kepada "
+"anda. Anda dapat melihat di <a href='%profile_url%'>profile</a>."
+
+msgid "balanceChangeBuyProductSuperstarDecreaseTitle"
+msgstr "Bayaran untuk mengaktifkan status Superstar"
+
+msgid "balanceChangeBuyProductPresentDecreaseTitle"
+msgstr "Bayaran untuk pembelian hadiah"
+
+msgid "balanceChangeBuyProductTopFacesDecreaseTitle"
+msgstr "Bayaran untuk tingkatkan populariti anda."
+
+msgid "userTransactionsPageTitle"
+msgstr "Baki akaun semasa anda: %d %s"
+
+msgid "userTransactionsPageDescription"
+msgstr ""
+"Akaun dan senarai pembelian anda di laman web kami.<br /> Melalui 'status "
+"akaun' anda dapat melihat senarai status terkini akaun anda<br /> cetak "
+"dokumen berkaitan. Melalui \"Senarai pembelian” anda dapat melihat senarai "
+"perbelanjaan dan pembelian yang telah lepas."
+
+msgid "userTransactionsPageLinkTypeExpenses"
+msgstr "Status akaun"
+
+msgid "userTransactionsPageLinkTypeIncomes"
+msgstr "Senarai pembelian"
+
+msgid "userTransactionsPageTableHeaderCol1"
+msgstr "Transaksi"
+
+msgid "userTransactionsPageTableHeaderCol2"
+msgstr "Tarikh"
+
+msgid "userTransactionsPageTableHeaderCol3"
+msgstr "Jumlah"
+
+msgid "userTransactionsPageLinkAll"
+msgstr "Lihat semua"
+
+msgid "monetizationInfoPageLinkTransactions"
+msgstr "Penjelasan pembayaran"
+
+msgid "SuperstarPaymentWasPurchasedTitle"
+msgstr "Anda berjaya aktifkan status Superstar!"
+
+msgid "monetizationInfoPageLinkRecharge"
+msgstr "Dapatkan koin"
+
+msgid "messageNewPresentText"
+msgstr ""
+
+msgid "superstarInfoPageTitle"
+msgstr "Jadi Superstar"
+
+msgid "superstarInfoPageTitleNotice"
+msgstr "Mod Superstar membantu anda menemui pasangan lebih cepat."
+
+msgid "superstarInfoPageEncountersTitle"
+msgstr "Pertemuan - Carilah sesiapa yang ingin anda temui"
+
+msgid "superstarInfoPageEncountersNotice"
+msgstr "Dapatkan kotak pertemuan untuk mencari sesiapa berkata 'Ya'! "
+
+msgid "superstarInfoPageAdvancedSearchTitle"
+msgstr "Carian cepat"
+
+msgid "superstarInfoPageAdvancedSearchNotice"
+msgstr "Lihat profil untuk mengenali orang yang anda cari."
+
+msgid "superstarInfoPageInvisibleModeTitle"
+msgstr "Mod tidak kelihatan"
+
+msgid "superstarInfoPageInvisibleModeNotice"
+msgstr ""
+"Lihat kenalan yang lain melalui mod tidak kelihatan! mereka tidak mengetahui "
+"anda melihatnya.."
+
+msgid "superstarInfoPageLimitsTitle"
+msgstr "Kehabisan had"
+
+msgid "superstarInfoPageLimitsNotice"
+msgstr "tunjukkan gambar, carian dan laman bual dihadkan"
+
+msgid "superstarInfoPageButtonBuy"
+msgstr "Jadi Superstar"
+
+msgid "superstarInfoPageButtonRun"
+msgstr "Cuba secara percuma"
+
+msgid "or"
+msgstr "atau"
+
+msgid "close"
+msgstr "Tutup"
+
+msgid "YouHaveReceivedAGift"
+msgstr "Anda menerima hadiah"
+
+msgid "YouHaveMadeAGift"
+msgstr "Anda telah menghantar hadiah"
+
+msgid "paymentDialogWidgetTermsOfUseText"
+msgstr ""
+"Dengan menekan '#button#', anda membenarkan #ltd# pengeluaran wang "
+"#paySystemName# #moneyAmount# #moneyCurrency# untuk #starAmount# #coins# "
+"digunakan #domain# juga menerima syarat-syarat dan terma menggunakan Koin "
+"#siteName#. Anda dibolehkan mengemaskini tetapan untuk menukar bentuk dan "
+"cara pembayaran. <br/> <br/> Syarat-syarat untuk menggunakan Koin adalah "
+"seperti berikut #siteName#: <br/> <br/> 1. Apabila membeli Koin atau "
+"menerima Koin, Koin tersebut bukanlah milik anda, tetapi anda berhak "
+"menggunakan Koin untuk membeli tawaran yang dipaparkan# siteName# seperti "
+"hadiah, status Superstar dan selainnya. <br/> 2. Pembelian Koin tidak dapat "
+"dikembalikan. <br/> 3. Pihak kami berhak menukar harga pembelian Koin pada "
+"bila-bila masa, termasuk pelbagai cara yang dapat digunakan melalui laman "
+"web. Kami juga berhak menghentikan pengeluaran menggunakan Koin. <br/> 4. "
+"Koin tidak dapat ditebus dengan sejumlah wang atau bentuk lain sebagaimana "
+"persetujuan yang tertulis. <br/> 5. Koin yang tidak digunakan akan tamat "
+"tempoh selepas 6 bulan pembelian. <br/> 6. Sekiranya anda memadamkan akaun "
+"atau digantung oleh moderator #siteName# kerana melanggar terma dan syarat, "
+"anda akan kehilangan semua Koin. <br/> 7. Jika anda mendapat Koin melalui "
+"promosi, kami berhak meluputkan Koin tersebut pada bila-bila masa. <br/> <br/"
+"> Pembayaran sedang diproses di #ltd#."
+
+msgid "payonlineTetmsOfUse"
+msgstr ""
+"<p>Jumlah keseluruhan pembayaran, alamat web atau nama syarikat, pengecaman "
+"(nombor) tugasan atau arahan pembayaran.</p><p>Maklumat peribadi akan "
+"disimpan secara eksklusif dalam sistem PayOnline kami. Kami memberi jaminan "
+"bahawa maklumat ini tidak akan didedahkan kepada pihak ketiga, kecuali untuk "
+"mematuhi undang-undang Russian Federation dengan mengemukakan permintaan "
+"surat bertulis daripada pihak berkuasa awam.</p><p>PayOnline Systems Ltd "
+"berdaftar dengan Operator Federal Register menggunakan nombor pendaftaran "
+"10-0104880 dan bertujuan untuk mengumpul, menyimpan dan memproses data "
+"peribadi hak milik yang pengguna yang sebenar.</p><p>Maklumat kad kredit "
+"hanya digunakan untuk urus niaga sahaja dan digunakan dalam bentuk "
+"penyembunyian maklumat melalui protokol selamat di bank-bank tertentu. "
+"Butiran kad kredit anda tidak disimpan dalam sistem PayOnline, oleh itu, "
+"ianya tidak boleh dipindahkan milik kepada pihak ketiga dengan sebarang "
+"keadaan dan alasan.</p><p>Jika anda mempunyai persoalan mengenai pembayaran, "
+"anda boleh menghubungi khidmat sokongan pelanggan melalui telefon: 8 (800) "
+"7000 729 (bebas tol di Rusia), +7 (495) 666 2143, atau melalui e-mel:. "
+"support@payonline.ru</p><p>Sekiranya pembayaran dilakukan, anda akan "
+"mendapati jumlah bayaran tertera pada penyata bank anda sebagai ID Lovetime."
+"com.</p><p>Sila ambil perhatian bahawa alamat IP anda akan disimpan untuk "
+"mengelak kepenggunaan maklumat peribadi yang tidak dibenarkan. Sebarang "
+"kegunaan maklumat peribadi tanpa kebenaran akan diambil tindakan serius, "
+"dihentikan dan akan didakwa.</ P>"
+
+msgid "unsubscribeWrongEmail"
+msgstr "Alamat e-mel tidak betul"
+
+msgid "contestMain"
+msgstr ""
+
+msgid "contestFindYourLove"
+msgstr "Cari cinta anda"
+
+msgid "contestIncreaseChanceSuccess"
+msgstr "Tingkatkan peluang untuk berjaya"
+
+msgid "contestOr"
+msgstr "Atau"
+
+msgid "contestFindLove"
+msgstr "Cari cinta"
+
+msgid "contestResult"
+msgstr "Keputusan"
+
+msgid "contestSelectAll"
+msgstr "Pilih semua"
+
+msgid "contestPhotoPhrase1"
+msgstr "Tiada foto? Tiada hadiah!"
+
+msgid "contestPhotoPhrase2"
+msgstr ""
+"Haraf maaf, hanya pengguna bersama foto yang disahkan berhak mendapat hadiah,"
+"<br />sila muat naik gambar."
+
+msgid "contestPhotoPhrase3"
+msgstr ""
+"Ambil dan letak<br /> fail daripada sistem fail anda<br /> muat naik di sini"
+
+msgid "contestUploadPhoto"
+msgstr "Muat naik foto"
+
+msgid "contestImportPhoto"
+msgstr "atau import foto dari"
+
+msgid "contestFbProfile"
+msgstr "Profil Facabook"
+
+msgid "contestGoogleProfile"
+msgstr "Profil Google+ "
+
+msgid "contestInviteMorePhrase"
+msgstr ""
+"Anda menjemput <span>%d</span> pengguna...<br> Jika salah seorang daripada "
+"mereka menang<br> <b>anda juga memenangi hadiah!</b><button class='n-d-more-"
+"button'>Tingkatkan peluang anda &rarr; <ins>Jemput ramai lagi!</ins></"
+"button>atau <a href='/' target='_blank'>cari cinta anda</a>!"
+
+msgid "contestAnnouncePhrase1"
+msgstr ""
+"Anda menjemput <strong class='announce-contest__highlight'>%d</strong> "
+"pengguna!"
+
+msgid "contestAnnouncePhrase2"
+msgstr "Jika salah seorang daripada mereka menang"
+
+msgid "contestAnnouncePhrase3"
+msgstr "anda mendapat hadiah yang sama!"
+
+msgid "contestAnnouncePhrase4"
+msgstr "Jemput ramai lagi"
+
+msgid "contestAnnouncePhrase5"
+msgstr "Tingkatkan peluang untuk menang."
+
+msgid "contestAnnouncePhrase6"
+msgstr "Cabutan bertuah Lovetime!"
+
+msgid "contestAnnouncePhrase7"
+msgstr "Mimpi menjadi kenyataan..."
+
+msgid "contestAnnouncePhrase8"
+msgstr "Daftar sekarang dan menang"
+
+msgid "contest"
+msgstr "Cabutan bertuah"
+
+msgid "step1"
+msgstr "Langkah 1"
+
+msgid "step2"
+msgstr "Langkah 2"
+
+msgid "step3"
+msgstr "Langkah 3"
+
+msgid "contestInviteByOtherServices"
+msgstr ""
+"Tingkatkan peluang untuk menang! Sambungkan ke peti surat (Hotmail, Yahoo, "
+"Gmail)atau <a href=\"%s\" target=\"_blank\">jemput rakan Facebook anda</a> "
+"atau salin pautan %s"
+
+msgid "cntTitle"
+msgstr ""
+
+msgid "cntRegister"
+msgstr ""
+
+msgid "cntInviteFriends"
+msgstr ""
+
+msgid "cntSamePrize"
+msgstr ""
+
+msgid "cntHigherChances"
+msgstr ""
+
+msgid "cntAddFriends"
+msgstr ""
+
+msgid "cntBannerUsersOnly"
+msgstr ""
+
+msgid "cntBannerParticipatePrizeDraw"
+msgstr ""
+
+msgid "cntBannerFbDescription"
+msgstr ""
+
+msgid "cntPhotoDrag"
+msgstr ""
+
+msgid "cntPhotoUpload"
+msgstr ""
+
+msgid "cntPhotoImport"
+msgstr ""
+
+msgid "cntNext"
+msgstr ""
+
+msgid "cntNotSelected"
+msgstr ""
+
+msgid "cntInvited"
+msgstr ""
+
+msgid "cntWinsSamePrize"
+msgstr ""
+
+msgid "cntIncreaseChances"
+msgstr ""
+
+msgid "cntDropHere"
+msgstr ""
+
+msgid "cntUnselectAll"
+msgstr ""
+
+msgid "cntSelectAll"
+msgstr ""
+
+msgid "cntHours"
+msgstr ""
+
+msgid "cntMinutes"
+msgstr ""
+
+msgid "cntSeconds"
+msgstr ""
+
+msgid "emailContestSubject"
+msgstr ""
+
+msgid "emailContestTitle"
+msgstr ""
+
+msgid "emailContestJoinUs"
+msgstr ""
+
+msgid "emailContestPrizesDescriptions"
+msgstr ""
+
+msgid "emailContestRegister"
+msgstr ""
+
+msgid "emailContestTerms"
+msgstr ""
+
+msgid "emailContestClickHere"
+msgstr ""
+
+msgid "emailContestPrizes"
+msgstr ""
+
+msgid "emailContestUnsubscribe"
+msgstr ""
+
+msgid "actionNote"
+msgstr "Tulis nota"
+
+msgid "noteEdit"
+msgstr "Edit"
+
+msgid "noteRemove"
+msgstr "Padam"
+
+msgid "noteSave"
+msgstr "Simpan"
+
+msgid "noteConfirmDelete"
+msgstr "Adakah pasti untuk padamkan nota ini?"
+
+msgid "lettersCheckSpamFolder"
+msgstr ""
+"Sila periksa e-mel spam anda untuk memastikan mesej dihantar tidak ditapis "
+"keluar. Jika betul, sila pilih dan klik Bukan spam. "
+
+msgid "lettersMarkEmailNotSpam"
+msgstr "Tandakan e-mel ini sebagai <u>Bukan Spam</u>"
+
+msgid "pagesContacts"
+msgstr ""
+"<b>Alamat:</b> <br /> 25/4 Soi Ratchadaphisak 36, Ratchadaphisak Rd., "
+"ChanKasem, Chatuchak BKK 10900 Thailand <br /><br /> <br /> Phnom Penh "
+"Tower, 12F, #445, 232/93 (Monivong Blvd), Phnom Penh, Cambodia, 12258 <br /"
+"><br /> <br /> Russia,  Moscow,  Svobody str. 50,  Build. 3, 125364 <br /"
+"><br /> <b>E-mel:</b><br /><a href=\"mailto:info@lovetime.com"
+"\">info@lovetime.com</a>"
+
+msgid "seocatalogTitleInCity"
+msgstr ""
+"Laman sosial bertemu gadis, jejaka, wanita, lelaki dan perempuan di "
+"%city_title%"
+
+msgid "seocatalogH1InCity"
+msgstr "Berjumpa di %city_title%"
+
+msgid "seocatalogSeeking"
+msgstr "Mencari"
+
+msgid "seocatalogAge"
+msgstr "Umur"
+
+msgid "seocatalogAppearance"
+msgstr "Penampilan"
+
+msgid "seocatalogOther"
+msgstr "Lain-lain"
+
+msgid "seocatalogNext"
+msgstr "Lagi"
+
+msgid "seocatalogWoman"
+msgstr "wanita"
+
+msgid "seocatalogMen"
+msgstr "lelaki"
+
+msgid "seocatalogLesbian"
+msgstr "lesbian"
+
+msgid "seocatalogGay"
+msgstr "lesbian"
+
+msgid "seocatalogBisexual"
+msgstr "biseksual"
+
+msgid "seocatalogFriendship"
+msgstr "persahabatan dan berkomunikasi"
+
+msgid "seocatalogRomanticRelations"
+msgstr "hubungan romantis"
+
+msgid "seocatalogFlirt"
+msgstr "bermesra"
+
+msgid "seocatalogSex"
+msgstr "seks"
+
+msgid "seocatalogBlondes"
+msgstr "rambut perang"
+
+msgid "seocatalogBrunettes"
+msgstr "rambut warna coklat gelap"
+
+msgid "seocatalogBrownHair"
+msgstr "rambut coklat"
+
+msgid "seocatalogAthletic"
+msgstr "Atlit"
+
+msgid "seocatalogSlim"
+msgstr "langsing"
+
+msgid "seocatalogHeavy"
+msgstr "kasar"
+
+msgid "seocatalogForeigner"
+msgstr "orang asing"
+
+msgid "seocatalogRich"
+msgstr "kaya"
+
+msgid "seocatalogSingle"
+msgstr "keseorangan"
+
+msgid "seocatalogNoBadHabits"
+msgstr "tiada perangai buruk"
+
+msgid "chatFilterManGifts"
+msgstr ""
+"%s telah melakukan tapisan mesej dan pesanan anda tidak dapat dihantar. "
+"<b>Berikan dia hadiah</b> dan pesanan akan diterima olehnya. Atau teruskan "
+"berbual dengan pengguna yang lain."
+
+msgid "chatFilterWomanGifts"
+msgstr ""
+"%s telah melakukan tapisan mesej dan pesanan anda tidak dapat dihantar. "
+"<b>Berikan dia hadiah</b> dan pesanan akan diterima olehnya. Atau teruskan "
+"berbual dengan pengguna yang lain."
+
+msgid "modelLoginFormEmailOrNick"
+msgstr "E-mel"
+
+msgid "modelLoginFormPassword"
+msgstr "Kata laluan"
+
+msgid "modelLoginFormAlien"
+msgstr "Bukan komputer saya"
+
+msgid "loginErrorInvalidEmailOrPassword"
+msgstr "E-mel atau kata laluan tidak disahkan"
+
+msgid "systemForgotPassword"
+msgstr "Lupa kata laluan"
+
+msgid "loginErrorUserNotVisible"
+msgstr "Akses ditolak untuk pengguna %s."
+
+msgid "wrongEmail"
+msgstr "E-mel tidak sah"
+
+msgid "errorEmailExists"
+msgstr "Masukkan e-mel yang lain"
+
+msgid "citationsDefault1"
+msgstr "Hai, apa khabar?"
+
+msgid "citationsDefault2"
+msgstr "Hai, sedang buat apa tu?"
+
+msgid "modelUsersValidateReservedNicks"
+msgstr "Sila pilih nama panggilan lain"
+
+msgid "registrationFormWrongDate"
+msgstr "Salah data"
+
+msgid "months1"
+msgstr "Januari"
+
+msgid "months2"
+msgstr "Februari"
+
+msgid "months3"
+msgstr "Mac"
+
+msgid "months4"
+msgstr "April"
+
+msgid "months5"
+msgstr "Mei"
+
+msgid "months6"
+msgstr "Jun"
+
+msgid "months7"
+msgstr "Julai"
+
+msgid "months8"
+msgstr "Ogos"
+
+msgid "months9"
+msgstr "September"
+
+msgid "months10"
+msgstr "Oktober"
+
+msgid "months11"
+msgstr "November"
+
+msgid "months12"
+msgstr "Disember"
+
+msgid "modelSmileCode"
+msgstr "Kod"
+
+msgid "modelSmileImage"
+msgstr "Gambar"
+
+msgid "modelSmileVisible"
+msgstr "Dapat dilihat"
+
+msgid "Noactive"
+msgstr "Tidak"
+
+msgid "modelSpamersName"
+msgstr ""
+
+msgid "modelUsersName"
+msgstr "Nama panggilan"
+
+msgid "modelUsersEmail"
+msgstr "E-mel"
+
+msgid "modelComplaintsStatus"
+msgstr "Status"
+
+msgid "modelSpamersTime"
+msgstr ""
+
+msgid "modelSpamersMessages"
+msgstr ""
+
+msgid "modelComplaintsSenderId"
+msgstr "Pengirim"
+
+msgid "modelComplaintsCompanionId"
+msgstr "Tertuduh"
+
+msgid "modelComplaintsReasonText"
+msgstr "Sebab-sebab"
+
+msgid "modelComplaintsComment"
+msgstr "Komen"
+
+msgid "modelComplaintsCompanion"
+msgstr "Defendan"
+
+msgid "modelComplaintsSender"
+msgstr "Pendakwa"
+
+msgid "complainReason1"
+msgstr "Spam, pengiklanan"
+
+msgid "complainReason2"
+msgstr "Penipuan"
+
+msgid "complainReason3"
+msgstr "Cadangan tidak senonoh"
+
+msgid "complainReason4"
+msgstr "Kekasaran, ancaman"
+
+msgid "complainReason5"
+msgstr "Foto orang lain"
+
+msgid "complainReason6"
+msgstr "Servis seksual"
+
+msgid "photosRefuseReasonPicture"
+msgstr "Lukisan, objek atau binatang"
+
+msgid "photosRefuseReasonErotica"
+msgstr "Erotika, penghinaan"
+
+msgid "photosRefuseReasonFamous"
+msgstr "selebriti"
+
+msgid "photosRefuseReasonSpam"
+msgstr "Spam, pengiklanan"
+
+msgid "photosRefuseReasonPoorQuality"
+msgstr "kualiti tidak memuaskan"
+
+msgid "photosRefuseReasonOnlyYouMustBeSeen"
+msgstr "Untuk tatapan anda sahaja"
+
+msgid "photosRefuseReasonNotVisibleFace"
+msgstr "Bentuk muka kurang jelas"
+
+msgid "photosRefuseReasonChildOnThePhoto"
+msgstr "Kanak-kanak dalam gambar"
+
+msgid "photosRefuseReasonExcessiveDecoration"
+msgstr "Terlalu banyak dekorasi"
+
+msgid "photosStatusAccept"
+msgstr "Terima"
+
+msgid "photosStatusRefuse"
+msgstr "Enggan"
+
+msgid "userName"
+msgstr "Nama"
+
+msgid "feedbackText"
+msgstr "Teks"
+
+msgid "userWrongOldPasswError"
+msgstr "Salah kata laluan"
+
+msgid "userPasswTooShort"
+msgstr "Kata laluan baru terlalu pendek (minima {min} karakter) "
+
+msgid "dateFormat"
+msgstr "Hendaklah dalam bentuk format dd.mm.yyyy "
+
+msgid "modelUsersValidateRequireMessage"
+msgstr "Ruang %s diperlukan"
+
+msgid "modelUsersLookingFor"
+msgstr "Saya sedang mencari"
+
+msgid "modelUsersPassword"
+msgstr "Kata laluan"
+
+msgid "modelUsersOldPassword"
+msgstr "Kata laluan terkini"
+
+msgid "modelUsersNewPassword"
+msgstr "Kata laluan terbaru"
+
+msgid "modelUsersVisible"
+msgstr "Dapat dilihat"
+
+msgid "modelUsersRole"
+msgstr "Kumpulan"
+
+msgid "modelUsersPhone"
+msgstr "Nombor telefon"
+
+msgid "modelUsersVkId"
+msgstr "Vontakte Id"
+
+msgid "modelUsersFacebookId"
+msgstr "Facebook ID"
+
+msgid "modelUsersTwitterId"
+msgstr "Twitter Id"
+
+msgid "modelUsersAvatar"
+msgstr "Avatar"
+
+msgid "modelUsersDefaultAvatar"
+msgstr "Avatar Standard"
+
+msgid "modelUsersCity"
+msgstr "Bandar"
+
+msgid "modelUsersCountry"
+msgstr "Negara"
+
+msgid "modelUsersResidence"
+msgstr "Lokasi"
+
+msgid "modelUsersLat"
+msgstr "Latitud"
+
+msgid "modelUsersLng"
+msgstr "Longitud"
+
+msgid "modelUsersAbout"
+msgstr "Tentang saya"
+
+msgid "profileStatus"
+msgstr "Status"
+
+msgid "modelUsersIntroduceMyself"
+msgstr "Status saya"
+
+msgid "modelUsersWantToMeet"
+msgstr "Ingin mencari"
+
+msgid "modelUsersPreferredAge"
+msgstr "Umur pilihan"
+
+msgid "dateofbirth"
+msgstr "Tarikh lahir"
+
+msgid "modelUsersHeight"
+msgstr "Tinggi"
+
+msgid "modelUsersWeight"
+msgstr "Berat"
+
+msgid "modelUsersPhysique"
+msgstr "Bentuk badan"
+
+msgid "modelUsersColor"
+msgstr "Warna Rambut"
+
+msgid "modelUsersColorEyes"
+msgstr "Warna Mata"
+
+msgid "modelUsersSign"
+msgstr "Tanda zodiak"
+
+msgid "modelUsersType"
+msgstr "Tujuan temujanji"
+
+msgid "modelUsersAcquainted"
+msgstr "Saya dapat berkenalan"
+
+msgid "modelUsersBed"
+msgstr "Bentuk seks yang disukai"
+
+msgid "modelUsersExcites"
+msgstr "I&apos;m berminat tentang"
+
+msgid "modelUsersStatus"
+msgstr "Satus keintiman"
+
+msgid "modelUsersChildren"
+msgstr "Anak-anak"
+
+msgid "modelUsersOrientation"
+msgstr "Orientasi seksual"
+
+msgid "modelUsersSmoking"
+msgstr "Merokok"
+
+msgid "modelUsersAlcohol"
+msgstr "Peminum"
+
+msgid "modelUsersEducation"
+msgstr "Pendidikan"
+
+msgid "modelUsersJob"
+msgstr "Pekerjaan"
+
+msgid "modelUsersIncome"
+msgstr "Pendapatan"
+
+msgid "modelUsersLove_work"
+msgstr "Ketika bekerja saya gemar"
+
+msgid "modelUsersLove_institute"
+msgstr "Di universiti saya gemar"
+
+msgid "modelUsersLove_go"
+msgstr "Saya suka melawat"
+
+msgid "modelUsersLove_music"
+msgstr "Muzik kegemaran"
+
+msgid "modelUsersBan"
+msgstr "Ban"
+
+msgid "modelUsersSendEmails"
+msgstr "Dapatkan notifikasi melalui e-mel"
+
+msgid "modelUsersSounds"
+msgstr "Aktifkan bunyi mesej"
+
+msgid "modelUsersShowPixeledImages"
+msgstr "Menunjukkan gambar kabur pada orang tidak dikenali"
+
+msgid "modelUsersHideImages"
+msgstr "Sembunyikan foto"
+
+msgid "modelUsersTimeZone"
+msgstr "Zon masa"
+
+msgid "moduleUsersAutoSelectTimeZone"
+msgstr "Penentuan secara automatik"
+
+msgid "modelUsersRegistered"
+msgstr "Telah berdaftar"
+
+msgid "modelUsersInvitedBy"
+msgstr "Jemputan"
+
+msgid "modelUsersLoginWithToken"
+msgstr "Daftar masuk secara automatik melalui pautan e-mel"
+
+msgid "physiqueSlim"
+msgstr "Langsing"
+
+msgid "physiqueAverage"
+msgstr "Sederhana"
+
+msgid "physiqueAthletic"
+msgstr "Atlet"
+
+msgid "physiqueMuscular"
+msgstr "Gambaran penuh"
+
+msgid "physiqueHeavy"
+msgstr "Berat"
+
+msgid "physiqueFull"
+msgstr "Sedikit gemuk"
+
+msgid "colorEyesBrown"
+msgstr "Warna coklat"
+
+msgid "colorEyesGreen"
+msgstr "Hijau"
+
+msgid "colorEyesBlue"
+msgstr "Biru"
+
+msgid "colorEyesGray"
+msgstr "Kelabu"
+
+msgid "colorEyesBlack"
+msgstr "Hitam"
+
+msgid "colorEyesHazel"
+msgstr "Coklat muda"
+
+msgid "smokingDoNotSmoke"
+msgstr "Tidak"
+
+msgid "smokingRarely"
+msgstr "Kadang kala"
+
+msgid "smokingGiving"
+msgstr "Cuba untuk berhenti"
+
+msgid "smokingOften"
+msgstr "Kerap kali"
+
+msgid "alcoholDoNotDrink"
+msgstr "Tidak sama sekali"
+
+msgid "alcoholILikeToDrink"
+msgstr "Kerap kali"
+
+msgid "alcoholOnHolidays"
+msgstr "Secara sosial"
+
+msgid "educationSecondary"
+msgstr "Sekolah tinggi"
+
+msgid "educationTechnical"
+msgstr "Kolej"
+
+msgid "educationHigher"
+msgstr "Kolej/Universiti"
+
+msgid "incomeLow"
+msgstr "Rendah"
+
+msgid "incomeMedium"
+msgstr "Pertengahan"
+
+msgid "incomeHigh"
+msgstr "Tinggi"
+
+msgid "systemAdministrator"
+msgstr "Pentadbir"
+
+msgid "childrenNo"
+msgstr "Tidak"
+
+msgid "childrenYes"
+msgstr "Ya"
+
+msgid "signAries"
+msgstr "Aries"
+
+msgid "signTaurus"
+msgstr "Taurus"
+
+msgid "signTwins"
+msgstr "Gemini"
+
+msgid "signCancer"
+msgstr "Cancer"
+
+msgid "signLion"
+msgstr "Leo"
+
+msgid "signVirgo"
+msgstr "Virgo"
+
+msgid "signLibra"
+msgstr "Libra"
+
+msgid "signScorpio"
+msgstr "Scorpio"
+
+msgid "signSagittarius"
+msgstr "Sagitarius"
+
+msgid "signCapricorn"
+msgstr "Capricorn"
+
+msgid "signAquarius"
+msgstr "Aquarius"
+
+msgid "signPisces"
+msgstr "Pisces"
+
+msgid "changeFieldInSearch"
+msgstr "Aktif mencari"
+
+msgid "changeFieldHasAFriend"
+msgstr "Dalam keintiman"
+
+msgid "changeFieldMarried"
+msgstr "Telah berkahwin"
+
+msgid "changeFieldNotInSearch"
+msgstr "Bertunang"
+
+msgid "changeFieldBreaked"
+msgstr "Bercerai"
+
+msgid "haircolorLight"
+msgstr "Rambut perang"
+
+msgid "haircolorDark"
+msgstr "Warna gelap"
+
+msgid "haircolorRed"
+msgstr "Merah"
+
+msgid "haircolorTanned"
+msgstr "Berceloreng"
+
+msgid "haircolorBright"
+msgstr "Warna terang"
+
+msgid "haircolorWhite"
+msgstr "Beruban"
+
+msgid "haircolorSkin"
+msgstr "Dicukur"
+
+msgid "haircolorBald"
+msgstr "Botak"
+
+msgid "changeFieldHetero"
+msgstr "Lurus"
+
+msgid "changeFieldGay"
+msgstr "Gay/Lesbian"
+
+msgid "changeFieldBi"
+msgstr "Biseksual"
+
+msgid "ofWoman"
+msgstr "Perempuan"
+
+msgid "ofMan"
+msgstr "Lelaki"
+
+msgid "introduceMyselfOnlyMyself"
+msgstr "Bujang"
+
+msgid "introduceMyselfAsPair"
+msgstr "Berpunya"
+
+msgid "changeFieldFriendship"
+msgstr "Persahabatan dan komunikasi"
+
+msgid "changeFieldFlirt"
+msgstr "Untuk berintim"
+
+msgid "changeFieldRomantic"
+msgstr "Hubungan romantis"
+
+msgid "changeFieldSex"
+msgstr "Seks"
+
+msgid "changeFieldAtWork"
+msgstr "Tempat kerja"
+
+msgid "changeFieldNeighbor"
+msgstr "Dalam kejiranan"
+
+msgid "changeFieldSchool"
+msgstr "Di sekolah / Di universiti"
+
+msgid "changeFieldStreet"
+msgstr "Di jalanan"
+
+msgid "changeFieldOral"
+msgstr "Seks oral"
+
+msgid "changeFieldAnal"
+msgstr "Seks Dubur"
+
+msgid "changeFieldGroup"
+msgstr "Seks berkumpulan"
+
+msgid "changeFieldPublic"
+msgstr "Seks di tempat pelik"
+
+msgid "changeFieldRoleplay"
+msgstr "Peranan yang dimainkan"
+
+msgid "changeFieldToys"
+msgstr "Barang mainan"
+
+msgid "changeFieldBdsm"
+msgstr "Sadomasokisme"
+
+msgid "changeFieldClassicSex"
+msgstr "Seks Biasa"
+
+msgid "changeFieldSmells"
+msgstr "Berbau"
+
+msgid "changeFieldHighHair"
+msgstr "Berbulu"
+
+msgid "changeFieldTattoo"
+msgstr "Tatu dan bertindik"
+
+msgid "changeFieldDarkskin"
+msgstr "Kulit gelap campuran"
+
+msgid "changeFieldUnderwear"
+msgstr "Pakaian dalam"
+
+msgid "changeFieldUniform"
+msgstr "Pakaian seragam"
+
+msgid "changeFieldStockings"
+msgstr "Stoking"
+
+msgid "changeFieldFootwear"
+msgstr "Kasut"
+
+msgid "changeFieldDominate"
+msgstr "Penguasaan dan penghantaran"
+
+msgid "changeFieldBondage"
+msgstr "Pergantungan dan imobilisasi"
+
+msgid "changeFieldPain"
+msgstr "Sakit"
+
+msgid "monthsJan"
+msgstr "Januari"
+
+msgid "monthsFeb"
+msgstr "Februari"
+
+msgid "monthsMar"
+msgstr "Mac"
+
+msgid "monthsApr"
+msgstr "April"
+
+msgid "monthsMay"
+msgstr "Mei"
+
+msgid "monthsJun"
+msgstr "Jun"
+
+msgid "monthsJul"
+msgstr "Julai"
+
+msgid "monthsAug"
+msgstr "Ogos"
+
+msgid "monthsSep"
+msgstr "September"
+
+msgid "monthsOct"
+msgstr "Oktober"
+
+msgid "monthsNov"
+msgstr "November"
+
+msgid "monthsDec"
+msgstr "Disember"
+
+msgid "removingProfileCauseIPlaGoBack"
+msgstr ""
+"Saya tidak berada di laman ini buat sementara waktu dan akan kembali "
+"kemudian."
+
+msgid "profileLastVisit"
+msgstr "Kunjungan terakhir"
+
+msgid "dateToday"
+msgstr "Hari ini"
+
+msgid "dateYesterday"
+msgstr "Semalam"
+
+msgid "date2DaysAgo"
+msgstr "sehari sebelum semalam"
+
+msgid "profileLastVisitAt"
+msgstr "di"
+
+msgid "chatBigMessage"
+msgstr "Pesanan terlalu panjang. Ianya tidak melebihi 2000 patah perkataan"
+
+msgid "errorFolderCreate"
+msgstr "Anda telah mempunyai simpanan nama ini"
+
+msgid "foldersDeleteError"
+msgstr "Harap maaf, gagal padamkan pilihan fail :("
+
+msgid "noteErrorTooLong"
+msgstr "Nota tidak melebihi 1000 patah perkataan"
+
+msgid "noteErrorTags"
+msgstr "Nota seharusnya tidak mengandungi HTML"
+
+msgid "guestsWasMan"
+msgid_plural "guestsWasWoman"
+msgstr[0] "Kunjungan kali terakhir"
+
+msgid "guestsYear"
+msgid_plural "guestsYears"
+msgstr[0] "%d tahun"
+
+msgid "guestsMonth"
+msgid_plural "guestsMonths"
+msgstr[0] "%d bulan"
+
+msgid "guestsDay"
+msgid_plural "guestsDays"
+msgstr[0] "%d hari"
+
+msgid "guestsHour"
+msgid_plural "guestsHours"
+msgstr[0] "%s jam"
+
+msgid "guestsMinute"
+msgid_plural "guestsMinutes"
+msgstr[0] "%s minit"
+
+msgid "guestsBack"
+msgstr "lepas"
+
+msgid "topfacesMessageTooShort"
+msgstr "Pesanan tidak melebihi 140 perkataan"
+
+msgid "topfaceStatusInvalidValue"
+msgstr "Bahagian status mengandungi nilai yang tidak sah"
+
+msgid "formErrorNewPasswRepeat"
+msgstr "Salah kata laluan"
+
+msgid "modelLoginFormEmail"
+msgstr "E-mel"
+
+msgid "modelForgotpassPassword"
+msgstr "Kata laluan"
+
+msgid "modelForgotpassPasswordRepeat"
+msgstr "Ulang kata laluan"
+
+msgid "modelFogotpassEmailExists"
+msgstr "Tiada pengguna didaftarkan di atas e-mel ini"
+
+msgid "modelFogotpassInvalidLink"
+msgstr "Pautan tidak sah"
+
+msgid "modelFogotpassPassDoNotMatch"
+msgstr "Kata laluan tidak sepadan"
+
+msgid "visitors"
+msgstr ""
+
+msgid "facebookLikeShowUsYouLikeUs"
+msgstr "Nyatakan anda sukakan kami"
+
+msgid "systemRegisterSmall"
+msgstr "Pendaftaran"
+
+msgid "chatMoveIn"
+msgstr "Tukar ke"
+
+msgid "chatFoldersFirst"
+msgstr "Umum"
+
+msgid "chatFoldersSecond"
+msgstr "Kegemaran"
+
+msgid "chatFoldersThird"
+msgstr "Abaikan"
+
+msgid "langRussian"
+msgstr "Rusia"
+
+msgid "yourPhotoHere"
+msgstr "Gambar anda di sini"
+
+msgid "topfacesAdd"
+msgstr "Ke&nbsp;ATAS"
+
+msgid "topfacesItsYou"
+msgstr "Inilah anda!"
+
+msgid "userBalloonChat"
+msgstr "Mengarang mesej"
+
+msgid "userBalloonProfile"
+msgstr "Lihat profil"
+
+msgid "topfacesDialogTitle"
+msgstr "Letakkan ke&nbsp; bahagian Atas"
+
+msgid "topfacesDialogChoosePhoto"
+msgstr ""
+"Pilih gambar atau <a href=\"/users/view/%s\">muat naik&nbsp;gambar baru</a>"
+
+msgid "topfacesDialogTypeMessage"
+msgstr "Taip mesej pendek"
+
+msgid "actionSend"
+msgstr "Hantar"
+
+msgid "topfacesDialogNoPhotos"
+msgstr ""
+"Untuk menambah foto ke&nbsp;bahagian atas anda perlu <a href=\"/users/view/%s"
+"\">muat naik</a>&nbsp;gambar profil terlebih dahulu."
+
+msgid "TopFacesLimitExceeded"
+msgstr ""
+"Dibenarkan untuk muat naik tidak&nbsp;melebihi satu gambar untuk satu&nbsp;"
+"jam. Sila tunggu."
+
+msgid "emailConfirmPleaseTitle"
+msgstr ""
+"Pautan pengesahan telah dihantar ke alamat e-mel anda. Selepas pengesahan e-"
+"mel, anda akan dapat mengakses laman web ini.<a href='%link%'>Adakah anda "
+"telah menerima pautan tersebut</a>? "
+
+msgid "emailConfirmCheckSpam"
+msgstr ""
+"Periksa spam?keraguan kotak mel, Surat kami kadang kala salah dihantar, sila "
+"tandakan sebagai <b>bukan spam</b>."
+
+msgid "emailConfirmPleaseNotice"
+msgstr "&nbsp;"
+
+msgid "socialLikeStr"
+msgstr "Gemar"
+
+msgid "complainHead"
+msgstr "Lakukan Aduan "
+
+msgid "complainIgnore"
+msgstr "Abaikan"
+
+msgid "complainIgnoreDescription"
+msgstr ""
+"Anda tidak akan menerima mesej daripada pengguna ini. Jika tidak, operasi "
+"boleh dikembalikan kepada bentuk yang asal."
+
+msgid "complainError1"
+msgstr "Nyatakan Jenis Aduan"
+
+msgid "complainSubmit"
+msgstr "Hantar"
+
+msgid "complainOr"
+msgstr "atau"
+
+msgid "complainClose"
+msgstr "Batalkan"
+
+msgid "menuFeedback"
+msgstr "Maklum Balas"
+
+msgid "menuRules"
+msgstr "Terma"
+
+msgid "menuContacts"
+msgstr "Hubungi"
+
+msgid "menuHelpUs"
+msgstr "Bantu kami"
+
+msgid "flirtNear"
+msgstr "Carian terdekat"
+
+msgid "menuAbout"
+msgstr "Tentang kami"
+
+msgid "menuSearch"
+msgstr "Cari"
+
+msgid "flirtCarousel"
+msgstr "Temujanji"
+
+msgid "menuChat"
+msgstr "Berbual"
+
+msgid "mainTitle"
+msgstr "Jemputlah, rakan sekerja dan jiran kenalan anda..."
+
+msgid "mainTitle2"
+msgstr "berkenalan dengan orang tidak dikenali"
+
+msgid "menTitles1"
+msgstr "Sukakan jiran anda?"
+
+msgid "menTitles2"
+msgstr "Sukakan rakan sekerja anda?"
+
+msgid "menTitles3"
+msgstr "Ingin intim dengan bekas rakan anda?"
+
+msgid "menTitles4"
+msgstr "Adakah anda rasa bosan?"
+
+msgid "womanTitles1"
+msgstr "Sukakan jiran anda?"
+
+msgid "womanTitles2"
+msgstr "Sukakan rakan sekerja anda?"
+
+msgid "womanTitles3"
+msgstr "Ingin intim dengan bekas rakan anda?"
+
+msgid "womanTitles4"
+msgstr "Adakah anda rasa bosan"
+
+msgid "menTexts1"
+msgstr ""
+"<a href=\"/\">Jemput</a> Si dia menggunakan poskad. Letakkan di cermin "
+"kereta atau peti pos."
+
+msgid "menTexts2"
+msgstr "Cari alamat e-mel dan <a href=\"/\"> jemput</a> ke Lovetime."
+
+msgid "menTexts3"
+msgstr ""
+"Cari alamat e-mel, nombor telefon <a href=\"/\">jemput</a> ke Lovetime."
+
+msgid "menTexts4"
+msgstr ""
+"Tekan \"<a href=\"/#flirt\" class=\"top-flirt\">Pikat</a>\" dan berkenalan"
+
+msgid "womanTexts1"
+msgstr ""
+"<a href=\"/\">jemput</a> dia dengan poskad. Letakkan di cermin kereta, di "
+"peti pos."
+
+msgid "womanTexts2"
+msgstr "Cari e-mel si dia <a href=\"/\">jemput</a> ke Lovetime."
+
+msgid "womanTexts3"
+msgstr "Cari e-mel si dia <a href=\"/\"> jemput </a> ke Lovetime."
+
+msgid "womanTexts4"
+msgstr ""
+"Klik \"<a href=\"/#flirt\" class=\"top-flirt\">pikat</a>\"dan berkenalan."
+
+msgid "foldersTitle"
+msgstr "Masukkan nama fail"
+
+msgid "foldersCancel"
+msgstr "Batal"
+
+msgid "foldersCreate"
+msgstr "Bina"
+
+msgid "foldersRename"
+msgstr "Namakan semula"
+
+msgid "userBalloonCarousel"
+msgstr "Temujanji"
+
+msgid "userBalloonExchange"
+msgstr "Pertukaran maklumat"
+
+msgid "chatBalloonMove"
+msgstr "Pindah"
+
+msgid "chatBalloonSelect1"
+msgstr "Pilih"
+
+msgid "chatBalloonSelect2"
+msgstr "Pilih"
+
+msgid "chatBalloonSelect3"
+msgstr "Pilih"
+
+msgid "errorFolderEmpty"
+msgstr "Sila masukkan nama"
+
+msgid "dateDaysBefore"
+msgstr "hari lepas"
+
+msgid "dateMomentAgo"
+msgstr "sebentar tadi"
+
+msgid "dateSecondAgo_plural_1"
+msgstr "sebentar tadi"
+
+msgid "dateSecondAgo_plural_2"
+msgstr "sesaat tadi"
+
+msgid "dateSecondAgo_plural_3"
+msgstr "sesaat tadi"
+
+msgid "dateMinuteAgo_plural_1"
+msgstr "seminit lepas"
+
+msgid "dateMinuteAgo_plural_2"
+msgstr "seminit lepas"
+
+msgid "dateMinuteAgo_plural_3"
+msgstr "seminit lepas"
+
+msgid "dateCoupleMinutesAgo"
+msgstr "beberapa minit lepas"
+
+msgid "dateHourAgo_plural_1"
+msgstr "sejam lepas"
+
+msgid "dateHourAgo_plural_2"
+msgstr "sejam lepas"
+
+msgid "dateHourAgo_plural_3"
+msgstr "sejam lepas"
+
+msgid "messages_plural_1"
+msgstr "Mesej"
+
+msgid "messages_plural_2"
+msgstr "Mesej"
+
+msgid "messages_plural_3"
+msgstr "Pesanan"
+
+msgid "usersAddToFavorite"
+msgstr "Tambah ke kegemaran"
+
+msgid "actionBlock"
+msgstr "Abaikan"
+
+msgid "chatComplain"
+msgstr "Aduan"
+
+msgid "usersRemoveFromFavorite"
+msgstr "Alih daripada kegemaran"
+
+msgid "actionOr"
+msgstr "atau"
+
+msgid "actionDelete"
+msgstr "Padam"
+
+msgid "galleryClose"
+msgstr "Tutup"
+
+msgid "galleryUploadError"
+msgstr "kesilapan berlaku ketika&nbsp;muat naik. Sila cuba lagi."
+
+msgid "galleryUploadFilesName"
+msgstr "Fail gambar"
+
+msgid "galleryUploadPossibleFiles"
+msgstr "Anda hanya boleh muat naik fail gambar. Format yang dibenarkan:"
+
+msgid "modelUsersHasPhoto"
+msgstr "Foto"
+
+msgid "modelUsersHasPhotoCondition"
+msgstr "Ada&nbsp;foto"
+
+msgid "modelUsersHasNoPhotoCondition"
+msgstr "Tiada gambar"
+
+msgid "searchHair"
+msgstr "Warna rambut"
+
+msgid "requireRegistration4MaleTitle"
+msgstr "%s tidak berkongsi banyak maklumat peribadi dengan anda."
+
+msgid "requireRegistration4FemaleTitle"
+msgstr "%s tidak berkongsi banyak maklumat peribadi dengan anda."
+
+msgid "requireRegistrationNote"
+msgstr "Anda perlu mendaftar untuk melihat profil ini."
+
+msgid "requireRegistrationCancel"
+msgstr "Batal"
+
+msgid "requireRegistrationRegister"
+msgstr "Daftar"
+
+msgid "increaseInfoConfirmNote"
+msgstr ""
+"Untuk melihat profil yang lain anda perlu mengisi sekurang-kurangnya 50 %."
+
+msgid "increaseInfoConfirmFillNow"
+msgstr "Isi sekarang"
+
+msgid "increaseInfoConfirmCancel"
+msgstr "Batal"
+
+msgid "Credit Card"
+msgstr "Kredit kad"
+
+msgid "registerHello"
+msgstr "Hai"
+
+msgid "registerForEnd"
+msgstr ""
+"Untuk selesaikan pendaftaran, pastikan anda mempunyai profil laman kami?"
+
+msgid "registerYes"
+msgstr "Ya"
+
+msgid "registerNo"
+msgstr "Tidak"
+
+msgid "registerForEndYes"
+msgstr "Sila masukkan kata laluan"
+
+msgid "registerBack"
+msgstr "Kembali"
+
+msgid "registerForEndNo"
+msgstr "Periksa informasi"
+
+msgid "registerUnderNick"
+msgstr "Don&apos;t Masukkan nama sebenar atau panggilan yang mudah dikenali"
+
+msgid "registerEmailTip"
+msgstr "Tidak dapat di lihat"
+
+msgid "birthDay"
+msgstr "Tarikh Lahir"
+
+msgid "birthMonth"
+msgstr "Bulan"
+
+msgid "birthYear"
+msgstr "Tahun"
+
+msgid "systemLoginAllRight"
+msgstr "Semua betul"
+
+msgid "registerRequire"
+msgstr "Sila penuhi semua ruang"
+
+msgid "socialAuthFailed"
+msgstr "Gagal mendapat kebenaran"
+
+msgid "registerAuthOk"
+msgstr "Kebenaran diluluskan. Anda boleh hantar ke laman utama. Atau tekan"
+
+msgid "registerAuthHere"
+msgstr "Di sini"
+
+msgid "registerAuthNone"
+msgstr "Pengguna tidak ditemui"
+
+msgid "registerAlreadyYes"
+msgstr "Pengguna e-mel yang sama telah berdaftar"
+
+msgid "registerAuthFailed"
+msgstr "Gagal mendapat kebenaran"
+
+msgid "registerCreateFailed"
+msgstr "Gagal daftar sebagai pengguna. Sila isi semua ruang."
+
+msgid "authFacebook"
+msgstr "Dibenarkan melalui Facebook"
+
+msgid "authVkontakte"
+msgstr "Dibenarkan melalui Vkontakte"
+
+msgid "citationNotExist"
+msgstr "Petikan tidak ditemui"
+
+msgid "citationAccessDenied"
+msgstr "Petikan kata bukan kepunyaan anda"
+
+msgid "VIP"
+msgstr "VIP"
+
+msgid "questRegister"
+msgstr "Pendaftaran"
+
+msgid "balanceChangeInQuest"
+msgstr "Ubah baki kredit terkini (quet)"
+
+msgid "superstarModelAttributeIsReseted"
+msgstr ""
+
+msgid "payonlinesystemError3"
+msgstr ""
+"Pembayaran tidak disahkan bank pengeluar kad kredit. Anda perlu menghubungi "
+"bank pengeluar untuk mengetahui punca kegagalan pembayaran dan cuba lagi."
+
+msgid "payonlinesystemError2"
+msgstr ""
+"Pembayaran tidak dapat dilakukan dengan kad kredit. Sila gunakan cara yang "
+"lain."
+
+msgid "payonlinesystemError1"
+msgstr "Kesalahan teknikal, sila cuba sebentar lagi."
+
+msgid "payonlinesystemError0"
+msgstr "Kesulitan melakukan pembayaran."
+
+msgid "seocatalogTitleDatingSite"
+msgstr "adalah merupakan laman web temu janji remaja, lelaki dan wanita"
+
+msgid "seocatalogH1DatingSite"
+msgstr "Laman web temu janji"
+
+msgid "seocatalogH1CountriesAndCities"
+msgstr "Bandar dan Negara"
+
+msgid "seocatalogTitleDatingWithWomen"
+msgstr "temu janji dengan remaja dan wanita"
+
+msgid "seocatalogH1DatingWithWomen"
+msgstr "temu janji dengan wanita"
+
+msgid "seocatalogTitleDatingWithMen"
+msgstr "temu janji dengan remaja dan lelaki"
+
+msgid "seocatalogH1DatingWithMen"
+msgstr "temu janji dengan lelaki"
+
+msgid "seocatalogTitleDatingWithLesbian"
+msgstr "temu janji dengan remaja dan lelaki"
+
+msgid "seocatalogH1DatingWithLesbian"
+msgstr "temu janji dengan lelaki"
+
+msgid "seocatalogTitleDatingWithGays"
+msgstr "temu janji dengan gay"
+
+msgid "seocatalogH1DatingWithGays"
+msgstr "temu janji dengan gay"
+
+msgid "seocatalogTitleDatingWithBisexuals"
+msgstr "temu janji dengan biseksual"
+
+msgid "seocatalogH1DatingWithBisexuals"
+msgstr "temu janji dengan biseksual"
+
+msgid "seocatalogTitleGuysGirls_18_20"
+msgstr "wanita dan lelaki umur 18-20 tahun"
+
+msgid "seocatalogH1GuysGirls_18_20"
+msgstr "Lelaki dan wanita umur 18-20"
+
+msgid "seocatalogTitleGuysGirls_21_25"
+msgstr "lelaki dan wanita umur 20-25 tahun"
+
+msgid "seocatalogH1GuysGirls_21_25"
+msgstr "Lelaki dan wanita umur 21-25"
+
+msgid "seocatalogTitleGuysGirls_26_30"
+msgstr "wanita dan lelaki umur 25-30 tahun"
+
+msgid "seocatalogH1GuysGirls_26_30"
+msgstr "Lelaki dan wanita umur 26-30"
+
+msgid "seocatalogTitleGuysGirls_31_35"
+msgstr "wanita dan lelaki umur 25-30 tahun"
+
+msgid "seocatalogH1GuysGirls_31_35"
+msgstr "Lelaki dan wanita umur 31-35"
+
+msgid "seocatalogTitleGuysGirls_35_40"
+msgstr "wanita dan lelaki umur 35-40 tahun"
+
+msgid "seocatalogH1GuysGirls_35_40"
+msgstr "Lelaki dan wanita umur 35-40"
+
+msgid "seocatalogTitleMeetingForCommunication"
+msgstr "jumpa untuk persahabatan dan berkomunikasi"
+
+msgid "seocatalogH1MeetingForCommunication"
+msgstr "Berjumpa untuk berkomunikasi"
+
+msgid "seocatalogTitleMeetingRorRomanticRelations"
+msgstr "jumpa untuk persahabatan dan berkomunikasi"
+
+msgid "seocatalogH1MeetingRorRomanticRelations"
+msgstr "Berjumpa untuk berkomunikasi"
+
+msgid "seocatalogTitleMeetingForFlirt"
+msgstr "jumpa untuk persahabatan dan berkomunikasi"
+
+msgid "seocatalogH1MeetingForFlirt"
+msgstr "Berjumpa untuk bermesra"
+
+msgid "seocatalogTitleMeetingForCloseRelations"
+msgstr "jumpa untuk rapatkan hubungan, hubungan intim dan seks"
+
+msgid "seocatalogH1MeetingForCloseRelations"
+msgstr "Berjumpa untuk bermesra"
+
+msgid "seocatalogTitleBlondes"
+msgstr "Jumpa lelaki dan wanita berambut perang "
+
+msgid "seocatalogH1Blondes"
+msgstr "Berjumpa untuk rapatkan hubungan"
+
+msgid "seocatalogTitleBrunettes"
+msgstr "Jumpa lelaki dan berambut coklat gelap "
+
+msgid "seocatalogH1Brunettes"
+msgstr "lelaki dan wanita berambut coklat gelap "
+
+msgid "seocatalogTitleBrownHaired"
+msgstr "jumpa lelaki dan wanita berambut merah dan perang. "
+
+msgid "seocatalogH1BrownHaired"
+msgstr "lelaki dan wanita berambut coklat  "
+
+msgid "seocatalogTitleDatingWithAthletic"
+msgstr "jumpa atlit wanita atau atlit lelaki"
+
+msgid "seocatalogH1DatingWithAthletic"
+msgstr "temu janji dengan atlit lelaki dan wanita"
+
+msgid "seocatalogTitleDatingWithSlim"
+msgstr "jumpa wanita langsing atau lelaki langsing"
+
+msgid "seocatalogH1DatingWithSlim"
+msgstr "temu janji dengan lelaki dan wanita langsing"
+
+msgid "seocatalogTitleDatingWithHeavy"
+msgstr "jumpa lelaki kasar atau wanita kasar"
+
+msgid "seocatalogH1DatingWithHeavy"
+msgstr "jumpa lelaki kasar atau wanita kasar"
+
+msgid "seocatalogTitleDatingWithForeigners"
+msgstr "temu janji dengan warganegara asing"
+
+msgid "seocatalogH1DatingWithForeigners"
+msgstr "Love Time - jumpa warganegara asing"
+
+msgid "seocatalogTitleDatingWithRich"
+msgstr "jumpa seseorang yang kaya"
+
+msgid "seocatalogH1DatingWithRich"
+msgstr "jumpa seseorang yang kaya"
+
+msgid "seocatalogTitleDatingWithSingles"
+msgstr "jumpa seseorang yang bersendirian"
+
+msgid "seocatalogH1DatingWithSingles"
+msgstr "Love Time - jumpa seseorang yang bersendirian"
+
+msgid "seocatalogTitleDatingWithPeopleHavingNoBadHabits"
+msgstr "jumpa seseorang yang tidak berperangai buruk"
+
+msgid "seocatalogH1DatingWithPeopleHavingNoBadHabits"
+msgstr "temu janji dengan kawan yang bersendirian"
+
+msgid "searchShowMore"
+msgstr "Tunjukkan lagi"
+
+msgid "seocatalogTitleCountriesAndCities"
+msgstr "Bandar dan Negara"
+
+msgid "age"
+msgstr "Umur"
+
+msgid "modelUsersSexWoman"
+msgstr "perempuan"
+
+msgid "modelUsersSexMan"
+msgstr "lelaki"
+
+msgid "modelUsersSexAny"
+msgstr "setiap jantina"
+
+msgid "searchUsersRegion"
+msgstr "Daerah"
+
+msgid "actionFind"
+msgstr "Cari"
+
+msgid "mainTitle3Noa"
+msgstr "Temujanji percuma secara online"
+
+msgid "clockNavExactSearch"
+msgstr "Carian segera"
+
+msgid "clockNavExactSearchSubtext"
+msgstr "Lebih daripada 20 parameter bentuk carian"
+
+msgid "clockNavMeetings"
+msgstr "Lakukan temu janji anda hari ini"
+
+msgid "clockNavMeetingsSubtext"
+msgstr "Hantar dan terima <b>Lakukan temu janji dalam beberapa minit </b>"
+
+msgid "clockNavInstantCommunication"
+msgstr "Berkomunikasi sekarang"
+
+msgid "clockNavInstantCommunicationSubtext"
+msgstr "Cari seseorang untuk berbual <b>dalam masa sesaat</b>"
+
+msgid "clockNavWhosNear"
+msgstr "Berkenalan dengan seseorang yang berdekatan"
+
+msgid "clockNavWhosNearSubtext"
+msgstr ""
+"Cari <b>beratus-ratus kenalan yang cantik dan segak</b> mengikut jarak "
+"kilometer"
+
+msgid "clockNavHasContact"
+msgstr "Berkenalan dengan seseorang dari semua tempat"
+
+msgid "clockNavHasContactSubtext"
+msgstr "Bentuk bualan dan terjemahan berbual tersedia dalam <b>64 Bahasa</b>"
+
+msgid "clockNavperfectCouple"
+msgstr "Berkenalan hanya dengan beberapa kali klik"
+
+msgid "clockNavperfectCoupleSubtext"
+msgstr "<b>Tentukan frasa</b>- berkenalan dalam jangka masa 30 saat"
+
+msgid "peopleHere"
+msgstr "Anda berada di sini"
+
+msgid "carouselFillAnketa0"
+msgstr "Bermain pusingan Merry-go"
+
+msgid "carouselFillAnketa1"
+msgstr "Sila nyatakan"
+
+msgid "carouselFillAnketa2"
+msgstr "Umur anda, negara, bandar dan muat naik gambar"
+
+msgid "flirtSearch"
+msgstr "Cari"
+
+msgid "pagesAbout"
+msgstr ""
+"Setiap orang mempunyai keinginan untuk berkenalan. Kebanyakannya amat sukar "
+"meluahkan perasaan mereka.<br/><br/> Servis ini akan menyelesaikan masalah "
+"anda. Inilah&apos;peluang untuk berkenalan tanpa rasa segan atau menolak "
+"ajakan berkenalan.<br/><br/>&bull; Jika&apos;anda berada berdekatan dengan "
+"rakan sekerja dan tidak&apos;pasti untuk mulakan? Servis ini akan membantu."
+"<br/>&bull; Eratkan kenalan dengan rakan sekolah atau universiti? Ianya&apos;"
+"s senang.<br/>&bull; Adakah anda menyukai jiran anda? Tanyakan pada si dia "
+"jika si dia sukakan anda.<br/><br/> Teman sepertimanakah yang dicari...cinta "
+"atau seks? Adakah dia menyukai seseorang di tempat kerja? Anda boleh mencari "
+"hanya dengan sekali klik."
+
+msgid "pagesRulesTitle2"
+msgstr "Peraturan untuk pendaftaran"
+
+msgid "pagesRules"
+msgstr ""
+"<h2> Dengan menyatakan maklumat peribadi di laman web Lovetime.com (dirujuk "
+"sebagai laman web) Saya bersetuju sebagaimana berikut: </h2> <ol> <li> Saya "
+"mengesahkan bahawa telah membaca terma-terma dan syarat-syarat serta "
+"bersedia mematuhi aturan tersebut. </Li> <li> Saya mengaku bahawa umur saya "
+"adalah 18 tahun ke atas. </Li> <li> Saya bertanggungjawab bagi setiap "
+"kandungan, penerbitan maklumat, integriti dan keyakinan yang diperlukan "
+"untuk mendapatkan kebenaran saya di laman web ini. </Li> <li> Saya sedia "
+"maklum laman web mengandungi maklumat orang dewasa sahaja. </li> <li> Saya "
+"berjanji untuk menggunakan laman web selari dengan undang-undang. </li> <li> "
+"Saya berjanji tidak akan menghantar mesej, alamat e-mel, nombor telefon, "
+"pautan atau butir-butir lain yang tidak sepatutnya. </Li> <li> Saya berjanji "
+"untuk tidak menyebarkan penghinaan, fitnah, lucah, pornografi atau lain-lain "
+"bahan tidak bermoral; bahan-bahan yang menunjukkan atau menggalakkan "
+"kekejaman, keganasan atau kekerasan, perkara yang menyinggung perasaan "
+"sesama manusia, serta bahan-bahan lain yang menyalahi undang-undang. </Li> "
+"<li> Saya berjanji tidak akan mengelirukan pengguna lain serta tidak "
+"mengganggu mereka. </Li> <li> Saya berjanji untuk tidak menggunakan laman "
+"web ini untuk menarik perhatian pengguna dengan barang-barang, kerja atau "
+"perkhidmatan yang dihasilkan , dijual, dilakukan atau diberikan saya atau "
+"orang lain. Saya berjanji untuk tidak menggunakan laman ini untuk "
+"mengiklankan atau mempromosikan bahan-bahan yang menyalahi undang-undang. </"
+"Li> <li> Saya sedar bahawa maklumat saya diletakkan di laman web boleh di "
+"akses oleh pengguna Internet yang lain bagi tindakan pentadbiran laman web "
+"dan tidak tanggungjawab ke atasnya </li> <li> Saya bertanggungjawab penuh "
+"bagi kesan negatif yang mungkin disebabkan oleh hantaran jemputan tanpa nama "
+"saya. </Li> </ol> <h2> Pihak pengurusan laman web tidak bertanggung jawab "
+"bagi: </h2> <ol> <li> Kandungan, kesalahan dan ketepatan maklumat yang "
+"disiarkan oleh pengguna </li> <li> Sebarang kemudaratan, kerosakan atau "
+"kehilangan maklumat disebabkan oleh mana-mana orang yang menggunakan laman "
+"web atau melalui komunikasi mudah alih dan telekomunikasi lain. </Li> "
+"<li>Melanggar hakcipta Pengguna dan hak-hak lain seperti pihak ketiga "
+"melalui bahan penerbitan yang tidak mengikut undang-undang (termasuk undang-"
+"undang hak cipta), ditambah oleh pengguna pada laman web ini</li> </ol>"
+
+msgid "error404"
+msgstr "Salah 404"
+
+msgid "pageNotFound"
+msgstr "Laman web tidak ditemui"
+
+msgid "formMustFill"
+msgstr "Diperlukan"
+
+msgid "feedbackFile"
+msgstr "Gambar skrin"
+
+msgid "feedbackFileTip"
+msgstr "Kesalahan meletakkan gambar skrin anda"
+
+msgid "siteCopyrightTh"
+msgstr "Lovetime.com"
+
+msgid "man"
+msgstr "Lelaki"
+
+msgid "woman"
+msgstr "Wanita"
+
+msgid "countrySelectName"
+msgstr "Negara"
+
+msgid "citySelectName"
+msgstr "Bandar"
+
+msgid "signupBirthDay"
+msgstr "Tarikh Lahir"
+
+msgid "signupBirthMonth"
+msgstr "Bulan"
+
+msgid "signupBirthYear"
+msgstr "Tahun"
+
+msgid "systemRegister"
+msgstr "Pendaftaran"
+
+msgid "signupLicenseNote"
+msgstr ""
+"Dengan klik &laquo;Daftar&raquo; anda&nbsp;sahkan bahawa anda berumur "
+"&nbsp;18 tahun ke atas dan&nbsp;bersetuju <a href=\"/pages/rules\"> dengan "
+"syarat kepenggunaan</a>"
+
+msgid "searchExcite"
+msgstr "Faktor tarikan seks"
+
+msgid "searchExcitesHe"
+msgstr "Berminat tentang"
+
+msgid "searchExcitesShe"
+msgstr "Berminat tentang"
+
+msgid "searchFrom"
+msgstr "Daripada"
+
+msgid "searchTo"
+msgstr "Kepada"
+
+msgid "searchSm"
+msgstr "(cm)"
+
+msgid "searchKg"
+msgstr "(kg)"
+
+msgid "searchSkipCond"
+msgstr "Langkau peruntukan ini"
+
+msgid "sexYears"
+msgstr "Tahun"
+
+msgid "searchHave"
+msgstr "Ya"
+
+msgid "searchHaveNot"
+msgstr "Tidak"
+
+msgid "searchHaveChildren"
+msgstr "Ya"
+
+msgid "searchHaveNotChildren"
+msgstr "Tidak"
+
+msgid "searchLocationUndefined"
+msgstr "Lokasi tertentu"
+
+msgid "nearFilterOnline"
+msgstr "Online"
+
+msgid "nearFilterNew"
+msgstr "Baru"
+
+msgid "nearFilterAll"
+msgstr "Semua"
+
+msgid "searchAddParams"
+msgstr "Pilihan cepat"
+
+msgid "searchAddToSearch"
+msgstr "Tambah ke&nbsp;cari"
+
+msgid "searchChooseAddParam"
+msgstr "Pilih carian tercepat"
+
+msgid "carouselYes"
+msgstr "Ya"
+
+msgid "carouselMaybeYes"
+msgstr "Paling berkemungkinan"
+
+msgid "carouselNo"
+msgstr "Tidak"
+
+msgid "carouselLikeHim"
+msgstr "Adakah anda ingin bertemu &nbsp;dia? "
+
+msgid "carouselLikeHer"
+msgstr "Adakah anda ingin bertemu &nbsp;dia?"
+
+msgid "carouselMutualGreeting"
+msgstr "<strong>Tahniah!</strong> anda mempunyai keserasian"
+
+msgid "carouselMutualMessageFemale"
+msgstr "ingin&nbsp;to&nbsp;bertemu anda juga"
+
+msgid "carouselMutualMessageMale"
+msgstr "ingin&nbsp;to&nbsp;bertemu anda juga"
+
+msgid "chatWithHer"
+msgstr "Berbual dengan si dia"
+
+msgid "chatWithHim"
+msgstr "Berbual dengan si dia"
+
+msgid "chatMutualGreeting_female"
+msgstr ""
+"%s anda&nbsp;mahu bertemujanji, setuju untuk bertemu anda! Dia sedang "
+"menunggu mesej anda untuk mengatur &nbsp;temujanji!"
+
+msgid "chatMutualGreeting_male"
+msgstr ""
+"%s anda&nbsp;mahu bertemujanji, setuju untuk bertemu anda! Dia sedang "
+"menunggu mesej anda untuk mengatur &nbsp;temujanji!"
+
+msgid "gallerySingleUploadBtn"
+msgstr "Muat naik foto"
+
+msgid "km"
+msgstr "km"
+
+msgid "profileMeet"
+msgstr "Temujanji"
+
+msgid "wannaMeet"
+msgstr "Ingin berjumpa?"
+
+msgid "wannaMeetHer"
+msgstr "Ingin bertemu&nbsp;si dia?"
+
+msgid "wannaMeetHim"
+msgstr "Ingin bertemu&nbsp;si dia?"
+
+msgid "locatorSpecifyLocationPart1"
+msgstr "Nyatakan lokasi anda"
+
+msgid "locatorSpecifyLocationPart2"
+msgstr "mengikut peta, kami hanya menunjukkan sesiapa berdekatan. "
+
+msgid "locatorSpecifyLocationPart3"
+msgstr "Tentukan"
+
+msgid "corrBlackListConfirm"
+msgstr "Adakah anda pasti untuk pindahkan mesej ke senarai hitam?"
+
+msgid "corrBlackListConfirmNote"
+msgstr "Selepas ini, jika diperlukan, anda boleh dapatkan semula"
+
+msgid "actionMove"
+msgstr "Alih"
+
+msgid "actionDontMove"
+msgstr "Jangan alih"
+
+msgid "corrDeleteFolderConfirm"
+msgstr "Adakah anda pasti untuk padamkan fail?"
+
+msgid "corrDeleteFolderConfirmNote"
+msgstr ""
+"Mesej &nbsp;di sini&nbsp;telah hilang tapi&nbsp;akan dipindahkan ke&nbsp;"
+"Fail &laquo;umum&raquo;"
+
+msgid "actionDontDelete"
+msgstr "Jangan padamkan"
+
+msgid "guestsIgnoreOk"
+msgstr "Perbualan dengan&nbsp;pengguna telah dipindah ke&laquo;Abaikan&raquo;"
+
+msgid "guestsIgnoreNote"
+msgstr "Anda boleh dapatkannya kembali"
+
+msgid "actionClose"
+msgstr "Tutup"
+
+msgid "actionChat"
+msgstr "Berbual"
+
+msgid "invitePreviewFromColleagueFemale"
+msgstr "Rakan kerja anda ingin bertemu&nbsp;anda"
+
+msgid "invitePreviewFromNeighborFemale"
+msgstr "jiran anda ingin menemui&nbsp;anda"
+
+msgid "invitePreviewFromClassmateFemale"
+msgstr "Rakan sekelas anda ingin menemui&nbsp;anda"
+
+msgid "invitePreviewFromFamiliarFemale"
+msgstr "Seseorang ingin menemui&nbsp;anda"
+
+msgid "invitePreviewFromColleagueMale"
+msgstr "rakan sekerja ingin menemui&nbsp;anda"
+
+msgid "invitePreviewFromNeighborMale"
+msgstr "Jiran anda ingin menemui&nbsp;anda"
+
+msgid "invitePreviewFromClassmateMale"
+msgstr "rakan sekelas ingin menemui&nbsp;anda"
+
+msgid "invitePreviewFromFamiliarMale"
+msgstr "seseorang ingin menemui&nbsp;anda"
+
+msgid "invitePreviewTextFemale"
+msgstr ""
+"Untuk&nbsp;buktikannya&apos;s bukan gurauan &nbsp;dia akan memberitahu anda "
+"frasa kata."
+
+msgid "invitePreviewTextMale"
+msgstr ""
+"Untuk&nbsp;buktikannya&apos;s bukan gurauan &nbsp;dia akan memberitahu anda "
+"frasa kata."
+
+msgid "invitePreviewDearFemale"
+msgstr "Kepada"
+
+msgid "invitePreviewDearMale"
+msgstr "Kepada"
+
+msgid "invitePreviewCodeTitle"
+msgstr "Untuk mengetahui siapa meminati anda:"
+
+msgid "invitePreviewCodeVisitLink"
+msgstr "Klik &nbsp;pautan"
+
+msgid "invitePreviewCodeLink"
+msgstr "Saya dijemput"
+
+msgid "invitePreviewCodeSite"
+msgstr "Daftar masuk &nbsp;sesawang"
+
+msgid "invitePreviewCodeTopRight"
+msgstr "Di atas sebelah kanan"
+
+msgid "invitePreviewCodeType"
+msgstr "Masukkan kod jemputan"
+
+msgid "invitePreviewPostcardNote"
+msgstr ""
+"cetak dan&nbsp;letak poskad&nbsp;di tempat&apos;s yang senang dijumpai i.e. "
+"di cermin kereta atau&nbsp;peti surat, atau&nbsp;beg, atas&nbsp;"
+"meja&nbsp;... ada idea?"
+
+msgid "invitePreviewPhoneResendNote"
+msgstr "Jika anda ingin hantar SMS, sila masukkan nombor telefon"
+
+msgid "inviteResend"
+msgstr "Hantar semula"
+
+msgid "inviteSendInvite"
+msgstr "Hantar jemputan"
+
+msgid "inviteResent"
+msgstr "Hantar lagi"
+
+msgid "inviteSummaryTitleColleagueFemale"
+msgstr "Jemputan untuk berkenalan&nbsp;bernama"
+
+msgid "inviteSummaryTitleNeighborFemale"
+msgstr "Jemput jiran&nbsp;bernama"
+
+msgid "inviteSummaryTitleClassmateFemale"
+msgstr "Jemput rakan sekolah&nbsp;bernama"
+
+msgid "inviteSummaryTitleFamiliarFemale"
+msgstr "Menjemput kenalan &nbsp;bernama"
+
+msgid "inviteSummaryTitleColleagueMale"
+msgstr "Menjemput rakan sekerja&nbsp;bernama "
+
+msgid "inviteSummaryTitleNeighborMale"
+msgstr "Menjemput jiran&nbsp;bernama "
+
+msgid "inviteSummaryTitleClassmateMale"
+msgstr "Menjemput rakan sekelas&nbsp;bernama "
+
+msgid "inviteSummaryTitleFamiliarMale"
+msgstr "Menjemput kenalan&nbsp;bernama"
+
+msgid "inviteSummaryStateAgree"
+msgstr "Diterima"
+
+msgid "inviteSummaryStateWait"
+msgstr "Dihantar"
+
+msgid "inviteSummaryNoKeyPhrase"
+msgstr "Tanpa kata kunci"
+
+msgid "inviteFailCodeField"
+msgstr "Tidak terdapat jemputan tersebut :( Didn&apos;t anda keliru?"
+
+msgid "inviteApplySuccess"
+msgstr "Jemputan diterima!"
+
+msgid "increaseInfoConfirm4MaleTitle"
+msgstr "%s berkongsi maklumat peribadi lebih daripada anda."
+
+msgid "increaseInfoConfirm4FemaleTitle"
+msgstr "%s berkongsi maklumat peribadi lebih daripada anda. "
+
+msgid "needAddPhotoConfirmTitle"
+msgstr "Anda perlu masukkan gambar"
+
+msgid "needAddPhotoConfirmNote"
+msgstr "Untuk melihat gambar lain, anda perlu muat naik gambar profil anda"
+
+msgid "needAddPhotoConfirmYes"
+msgstr "Muat naik foto"
+
+msgid "needAddPhotoConfirmNo"
+msgstr "Batal"
+
+msgid "requiredFieldsAlertConfirmTitle"
+msgstr "Tidak dimasukkan"
+
+msgid "requiredFieldsAlertConfirmText"
+msgstr ""
+"Ruang berikut adalah diperlukan: %s<br>Sila ke profil anda dan penuhkan "
+"semua ruang."
+
+msgid "requiredFieldsAlertConfirmYes"
+msgstr "Terus ke"
+
+msgid "noticeImageSizeLimit"
+msgstr "Hadkan saiz imej"
+
+msgid "noticeImageSizeLimitText"
+msgstr "Saiz imej hendaklah kurang daripada 2 MB"
+
+msgid "emailConfirmTitle"
+msgstr "Sahkan alamat e-mel"
+
+msgid "emailConfirmAlertYes"
+msgstr "Sah"
+
+msgid "emailConfirmAlertNo"
+msgstr "Batal"
+
+msgid "bannedInfoAlertTitle"
+msgstr "Akaun anda telah disekat"
+
+msgid "bannedInfoAlertNotice"
+msgstr "Butiran boleh didapati di halaman profil"
+
+msgid "bannedInfoAlertYes"
+msgstr "Kembali ke profil"
+
+msgid "bannedInfoAlertNo"
+msgstr "Daftar keluar"
+
+msgid "emailDomainsReplaceAlertTitle"
+msgstr "Tukar e-mel"
+
+msgid "emailDomainsReplaceAlertText"
+msgstr ""
+"Kami telah tukar e-mel anda kepada %s, ianya seperti salah taip. Teruskan "
+"atau tukar kembali?"
+
+msgid "emailDomainsReplaceAlertYes"
+msgstr "Seterusnya"
+
+msgid "emailDomainsReplaceAlertNo"
+msgstr "Tukar kembali"
+
+msgid "signinAction"
+msgstr "Daftar masuk"
+
+msgid "signupAction"
+msgstr "Pendaftaran "
+
+msgid "signinEmailEmptyError"
+msgstr "Masukkan e-mel"
+
+msgid "signinEmailMaskError"
+msgstr "Masukkan e-mel yang sah"
+
+msgid "signinPasswordEmptyError"
+msgstr "Masukkan kata laluan"
+
+msgid "signinCountryEmptyError"
+msgstr "Negara"
+
+msgid "signinCityEmptyError"
+msgstr "Bandar"
+
+msgid "signinErrorBirthDayEmpty"
+msgstr "Hari"
+
+msgid "signinErrorBirthMonthEmpty"
+msgstr "Bulan"
+
+msgid "signinErrorBirthYearEmpty"
+msgstr "Tahun"
+
+msgid "signinErrorTooYoung"
+msgstr ""
+"Pendaftaran hanya dibenarkan sekiranya umur&nbsp;melebihi 18 tahun ke atas."
+
+msgid "citySelectDisabledTitle"
+msgstr "Pilih Negara"
+
+msgid "signinPasswordMinLengthError"
+msgstr "Kata laluan sekurang-kurangnya 5&nbsp;patah perkataan"
+
+msgid "signinErrorNameEmpty"
+msgstr "Masukkan nama anda"
+
+msgid "signinErrorSex"
+msgstr "Pilih jantina anda"
+
+msgid "loginVia"
+msgstr "Daftar masuk melalui %s"
+
+msgid "registerVia"
+msgstr "Mendaftar melalui %s"
+
+msgid "timeToFindYourLove"
+msgstr "Inilah masa mencari cinta anda"
+
+msgid "socialLikeDescription"
+msgstr "berkenalan dengan rakan kerja, rakan kelas, jiran, teman bicara.."
+
+msgid "showAll"
+msgstr "Tunjuk Semua"
+
+msgid "actionMinimize"
+msgstr "Minimumkan"
+
+msgid "chatLoadingHistory"
+msgstr "Masukkan Pesanan Terdahulu"
+
+msgid "chatCitationsAdd"
+msgstr "Tambah&nbsp;Petikan Kata"
+
+msgid "chatCitationsTitle"
+msgstr "Petikan Kata"
+
+msgid "chatCitationsWelcome"
+msgstr ""
+"<p>Sila tambah frasa yang biasa digunakan dan masukkan perbualan &nbsp;"
+"in&nbsp; dengan segera</p><p>Untuk masukkan, gunakan butang<span id="
+"\"citations-welcome-button\"></span> tambah petikan kata</p>"
+
+msgid "statusOnline"
+msgstr "Ke udara sekarang"
+
+msgid "actionEdit"
+msgstr "Ubah"
+
+msgid "chatCitationsRestore"
+msgstr "Masukkan semula percakapan"
+
+msgid "chatNewMessageFrom"
+msgstr "Pesanan terbaru daripada"
+
+msgid "chatEmptyTitle"
+msgstr "Tiada pesanan melalui laman bual anda"
+
+msgid "chatEmptyText"
+msgstr ""
+"Untuk menambah teman baik, pilih pengguna kesukaan, sebagai contoh <a href="
+"\"/\">Cari</a>, dan klik \"Jenis\""
+
+msgid "formUploadFile"
+msgstr "Muat naik fail"
+
+msgid "formDeleteFile"
+msgstr "Padam fail"
+
+msgid "socialLikeTitle"
+msgstr "Laman web yang hebat! Lovetime"
+
+msgid "About Yiinka"
+msgstr "Tentang Yinke"
+
+msgid "systemInstruments"
+msgstr "Alat"
+
+msgid "Import CSV"
+msgstr "Import dari CSV "
+
+msgid "chatMessages"
+msgstr "Mesej"
+
+msgid "profileMessages"
+msgstr "Mesej"
+
+msgid "chatAll"
+msgstr "Semua"
+
+msgid "chatOnline"
+msgstr "Online"
+
+msgid "correspondencesActions"
+msgstr "Tindakan"
+
+msgid "actionMoveIn"
+msgstr "Pindah ke:"
+
+msgid "actionBlacklist"
+msgstr "Senarai hitam"
+
+msgid "chatEmptyFolder"
+msgstr "Fail adalah kosong"
+
+msgid "chatNoOnline"
+msgstr "Semua teman bicara menutup talian"
+
+msgid "correspondencesMessage"
+msgid_plural "correspondencesMessages"
+msgstr[0] "Mesej"
+
+msgid "favoriteUsers"
+msgstr "Pengguna kegemaran"
+
+msgid "favoriteLocation"
+msgstr ""
+"Anda dapat melihat \"tambahan kegemaran\" melalui fail \"kegemaran\" di "
+"bahagian \"Mesej\"."
+
+msgid "favoriteHideTip"
+msgstr "Sembunyikan tip"
+
+msgid "favoriteNext"
+msgstr "Seterusnya"
+
+msgid "favoriteCancel"
+msgstr "Batalkan"
+
+msgid "emailConfirmResultSuccess"
+msgstr "Alamat e-mel berjaya disahkan"
+
+msgid "emailConfirmAlreadyConfirmed"
+msgstr "Alamat e-mel telah disahkan"
+
+msgid "emailConfirmCheckYourEmailNow"
+msgstr "Sila periksa e-mel anda sekarang"
+
+msgid "emailConfirmClickLinkForComplete"
+msgstr ""
+"Untuk selesaikan pendaftaran, sila klik pautan yang di hantar melalui <b>"
+"%email%</b>"
+
+msgid "mailOpen"
+msgstr "Buka"
+
+msgid "emailConfirmCantGetMessage"
+msgstr "Tidak menerima e-mel?"
+
+msgid "emailConfirmCheckYourEmailOrEnterAnother"
+msgstr "Periksa alamat e-mel atau masukkan semula"
+
+msgid "emailConfirmTypeValidEmail"
+msgstr "Masukkan alamat e-mel yang sah"
+
+msgid "emailConfirmSendAgain"
+msgstr "Hantar semula"
+
+msgid "profileGuests"
+msgstr "Pelawat"
+
+msgid "guestsFemaleStranger"
+msgstr "Orang asing"
+
+msgid "guestsMaleStranger"
+msgstr "Orang asing"
+
+msgid "guestsNo"
+msgstr "Anda tidak mempunyai pelawat buat masa sekarang"
+
+msgid "catalogUsersCatalog"
+msgstr "Katalog pengguna"
+
+msgid "formPasswordSent"
+msgstr "Pertukaran kata laluan telah dihantar melalui e-mel anda."
+
+msgid "usersList"
+msgstr "Senarai pengguna"
+
+msgid "likesNoData"
+msgstr "Tiada data"
+
+msgid "guestsDataError"
+msgstr "Salah data"
+
+msgid "usersPhotoAlbumOf"
+msgstr "album&apos;s pengguna"
+
+msgid "actionUploadPhoto"
+msgstr "Muat naik foto"
+
+msgid "banProfileNotice"
+msgstr ""
+"Profil masih tidak sempurna, ditolak moderator atau tidak dibenarkan untuk "
+"dilihat. Cuba lihat pengguna yang lain."
+
+msgid "banProfileHome"
+msgstr "Laman Utama"
+
+msgid "usersWriteMessage"
+msgstr "Tulis pesanan"
+
+msgid "usersInviteToChat"
+msgstr "Jemput untuk berbual"
+
+msgid "usersAlreadyToFavorite"
+msgstr "Kegemaran tersedia"
+
+msgid "carouselDistance"
+msgstr "%s km jarak dari anda"
+
+msgid "carouselDistanceOn"
+msgstr "jarak jauh"
+
+msgid "carouselDistanceUnknown"
+msgstr "untuk mengenali, nyatakan lokasi anda"
+
+msgid "porsonalInfo"
+msgstr "Maklumat peribadi"
+
+msgid "userProfilePersonalInfoShow"
+msgstr "Tunjukkan"
+
+msgid "formResetPassword"
+msgstr "Dapatkan pautan untuk tetapkan kata laluan baru"
+
+msgid "carouselDisabledTitle"
+msgstr "Foto anda diperlukan"
+
+msgid "uploadPhoto"
+msgstr "Muat naik foto"
+
+msgid "carouselDisabledText"
+msgstr ""
+"Adakah anda telah bersedia untuk&nbsp;a temujanji dengan&nbsp; hantu? Tidak? "
+"Sila muat naik&nbsp;sekurang-kurangnya &nbsp;satu gambar profil. Kejayaan "
+"dijamin!"
+
+msgid "backToPageDates"
+msgstr "Pilih pasangan temujanji"
+
+msgid "profileRelations"
+msgstr "Temujanji"
+
+msgid "profileLikesForMe"
+msgstr "Ingin membuat temujanji"
+
+msgid "profileMutualLikes"
+msgstr "Pasangan sejati"
+
+msgid "profileMyLikes"
+msgstr "Saya inginkan temujanji"
+
+msgid "carouselHeYes"
+msgstr "Dia berkata <strong>&laquo;Ya&raquo;</strong> "
+
+msgid "carouselSheYes"
+msgstr "Dia berkata <strong>&laquo;Ya&raquo;</strong> "
+
+msgid "carouselHeMaybe"
+msgstr "Dia berkata <strong>&laquo;Berkemungkinan&raquo;</strong> "
+
+msgid "carouselSheMaybe"
+msgstr "Dia berkata <strong>&laquo;Berkemungkinan&raquo;</strong> "
+
+msgid "carouselAnswerYes"
+msgstr "Ya!"
+
+msgid "carouselAnswerMaybe"
+msgstr "Berkemungkinan"
+
+msgid "carouselAnswerNo"
+msgstr "Tidak"
+
+msgid "carouselMyYes"
+msgstr "Anda berkata <strong>&laquo;Ya&raquo;</strong> "
+
+msgid "carouselYouMaybe"
+msgstr "Anda berkata <strong>&laquo;Ya&raquo;</strong>"
+
+msgid "updatePass"
+msgstr "Masukkan kata laluan baru"
+
+msgid "modelForgotpassChangePassword"
+msgstr "Tukar kata laluan"
+
+msgid "nearTitle1"
+msgstr "Siapa yang berdekatan"
+
+msgid "nearTitle2"
+msgstr "saya"
+
+msgid "meOnMap"
+msgstr "Lokasi"
+
+msgid "userLocationNotFound"
+msgstr "Lokasi tidak ditemui"
+
+msgid "backToPageSearch"
+msgstr "Kembali pada&nbsp;carian"
+
+msgid "pageLocationTitle"
+msgstr "Nyatakan lokasi anda"
+
+msgid "meOnMapText2"
+msgstr ""
+"Pengguna lain tidak melihat lokasi anda. Hanya jarak secara lebih kurang."
+
+msgid "userLocationPlaceholder"
+msgstr "sila masukkan nombor rumah, nama jalan dan bandar"
+
+msgid "userLocationFind"
+msgstr "Cari"
+
+msgid "locationClear"
+msgstr "Buangkan tanda"
+
+msgid "usersRefuseFromMails"
+msgstr "Abaikan notis mel"
+
+msgid "usersRefuseFromMailsOk"
+msgstr "anda tidak inginkan notifikasi melalui e-mel"
+
+msgid "profileMySettings"
+msgstr "Tetapan"
+
+msgid "profileNotificationSettings"
+msgstr "Tentukan notifikasi"
+
+msgid "inviteIncognitoTitle"
+msgstr "&laquo;Penyamaran&raquo;"
+
+msgid "loginWidgetIncognitoText"
+msgstr "Gambar disembunyikan daripada pengguna yang lain "
+
+msgid "UTC-11:00"
+msgstr "(UTC-11:00) Masa mengikut UTC format adalah 11"
+
+msgid "UTC-10:00"
+msgstr "(UTC-10:00) Hawaii"
+
+msgid "UTC-9:00"
+msgstr "(UTC-09:00) Alaska"
+
+msgid "UTC-8:00[1]"
+msgstr "(UTC-08:00) Baja California"
+
+msgid "UTC-8:00[2]"
+msgstr "(UTC-08:00) Masa pasifik (U.S. dan Kanada)"
+
+msgid "UTC-7:00[1]"
+msgstr "(UTC-07:00) Arizona"
+
+msgid "UTC-7:00[2]"
+msgstr "(UTC-07:00) Masa gunung (U.S. dan Kanada)"
+
+msgid "UTC-7:00[3]"
+msgstr "(UTC-07:00) La Paz, Mazatlan, Chihuahua"
+
+msgid "UTC-6:00[1]"
+msgstr "(UTC-06:00) Guadalajara, Bandar Mexico, Monterrey"
+
+msgid "UTC-6:00[2]"
+msgstr "(UTC-06:00) Saskatchewan, Amerika Tengah"
+
+msgid "UTC-6:00[3]"
+msgstr "(UTC-06:00) Masa tengah (U.S. dan Kanada)"
+
+msgid "UTC-5:00[1]"
+msgstr "(UTC-05:00) Bogota, Quito, Lima"
+
+msgid "UTC-5:00[2]"
+msgstr "(UTC-05:00) Masa timur (U.S. dan Kanada)"
+
+msgid "UTC-5:00[3]"
+msgstr "(UTC-05:00) Indiana (Timur)"
+
+msgid "UTC-4:30"
+msgstr "(UTC-04:30) Caracas"
+
+msgid "UTC-4:00[1]"
+msgstr "(UTC-04:00) Asuncion"
+
+msgid "UTC-4:00[2]"
+msgstr "(UTC-04:00) Masa Atlantik (Kanada)"
+
+msgid "UTC-4:00[3]"
+msgstr "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+
+msgid "UTC-4:00[4]"
+msgstr "(UTC-04:00) Cuiaba"
+
+msgid "UTC-4:00[5]"
+msgstr "(UTC-04:00) Santiago"
+
+msgid "UTC-3:30"
+msgstr "(UTC-03: 30) Newfoundland"
+
+msgid "UTC-3:00[1]"
+msgstr "(UTC-03:00) Brazil"
+
+msgid "UTC-3:00[2]"
+msgstr "(UTC-03: 00) Buenos Aires"
+
+msgid "UTC-3:00[3]"
+msgstr "(UTC-03:00) Greenland"
+
+msgid "UTC-3:00[4]"
+msgstr "(UTC-03:00) Cayenne, Fortaleza"
+
+msgid "UTC-3:00[5]"
+msgstr "(UTC-03:00) Montevideo"
+
+msgid "UTC-2:00[1]"
+msgstr "(UTC-02:00) Masa di UTC format adalah 02:00"
+
+msgid "UTC-2:00[2]"
+msgstr "(UTC-02:00) Masa Mid-Atlantic "
+
+msgid "UTC-1:00[1]"
+msgstr "(UTC-01:00) Azores"
+
+msgid "UTC-1:00[2]"
+msgstr "(UTC-01:00) Cape Verde Islands"
+
+msgid "UTC0[2]"
+msgstr "(UTC±00:00) Dublin, Lisbon, London, Edinburgh"
+
+msgid "UTC0[3]"
+msgstr "(UTC±00:00) Casablanca"
+
+msgid "UTC0[4]"
+msgstr "(UTC±00:00) Monrovia, Reykjavik"
+
+msgid "UTC+1[1]"
+msgstr "(UTC+01:00) Amsterdam, Berlin, Bern, Vienna, Rom, Stockholm"
+
+msgid "UTC+1[2]"
+msgstr "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+
+msgid "UTC+1[3]"
+msgstr "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris"
+
+msgid "UTC+1[4]"
+msgstr "(UTC+01:00) Warsaw, Zagreb, Sarajevo, Skopje"
+
+msgid "UTC+1[5]"
+msgstr "(UTC+01:00) Windhoek"
+
+msgid "UTC+1[6]"
+msgstr "(UTC+01:00) Afrika Barat Tengah "
+
+msgid "UTC+2[1]"
+msgstr "(UTC+02:00) Amman"
+
+msgid "UTC+2[2]"
+msgstr "(UTC+02:00) Athens, Bucharest"
+
+msgid "UTC+2[3]"
+msgstr "(UTC+02:00) Beirut"
+
+msgid "UTC+2[4]"
+msgstr "(UTC+02:00) Vilnius, Kiev, Riga, Sofia, Tallinn, Helsinki"
+
+msgid "UTC+2[5]"
+msgstr "(UTC+02:00) Damascus"
+
+msgid "UTC+2[6]"
+msgstr "(UTC+02:00) Jerusalem"
+
+msgid "UTC+2[7]"
+msgstr "(UTC+02:00) Kaherah"
+
+msgid "UTC+2[8]"
+msgstr "(UTC+02:00) Nicosia"
+
+msgid "UTC+2[9]"
+msgstr "(UTC+02:00) Istanbul"
+
+msgid "UTC+2[10]"
+msgstr "(UTC+02:00) Harare, Pretoria"
+
+msgid "UTC+3[1]"
+msgstr "(UTC+03:00) Baghdad"
+
+msgid "UTC+3[2]"
+msgstr "(UTC+03:00) Kaliningrad, Minsk"
+
+msgid "UTC+3[3]"
+msgstr "(UTC+03:00) Kuwait, Riyadh"
+
+msgid "UTC+3[4]"
+msgstr "(UTC+03:00) Nairobi"
+
+msgid "UTC+3:30"
+msgstr "(UTC+03:30) Tehran"
+
+msgid "UTC+4[1]"
+msgstr "(UTC+04:00) Abu Dhabi, Muscat"
+
+msgid "UTC+4[2]"
+msgstr "(UTC+04:00) Baku"
+
+msgid "UTC+4[3]"
+msgstr "(UTC+04:00) Volgograd, Moscow, St. Petersburg"
+
+msgid "UTC+4[4]"
+msgstr "(UTC +04:00) Yerevan"
+
+msgid "UTC+4[5]"
+msgstr "(UTC+04:00) Tbilisi"
+
+msgid "UTC+4:30"
+msgstr "(UTC+04:30) Kabul"
+
+msgid "UTC+5[1]"
+msgstr "(UTC+05:00) Islamabad, Karachi"
+
+msgid "UTC+5[2]"
+msgstr "(UTC+05:00) Tashkent"
+
+msgid "UTC+5:30"
+msgstr "(UTC+05:30) Kolkata, Mumbai, New Delhi, Chennai"
+
+msgid "UTC+5:45"
+msgstr "(UTC+05:45) Katmandu"
+
+msgid "UTC+6[1]"
+msgstr "(UTC+06:00) Astana"
+
+msgid "UTC+6[2]"
+msgstr "(UTC+06:00) Dacca"
+
+msgid "UTC+6[3]"
+msgstr "(UTC+06:00) Yekaterinburg"
+
+msgid "UTC+6:30"
+msgstr "(UTC+06:30) Yangon"
+
+msgid "UTC+7[1]"
+msgstr "(UTC+07:00) Bangkok, Jakarta, Hanoi"
+
+msgid "UTC+7[2]"
+msgstr "(UTC+07:00) Novosibirsk"
+
+msgid "UTC+8[1]"
+msgstr "(UTC+08:00) Hong Kong, Beijing, Urumqi, Chongqing"
+
+msgid "UTC+8[2]"
+msgstr "(UTC+08:00) Krasnoyarsk"
+
+msgid "UTC+8[3]"
+msgstr "(UTC+08:00) Kuala Lumpur, Singapura"
+
+msgid "UTC+8[4]"
+msgstr "(UTC+08:00) Perth"
+
+msgid "UTC+8[5]"
+msgstr "(UTC+08:00) Taipei"
+
+msgid "UTC+8[6]"
+msgstr "(UTC+08:00) Ulaanbaatar"
+
+msgid "UTC+9[1]"
+msgstr "(UTC+09:00) Irkutsk"
+
+msgid "UTC+9[2]"
+msgstr "(UTC+09:00) Osaka, Sapporo, Tokyo"
+
+msgid "UTC+9[3]"
+msgstr "(UTC+09:00) Seoul"
+
+msgid "UTC+9:30[1]"
+msgstr "(UTC+09:30) Adelaide"
+
+msgid "UTC+9:30[2]"
+msgstr "(UTC+09:30) Darwin"
+
+msgid "UTC+10[1]"
+msgstr "(UTC+10:00) Brisbane"
+
+msgid "UTC+10[2]"
+msgstr "(UTC+10:00) Guam, Port Moresby"
+
+msgid "UTC+10[3]"
+msgstr "(UTC+10:00) Guam, Port Moresby"
+
+msgid "UTC+10[4]"
+msgstr "(UTC+10:00) Hobart"
+
+msgid "UTC+10[5]"
+msgstr "(UTC+10:00) Yakutsk"
+
+msgid "UTC+11[1]"
+msgstr "(UTC+11:00) Vladivostok"
+
+msgid "UTC+11[2]"
+msgstr "(UTC+11:00) Solomon Islands, New Caledonia"
+
+msgid "UTC+12[1]"
+msgstr "(UTC+12:00) Wellington, Auckland"
+
+msgid "UTC+12[3]"
+msgstr "(UTC+12:00) Magadan"
+
+msgid "UTC+12[4]"
+msgstr "(UTC+12:00) Fiji"
+
+msgid "UTC+13[1]"
+msgstr "(UTC+13:00) Nuku'alofa"
+
+msgid "UTC+13[2]"
+msgstr "(UTC+13:00) Samoa"
+
+msgid "profileAdditional"
+msgstr "Secara Pilihan"
+
+msgid "saved"
+msgstr "Disimpan"
+
+msgid "userSettingsChangePassword"
+msgstr "Tukar kata laluan"
+
+msgid "systemRegisterNew"
+msgstr "Pendaftaran pengguna terbaru"
+
+msgid "systemRegisterChange"
+msgstr "Tukar profil"
+
+msgid "registerSex"
+msgstr "Jantina"
+
+msgid "siteRulesAccept"
+msgstr "Klik butang menandakan anda bersetuju"
+
+msgid "pagesRulesTitle"
+msgstr "Persetujuan Kepenggunaan"
+
+msgid "profileMyAnketa"
+msgstr "Profil"
+
+msgid "userProfileChangeCountry"
+msgstr ""
+"Negara anda berada <strong>%current_country%</strong>. Lokasi terkini anda - "
+"<strong>%country_by_ip%</strong>. <a %href_extension% href='%link%'>Tukar "
+"profil negara anda</a>"
+
+msgid "iLookingFor"
+msgstr "Saya Mencari"
+
+msgid "preferredAgeFrom"
+msgstr "daripada"
+
+msgid "preferredAgeTo"
+msgstr "kepada"
+
+msgid "aboutMe"
+msgstr "Tentang Saya"
+
+msgid "userViewProfessionOrSphereOfActivity"
+msgstr "Pekerjaan / Aktiviti"
+
+msgid "contestUnselectAll"
+msgstr "Tidak pilih semua"
+
+msgid "step"
+msgstr ""
+
+msgid "locationSavedOk"
+msgstr "Lokasi anda telah disimpan"
+
+msgid "locationClearedOk"
+msgstr "Maklumat lokasi telah dipadam"
+
+msgid "locationSavedErr"
+msgstr "Simpanan lokasi gagal"
+
+msgid "inviteCaptchaWrong"
+msgstr "Kod salah"
+
+msgid "formIncorrectLink"
+msgstr ""
+"Sila klik pautan dan tetapkan kata laluan baru.<br />Untuk tetapkan kata "
+"laluan, sila klik pautan"
+
+msgid "msgNoNearestNew"
+msgstr "Tidak terdapat sesiapa yang berdekatan sekarang ini."
+
+msgid "msgNoNearestOnline"
+msgstr "Haraf maaf, tiada siapa yang berdekatan"
+
+msgid "msgNoNearestAll"
+msgstr "Haraf maaf, tiada sesiapa yang berdekatan."
+
+msgid "carouselUsersAreAbsent"
+msgstr "Tiada lagi pengguna untuk dilihat."
+
+msgid "profileAgeStr"
+msgstr "%s Tahun"
+
+msgid "complainSuccess"
+msgstr "Aduan anda telah di hantar ke moderator"
+
+msgid "complainNoSuccess"
+msgstr "Gagal menghantar aduan"
+
+msgid "complainAllPoles"
+msgstr "Sila penuhi setiap ruang"
+
+msgid "feedbackFileError"
+msgstr "Format fail tidak sah. Sila masukkan format: jpg, png."
+
+msgid "feedbackSentError"
+msgstr "Gagal menyimpan pesanan. Sila cuba lagi"
+
+msgid "feedbackSent"
+msgstr "Pesanan telah dihantar"
+
+msgid "unsubscribeSuccess"
+msgstr "Anda telah berjaya berhenti melanggan notifikasi e-mel"
+
+msgid "unsubscribeNoSuchUser"
+msgstr "Tiada pengguna mendaftar melalui alamat e-mel tersebut."
+
+msgid "loginWidgetPhotoDidNotModeratedYet"
+msgstr "Foto masih belum sesuai"
+
+msgid "loginWidgetPhotoDidNotPassModerated"
+msgstr "Gambar tidak sesuai kerana "
+
+msgid "chatSessionClose"
+msgstr "Sesi anda telah tamat. Sila daftar masuk semula"
+
+msgid "searchNoResults"
+msgstr "Tiada keputusan"
+
+msgid "loginWidgetAddPhoto"
+msgstr "Tambah foto"
+
+msgid "systemExitConfirmTitle"
+msgstr "Adakah pasti anda ingin daftar keluar?"
+
+msgid "systemExitConfirmBody"
+msgstr ""
+"&nbsp;Anda dikehendaki daftar masuk dan masukkan&nbsp;kata laluan sekali "
+"lagi."
+
+msgid "systemExitConfirmNo"
+msgstr "Tidak&nbsp;daftar keluar"
+

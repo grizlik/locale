@@ -1,0 +1,4271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-01 08:58+0000\n"
+"PO-Revision-Date: 2013-07-02 09:02+0200\n"
+"Last-Translator: vietnamese <>\n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/jowee/Development/flirteka/trunk\n"
+
+msgid "lettersGiftTitle"
+msgstr "Bạn có quà tặng trên %s."
+
+msgid "lettersHelloName"
+msgstr "Xin chào, %s"
+
+msgid "messageNewPresentLookAtButton"
+msgstr "Xem"
+
+msgid "lettersFindYourLoveMatch"
+msgstr "Cùng tìm nửa kia của bạn nào!"
+
+msgid "lettersUnsubscribe"
+msgstr ""
+"Nếu bạn không muốn nhận các email thông báo, bạn có thể <a href=\"%s\" style="
+"\"color: #0072bc;\">hủy đăng ký từ danh sách nhận thư</a>"
+
+msgid "lettersChangeDataByClickingTheLink"
+msgstr ""
+"Bạn có thể thay đổi các thiết lập của mình <a href=\"%s\" style=\"color: "
+"#0072bc;\">bằng cách nhấp chuột vào đường dẫn</a>"
+
+msgid "lettersUserSentGift"
+msgstr "Người dùng <b><a href='%s'>%s</a></b> đã gửi tới bạn một món quà."
+
+msgid "lettersBalanceIncreasedTitle"
+msgstr "Tài khoản của bạn đã tăng lên"
+
+msgid "lettersBalanceIncreased"
+msgid_plural "lettersBalanceIncreased"
+msgstr[0] "Tài khoản của bạn đã tăng %s xu"
+
+msgid "inviteCaptcha"
+msgstr "Mã mạch"
+
+msgid "captchaNewCode"
+msgstr "Mã mới"
+
+msgid "moderatorSpamers"
+msgstr ""
+
+msgid "formSearch"
+msgstr "Tìm kiếm"
+
+msgid "modelSpamersOneName"
+msgstr ""
+
+msgid "modelSpamersBack"
+msgstr ""
+
+msgid "modelSpamersBanTime"
+msgstr ""
+
+msgid "modelSpamersBanMessagesHeader"
+msgstr ""
+
+msgid "modelSpamersMessage"
+msgstr ""
+
+msgid "modelSpamersTranslate"
+msgstr ""
+
+msgid "modelSpamersDate"
+msgstr ""
+
+msgid "moderatorBannedUsers"
+msgstr "Người dùng bị cấm"
+
+msgid "moderatorBan"
+msgstr "Cấm"
+
+msgid "moderatorUnban"
+msgstr "Hủy cấm"
+
+msgid "statisticsMailchartsbytemplatesTemplateTitle"
+msgstr "Mẫu #%d (%s)"
+
+msgid "statisticsMailchartsbytemplatesQuantityChartTitle"
+msgstr "Số lượng"
+
+msgid "statisticsMailchartsbytemplateQuantityChartYAxis"
+msgstr "Số lượng"
+
+msgid "statisticsMailchartsbytemplatesPercentChartTitle"
+msgstr "Phần trăm"
+
+msgid "statisticsMailchartsbytemplatePercentChartYAxis"
+msgstr "Phần trăm"
+
+msgid "moderatorStatisticMenuMailTotal"
+msgstr ""
+
+msgid "moderatorStatisticMenuEximStats"
+msgstr ""
+
+msgid "statisticsMailTodayTitle"
+msgstr "Thống kê email hôm nay"
+
+msgid "statisticsMailDomainsTitle"
+msgstr "Miền xác định"
+
+msgid "statisticsMailUniqueOpens"
+msgstr "khám phá độc đáo"
+
+msgid "statisticsMailUniqueClicks"
+msgstr "cú nhấp chuột độc đáo"
+
+msgid "statisticsMailAll"
+msgstr "tổng cộng"
+
+msgid "statisticsMailTemplateTitle"
+msgstr "Chủ đề tin nhắn"
+
+msgid "statisticsMailchartsbydomainDisplayDomains"
+msgstr "Miền xác định hiển thị"
+
+msgid "statisticsMailchartsbydomainAllDomains"
+msgstr "tất cả"
+
+msgid "statisticsMailchartsbydomainDisplayCounters"
+msgstr "Hiển thị"
+
+msgid "statisticsMailchartsbydomainSubmitButton"
+msgstr "Cập nhật"
+
+msgid "statisticsMailchartsbydomainQuantityChartTitle"
+msgstr "Số lượng"
+
+msgid "statisticsMailchartsbydomainQuantityChartYAxis"
+msgstr "Số lượng"
+
+msgid "statisticsMailchartsbydomainPercentChartTitle"
+msgstr "Phần trăm"
+
+msgid "statisticsMailchartsbydomainPercentChartYAxis"
+msgstr "Phần trăm"
+
+msgid "moderatorRefusalOfInvitation"
+msgstr "Sự từ chối lời mời"
+
+msgid "moderatorComplaintAboutUsers"
+msgstr "Lời phàn nàn về người dùng"
+
+msgid "moderatorFeedBack"
+msgstr "Trả lời"
+
+msgid "moderatorErrorMessages"
+msgstr "Tin nhắn lỗi"
+
+msgid "moderatorUsers"
+msgstr "Người dùng"
+
+msgid "moderatorContactsExclusion"
+msgstr "Loại trừ liên hệ"
+
+msgid "moderatorPhotos"
+msgstr "Ảnh"
+
+msgid "moderatorCarousel"
+msgstr "Băng chuyền"
+
+msgid "moderatorModeratingPhotos"
+msgstr "Điều chỉnh ảnh"
+
+msgid "moderatorEmailNotifications"
+msgstr "Thông báo qua email"
+
+msgid "moderatorBlackListForDeliveries"
+msgstr "Danh sách đen gửi thư"
+
+msgid "moderatorUsernamesBlacklist"
+msgstr "Danh sách đen"
+
+msgid "moderatorStatistic"
+msgstr "Thống kê"
+
+msgid "moderatorStatisticOpenedClickedStats"
+msgstr ""
+
+msgid "moderatorStatisticMenuMailNumbers"
+msgstr "Thư - dữ liệu"
+
+msgid "moderatorStatisticMenuMailChartByDomain"
+msgstr "Thư - biểu đồ - miền xác định"
+
+msgid "moderatorStatisticMenuMailChartByTemplate"
+msgstr "Thư - biểu đồ - mẫu"
+
+msgid "moderatorRemovedRestoredUsers"
+msgstr "Xóa / phục hồi hồ sơ"
+
+msgid "Advertising statistics"
+msgstr ""
+
+msgid "moderatorBalanceBilling"
+msgstr "Thanh toán"
+
+msgid "moderatorMenuItemProducts"
+msgstr "Sản phẩm"
+
+msgid "moderatorMenuItemProductPresents"
+msgstr "Quà"
+
+msgid "systemExit"
+msgstr "Thoát"
+
+msgid "systemUser"
+msgstr "Người dùng"
+
+msgid "moderatorRemoveRecord"
+msgstr "Xóa sự ghi chép"
+
+msgid "moderatorMaxUsersOnline"
+msgstr "Người dùng online (tối đa)"
+
+msgid "moderatorRegisteredStatistic"
+msgstr ""
+
+msgid "moderatorAudienceOfSystem"
+msgstr "Khách của hệ thống"
+
+msgid "moderatorInAll"
+msgstr "Tất cả"
+
+msgid "moderatorQuantityOfBoys"
+msgstr "Số lượng nam giới"
+
+msgid "moderatorQuantityOfGirls"
+msgstr "Số lượng nữ giới"
+
+msgid "moderatorVisitsToday"
+msgstr "Lượt ghé thăm hôm nay"
+
+msgid "moderatorVisitsOnWeek"
+msgstr "Lượt ghé thăm theo tuần"
+
+msgid "moderatorVisitsOnMonth"
+msgstr "Lượt ghé thăm theo tháng"
+
+msgid "moderatorUsersWithCoords"
+msgstr "Số người dùng cung cấp vị trí"
+
+msgid "moderatorUsersFillProfile"
+msgstr "Số người dùng đã điền hồ sơ"
+
+msgid "moderatorUsersWithPhoto"
+msgstr "Người dùng có hình ảnh"
+
+msgid "moderatorPhotosToday"
+msgstr "Ảnh hôm nay"
+
+msgid "moderatorPhotosOnWeek"
+msgstr "Ảnh tuần này"
+
+msgid "moderatorPhotosOnMonth"
+msgstr "Bức ảnh trong tháng"
+
+msgid "moderatorDialogs"
+msgstr "Đối thoại"
+
+msgid "moderatorAverageNumberOfMessages"
+msgstr "Lượng tin nhắn trung bình"
+
+msgid "moderatorQuantityDialogsStartedBoys"
+msgstr "Số cuộc đối thoại bắt đầu với nam giới"
+
+msgid "moderatorQuantityDialogsStartedGirls"
+msgstr "Số cuộc đối thoại bắt đầu với nữ giới"
+
+msgid "moderatorEmails"
+msgstr "Email"
+
+msgid "moderatorEmailsConfirmed"
+msgstr "Xác nhận"
+
+msgid "moderatorEmailsNotConfirmed"
+msgstr "Chưa xác nhận"
+
+msgid "moderatorRemovedRestoredCauses"
+msgstr "Lý do xóa"
+
+msgid "moderatorRemovedRestoredDivisionForSexAndTime"
+msgstr "Theo giới tính và thời gian"
+
+msgid "guestsToday"
+msgstr "Hôm nay"
+
+msgid "guestsByWeek"
+msgstr "7 ngày qua"
+
+msgid "guestsByMonth"
+msgstr "30 ngày qua"
+
+msgid "male"
+msgstr ""
+
+msgid "female"
+msgstr ""
+
+msgid "moderatorProductPresentsTitle"
+msgstr "Quà"
+
+msgid "yes"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "moderatorProductPresentsCreateTitle"
+msgstr "Tạo món quà mới"
+
+msgid "moderatorProductPresentsUpdateTitle"
+msgstr "Cập nhật quà"
+
+msgid "usersDeleteSelectedPhotos"
+msgstr "Xóa"
+
+msgid "usersDeletePhotoConfirm"
+msgstr "Bạn chắc chắn muốn xóa ảnh?"
+
+msgid "moderatorBack"
+msgstr "Quay lại"
+
+msgid "moderatorNext"
+msgstr "Tiếp"
+
+msgid "moderatorAddRecord"
+msgstr "Thêm ghi chép"
+
+msgid "actionSave"
+msgstr "Lưu"
+
+msgid "actionCancel"
+msgstr "Hủy"
+
+msgid "moderatorChangeRecord"
+msgstr "Thay đổi ghi chép"
+
+msgid "moderatorRemove"
+msgstr "Xóa bỏ"
+
+msgid "formOperatorsBegin"
+msgstr "ở đầu mỗi dòng tìm kiếm"
+
+msgid "formOperatorsEnd"
+msgstr "Bạn có thể sử dụng các nhà cung cấp so sánh"
+
+msgid "formAdvancedSearch"
+msgstr "Tìm kiếm nâng cao"
+
+msgid "moderatorActionBanQuestion"
+msgstr "Cấm?"
+
+msgid "formCreate"
+msgstr "Tạo yếu tố"
+
+msgid "formRequired"
+msgstr "Những mục có dấu * là bắt buộc"
+
+msgid "formNoactive"
+msgstr "Không"
+
+msgid "formActive"
+msgstr "Có"
+
+msgid "systemModerator"
+msgstr "Ban quản lý"
+
+msgid "anketaPersonalsCustomLabel"
+msgstr "Khác"
+
+msgid "coin"
+msgid_plural "coins"
+msgstr[0] "xu"
+
+msgid "moderatorUserFormBalanceChangeAlt"
+msgstr "tài khoản"
+
+msgid "formSave"
+msgstr "Lưu thay đổi"
+
+msgid "formManage"
+msgstr "Quản lý yếu tố"
+
+msgid "formUpdate"
+msgstr "Sửa yếu tố"
+
+msgid "formDelete"
+msgstr "Xóa yếu tố"
+
+msgid "systemLogin"
+msgstr "Đăng nhập"
+
+msgid "moderatorComplaintsResolved"
+msgstr "Đã giải quyết"
+
+msgid "moderatorComplaintsNew"
+msgstr "Mới"
+
+msgid "sexFemale"
+msgstr "Nữ"
+
+msgid "sexMale"
+msgstr "Nam"
+
+msgid "formList"
+msgstr "Danh sách yếu tố"
+
+msgid "formView"
+msgstr "Yếu tố nhìn"
+
+msgid "moderatorSlider"
+msgstr "Thanh trượt"
+
+msgid "moderatorMosaic"
+msgstr "khảm"
+
+msgid "photosStatusNew"
+msgstr "Mới"
+
+msgid "moderatorActions"
+msgstr "Hoạt động"
+
+msgid "moderatorAccept"
+msgstr "Đồng ý"
+
+msgid "moderatorRefuse"
+msgstr "Từ chối"
+
+msgid "moderatorModerating"
+msgstr ""
+
+msgid "moderatorPhotosVersions"
+msgstr "phiên bản hình ảnh"
+
+msgid "moderatorStatus"
+msgstr "tình trạng"
+
+msgid "userID"
+msgstr "ID người dùng"
+
+msgid "moderatorPhotosSearchInTheWeb"
+msgstr "Tìm kiếm trong trang web"
+
+msgid "modelUsersSex"
+msgstr "Giới tính"
+
+msgid "searchGo"
+msgstr "Tìm kiếm"
+
+msgid "moderatorRefuseReason"
+msgstr "lý do từ chối"
+
+msgid "moderatorLastEditName"
+msgstr ""
+
+msgid "moderatorBalanceBillingGlobalCountersRegistrations"
+msgstr "Tài khoản đăng nhập / xác nhận / thanh toán"
+
+msgid "moderatorBalanceBillingGlobalCountersExpense"
+msgstr "Tổng chi của những người dùng"
+
+msgid "moderatorBalanceBillingGlobalCountersCurrent"
+msgstr "Số dư tài khoản hiện tại"
+
+msgid "moderatorBalanceSetTitle"
+msgstr "Thay đổi số dư tài khoản"
+
+msgid "moderatorBalanceSetSuccessful"
+msgstr "Số dư tài khoản thay đổi thành công"
+
+msgid "moderatorBalanceUserStatTitle"
+msgstr "thống kê số dư"
+
+msgid "moderatorBalanceUserStatTableFieldTime"
+msgstr "thời gian"
+
+msgid "moderatorBalanceUserStatTableFieldDescription"
+msgstr "mô tả"
+
+msgid "moderatorBalanceUserStatTableFieldAmount"
+msgstr "số lượng"
+
+msgid "moderatorBalanceUserStatTableFieldCurrent"
+msgstr "số dư"
+
+msgid "moderatorRegisteredToday"
+msgstr "Tổng lượt đăng ký hôm nay"
+
+msgid "bannedSecondChance"
+msgstr ""
+"Ok, tôi rõ rồi, tôi sẽ không vi phạm bất kỳ quy định nào nữa <a "
+"href='%s'>làm ơn hãy bỏ chặn tôi</a>"
+
+msgid "bannedForever"
+msgstr ""
+"Làm ơn, tạo tài khoản mới và ý thức rõ, không lặp lại những vi phạm. Bằng "
+"không, chúng tôi sẽ phải chặn tài khoản của bạn lần nữa. "
+
+msgid "actionTranslate"
+msgstr "dịch"
+
+msgid "chatSendByClickOn"
+msgstr "Gửi qua"
+
+msgid "formPleaseFixErrors"
+msgstr "Vui lòng sửa những lỗi sau:"
+
+msgid "userBalloonAddToFavorite"
+msgstr "Thêm vào mục Yêu Thích"
+
+msgid "ofPair"
+msgstr "đôi"
+
+msgid "visitor"
+msgid_plural "visitors"
+msgstr[0] "khách ghé thăm"
+
+msgid "signupMe"
+msgstr "Tôi là"
+
+msgid "signupIAmSearching"
+msgstr "Đang tìm kiếm"
+
+msgid "bannedInfoTitle"
+msgstr ""
+"Tài khoản của bạn đã bị chặn. Điều này có thể là do một trong những lý do "
+"sau đây:"
+
+msgid "bannedInfoCauseSendSpam"
+msgstr "&mdash; Thư quảng cáo hoặc thư rác;"
+
+msgid "bannedInfoCauseSendContacts"
+msgstr ""
+"&mdash; phân phối hàng loạt các thông tin liên lạc trong các tin nhắn (điện "
+"thoại, email, skype);"
+
+msgid "bannedInfoCauseWrongProfile"
+msgstr "&mdash; nội dung hồ sơ không phù hợp (quảng cáo, vân vân);"
+
+msgid "bannedInfoCauseRudeAttitude"
+msgstr "&mdash; thái độ bất lịch sự với những người dùng khác;"
+
+msgid "bannedInfoRecommendation"
+msgstr ""
+"Chúng tôi khuyên bạn nên đọc các quy định của trang web <a href=\"http://"
+"lovetime.com/pages/rules\">lovetime.com/pages/rules</a>"
+
+msgid "bannedInfoCreateNewAccount"
+msgstr ""
+"Vui lòng tạo tài khoản mới và không lặp lại các bước trên. Nếu không, chúng "
+"tôi buộc phải chặn tài khoản của bạn. "
+
+msgid "bannedInfoSendEmail"
+msgstr ""
+"Nếu bạn nghĩ rằng bạn bị chặn mà không có lý do thỏa đáng, xin vui lòng gửi "
+"email cho chúng tôi <a href=\"mailto:info@lovetime.com?subject=Wrongly "
+"banned user %id%\">info@lovetime.com</a>"
+
+msgid "loginErrorUserBanned"
+msgstr "Từ chối giao dịch. Người dùng %s đã bị cấm."
+
+msgid "messageFilterTitle"
+msgstr "Lọc tin nhắn"
+
+msgid "messageFilterSuggestion"
+msgstr "Xác định loại tin nhắn nào bạn muốn nhận"
+
+msgid "messageFilterReceiveFromAll"
+msgstr "Tất cả tin nhắn"
+
+msgid "messageFilterReceiveFromWoman"
+msgstr "Chỉ tin nhắn từ phụ nữ"
+
+msgid "messageFilterReceiveFromMen"
+msgstr "Chỉ tin nhắn từ đàn ông"
+
+msgid "messageFilterWithPhotoOnly"
+msgstr "Chỉ từ người có ảnh"
+
+msgid "messageFilterAgedFrom"
+msgstr "Độ tuổi người dùng từ"
+
+msgid "messageFilterAgedTo"
+msgstr "đến"
+
+msgid "messageFilterFromMyCountry"
+msgstr "Chỉ người từ đất nước tôi"
+
+msgid "modelUsersFilterSex"
+msgstr "Lọc theo giới tính"
+
+msgid "modelUsersFilterPhoto"
+msgstr "Chỉ những người có ảnh"
+
+msgid "modelUsersFilterAgeFrom"
+msgstr "Chỉ những người dùng có tuổi từ"
+
+msgid "modelUsersFilterAgeTo"
+msgstr "đến"
+
+msgid "modelUsersFilterCountry"
+msgstr "Chỉ những người từ đất nước tôi"
+
+msgid "chatFilterMan"
+msgstr ""
+"đã cài đặt thể thức nhận tin nên bạn không thể gửi tin nhắn cho anh ấy. Thử "
+"chat với người khác nhé."
+
+msgid "chatFilterWoman"
+msgstr ""
+"đã cài đặt thể thức nhận tin nên bạn không thể gửi tin nhắn cho cô ấy. Thử "
+"chat với người khác nhé."
+
+msgid "chatImpossibleCompanionBanned"
+msgstr ""
+"Bạn không thể gửi tin nhắn vì người dùng %s đã bị block bởi ban quản trị "
+"hoặc đã tự động xóa hồ sơ."
+
+msgid "lettersHiAndWelcome"
+msgstr "Xin chào, Ban quản trị %name%! %host% xin chào mừng bạn!"
+
+msgid "lettersAlmostDone"
+msgstr "Sắp hoàn thành rồi..."
+
+msgid "lettersConfirm"
+msgstr "Xác nhận email"
+
+msgid "lettersPersonalData"
+msgstr "Thông tin cá nhân của bạn:"
+
+msgid "lettersNick"
+msgstr "Tên:"
+
+msgid "lettersEmail"
+msgstr "Email:"
+
+msgid "lettersAboutSite"
+msgstr ""
+"Bạn có thể tìm thấy người bạn đời của mình trên trang web của chúng tôi, có "
+"mối quan hệ yêu đương lãng mạn, tán tỉnh giấu tên với bạn bè và người quen "
+"của bạn."
+
+msgid "lettersTryIt"
+msgstr "<a href=\"%s\">Hãy thử đi!</a> Sẽ rất thú vị đấy!"
+
+msgid "lettersTellAboutUs"
+msgstr "Nói với tất cả bạn bè của bạn về trang web này."
+
+msgid "lettersThankYou"
+msgstr "Cảm ơn bạn."
+
+msgid "lettersYouCanChangeData"
+msgstr "Bạn có thể thay đổi các thông tin của bạn tại:"
+
+msgid "removingProfileRemovingProfile"
+msgstr "Xóa tài khoản"
+
+msgid "removingProfileRemoveProfileAction"
+msgstr "Xóa tài khoản"
+
+msgid "removingProfileQuestion"
+msgstr "Bạn chắc chắn muốn xóa tài khoản?"
+
+msgid "removingProfileCauseManagedFindYourSoulMate"
+msgstr "Tôi đã tìm thấy tri kỷ của mình!"
+
+msgid "removingProfileCauseICanNotFindAnyone"
+msgstr ""
+"Tôi đã sử dụng trang web trong thời gian dài và vẫn chưa tìm thấy người "
+"thích hợp. "
+
+msgid "removingProfileCauseIPlanGoBack"
+msgstr "Tôi tạm thời rời khỏi trang web, nhưng tôi sẽ trở lại."
+
+msgid "removingProfileCauseIHaveAnotherProfile"
+msgstr "Tôi có hồ sơ mới."
+
+msgid "removingProfileCauseIWasInsultedByAnother"
+msgstr "Tôi bị người dùng khác xúc phạm."
+
+msgid "removingProfileCauseIReceiveOffersEroticServices"
+msgstr "Tôi nhận được lời mời khiếm nhã."
+
+msgid "removingProfileCauseOther"
+msgstr "Khác"
+
+msgid "removingProfileIChangedMyMindAction"
+msgstr "Tôi đã đổi ý."
+
+msgid "removingProfileNotification"
+msgstr ""
+"Bằng cách nhấp vào \"Xóa\", một email xác nhận sẽ được gửi đến (%email%). "
+"Thực hiện theo hướng dẫn trong email và xác nhận loại bỏ hồ sơ của bạn. Nếu "
+"bạn muốn khôi phục lại tài khoản (bao gồm cả hình ảnh và danh sách liên "
+"lạc), bạn có thể khôi phục trong vòng 30 ngày."
+
+msgid "removingProfileRemoveAction"
+msgstr "Xóa"
+
+msgid "removingProfileCanselAction"
+msgstr "Hủy"
+
+msgid "removingProfileEmailSendNotification"
+msgstr ""
+"Email xác nhận việc xóa tài khoản của bạn đã được gửi. Xin vui lòng làm theo "
+"các hướng dẫn và bấm vào liên kết được cung cấp trong email này để hoàn "
+"thành quá trình xóa tài khoản."
+
+msgid "removingProfileNextAction"
+msgstr "Tiếp"
+
+msgid "removingProfileEnterEmailAndCode"
+msgstr "Nhập địa chỉ email và mã bạn nhận được"
+
+msgid "removingProfileEmail"
+msgstr "Email"
+
+msgid "removingProfileEnterEmail"
+msgstr "Nhập email"
+
+msgid "removingProfileCodeOfPost"
+msgstr "Mã tin nhắn"
+
+msgid "removingProfileEnterCodeOfPost"
+msgstr "Nhập mã"
+
+msgid "removingProfileDoNotGo"
+msgstr "Đừng đi! Những người này sẽ nhớ bạn lắm!"
+
+msgid "removingProfileCancelRemovingAction"
+msgstr "Hủy"
+
+msgid "removingProfileContinueAction"
+msgstr "Tiếp tục"
+
+msgid "removingProfileRemovedStatus"
+msgstr "Tình trạng hồ sơ của bạn&mdash; đã xóa"
+
+msgid "removingProfileRemovedMessage"
+msgstr ""
+"Trang hồ sơ của bạn được đánh dấu là đã xóa. Tất cả các tin nhắn, danh bạ, "
+"hình ảnh và các thiết lập sẽ được lưu trữ trong 30 ngày trước khi bị xóa "
+"vĩnh viễn khỏi hệ thống của chúng tôi."
+
+msgid "removingProfileRestoreProfileAction"
+msgstr "Khôi phục tài khoản"
+
+msgid "modelUsersHobbies"
+msgstr "Mô tả bản thân"
+
+msgid "balanceChangesBuyProductDecreaseProductId"
+msgstr "Sản phẩm"
+
+msgid "balanceChangesByAdminUserId"
+msgstr "Người dùng"
+
+msgid "balanceChangesPSIncreasePSId"
+msgstr "Hệ thống thanh toán"
+
+msgid "BalanceIncreaseErrorTitle"
+msgstr "Lỗi tăng tài khoản"
+
+msgid "everyDayBalanceIncreasingDesc"
+msgstr "Tài khoản tăng hàng ngày"
+
+msgid "invisibleSettingsFormButton"
+msgstr "Lưu"
+
+msgid "invisibleSettingsPageText"
+msgstr ""
+"Chúng tôi khuyên bạn không sử dụng chế độ này quá thường xuyên. Dù rất khó, "
+"nhưng xin được nhắc nhở, những người đặt chế độ hiện ảnh có nhiều khả năng "
+"kết bạn hơn những thành viên vô hình."
+
+msgid "invisibleSettingsPageTitle"
+msgstr "Chế độ ẩn"
+
+msgid "modelUsersBalance"
+msgstr "tài khoản"
+
+msgid "modelUsersInvisibleeWalk"
+msgstr "Ẩn tôi trong hồ sơ khách ghé thăm của những người khác"
+
+msgid "modelUsersInvisibleOnline"
+msgstr "Ẩn trạng thái online"
+
+msgid "modelUsersInvisibleSuperstarStatus"
+msgstr "Ẩn trạng thái Siêu sao "
+
+msgid "moderatorProductPresentsAddButton"
+msgstr "Thêm một món quà"
+
+msgid "monetizationInfoPageSearchText"
+msgstr "Tăng cơ hội cho bạn có một mối quan hệ hạnh phúc"
+
+msgid "monetizationInfoPageSearchTitle"
+msgstr "1 vị trí trong kết quả tìm kiếm"
+
+msgid "monetizationInfoPageSuperstarButton"
+msgstr "Trở thành Siêu sao"
+
+msgid "monetizationInfoPageSuperstarText"
+msgstr "Ưu tiên trong các trò chơi \"Hẹn hò\""
+
+msgid "monetizationInfoPageSuperstarTitle"
+msgstr "Siêu sao"
+
+msgid "monetizationInfoPageText"
+msgstr "Bạn có thể <a href='#' id='%s'>mua xu</a> hoặc tìm trên trang web."
+
+msgid "monetizationInfoPageText2"
+msgstr "Chúng tôi tặng bạn một xu miễn phí mỗi ngày."
+
+msgid "monetizationInfoPageTitle"
+msgstr "Sử dụng xu để trở nên nổi tiếng hơn."
+
+msgid "monetizationInfoPageTopFacesButton"
+msgstr "Lên trang đầu"
+
+msgid "monetizationInfoPageTopFacesText"
+msgstr ""
+"Chúng tôi xem xét sở thích của bạn và chọn những người phù hợp dựa trên một "
+"thuật toán độc đáo."
+
+msgid "monetizationInfoPageTopFacesTitle"
+msgstr "Vị trí trên cùng"
+
+msgid "monetizationAboutTopTitle"
+msgstr "Quảng cáo bản thân"
+
+msgid "monetizationAboutTopText"
+msgstr "Cải thiện vị trí trong kết quả tìm kiếm và trong mục hình ảnh"
+
+msgid "monetizationAboutTopButton"
+msgstr "Quảng cáo lên TOP"
+
+msgid "monetizationAboutGiftsTitle"
+msgstr "Quà tặng"
+
+msgid "monetizationAboutGiftsText"
+msgstr "Tăng độ phổ biến của bạn"
+
+msgid "monetizationAboutUnlimitedTitle"
+msgstr "Không giới hạn"
+
+msgid "monetizationAboutUnlimitedText"
+msgstr "Loại bỏ tất cả hạn chế"
+
+msgid "monetizationAboutUnlimitedButton"
+msgstr "Loại bỏ hạn chế"
+
+msgid "monetizationAboutVipTitle"
+msgstr "VIP"
+
+msgid "monetizationAboutVipText"
+msgstr "Nâng cấp diện mạo hồ sơ của bạn"
+
+msgid "monetizationAboutVipButton"
+msgstr "Trở thành VIP"
+
+msgid "monetizationAboutIncognitoTitle"
+msgstr "Ẩn"
+
+msgid "monetizationAboutIncognitoText"
+msgstr "Đặt chế độ ẩn trước những người khác"
+
+msgid "monetizationAboutIncognitoButton"
+msgstr "Hiện offline"
+
+msgid "monetizationBalanceSendSMS"
+msgstr "Gửi SMS"
+
+msgid "monetizationBalanceSum"
+msgstr "Số tiền thanh toán"
+
+msgid "monetizationBalancePhoneNumber"
+msgstr "Số điện thoại "
+
+msgid "monetizationBalanceOrderNumber"
+msgstr "Số đơn hàng"
+
+msgid "monetizationBalanceYouPayOrder"
+msgstr "Bạn trả cho đơn hàng"
+
+msgid "monetizationBalanceCheckOrder"
+msgstr "Kiểm tra đơn hàng"
+
+msgid "monetizationBalanceOperator"
+msgstr "Nhà cung cấp"
+
+msgid "monetizationBalanceUpText"
+msgstr "Để tăng số dư lên %s xu (chưa bao gồm VAT), bạn cần gửi một tin nhắn."
+
+msgid "monetizationBalanceNumber"
+msgstr "Số"
+
+msgid "monetizationBalanceText"
+msgstr "Nội dung"
+
+msgid "paymentDialogMessageSuperstarForSearch"
+msgstr ""
+"Để xem các hồ sơ được tìm thấy bằng cách sử dụng tìm kiếm nâng cao, bạn cần "
+"kích hoạt tình trạng Siêu sao."
+
+msgid "paymentDialogTitleDefault"
+msgstr "Thêm vào tài khoản"
+
+msgid "paymentDialogTitleSuperstar"
+msgstr "Mua trạng thái Siêu sao"
+
+msgid "paymentDialogTitleTopFaces"
+msgstr "Lên trên cùng"
+
+msgid "paymentDialogWidgetBuy"
+msgstr "trả"
+
+msgid "paymentDialogWidgetTermsOfUse"
+msgstr "Điều khoản sử dụng"
+
+msgid "productPresentModelCodePatternMessage"
+msgstr ""
+"mã sản phẩm phải là 'quà-*', với * là một hoặc nhiều chữ số hoặc chữ cái "
+"viết thường "
+
+msgid "productPresentModelImageFieldLabel"
+msgstr "hình ảnh"
+
+msgid "productSuperstar12PublicTitle"
+msgstr "Trạng thái Ngôi sao trong vòng 12 tháng"
+
+msgid "productSuperstar1PublicTitle"
+msgstr "Trạng thái Ngôi sao trong vòng 1 tháng"
+
+msgid "productSuperstar3PublicTitle"
+msgstr "Trạng thái Ngôi sao trong vòng 3 tháng"
+
+msgid "productSuperstar6PublicTitle"
+msgstr "Trạng thái Ngôi sao trong vòng 6 tháng"
+
+msgid "productSuperstarFriendly"
+msgstr "thân thiện"
+
+msgid "productSuperstarStatusModelFieldPeriod"
+msgstr "khoảng thời gian"
+
+msgid "productSuperstarStatusModelFieldType"
+msgstr "kiểu"
+
+msgid "productSuperstarTypeRomantic"
+msgstr "lãng mạn"
+
+msgid "productTopFacesPublicTitle"
+msgstr "Lên trên"
+
+msgid "publicFlashNotifierWidgetPresentBalanceWasChanged"
+msgstr "Số dư tài khoản giảm %d %s"
+
+msgid "publicFlashNotifierWidgetPresentNotice"
+msgstr "Bạn đã gửi một món quà"
+
+msgid "sendGiftDialogCommentLabel"
+msgstr "Tin nhắn của bạn"
+
+msgid "sendGiftDialogHiddenFieldLabel"
+msgstr "Chi có người nhận mới thấy món quà"
+
+msgid "sendGiftDialogSubmit"
+msgstr "Gửi"
+
+msgid "sendGiftDialogText"
+msgstr "Cách tốt nhất để gây sự chú ý"
+
+msgid "sendGiftDialogTitle"
+msgstr "Gửi quà"
+
+msgid "superstarModelAttributeBegin"
+msgstr "Bắt đầu"
+
+msgid "superstarModelAttributeFinish"
+msgstr "Hoàn thành"
+
+msgid "superstarModelAttributeUser"
+msgstr "Người dùng"
+
+msgid "topFacesDialogNotice"
+msgstr "Giá là %d %s"
+
+msgid "userRatingAndBalanceWidgetBecameSuperstar"
+msgstr "Trở thành Siêu sao"
+
+msgid "userRatingAndBalanceWidgetRatingExtraLow"
+msgstr "rất thấp"
+
+msgid "userRatingAndBalanceWidgetRatingLow"
+msgstr "thấp"
+
+msgid "userRatingAndBalanceWidgetRatingMiddle"
+msgstr "trung bình"
+
+msgid "userRatingAndBalanceWidgetRatingHigh"
+msgstr "cao"
+
+msgid "userRatingAndBalanceWidgetRatingExtraHigh"
+msgstr "rất cao"
+
+msgid "userRatingAndBalanceWidgetFillUpBalance"
+msgstr "thêm"
+
+msgid "userRatingAndBalanceWidgetIncrease"
+msgstr "Tăng"
+
+msgid "userRatingAndBalanceWidgetRatingAndVisitorsText"
+msgstr ""
+"Vị trí tìm kiếm của bạn là <a href='%s'>%s</a> và hôm nay bạn có <a "
+"href='%s'>%d</a> %s"
+
+msgid "userRatingAndBalanceWidgetToTop"
+msgstr "Lên trên"
+
+msgid "userRatingAndBalanceWidgetYourRating"
+msgstr "Mức phổ biến của bạn"
+
+msgid "userViewBalloonActivateSuperstar"
+msgstr "Kích hoạt trạng thái Siêu sao"
+
+msgid "userViewBalloonReturnToBasicSearch"
+msgstr "Trở lại tìm kiếm"
+
+msgid "userViewBalloonTitle"
+msgstr ""
+"Để xem các hồ sơ được tìm thấy bằng cách sử dụng tìm kiếm nâng cao, bạn cần "
+"phải kích hoạt chế độ Siêu quyền lực"
+
+msgid "walletBalanceChangesAmount"
+msgstr "số lượng"
+
+msgid "walletBalanceChangesBalance"
+msgstr "tài khoản hiện tại"
+
+msgid "walletBalanceChangesCode"
+msgstr "mã"
+
+msgid "walletBalanceChangesDescription"
+msgstr "mô tả"
+
+msgid "walletBalanceChangesPrice"
+msgstr "giá"
+
+msgid "walletBalanceChangesProductId"
+msgstr "sản phẩm"
+
+msgid "walletBalanceChangesTimestamp"
+msgstr "giờ"
+
+msgid "walletBalanceChangesUserId"
+msgstr "người dùng"
+
+msgid "walletProductsCode"
+msgstr "mã"
+
+msgid "walletProductsCreatedAt"
+msgstr "ngày tạo"
+
+msgid "walletProductsCreatedBy"
+msgstr "tạo bởi"
+
+msgid "walletProductsDescription"
+msgstr "mô tả"
+
+msgid "walletProductsPrice"
+msgstr "giá"
+
+msgid "walletProductsTitle"
+msgstr "tiêu đề"
+
+msgid "walletProductsUpdatedAt"
+msgstr "cập nhật"
+
+msgid "walletProductsUpdatedBy"
+msgstr "cập nhật bởi"
+
+msgid "YourBalanceWasIncreasedText"
+msgstr "Tài khoản của bạn đã tăng thêm %d %s. Tài khoản hiện tại là %d %s."
+
+msgid "YourBalanceWasIncreasedTitle"
+msgstr "Tăng tài khoản"
+
+msgid "YourPresentHasBeenSent"
+msgstr "Quà đã gửi"
+
+msgid "sendGiftDialogFilterAll"
+msgstr "Tất cả"
+
+msgid "sendGiftDialogFilterFriendly"
+msgstr "Thân thiện"
+
+msgid "sendGiftDialogFilterRomantic"
+msgstr "Lãng mạn"
+
+msgid "paymentDialogBuyCoins"
+msgstr "Thêm vào tài khoản"
+
+msgid "carouselNeedBuySuperstarNotice"
+msgstr "Để xem hồ sơ bạn cần <a href=\"%s\">mua</a> trạng thái Siêu sao"
+
+msgid "leftMenuSearchPosition"
+msgstr "vị trí tìm kiếm"
+
+msgid "leftMenuVisitorsToday"
+msgstr "%s hôm nay"
+
+msgid "leftMenuButtonTop"
+msgstr "TOP"
+
+msgid "leftMenuButtonSuperstar"
+msgstr "Siêu sao"
+
+msgid "leftMenuBalance"
+msgstr "Số dư"
+
+msgid "balanceChangeTitle"
+msgstr "Đổi số dư tài khoản"
+
+msgid "balanceChangeBuyProductDecreaseTitle"
+msgstr "mua hàng hóa"
+
+msgid "balanceChangeByAdminTitle"
+msgstr "Số sư thay đổi bởi ban quản trị"
+
+msgid "balanceChangeDailyTitle"
+msgstr "Tài khoản tăng hàng ngày"
+
+msgid "balanceChangePSIncreaseTitle"
+msgstr "thêm vào tài khoản bằng hệ thống thanh toán"
+
+msgid "userProfileAddPresentBaitF"
+msgstr "Gửi cho cô ấy một món quà và cô ấy sẽ chú ý đến bạn!"
+
+msgid "userProfileAddPresentBaitM"
+msgstr "Gửi anh ấy một món quà và anh ấy sẽ chú ý tới bạn!"
+
+msgid "mailTemplateTitleNewPresent"
+msgstr "%name%, bạn đã nhận được một món quà từ %sender_name% trên %host%"
+
+msgid "mailTemplateBodyNewPresent"
+msgstr ""
+"<a href='%sender_profile_url%'>%sender_name%</a> gửi bạn một món quà. Bạn có "
+"thể thấy nó trong hồ sơ <a href='%profile_url%'>hồ sơ</a> của mình."
+
+msgid "balanceChangeBuyProductSuperstarDecreaseTitle"
+msgstr "Thanh toán kích hoạt trạng thái Siêu sao."
+
+msgid "balanceChangeBuyProductPresentDecreaseTitle"
+msgstr "Thanh toán mua quà "
+
+msgid "balanceChangeBuyProductTopFacesDecreaseTitle"
+msgstr "Thanh toán gia tăng mức độ nổi tiếng"
+
+msgid "userTransactionsPageTitle"
+msgstr "Số dư hiện tại: %d %s"
+
+msgid "userTransactionsPageDescription"
+msgstr ""
+"Tài khoản và lịch sử mua hàng của bạn trên website. <br />Trong \"Tình trạng "
+"tài khoản\", bạn có xem sự thay đổi tình trạng tài khoản của mình và <br /"
+">in tài liệu liên quan. Trong \"Lịch sử mua hàng\", bạn có thể xem các lần "
+"mua hàng trước đây của mình. "
+
+msgid "userTransactionsPageLinkTypeExpenses"
+msgstr "Tình trạng tài khoản"
+
+msgid "userTransactionsPageLinkTypeIncomes"
+msgstr "Lịch sử mua hàng"
+
+msgid "userTransactionsPageTableHeaderCol1"
+msgstr "Giao dịch"
+
+msgid "userTransactionsPageTableHeaderCol2"
+msgstr "Ngày"
+
+msgid "userTransactionsPageTableHeaderCol3"
+msgstr "Số tiền"
+
+msgid "userTransactionsPageLinkAll"
+msgstr "Xem tất cả"
+
+msgid "monetizationInfoPageLinkTransactions"
+msgstr "Tình trạng tài khoản"
+
+msgid "SuperstarPaymentWasPurchasedTitle"
+msgstr "Bạn đã kích hoạt thành công trạng thái Siêu sao!"
+
+msgid "monetizationInfoPageLinkRecharge"
+msgstr "Lấy xu"
+
+msgid "messageNewPresentText"
+msgstr ""
+
+msgid "superstarInfoPageTitle"
+msgstr "Trở thành Siêu sao!"
+
+msgid "superstarInfoPageTitleNotice"
+msgstr "Trở thành Siêu sao giúp bạn gặp gỡ nhiều người hơn, nhanh hơn."
+
+msgid "superstarInfoPageEncountersTitle"
+msgstr "Gặp Gỡ - tìm hiểu những người muốn gặp bạn"
+
+msgid "superstarInfoPageEncountersNotice"
+msgstr "Chọn thư mục Gặp Gỡ để tìm ra người đã trả lời 'Có'! "
+
+msgid "superstarInfoPageAdvancedSearchTitle"
+msgstr "Tìm kiếm nâng cao"
+
+msgid "superstarInfoPageAdvancedSearchNotice"
+msgstr "Kiểm tra các hồ sơ phù hợp với những gì bạn đang tìm kiếm."
+
+msgid "superstarInfoPageInvisibleModeTitle"
+msgstr "Trạng thái Ẩn"
+
+msgid "superstarInfoPageInvisibleModeNotice"
+msgstr ""
+"Xem hồ sơ của các thành viên khác một cách ẩn danh! Họ sẽ không bao giờ biết "
+"bạn đã ghé qua... "
+
+msgid "superstarInfoPageLimitsTitle"
+msgstr "Không còn giới hạn"
+
+msgid "superstarInfoPageLimitsNotice"
+msgstr "Các cuộc chơi, tìm kiếm, trò chuyện - không giới hạn! "
+
+msgid "superstarInfoPageButtonBuy"
+msgstr "Trở thành Siêu sao"
+
+msgid "superstarInfoPageButtonRun"
+msgstr "Thử miễn phí"
+
+msgid "or"
+msgstr "hoặc"
+
+msgid "close"
+msgstr "Đóng"
+
+msgid "YouHaveReceivedAGift"
+msgstr "Bạn đã nhận được một món quà"
+
+msgid "YouHaveMadeAGift"
+msgstr "Bạn đã gửi một món quà"
+
+msgid "paymentDialogWidgetTermsOfUseText"
+msgstr ""
+"Bằng cách nhấn '#button#', bạn đồng ý cho #ltd# rút tiền từ #paySystemName# "
+"#moneyAmount# #moneyCurrency# cho #starAmount# #coins# có thể sử dụng trên "
+"#domain# và bạn cũng chấp nhận các Điều khoản sử dụng Tiền Xu #siteName#. "
+"Bạn có thể cập nhật cài đặt của bạn nếu bạn muốn thay đổi phương thức thanh "
+"toán.<br/> <br/> Điều khoản sử dụng Tiền xu trên #siteName#: <br/> <br/> 1. "
+"Khi bạn mua hoặc nhận được tiền xu, bạn không sở hữu những đồng xu. Tuy "
+"nhiên, bạn có quyền sử dụng những đồng xu để mua các tính năng được cung cấp "
+"bởi #siteName# như là quà tặng, trạng thái Siêu sao, vân vân. <br/> 2. Việc "
+"mua bán tiền xu là không hoàn lại. <br/> 3. Chúng tôi có thể thay đổi giá "
+"mua xu và cách thức sử dụng xu trên web bất cứ lúc nào. Chúng tôi cũng giữ "
+"quyền ngừng phát hành đồng xu.<br/> 4. Tiền xu không được chuyển thành bất "
+"kỳ một giá trị tiền tệ nào, trừ khi chúng tôi đồng ý bằng văn bản. <br/> 5. "
+"Tiền xu không được sử dụng sẽ hết hạn 6 tháng sau khi mua.<br/> 6. Nếu bạn "
+"xóa tài khoản hoặc tài khoản của bạn bị đình chỉ bởi các điều hành viên của "
+"#siteName# vì vi phạm Điều khoản sử dụng, bạn sẽ mất tất cả tiền xu tích lũy."
+"<br/> 7. Nếu bạn nhận được tiền xu miễn phí thông qua chương trình khuyến "
+"mãi, chúng tôi có quyền hết hạn bất cứ lúc nào. <br/> <br/> Thanh toán được "
+"xử lý bởi #ltd#."
+
+msgid "payonlineTetmsOfUse"
+msgstr ""
+"<p>Số tiền thanh toán cuối cùng, địa chỉ trang web hoặc tên công ty, số của "
+"mục công việc hoặc thứ tự thanh toán.</p><p>Thông tin cá nhân của bạn được "
+"lưu trữ độc quyền trong hệ thống PayOnline. Chúng tôi đảm bảo rằng thông tin "
+"này sẽ không được tiết lộ cho bên thứ ba, ngoại trừ việc tuân thủ luật pháp "
+"của Liên bang Nga khi gửi yêu cầu bằng văn bản của cơ quan công quyền.</"
+"p><p>Hệ thống PayOnline được đăng ký với Nhà điều hành Liên Bang theo số "
+"đăng ký 10-0104880 nhằm thu thập, lưu trữ và xử lý dữ liệu cá nhân của người "
+"sử dụng thật.</p><p>Thông tin thẻ tín dụng của bạn chỉ được sử dụng tại thời "
+"điểm giao dịch và nó được truyền đi bằng hình thức mã hóa thông qua giao "
+"thức an toàn cho các ngân hàng mua lại. Chi tiết về thẻ tín dụng của bạn "
+"không được lưu trữ trong hệ thống PayOnline, do đó, không thể được chuyển "
+"giao cho bên thứ ba trong bất kỳ trường hợp nào.</p><p>Nếu bạn có thắc mắc "
+"liên quan đến thanh toán, bạn có thể liên hệ với số điện thoại hỗ trợ khách "
+"hàng: +8 (800) 7000 729 (miễn phí ở Nga), 7 (495) 666 2143, hoặc qua e-mail: "
+"support@payonline.ru.</p><p>Bạn có thể tìm thấy giao dịch này trong tài "
+"khoản ngân hàng của bạn bằng cách sử dụng ID Lovetime.com.</p><p>Xin lưu ý "
+"rằng địa chỉ IP của bạn sẽ được lưu trữ để ngăn chặn việc sử dụng trái phép "
+"thông tin cá nhân của bạn. Việc sử dụng trái phép thông tin cá nhân sẽ được "
+"xem xét, giải quyết, ngăn chặn và truy tố một cách nghiêm ngặt.</p>"
+
+msgid "unsubscribeWrongEmail"
+msgstr "Địa chỉ email không hợp lệ"
+
+msgid "contestMain"
+msgstr ""
+
+msgid "contestFindYourLove"
+msgstr "Tìm kiếm tình yêu"
+
+msgid "contestIncreaseChanceSuccess"
+msgstr "Tăng khả năng thành công"
+
+msgid "contestOr"
+msgstr "Hoặc"
+
+msgid "contestFindLove"
+msgstr "Tìm kiếm tình yêu"
+
+msgid "contestResult"
+msgstr "Kết quả"
+
+msgid "contestSelectAll"
+msgstr "Chọn tất cả"
+
+msgid "contestPhotoPhrase1"
+msgstr "Không có ảnh? Không có quà!"
+
+msgid "contestPhotoPhrase2"
+msgstr ""
+"Xin lỗi, chỉ những người dùng có ảnh mới có thể nhận thưởng, <br /> xin hãy "
+"thêm ảnh."
+
+msgid "contestPhotoPhrase3"
+msgstr "Kéo và thả<br />tập tin từ hệ thống của bạn<br /> vào đây để tải lên"
+
+msgid "contestUploadPhoto"
+msgstr "Tải ảnh"
+
+msgid "contestImportPhoto"
+msgstr "hoặc nhập ảnh từ"
+
+msgid "contestFbProfile"
+msgstr "Hồ sơ Facebook"
+
+msgid "contestGoogleProfile"
+msgstr "Hồ sơ Google+"
+
+msgid "contestInviteMorePhrase"
+msgstr ""
+"Bạn đã mời <span>%d</span> người dùng...<br> Nếu bất cứ ai trong số họ "
+"thắng<br> <b>bạn cũng sẽ nhận được phần thưởng!</b><button class='n-d-more-"
+"button'>Tăng khả năng chiến thắng bằng cách &rarr; <ins>mời thêm bạn!</ins></"
+"button>hoặc <a href='/' target='_blank'>tìm kiếm tình yêu của bạn</a>!"
+
+msgid "contestAnnouncePhrase1"
+msgstr ""
+"Bạn đã mời <strong class='announce-contest__highlight'>%d</strong> người "
+"dùng!"
+
+msgid "contestAnnouncePhrase2"
+msgstr "Nếu bất cứ ai trong số họ thắng giải"
+
+msgid "contestAnnouncePhrase3"
+msgstr "bạn cũng sẽ có giải thưởng tương tự!"
+
+msgid "contestAnnouncePhrase4"
+msgstr "Mời thêm người"
+
+msgid "contestAnnouncePhrase5"
+msgstr "Tăng cơ hội thắng giải của bạn"
+
+msgid "contestAnnouncePhrase6"
+msgstr "Giải thưởng bốc thăm Lovetime!"
+
+msgid "contestAnnouncePhrase7"
+msgstr "Mơ ước thành sự thực..."
+
+msgid "contestAnnouncePhrase8"
+msgstr "Đăng ký bây giờ và thắng cuộc"
+
+msgid "contest"
+msgstr "Bốc thăm trúng thưởng"
+
+msgid "step1"
+msgstr "Bước 1"
+
+msgid "step2"
+msgstr "Bước 2"
+
+msgid "step3"
+msgstr "Bước 3"
+
+msgid "contestInviteByOtherServices"
+msgstr ""
+"Tăng cơ hội của bạn để giành chiến thắng! Hãy kết nối với hơn một địa chỉ "
+"hộp thư (Hotmail, Yahoo, Gmail) hoặc <a href=\"%s\" target=\"_blank\"> mời "
+"bạn bè trên Facebook của bạn</a> hoặc sao chép liên kết %s"
+
+msgid "cntTitle"
+msgstr ""
+
+msgid "cntRegister"
+msgstr ""
+
+msgid "cntInviteFriends"
+msgstr ""
+
+msgid "cntSamePrize"
+msgstr ""
+
+msgid "cntHigherChances"
+msgstr ""
+
+msgid "cntAddFriends"
+msgstr ""
+
+msgid "cntBannerUsersOnly"
+msgstr ""
+
+msgid "cntBannerParticipatePrizeDraw"
+msgstr ""
+
+msgid "cntBannerFbDescription"
+msgstr ""
+
+msgid "cntPhotoDrag"
+msgstr ""
+
+msgid "cntPhotoUpload"
+msgstr ""
+
+msgid "cntPhotoImport"
+msgstr ""
+
+msgid "cntNext"
+msgstr ""
+
+msgid "cntNotSelected"
+msgstr ""
+
+msgid "cntInvited"
+msgstr ""
+
+msgid "cntWinsSamePrize"
+msgstr ""
+
+msgid "cntIncreaseChances"
+msgstr ""
+
+msgid "cntDropHere"
+msgstr ""
+
+msgid "cntUnselectAll"
+msgstr ""
+
+msgid "cntSelectAll"
+msgstr ""
+
+msgid "cntHours"
+msgstr ""
+
+msgid "cntMinutes"
+msgstr ""
+
+msgid "cntSeconds"
+msgstr ""
+
+msgid "emailContestSubject"
+msgstr ""
+
+msgid "emailContestTitle"
+msgstr ""
+
+msgid "emailContestJoinUs"
+msgstr ""
+
+msgid "emailContestPrizesDescriptions"
+msgstr ""
+
+msgid "emailContestRegister"
+msgstr ""
+
+msgid "emailContestTerms"
+msgstr ""
+
+msgid "emailContestClickHere"
+msgstr ""
+
+msgid "emailContestPrizes"
+msgstr ""
+
+msgid "emailContestUnsubscribe"
+msgstr ""
+
+msgid "actionNote"
+msgstr "Tạo ghi chép"
+
+msgid "noteEdit"
+msgstr "Sửa"
+
+msgid "noteRemove"
+msgstr "Xóa"
+
+msgid "noteSave"
+msgstr "Lưu"
+
+msgid "noteConfirmDelete"
+msgstr "Bạn có chắc bạn muốn xóa ghi chép này không?"
+
+msgid "lettersCheckSpamFolder"
+msgstr ""
+"Hãy kiểm tra hòm thư rác của bạn để chắc chắn rằng tin nhắn không được gửi "
+"vào đó. Nếu bạn gặp tình trạng như vậy, hãy chọn và ấn vào nút \"Không phải "
+"thư rác\". "
+
+msgid "lettersMarkEmailNotSpam"
+msgstr "và đánh dấu thư này thành  <u>Không phải thư rác</u>"
+
+msgid "pagesContacts"
+msgstr ""
+"<b>Địa chỉ:</b> <br /> 25/4 Soi Ratchadaphisak 36, Ratchadaphisak Rd., "
+"ChanKasem, Chatuchak BKK 10900 Thailand <br /><br /> <br /> Phnom Penh "
+"Tower, 12F, #445, 232/93 (Monivong Blvd), Phnom Penh, Cambodia, 12258 <br /"
+"><br /> <br /> Russia,  Moscow,  Svobody str. 50,  Build. 3, 125364 <br /"
+"><br /> <b>Email:</b><br /><a href=\"mailto:info@lovetime.com"
+"\">info@lovetime.com</a>"
+
+msgid "seocatalogTitleInCity"
+msgstr "một trang hẹn hò trực tuyến, gặp gỡ phụ nữ và đàn ông ở %city_title%"
+
+msgid "seocatalogH1InCity"
+msgstr "Hẹn hò ở %city_title%"
+
+msgid "seocatalogSeeking"
+msgstr "Tìm kiếm"
+
+msgid "seocatalogAge"
+msgstr "Tuổi"
+
+msgid "seocatalogAppearance"
+msgstr "Diện mạo"
+
+msgid "seocatalogOther"
+msgstr "Khác"
+
+msgid "seocatalogNext"
+msgstr "Thêm"
+
+msgid "seocatalogWoman"
+msgstr "phụ nữ"
+
+msgid "seocatalogMen"
+msgstr "đàn ông"
+
+msgid "seocatalogLesbian"
+msgstr "Lesbian"
+
+msgid "seocatalogGay"
+msgstr "Gay"
+
+msgid "seocatalogBisexual"
+msgstr "Bisexual"
+
+msgid "seocatalogFriendship"
+msgstr "giao lưu kết bạn"
+
+msgid "seocatalogRomanticRelations"
+msgstr "tình yêu nam nữ"
+
+msgid "seocatalogFlirt"
+msgstr "tán tỉnh"
+
+msgid "seocatalogSex"
+msgstr "sex"
+
+msgid "seocatalogBlondes"
+msgstr "tóc vàng"
+
+msgid "seocatalogBrunettes"
+msgstr "tóc màu hạt dẻ"
+
+msgid "seocatalogBrownHair"
+msgstr "tóc màu hạt dẻ"
+
+msgid "seocatalogAthletic"
+msgstr "khỏe mạnh"
+
+msgid "seocatalogSlim"
+msgstr "mảnh khảnh"
+
+msgid "seocatalogHeavy"
+msgstr "Mập mạp"
+
+msgid "seocatalogForeigner"
+msgstr "Người nước ngoài"
+
+msgid "seocatalogRich"
+msgstr "Giàu có"
+
+msgid "seocatalogSingle"
+msgstr "Độc thân"
+
+msgid "seocatalogNoBadHabits"
+msgstr "không có các thói quen xấu"
+
+msgid "chatFilterManGifts"
+msgstr ""
+"%s đã cài đặt chế độ nhận thư nên bạn không thể gửi thư cho anh ấy. <b>Gửi "
+"anh ấy quà</b> và điều hạn chế này sẽ bị bỏ qua. Hoặc bạn hãy thử chat với "
+"những người khác. "
+
+msgid "chatFilterWomanGifts"
+msgstr ""
+"%s đã cài đặt chế độ nhận thư nên bạn không thể gửi thư cho cô ấy. <b>Gửi cô "
+"ấy quà</b> và điều hạn chế này sẽ bị bỏ qua. Hoặc bạn hãy thử chat với những "
+"người khác. "
+
+msgid "modelLoginFormEmailOrNick"
+msgstr "Email"
+
+msgid "modelLoginFormPassword"
+msgstr "Mật khẩu"
+
+msgid "modelLoginFormAlien"
+msgstr "Không phải máy tính của tôi"
+
+msgid "loginErrorInvalidEmailOrPassword"
+msgstr "Email hoặc password không hợp lệ"
+
+msgid "systemForgotPassword"
+msgstr "Quên mật khẩu"
+
+msgid "loginErrorUserNotVisible"
+msgstr "Từ chối giao dịch với người dùng %s."
+
+msgid "wrongEmail"
+msgstr "Email không xác định"
+
+msgid "errorEmailExists"
+msgstr "Nhập email khác"
+
+msgid "citationsDefault1"
+msgstr "Xin chào, bạn khỏe không?"
+
+msgid "citationsDefault2"
+msgstr "Xin chào, bạn đang làm gì vậy?"
+
+msgid "modelUsersValidateReservedNicks"
+msgstr "Xin chọn tên khác"
+
+msgid "registrationFormWrongDate"
+msgstr "Thông tin sai"
+
+msgid "months1"
+msgstr "Tháng 1"
+
+msgid "months2"
+msgstr "Tháng 2"
+
+msgid "months3"
+msgstr "Tháng 3"
+
+msgid "months4"
+msgstr "Tháng 4"
+
+msgid "months5"
+msgstr "Tháng 5"
+
+msgid "months6"
+msgstr "Tháng 6"
+
+msgid "months7"
+msgstr "Tháng 7"
+
+msgid "months8"
+msgstr "Tháng 8"
+
+msgid "months9"
+msgstr "Tháng 9"
+
+msgid "months10"
+msgstr "Tháng 10"
+
+msgid "months11"
+msgstr "Tháng 11"
+
+msgid "months12"
+msgstr "Tháng 12"
+
+msgid "modelSmileCode"
+msgstr "Mã"
+
+msgid "modelSmileImage"
+msgstr "Ảnh"
+
+msgid "modelSmileVisible"
+msgstr "Có thể nhìn thấy được"
+
+msgid "Noactive"
+msgstr "Không"
+
+msgid "modelSpamersName"
+msgstr ""
+
+msgid "modelUsersName"
+msgstr "Tên"
+
+msgid "modelUsersEmail"
+msgstr "Email"
+
+msgid "modelComplaintsStatus"
+msgstr "Tình trạng"
+
+msgid "modelSpamersTime"
+msgstr ""
+
+msgid "modelSpamersMessages"
+msgstr ""
+
+msgid "modelComplaintsSenderId"
+msgstr "Người gửi"
+
+msgid "modelComplaintsCompanionId"
+msgstr "Bị tố cáo"
+
+msgid "modelComplaintsReasonText"
+msgstr "Lý do"
+
+msgid "modelComplaintsComment"
+msgstr "Nhận xét"
+
+msgid "modelComplaintsCompanion"
+msgstr "Người bị tố cáo"
+
+msgid "modelComplaintsSender"
+msgstr "Người tố cáo"
+
+msgid "complainReason1"
+msgstr "Tin rác, quảng cáo"
+
+msgid "complainReason2"
+msgstr "Gian lận"
+
+msgid "complainReason3"
+msgstr "Yêu cầu không đúng đắn"
+
+msgid "complainReason4"
+msgstr "Khiếm nhã, đe dọa"
+
+msgid "complainReason5"
+msgstr "Ảnh giả mạo"
+
+msgid "complainReason6"
+msgstr "Dịch vụ sex"
+
+msgid "photosRefuseReasonPicture"
+msgstr "tranh vẽ, tĩnh vật hoặc động vật"
+
+msgid "photosRefuseReasonErotica"
+msgstr "đồi trụy, xúc phạm"
+
+msgid "photosRefuseReasonFamous"
+msgstr "người nổi tiếng"
+
+msgid "photosRefuseReasonSpam"
+msgstr "rác, quảng cáo"
+
+msgid "photosRefuseReasonPoorQuality"
+msgstr "chất lượng kém"
+
+msgid "photosRefuseReasonOnlyYouMustBeSeen"
+msgstr "chỉ có bạn phải xem"
+
+msgid "photosRefuseReasonNotVisibleFace"
+msgstr "gương mặt không nhìn được"
+
+msgid "photosRefuseReasonChildOnThePhoto"
+msgstr "trẻ em trên ảnh"
+
+msgid "photosRefuseReasonExcessiveDecoration"
+msgstr "trang trí quá mức"
+
+msgid "photosStatusAccept"
+msgstr "Đồng ý"
+
+msgid "photosStatusRefuse"
+msgstr "Từ chối"
+
+msgid "userName"
+msgstr "Tên"
+
+msgid "feedbackText"
+msgstr "Nội dung"
+
+msgid "userWrongOldPasswError"
+msgstr "Mật khẩu sai"
+
+msgid "userPasswTooShort"
+msgstr "Mật khẩu mới quá ngắn (ít nhất {min} ký tự)"
+
+msgid "dateFormat"
+msgstr "Giá trị phải theo dạng nn.tt.nnnn"
+
+msgid "modelUsersValidateRequireMessage"
+msgstr "Mục %s là bắt buộc"
+
+msgid "modelUsersLookingFor"
+msgstr "Tôi đang tìm kiếm"
+
+msgid "modelUsersPassword"
+msgstr "Mật khẩu"
+
+msgid "modelUsersOldPassword"
+msgstr "Mật khẩu hiện tại"
+
+msgid "modelUsersNewPassword"
+msgstr "Mật khẩu mới"
+
+msgid "modelUsersVisible"
+msgstr "Có thể nhìn thấy được"
+
+msgid "modelUsersRole"
+msgstr "Nhóm"
+
+msgid "modelUsersPhone"
+msgstr "Số điện thoại"
+
+msgid "modelUsersVkId"
+msgstr "ID Vkontakte"
+
+msgid "modelUsersFacebookId"
+msgstr "ID Facebook"
+
+msgid "modelUsersTwitterId"
+msgstr "ID Twitter"
+
+msgid "modelUsersAvatar"
+msgstr "Ảnh đại diện"
+
+msgid "modelUsersDefaultAvatar"
+msgstr "Ảnh đại diện tiêu chuẩn"
+
+msgid "modelUsersCity"
+msgstr "Thành phố"
+
+msgid "modelUsersCountry"
+msgstr "Quốc gia"
+
+msgid "modelUsersResidence"
+msgstr "Địa chỉ"
+
+msgid "modelUsersLat"
+msgstr "Vĩ độ"
+
+msgid "modelUsersLng"
+msgstr "Kinh độ"
+
+msgid "modelUsersAbout"
+msgstr "Về tôi"
+
+msgid "profileStatus"
+msgstr "Tình trạng"
+
+msgid "modelUsersIntroduceMyself"
+msgstr "Tình trạng của tôi"
+
+msgid "modelUsersWantToMeet"
+msgstr "Muốn tìm"
+
+msgid "modelUsersPreferredAge"
+msgstr "Trong độ tuổi"
+
+msgid "dateofbirth"
+msgstr "Ngày sinh"
+
+msgid "modelUsersHeight"
+msgstr "Chiều cao"
+
+msgid "modelUsersWeight"
+msgstr "Cân nặng"
+
+msgid "modelUsersPhysique"
+msgstr "Dáng người"
+
+msgid "modelUsersColor"
+msgstr "Màu tóc"
+
+msgid "modelUsersColorEyes"
+msgstr "Màu mắt"
+
+msgid "modelUsersSign"
+msgstr "Cung hoàng đạo"
+
+msgid "modelUsersType"
+msgstr "Mục đích hẹn hò"
+
+msgid "modelUsersAcquainted"
+msgstr "Tôi quen..."
+
+msgid "modelUsersBed"
+msgstr "Những điều tôi thích trong chuyện chăn gối"
+
+msgid "modelUsersExcites"
+msgstr "Tôi hứng thú về chuyện"
+
+msgid "modelUsersStatus"
+msgstr "Tình trạng quan hệ"
+
+msgid "modelUsersChildren"
+msgstr "Con cái"
+
+msgid "modelUsersOrientation"
+msgstr "Xu hướng tình dục"
+
+msgid "modelUsersSmoking"
+msgstr "Hút thuốc"
+
+msgid "modelUsersAlcohol"
+msgstr "Uống rượu"
+
+msgid "modelUsersEducation"
+msgstr "Học vấn"
+
+msgid "modelUsersJob"
+msgstr "Nghề nghiệp"
+
+msgid "modelUsersIncome"
+msgstr "Thu nhập"
+
+msgid "modelUsersLove_work"
+msgstr "Ở nơi làm việc tôi thích"
+
+msgid "modelUsersLove_institute"
+msgstr "Ở đại học tôi thích"
+
+msgid "modelUsersLove_go"
+msgstr "Tôi muốn đến thăm"
+
+msgid "modelUsersLove_music"
+msgstr "Thể loại nhạc yêu thích"
+
+msgid "modelUsersBan"
+msgstr "Cấm"
+
+msgid "modelUsersSendEmails"
+msgstr "Nhận thông báo qua email"
+
+msgid "modelUsersSounds"
+msgstr "Bật chuông tin nhắn"
+
+msgid "modelUsersShowPixeledImages"
+msgstr "Hiện ảnh mờ cho những người không quen"
+
+msgid "modelUsersHideImages"
+msgstr "Ẩn bức ảnh"
+
+msgid "modelUsersTimeZone"
+msgstr "Khung giờ"
+
+msgid "moduleUsersAutoSelectTimeZone"
+msgstr "Tự xác định"
+
+msgid "modelUsersRegistered"
+msgstr "Đã đăng ký"
+
+msgid "modelUsersInvitedBy"
+msgstr "Lời mời"
+
+msgid "modelUsersLoginWithToken"
+msgstr "Đăng nhập tự động từ đường dẫn email"
+
+msgid "physiqueSlim"
+msgstr "Mảnh khảnh"
+
+msgid "physiqueAverage"
+msgstr "Bình thường"
+
+msgid "physiqueAthletic"
+msgstr "Khỏe khoắn"
+
+msgid "physiqueMuscular"
+msgstr "Vạm vỡ"
+
+msgid "physiqueHeavy"
+msgstr "Mập mạp"
+
+msgid "physiqueFull"
+msgstr "Tròn trịa"
+
+msgid "colorEyesBrown"
+msgstr "Nâu"
+
+msgid "colorEyesGreen"
+msgstr "Xanh lá"
+
+msgid "colorEyesBlue"
+msgstr "Xanh biển"
+
+msgid "colorEyesGray"
+msgstr "Ghi"
+
+msgid "colorEyesBlack"
+msgstr "Đen"
+
+msgid "colorEyesHazel"
+msgstr "Nâu đỏ"
+
+msgid "smokingDoNotSmoke"
+msgstr "Không"
+
+msgid "smokingRarely"
+msgstr "Thỉnh thoảng"
+
+msgid "smokingGiving"
+msgstr "Đang cố bỏ"
+
+msgid "smokingOften"
+msgstr "Thường xuyên"
+
+msgid "alcoholDoNotDrink"
+msgstr "Không "
+
+msgid "alcoholILikeToDrink"
+msgstr "Thường xuyên"
+
+msgid "alcoholOnHolidays"
+msgstr "Thi thoảng"
+
+msgid "educationSecondary"
+msgstr "Phổ thông"
+
+msgid "educationTechnical"
+msgstr "Trung cấp"
+
+msgid "educationHigher"
+msgstr "Cao đẳng/ Đại học"
+
+msgid "incomeLow"
+msgstr "Thấp"
+
+msgid "incomeMedium"
+msgstr "Trung bình"
+
+msgid "incomeHigh"
+msgstr "Cao"
+
+msgid "systemAdministrator"
+msgstr "Ban quản trị"
+
+msgid "childrenNo"
+msgstr "Không"
+
+msgid "childrenYes"
+msgstr "Có"
+
+msgid "signAries"
+msgstr "Bạch Dương"
+
+msgid "signTaurus"
+msgstr "Kim Ngưu"
+
+msgid "signTwins"
+msgstr "Song Tử"
+
+msgid "signCancer"
+msgstr "Cự Giải"
+
+msgid "signLion"
+msgstr "Sư Tử"
+
+msgid "signVirgo"
+msgstr "Xử Nữ"
+
+msgid "signLibra"
+msgstr "Thiên Bình "
+
+msgid "signScorpio"
+msgstr "Thần Nông"
+
+msgid "signSagittarius"
+msgstr "Nhân Mã "
+
+msgid "signCapricorn"
+msgstr "Ma Kết"
+
+msgid "signAquarius"
+msgstr "Bảo Bình"
+
+msgid "signPisces"
+msgstr "Song Ngư"
+
+msgid "changeFieldInSearch"
+msgstr "Đang kiếm người yêu"
+
+msgid "changeFieldHasAFriend"
+msgstr "Đã có người yêu"
+
+msgid "changeFieldMarried"
+msgstr "Đã kết hôn"
+
+msgid "changeFieldNotInSearch"
+msgstr "Đã đính hôn"
+
+msgid "changeFieldBreaked"
+msgstr "Đã ly dị"
+
+msgid "haircolorLight"
+msgstr "Vàng"
+
+msgid "haircolorDark"
+msgstr "Đen"
+
+msgid "haircolorRed"
+msgstr "Đỏ"
+
+msgid "haircolorTanned"
+msgstr "Sọc màu"
+
+msgid "haircolorBright"
+msgstr "Sáng"
+
+msgid "haircolorWhite"
+msgstr "Xám"
+
+msgid "haircolorSkin"
+msgstr "Cạo"
+
+msgid "haircolorBald"
+msgstr "Đầu trọc"
+
+msgid "changeFieldHetero"
+msgstr "Khác giới"
+
+msgid "changeFieldGay"
+msgstr "Đồng giới"
+
+msgid "changeFieldBi"
+msgstr "Lưỡng giới"
+
+msgid "ofWoman"
+msgstr "Phụ nữ"
+
+msgid "ofMan"
+msgstr "Đàn ông"
+
+msgid "introduceMyselfOnlyMyself"
+msgstr "Độc thân"
+
+msgid "introduceMyselfAsPair"
+msgstr "Cặp đôi"
+
+msgid "changeFieldFriendship"
+msgstr "Bạn bè và xã giao"
+
+msgid "changeFieldFlirt"
+msgstr "Tán tỉnh"
+
+msgid "changeFieldRomantic"
+msgstr "Quan hệ yêu đương"
+
+msgid "changeFieldSex"
+msgstr "Tình dục"
+
+msgid "changeFieldAtWork"
+msgstr "Ở công sở"
+
+msgid "changeFieldNeighbor"
+msgstr "Khu hàng xóm"
+
+msgid "changeFieldSchool"
+msgstr "Ở trường / đại học"
+
+msgid "changeFieldStreet"
+msgstr "Trên phố"
+
+msgid "changeFieldOral"
+msgstr "Quan hệ tình dục bằng miệng"
+
+msgid "changeFieldAnal"
+msgstr "Quan hệ tình dục qua cửa sau"
+
+msgid "changeFieldGroup"
+msgstr "Quan hệ tình dục nhóm"
+
+msgid "changeFieldPublic"
+msgstr "Quan hệ tình dục ở những nơi khác lạ"
+
+msgid "changeFieldRoleplay"
+msgstr "Quan hệ tình dục theo kiểu đóng vai"
+
+msgid "changeFieldToys"
+msgstr "Quan hệ tình dục có kèm đồ chơi"
+
+msgid "changeFieldBdsm"
+msgstr "Quan hệ tình dục kèm những đồ chơi bạo lực"
+
+msgid "changeFieldClassicSex"
+msgstr "Quan hệ tình dục theo lối cổ điển"
+
+msgid "changeFieldSmells"
+msgstr "Có mùi"
+
+msgid "changeFieldHighHair"
+msgstr "Rậm lông"
+
+msgid "changeFieldTattoo"
+msgstr "Hình xăm và xỏ khuyên"
+
+msgid "changeFieldDarkskin"
+msgstr "Da sậm"
+
+msgid "changeFieldUnderwear"
+msgstr "Đồ lót"
+
+msgid "changeFieldUniform"
+msgstr "Đồng phục"
+
+msgid "changeFieldStockings"
+msgstr "Đi vớ"
+
+msgid "changeFieldFootwear"
+msgstr "Đi giầy"
+
+msgid "changeFieldDominate"
+msgstr "Thống trị hay quy phục"
+
+msgid "changeFieldBondage"
+msgstr "Bị bó buộc và bất động"
+
+msgid "changeFieldPain"
+msgstr "Đau đớn"
+
+msgid "monthsJan"
+msgstr "Tháng 1"
+
+msgid "monthsFeb"
+msgstr "Tháng 2"
+
+msgid "monthsMar"
+msgstr "Tháng 3"
+
+msgid "monthsApr"
+msgstr "Tháng 4"
+
+msgid "monthsMay"
+msgstr "Tháng 5"
+
+msgid "monthsJun"
+msgstr "Tháng 6"
+
+msgid "monthsJul"
+msgstr "Tháng 7"
+
+msgid "monthsAug"
+msgstr "Tháng 8"
+
+msgid "monthsSep"
+msgstr "Tháng 9"
+
+msgid "monthsOct"
+msgstr "Tháng 10"
+
+msgid "monthsNov"
+msgstr "Tháng 11"
+
+msgid "monthsDec"
+msgstr "Tháng 12"
+
+msgid "removingProfileCauseIPlaGoBack"
+msgstr "Tôi tạm thời rời khỏi trang web, nhưng tôi sẽ trở lại. "
+
+msgid "profileLastVisit"
+msgstr "Lần ghé thăm gần nhất"
+
+msgid "dateToday"
+msgstr "hôm nay"
+
+msgid "dateYesterday"
+msgstr "hôm qua"
+
+msgid "date2DaysAgo"
+msgstr "hôm kia"
+
+msgid "profileLastVisitAt"
+msgstr "lúc"
+
+msgid "chatBigMessage"
+msgstr "Tin nhắn quá dài. Chỉ được phép dưới 2000 ký tự."
+
+msgid "errorFolderCreate"
+msgstr "Bạn đã có tập tin trùng tên"
+
+msgid "foldersDeleteError"
+msgstr "Xin lỗi, tập tin được chọn không xóa được :( "
+
+msgid "noteErrorTooLong"
+msgstr "Chat không được vượt quá 1000 ký tự"
+
+msgid "noteErrorTags"
+msgstr "Chat không nên kèm tag HTML"
+
+msgid "guestsWasMan"
+msgid_plural "guestsWasWoman"
+msgstr[0] "Lượt xem cuối cùng"
+
+msgid "guestsYear"
+msgid_plural "guestsYears"
+msgstr[0] "%d năm"
+
+msgid "guestsMonth"
+msgid_plural "guestsMonths"
+msgstr[0] "%d tháng"
+
+msgid "guestsDay"
+msgid_plural "guestsDays"
+msgstr[0] "%d ngày"
+
+msgid "guestsHour"
+msgid_plural "guestsHours"
+msgstr[0] "%s giờ"
+
+msgid "guestsMinute"
+msgid_plural "guestsMinutes"
+msgstr[0] "%s phút"
+
+msgid "guestsBack"
+msgstr "về trước"
+
+msgid "topfacesMessageTooShort"
+msgstr "Tin nhắn không vượt quá 140 ký tự."
+
+msgid "topfaceStatusInvalidValue"
+msgstr "Phần tình trạng bao gồm giá trị không hợp lệ."
+
+msgid "formErrorNewPasswRepeat"
+msgstr "Mật khẩu sai"
+
+msgid "modelLoginFormEmail"
+msgstr "Email"
+
+msgid "modelForgotpassPassword"
+msgstr "Mật khẩu"
+
+msgid "modelForgotpassPasswordRepeat"
+msgstr "Nhập lại mật khẩu"
+
+msgid "modelFogotpassEmailExists"
+msgstr "Chưa có người dùng nào từng đăng ký với địa chỉ email này"
+
+msgid "modelFogotpassInvalidLink"
+msgstr "Link không hợp lệ"
+
+msgid "modelFogotpassPassDoNotMatch"
+msgstr "Mật khẩu không trùng khớp"
+
+msgid "visitors"
+msgstr ""
+
+msgid "facebookLikeShowUsYouLikeUs"
+msgstr "Hãy cho chúng tôi biết rằng bạn thích Lovetime.com!"
+
+msgid "systemRegisterSmall"
+msgstr "Đăng ký"
+
+msgid "chatMoveIn"
+msgstr "Chuyển đến"
+
+msgid "chatFoldersFirst"
+msgstr "Chưa đọc"
+
+msgid "chatFoldersSecond"
+msgstr "Yêu thích"
+
+msgid "chatFoldersThird"
+msgstr "Từ chối"
+
+msgid "langRussian"
+msgstr "Tiếng Nga"
+
+msgid "yourPhotoHere"
+msgstr "Ảnh của bạn"
+
+msgid "topfacesAdd"
+msgstr "Đến TOP"
+
+msgid "topfacesItsYou"
+msgstr "Đó là bạn!"
+
+msgid "userBalloonChat"
+msgstr "Soạn tin nhắn"
+
+msgid "userBalloonProfile"
+msgstr "Xem thông tin"
+
+msgid "topfacesDialogTitle"
+msgstr "Thêm bản thân vào Top"
+
+msgid "topfacesDialogChoosePhoto"
+msgstr "Chọn ảnh của bạn hoặc <a href=\"/users/view/%s\">tải ảnh mới</a>"
+
+msgid "topfacesDialogTypeMessage"
+msgstr "Cập nhật về mình"
+
+msgid "actionSend"
+msgstr "Gửi"
+
+msgid "topfacesDialogNoPhotos"
+msgstr ""
+"Để gắn ảnh lên trên cùng, bạn cần <a href=\"/users/view/%s\">tải</a> ảnh đại "
+"diện trước."
+
+msgid "TopFacesLimitExceeded"
+msgstr "Quy định thêm ảnh không quá một tấm mỗi giờ. Làm ơn chờ đợi."
+
+msgid "emailConfirmPleaseTitle"
+msgstr ""
+"Link xác nhận đã gửi đến địa chỉ email của bạn. Sau khi xác nhận địa chỉ "
+"email, bạn sẽ có quyền truy cập và sử dụng tất cả tính năng của trang web.<a "
+"href='%link%'>Vẫn chưa nhận được đường link</a>?"
+
+msgid "emailConfirmCheckSpam"
+msgstr ""
+"Kiểm tra hộp thư Spam của bạn, thư của chúng tôi có thể bị chuyển thành Spam "
+"do nhầm lẫn. Nếu vậy, hãy đánh dấu nó như <b>không spam</b>."
+
+msgid "emailConfirmPleaseNotice"
+msgstr "&nbsp;"
+
+msgid "socialLikeStr"
+msgstr "Thích"
+
+msgid "complainHead"
+msgstr "Phàn nàn về"
+
+msgid "complainIgnore"
+msgstr "Chặn"
+
+msgid "complainIgnoreDescription"
+msgstr ""
+"Bạn sẽ không nhận được tin nhắn từ người này. Sau đó, nếu muốn, các hoạt "
+"động có thể được hoàn tác."
+
+msgid "complainError1"
+msgstr "Ghi rõ lý do phàn nàn"
+
+msgid "complainSubmit"
+msgstr "Gửi"
+
+msgid "complainOr"
+msgstr "hoặc"
+
+msgid "complainClose"
+msgstr "Hủy"
+
+msgid "menuFeedback"
+msgstr "Góp ý"
+
+msgid "menuRules"
+msgstr "Quy định"
+
+msgid "menuContacts"
+msgstr "Liên hệ"
+
+msgid "menuHelpUs"
+msgstr "Giúp đỡ chúng tôi"
+
+msgid "flirtNear"
+msgstr "Tìm xung quanh"
+
+msgid "menuAbout"
+msgstr "Về chúng tôi"
+
+msgid "menuSearch"
+msgstr "Tìm kiếm"
+
+msgid "flirtCarousel"
+msgstr "Hẹn hò"
+
+msgid "menuChat"
+msgstr "Chat"
+
+msgid "mainTitle"
+msgstr "Mời người quen, đồng nghiệp và hàng xóm của bạn..."
+
+msgid "mainTitle2"
+msgstr "và tán tỉnh giấu tên"
+
+msgid "menTitles1"
+msgstr "Thích hàng xóm của bạn?"
+
+msgid "menTitles2"
+msgstr "Thích đồng nghiệp của bạn?"
+
+msgid "menTitles3"
+msgstr "Muốn tán tỉnh bạn cũ của bạn? "
+
+msgid "menTitles4"
+msgstr "Bạn có thấy chán không?"
+
+msgid "womanTitles1"
+msgstr "Thích hàng xóm của bạn?"
+
+msgid "womanTitles2"
+msgstr "Thích đồng nghiệp của bạn?"
+
+msgid "womanTitles3"
+msgstr "Muốn tán tỉnh bạn cũ của bạn?"
+
+msgid "womanTitles4"
+msgstr "Bạn có thấy chán không?"
+
+msgid "menTexts1"
+msgstr ""
+"<a href=\"/\">Mời</a> cô ấy bằng một tấm thiệp. Đặt nó dưới tấm gạt kính xe, "
+"hoặc vào hòm thư. "
+
+msgid "menTexts2"
+msgstr "Tìm ra email của cô ấy và <a href=\"/\">mời vào</a> Lovetime."
+
+msgid "menTexts3"
+msgstr "Tìm ra số điện thoại của cô ấy và <a href=\"/\">mời vào</a> Lovetime."
+
+msgid "menTexts4"
+msgstr ""
+"Nhấn \"<a href=\"/#flirt\" class=\"top-flirt\">Tán tỉnh</a>\" và cùng làm "
+"quen"
+
+msgid "womanTexts1"
+msgstr ""
+"<a href=\"/\">Mời</a> anh ấy bằng một tấm thiệp. Đặt nó dưới tấm gạt kính "
+"xe, hoặc vào hòm thư."
+
+msgid "womanTexts2"
+msgstr "Tìm ra email của anh ấy và <a href=\"/\">mời vào</a> Lovetime."
+
+msgid "womanTexts3"
+msgstr ""
+"Tìm ra email hoặc số điện thoại của anh ấy và <a href=\"/\">mời vào</a> "
+"Lovetime."
+
+msgid "womanTexts4"
+msgstr ""
+"Nhấn \"<a href=\"/#flirt\" class=\"top-flirt\">Tán tỉnh</a>\" và cùng làm "
+"quen"
+
+msgid "foldersTitle"
+msgstr "Nhập tên tệp tin"
+
+msgid "foldersCancel"
+msgstr "Hủy"
+
+msgid "foldersCreate"
+msgstr "Tạo"
+
+msgid "foldersRename"
+msgstr "Đổi tên"
+
+msgid "userBalloonCarousel"
+msgstr "Hẹn hò"
+
+msgid "userBalloonExchange"
+msgstr "Lĩnh vực trao đổi"
+
+msgid "chatBalloonMove"
+msgstr "Chuyển"
+
+msgid "chatBalloonSelect1"
+msgstr "Đã chọn"
+
+msgid "chatBalloonSelect2"
+msgstr "Đã chọn"
+
+msgid "chatBalloonSelect3"
+msgstr "Đã chọn"
+
+msgid "errorFolderEmpty"
+msgstr "Làm ơn nhập tên tập tin"
+
+msgid "dateDaysBefore"
+msgstr "ngày trước"
+
+msgid "dateMomentAgo"
+msgstr "vừa xong"
+
+msgid "dateSecondAgo_plural_1"
+msgstr "một lúc trước"
+
+msgid "dateSecondAgo_plural_2"
+msgstr "giây trước"
+
+msgid "dateSecondAgo_plural_3"
+msgstr "giây trước"
+
+msgid "dateMinuteAgo_plural_1"
+msgstr "một phút trước"
+
+msgid "dateMinuteAgo_plural_2"
+msgstr "phút trước"
+
+msgid "dateMinuteAgo_plural_3"
+msgstr "phút trước"
+
+msgid "dateCoupleMinutesAgo"
+msgstr "vài phút trước"
+
+msgid "dateHourAgo_plural_1"
+msgstr "một tiếng trước"
+
+msgid "dateHourAgo_plural_2"
+msgstr "tiếng trước"
+
+msgid "dateHourAgo_plural_3"
+msgstr "tiếng trước"
+
+msgid "messages_plural_1"
+msgstr "tin nhắn"
+
+msgid "messages_plural_2"
+msgstr "tin nhắn"
+
+msgid "messages_plural_3"
+msgstr "tin nhắn"
+
+msgid "usersAddToFavorite"
+msgstr "Thêm vào Yêu thích"
+
+msgid "actionBlock"
+msgstr "Chặn"
+
+msgid "chatComplain"
+msgstr "Phàn nàn"
+
+msgid "usersRemoveFromFavorite"
+msgstr "Hủy bỏ từ Yêu thích"
+
+msgid "actionOr"
+msgstr "hoặc"
+
+msgid "actionDelete"
+msgstr "Xóa"
+
+msgid "galleryClose"
+msgstr "Đóng"
+
+msgid "galleryUploadError"
+msgstr "Lỗi xảy ra khi tải. Xin thử lại sau."
+
+msgid "galleryUploadFilesName"
+msgstr "Tập tin hình ảnh"
+
+msgid "galleryUploadPossibleFiles"
+msgstr "Bạn chỉ có thể tải lên các tập tin hình ảnh. Các định dạng cho phép:"
+
+msgid "modelUsersHasPhoto"
+msgstr "Ảnh"
+
+msgid "modelUsersHasPhotoCondition"
+msgstr "Kèm ảnh"
+
+msgid "modelUsersHasNoPhotoCondition"
+msgstr "Không có ảnh"
+
+msgid "searchHair"
+msgstr "Màu tóc"
+
+msgid "requireRegistration4MaleTitle"
+msgstr "%s chia sẻ nhiều thông tin cá nhân hơn bạn."
+
+msgid "requireRegistration4FemaleTitle"
+msgstr "%s chia sẻ rất nhiều thông tin cá nhân hơn bạn."
+
+msgid "requireRegistrationNote"
+msgstr "Bạn cần đăng ký để xem được hồ sơ của người khác."
+
+msgid "requireRegistrationCancel"
+msgstr "Hủy bỏ"
+
+msgid "requireRegistrationRegister"
+msgstr "Đăng ký"
+
+msgid "increaseInfoConfirmNote"
+msgstr "Để xem hồ sơ của người khác, bạn phải điền hồ sơ của mình ít nhất 50%."
+
+msgid "increaseInfoConfirmFillNow"
+msgstr "Điền ngay"
+
+msgid "increaseInfoConfirmCancel"
+msgstr "Hủy"
+
+msgid "Credit Card"
+msgstr "Thẻ tín dụng"
+
+msgid "registerHello"
+msgstr "Xin chào"
+
+msgid "registerForEnd"
+msgstr ""
+"Để hoàn tất đăng ký, mời bạn xác nhận rằng bạn có một hồ sơ cá nhân trên "
+"trang web?"
+
+msgid "registerYes"
+msgstr "Có"
+
+msgid "registerNo"
+msgstr "Không"
+
+msgid "registerForEndYes"
+msgstr "Mời nhập mật khẩu"
+
+msgid "registerBack"
+msgstr "Trở lại"
+
+msgid "registerForEndNo"
+msgstr "Kiểm tra thông tin"
+
+msgid "registerUnderNick"
+msgstr "Đừng dùng tên thật hoặc nickname mà bạn có thể bị đoán ra"
+
+msgid "registerEmailTip"
+msgstr "Không ai có thể nhìn thấy"
+
+msgid "birthDay"
+msgstr "Ngày"
+
+msgid "birthMonth"
+msgstr "Tháng"
+
+msgid "birthYear"
+msgstr "Năm"
+
+msgid "systemLoginAllRight"
+msgstr "Mọi thứ đều chính xác"
+
+msgid "registerRequire"
+msgstr "Vui lòng điền vào tất cả các mục bắt buộc"
+
+msgid "socialAuthFailed"
+msgstr "Lỗi ủy quyền"
+
+msgid "registerAuthOk"
+msgstr ""
+"Ủy quyền không thành công. Bây giờ bạn sẽ được chuyển đến trang chủ. Hoặc "
+"nhấn"
+
+msgid "registerAuthHere"
+msgstr "vào đây"
+
+msgid "registerAuthNone"
+msgstr "Không tìm thấy người dùng"
+
+msgid "registerAlreadyYes"
+msgstr "Người sử dụng email tương tự đã đăng ký"
+
+msgid "registerAuthFailed"
+msgstr "Lỗi ủy quyền"
+
+msgid "registerCreateFailed"
+msgstr "Lỗi tạo người dùng. Mời bạn kiểm tra lại tất cả các mục. "
+
+msgid "authFacebook"
+msgstr "Ủy quyền qua facebook"
+
+msgid "authVkontakte"
+msgstr "Ủy quyền qua Vkontakte"
+
+msgid "citationNotExist"
+msgstr "Không tìm thấy"
+
+msgid "citationAccessDenied"
+msgstr "Câu nói không thuộc về bạn"
+
+msgid "VIP"
+msgstr "VIP"
+
+msgid "questRegister"
+msgstr "đăng ký"
+
+msgid "balanceChangeInQuest"
+msgstr "Thay đổi số dư "
+
+msgid "superstarModelAttributeIsReseted"
+msgstr ""
+
+msgid "payonlinesystemError3"
+msgstr ""
+"Việc thanh toán bị từ chối bởi ngân hàng phát hành thẻ tín dụng của bạn. Bạn "
+"cần liên hệ với ngân hàng để tìm hiểu lý do thanh toán của bạn bị từ chối và "
+"sau đó thử lại."
+
+msgid "payonlinesystemError2"
+msgstr ""
+"Không thể trả tiền bằng thẻ tín dụng. Bạn phải sử dụng một phương thức thanh "
+"toán khác."
+
+msgid "payonlinesystemError1"
+msgstr "Lỗi kỹ thuật, vui lòng thử lại sau."
+
+msgid "payonlinesystemError0"
+msgstr "Không thể thực hiện thanh toán."
+
+msgid "seocatalogTitleDatingSite"
+msgstr "là một trang để gặp gỡ phụ nữ và đàn ông"
+
+msgid "seocatalogH1DatingSite"
+msgstr "Trang hẹn hò trực tuyến"
+
+msgid "seocatalogH1CountriesAndCities"
+msgstr "Quốc gia và thành phố"
+
+msgid "seocatalogTitleDatingWithWomen"
+msgstr "hẹn hò với phụ nữ"
+
+msgid "seocatalogH1DatingWithWomen"
+msgstr "Hẹn hò với phụ nữ"
+
+msgid "seocatalogTitleDatingWithMen"
+msgstr "hẹn hò với đàn ông"
+
+msgid "seocatalogH1DatingWithMen"
+msgstr "Hẹn hò với đàn ông"
+
+msgid "seocatalogTitleDatingWithLesbian"
+msgstr "hẹn hò với lesbian"
+
+msgid "seocatalogH1DatingWithLesbian"
+msgstr "Hẹn hò với lesbian"
+
+msgid "seocatalogTitleDatingWithGays"
+msgstr "hẹn hò với gay"
+
+msgid "seocatalogH1DatingWithGays"
+msgstr "Hẹn hò với gay"
+
+msgid "seocatalogTitleDatingWithBisexuals"
+msgstr "hẹn hò với biexual"
+
+msgid "seocatalogH1DatingWithBisexuals"
+msgstr "Hẹn hò với biexual"
+
+msgid "seocatalogTitleGuysGirls_18_20"
+msgstr "Nam và Nữ 18 - 20 tuổi"
+
+msgid "seocatalogH1GuysGirls_18_20"
+msgstr "Nam và Nữ 18 - 20 tuổi"
+
+msgid "seocatalogTitleGuysGirls_21_25"
+msgstr "Nam và Nữ 21 - 25 tuổi"
+
+msgid "seocatalogH1GuysGirls_21_25"
+msgstr "Nam và Nữ 21 - 25 tuổi"
+
+msgid "seocatalogTitleGuysGirls_26_30"
+msgstr "Nam và Nữ 26 - 30 tuổi"
+
+msgid "seocatalogH1GuysGirls_26_30"
+msgstr "Nam và Nữ 26 - 30 tuổi"
+
+msgid "seocatalogTitleGuysGirls_31_35"
+msgstr "Nam và Nữ 31 - 35 tuổi"
+
+msgid "seocatalogH1GuysGirls_31_35"
+msgstr "Nam và Nữ 26 - 30 tuổi"
+
+msgid "seocatalogTitleGuysGirls_35_40"
+msgstr "Nam và Nữ 35 - 40 tuổi"
+
+msgid "seocatalogH1GuysGirls_35_40"
+msgstr "Nam và Nữ 35 - 40 tuổi"
+
+msgid "seocatalogTitleMeetingForCommunication"
+msgstr "gặp gỡ để giao lưu, kết bạn"
+
+msgid "seocatalogH1MeetingForCommunication"
+msgstr "Gặp gỡ để giao lưu"
+
+msgid "seocatalogTitleMeetingRorRomanticRelations"
+msgstr "gặp gỡ để yêu đương"
+
+msgid "seocatalogH1MeetingRorRomanticRelations"
+msgstr "Gặp gỡ để yêu đương"
+
+msgid "seocatalogTitleMeetingForFlirt"
+msgstr "gặp gỡ để tán tỉnh"
+
+msgid "seocatalogH1MeetingForFlirt"
+msgstr "Gặp gỡ để tán tỉnh"
+
+msgid "seocatalogTitleMeetingForCloseRelations"
+msgstr "gặp gỡ để làm thân và làm tình"
+
+msgid "seocatalogH1MeetingForCloseRelations"
+msgstr "Gặp gỡ để thân quen"
+
+msgid "seocatalogTitleBlondes"
+msgstr "gặp gỡ những người tóc vàng "
+
+msgid "seocatalogH1Blondes"
+msgstr "Tóc vàng"
+
+msgid "seocatalogTitleBrunettes"
+msgstr "gặp gỡ những người tóc màu hạt dẻ "
+
+msgid "seocatalogH1Brunettes"
+msgstr "Tóc màu hạt dẻ"
+
+msgid "seocatalogTitleBrownHaired"
+msgstr "gặp gỡ người tóc đỏ, tóc vàng "
+
+msgid "seocatalogH1BrownHaired"
+msgstr "Tóc nâu"
+
+msgid "seocatalogTitleDatingWithAthletic"
+msgstr "gặp gỡ những người đàn ông và phụ nữ khỏe mạnh"
+
+msgid "seocatalogH1DatingWithAthletic"
+msgstr "hẹn hò với những người đàn ông và phụ nữ khỏe mạnh"
+
+msgid "seocatalogTitleDatingWithSlim"
+msgstr "gặp gỡ những người đàn ông mảnh khảnh và phụ nữ mảnh khảnh"
+
+msgid "seocatalogH1DatingWithSlim"
+msgstr "hẹn hò với những người đàn ông và phụ nữ mảnh khảnh"
+
+msgid "seocatalogTitleDatingWithHeavy"
+msgstr "gặp gỡ những người đàn ông mập mạp và phụ nữ mập mạp"
+
+msgid "seocatalogH1DatingWithHeavy"
+msgstr "hẹn hò với những người đàn ông và phụ nữ mập mạp"
+
+msgid "seocatalogTitleDatingWithForeigners"
+msgstr "gặp gỡ người nước ngoài"
+
+msgid "seocatalogH1DatingWithForeigners"
+msgstr "hẹn hò với người nước ngoài"
+
+msgid "seocatalogTitleDatingWithRich"
+msgstr "gặp gỡ người nước ngoài"
+
+msgid "seocatalogH1DatingWithRich"
+msgstr "hẹn hò với người giàu có"
+
+msgid "seocatalogTitleDatingWithSingles"
+msgstr "gặp gỡ người độc thân"
+
+msgid "seocatalogH1DatingWithSingles"
+msgstr "hẹn hò với người độc thân"
+
+msgid "seocatalogTitleDatingWithPeopleHavingNoBadHabits"
+msgstr "gặp gỡ người không có thói quen xấu"
+
+msgid "seocatalogH1DatingWithPeopleHavingNoBadHabits"
+msgstr "hẹn hò với người không có thói quen xấu"
+
+msgid "searchShowMore"
+msgstr "Xem thêm"
+
+msgid "seocatalogTitleCountriesAndCities"
+msgstr "quốc gia và thành phố"
+
+msgid "age"
+msgstr "Tuổi"
+
+msgid "modelUsersSexWoman"
+msgstr "nữ"
+
+msgid "modelUsersSexMan"
+msgstr "nam"
+
+msgid "modelUsersSexAny"
+msgstr "bất kỳ giới tính nào"
+
+msgid "searchUsersRegion"
+msgstr "Vùng"
+
+msgid "actionFind"
+msgstr "Tìm "
+
+msgid "mainTitle3Noa"
+msgstr "Hẹn hò trên mạng miễn phí"
+
+msgid "clockNavExactSearch"
+msgstr "Tìm kiếm chính xác"
+
+msgid "clockNavExactSearchSubtext"
+msgstr "Hơn 20 thông số tìm kiếm"
+
+msgid "clockNavMeetings"
+msgstr "Hẹn hò ngay hôm nay"
+
+msgid "clockNavMeetingsSubtext"
+msgstr "Gửi và nhận <b>lời hẹn chỉ trong vài phút </b>"
+
+msgid "clockNavInstantCommunication"
+msgstr "Trò chuyện ngay bây giờ"
+
+msgid "clockNavInstantCommunicationSubtext"
+msgstr "Tìm người chat cùng <b>chỉ trong vài giây</b>"
+
+msgid "clockNavWhosNear"
+msgstr "Gặp gỡ người xung quanh"
+
+msgid "clockNavWhosNearSubtext"
+msgstr "Tìm <b>hàng trăm người tuyệt vời</b> trong bán kính một cây số"
+
+msgid "clockNavHasContact"
+msgstr "Gặp gỡ nhiều người từ khắp nơi"
+
+msgid "clockNavHasContactSubtext"
+msgstr "Trò chuyện cài sẵn chức năng dịch tự động với <b>64 ngôn ngữ</b>"
+
+msgid "clockNavperfectCouple"
+msgstr "Làm quen chỉ sau vài cú nhấp chuột"
+
+msgid "clockNavperfectCoupleSubtext"
+msgstr "<b>Cụm từ định sẵn</b>- gặp gỡ trong 30 giây"
+
+msgid "peopleHere"
+msgstr "người đã ở đây"
+
+msgid "carouselFillAnketa0"
+msgstr "Để chơi vòng quay ngựa gỗ"
+
+msgid "carouselFillAnketa1"
+msgstr "vui lòng, xác định"
+
+msgid "carouselFillAnketa2"
+msgstr "tuổi, quốc gia, thành phố và tải ảnh"
+
+msgid "flirtSearch"
+msgstr "Tìm kiếm"
+
+msgid "pagesAbout"
+msgstr ""
+"Hầu như tất cả mọi người trong cuộc đời đều thích người quen của họ. Tuy "
+"nhiên, hầu hết đều sợ công khai bày tỏ cảm xúc của mình. <br/><br/> Dịch vụ "
+"sẽ giải quyết vấn đề này. Bây giờ bạn đã có một cơ hội để tán tỉnh mà không "
+"sợ bị từ chối. <br/><br/>&bull; Bạn đang ngồi bên cạnh đồng nghiệp của bạn "
+"và không biết làm thế nào để tiếp cận cô ấy? Dịch vụ này sẽ giúp đỡ bạn.<br/"
+">&bull; Làm quen với một ngôi sao trong trường học hoặc đại học? Rất dễ "
+"dàng. <br/>&bull; Bạn có thích hàng xóm của mình? Hãy hỏi cô ấy nếu cô ấy "
+"thích bạn.<br/><br/> Một người bạn thích đang tìm kiếm điều gì... tình yêu "
+"hay tình dục? Anh ấy có thích ai tại nơi làm việc, trường học, vân vân? Bạn "
+"có thể tìm ra chỉ trong một cú nhấp chuột."
+
+msgid "pagesRulesTitle2"
+msgstr "Quy định đăng ký"
+
+msgid "pagesRules"
+msgstr ""
+"<h2> Với việc sử dụng các thông tin cá nhân của tôi trên trang web Lovetime "
+"(sau đây gọi là Trang web) Tôi đồng ý với những điều sau đây:</"
+"h2><ol><li>Tôi xác nhận rằng tôi đã đọc các điều khoản và điều kiện và sẵn "
+"sàng để thực hiện theo những quy định đó. </li><li> Tôi đảm bảo rằng tôi đã "
+"đủ 18 tuổi. </li><li>Tôi chịu trách nhiệm cá nhân về nội dung hoặc các thông "
+"tin khác được công bố trên Trang web, cho tính nhất quán và độ tin cậy cần "
+"thiết đối với sự ủy quyền của tôi trên Trang web.</li><li>Tôi nhận thức được "
+"rằng Trang web có thể bao gồm các nội dung chỉ dành cho người lớn.</li><li> "
+"Tôi hứa sẽ sử dụng Trang web phù hợp với pháp luật của khu vực. </li><li> "
+"Tôi cam kết không công khai công bố các tin nhắn hoặc địa chỉ email, số điện "
+"thoại, liên kết hoặc các thông tin khác. </li><li> Tôi cam kết không sử dụng "
+"những điều lăng mạ, vu khống, thô tục, khiêu dâm, các điều vô đạo đức khác; "
+"các điều hàm chứa sự tàn ác, khủng bố hay bạo lực; các điều xúc phạm phẩm "
+"giá con người, cũng như các điều khác trái với quy định của pháp luật. </"
+"li><li>Tôi cam kết không lừa người dùng khác cũng như không đeo đuổi và làm "
+"phiền họ.</li><li> Tôi cam kết không sử dụng trang web để thu hút sự chú ý "
+"của người dùng đối với hàng hóa, sản phẩm hoặc dịch vụ do tôi hoặc các bên "
+"không liên quan sản xuất, rao bán, thực hiện và tiến hành. Hơn nữa, tôi cam "
+"kết không sử dụng trang web để quảng cáo hoặc quảng bá các tài liệu bất hợp "
+"pháp.</li><li> Tôi nhận thức được rằng thông tin của tôi trên trang web có "
+"thể được truy cập bởi người sử dụng khác mà ban quản lý trang web không chịu "
+"trách nhiệm về điều này. </li><li>Tôi chịu trách nhiệm về các hậu quả tiêu "
+"cực có thể gây ra bằng cách gửi thư mời vô danh của tôi. </li></ol><h2> Quản "
+"trị Trang web không chịu trách nhiệm cho:</h2><ol><li> Nội dung, tính hiệu "
+"lực và tính chính xác của các thông tin được công bố bởi người sử dụng.</"
+"li><li>Bất kỳ thiệt hại hoặc mất mát thông tin cho bất kỳ người sử dụng "
+"Trang web nào hoặc qua hình thức di động và viễn thông khác</li><li> Hành vi "
+"vi phạm bản quyền người dùng và các quyền khác của bên thứ ba bằng việc công "
+"bố các tài liệu không phù hợp với luật áp dụng (bao gồm cả luật bản quyền), "
+"thêm vào bởi người sử dụng trên Trang web</li></ol>"
+
+msgid "error404"
+msgstr "Lỗi 404"
+
+msgid "pageNotFound"
+msgstr "Không tìm thấy trang"
+
+msgid "formMustFill"
+msgstr "Bắt buộc"
+
+msgid "feedbackFile"
+msgstr "Ảnh chụp màn hình"
+
+msgid "feedbackFileTip"
+msgstr "Bạn có thể đính kèm ảnh chụp màn hình có sai sót"
+
+msgid "siteCopyrightTh"
+msgstr "Lovetime.com"
+
+msgid "man"
+msgstr "Đàn ông"
+
+msgid "woman"
+msgstr "Phụ nữ"
+
+msgid "countrySelectName"
+msgstr "Quốc gia"
+
+msgid "citySelectName"
+msgstr "Thành phố"
+
+msgid "signupBirthDay"
+msgstr "Ngày"
+
+msgid "signupBirthMonth"
+msgstr "Tháng"
+
+msgid "signupBirthYear"
+msgstr "Năm"
+
+msgid "systemRegister"
+msgstr "Đăng ký"
+
+msgid "signupLicenseNote"
+msgstr ""
+"Bằng việc \"Đăng ký\", bạn xác nhận mình trên 18 tuổi và đồng ý với <a href="
+"\"/pages/rules\">Quy định người sử dụng</a>"
+
+msgid "searchExcite"
+msgstr "Các yếu tố tình dục hấp dẫn "
+
+msgid "searchExcitesHe"
+msgstr "Hứng thú về"
+
+msgid "searchExcitesShe"
+msgstr "Hứng thú về"
+
+msgid "searchFrom"
+msgstr "Từ"
+
+msgid "searchTo"
+msgstr "Đến"
+
+msgid "searchSm"
+msgstr "(cm)"
+
+msgid "searchKg"
+msgstr "(kg)"
+
+msgid "searchSkipCond"
+msgstr "Bỏ qua quy định này"
+
+msgid "sexYears"
+msgstr "Tuổi"
+
+msgid "searchHave"
+msgstr "Có"
+
+msgid "searchHaveNot"
+msgstr "Không"
+
+msgid "searchHaveChildren"
+msgstr "Có"
+
+msgid "searchHaveNotChildren"
+msgstr "Không"
+
+msgid "searchLocationUndefined"
+msgstr "Bất kỳ nơi nào"
+
+msgid "nearFilterOnline"
+msgstr "Online"
+
+msgid "nearFilterNew"
+msgstr "Mới"
+
+msgid "nearFilterAll"
+msgstr "Tất cả"
+
+msgid "searchAddParams"
+msgstr "Tùy chọn nâng cao"
+
+msgid "searchAddToSearch"
+msgstr "Thêm vào tìm kiếm"
+
+msgid "searchChooseAddParam"
+msgstr "Chọn lựa chọn nâng cao"
+
+msgid "carouselYes"
+msgstr "Có"
+
+msgid "carouselMaybeYes"
+msgstr "Có thể"
+
+msgid "carouselNo"
+msgstr "Không"
+
+msgid "carouselLikeHim"
+msgstr "Bạn có muốn hẹn hò với anh ấy?"
+
+msgid "carouselLikeHer"
+msgstr "Bạn có muốn hẹn hò với cô ấy?"
+
+msgid "carouselMutualGreeting"
+msgstr "<strong>Chúc mừng!</strong> hai bạn cùng có tình cảm với nhau"
+
+msgid "carouselMutualMessageFemale"
+msgstr "cũng muốn được gặp bạn"
+
+msgid "carouselMutualMessageMale"
+msgstr "cũng muốn được gặp bạn"
+
+msgid "chatWithHer"
+msgstr "Trò chuyện với cô ấy"
+
+msgid "chatWithHim"
+msgstr "Trò chuyện với anh ấy"
+
+msgid "chatMutualGreeting_female"
+msgstr ""
+"%s muốn hẹn hò, người ấy đã đồng ý gặp bạn! Cô ấy đang chờ tin nhắn của bạn "
+"để sắp xếp cuộc hẹn!"
+
+msgid "chatMutualGreeting_male"
+msgstr ""
+"%s muốn hẹn hò, người ấy đã đồng ý gặp bạn! Anh ấy đang chờ tin nhắn của bạn "
+"để sắp xếp cuộc hẹn!"
+
+msgid "gallerySingleUploadBtn"
+msgstr "Tải ảnh"
+
+msgid "km"
+msgstr "km"
+
+msgid "profileMeet"
+msgstr "Hẹn hò"
+
+msgid "wannaMeet"
+msgstr "Muốn gặp?"
+
+msgid "wannaMeetHer"
+msgstr "Muốn gặp cô ấy?"
+
+msgid "wannaMeetHim"
+msgstr "Muốn gặp anh ấy?"
+
+msgid "locatorSpecifyLocationPart1"
+msgstr "Xác định vị trí của bạn"
+
+msgid "locatorSpecifyLocationPart2"
+msgstr ""
+"trên bản đồ, chỉ có vậy chúng tôi mới có thể cho bạn biết ai đang ở gần"
+
+msgid "locatorSpecifyLocationPart3"
+msgstr "Xác định"
+
+msgid "corrBlackListConfirm"
+msgstr "Bạn có chắc chắn bạn muốn di chuyển tin nhắn vào danh sách đen?"
+
+msgid "corrBlackListConfirmNote"
+msgstr "Sau đó, nếu cần thiết, bạn có thể lấy được chúng trở lại"
+
+msgid "actionMove"
+msgstr "Chuyển"
+
+msgid "actionDontMove"
+msgstr "Không chuyển"
+
+msgid "corrDeleteFolderConfirm"
+msgstr "Bạn có chắc bạn muốn xóa thư mục?"
+
+msgid "corrDeleteFolderConfirmNote"
+msgstr ""
+"Tin nhắn ở đây sẽ không biến mất nhưng sẽ được chuyển đến mục \"Chưa đọc\""
+
+msgid "actionDontDelete"
+msgstr "Không xóa"
+
+msgid "guestsIgnoreOk"
+msgstr "Đối thoại với người dùng được chuyển đến mục \"Bỏ qua\""
+
+msgid "guestsIgnoreNote"
+msgstr "Bạn có thể quay lại sau"
+
+msgid "actionClose"
+msgstr "Đóng"
+
+msgid "actionChat"
+msgstr "Trò chuyện"
+
+msgid "invitePreviewFromColleagueFemale"
+msgstr "đồng nghiệp muốn gặp bạn"
+
+msgid "invitePreviewFromNeighborFemale"
+msgstr "hàng xóm muốn gặp bạn"
+
+msgid "invitePreviewFromClassmateFemale"
+msgstr "bạn cùng lớp muốn gặp bạn"
+
+msgid "invitePreviewFromFamiliarFemale"
+msgstr "ai đó muốn gặp bạn"
+
+msgid "invitePreviewFromColleagueMale"
+msgstr "đồng nghiệp muốn gặp bạn"
+
+msgid "invitePreviewFromNeighborMale"
+msgstr "hàng xóm muốn gặp bạn"
+
+msgid "invitePreviewFromClassmateMale"
+msgstr "bạn cùng lớp muốn gặp bạn"
+
+msgid "invitePreviewFromFamiliarMale"
+msgstr "ai đó muốn gặp bạn"
+
+msgid "invitePreviewTextFemale"
+msgstr ""
+"Để chứng minh đây không phải là trò đùa, cô ấy đã nói với bạn một câu mật "
+"mã, ví dụ"
+
+msgid "invitePreviewTextMale"
+msgstr ""
+"Để chứng minh đây không phải là trò đùa, anh ấy đã nói với bạn một câu mật "
+"mã, ví dụ"
+
+msgid "invitePreviewDearFemale"
+msgstr "Thân mến"
+
+msgid "invitePreviewDearMale"
+msgstr "Thân mến"
+
+msgid "invitePreviewCodeTitle"
+msgstr "Để biết ai thích bạn:"
+
+msgid "invitePreviewCodeVisitLink"
+msgstr "Ấn vào đường dẫn"
+
+msgid "invitePreviewCodeLink"
+msgstr "Tôi đã được mời"
+
+msgid "invitePreviewCodeSite"
+msgstr "Đăng nhập vào trang"
+
+msgid "invitePreviewCodeTopRight"
+msgstr "góc phải trên cùng"
+
+msgid "invitePreviewCodeType"
+msgstr "Nhập mã lời mời"
+
+msgid "invitePreviewPostcardNote"
+msgstr ""
+"In ra và đặt tấm thiệp vào những nơi nó dễ bị nhìn thấy, ví dụ như dưới tấm "
+"kính chắn gió xe hơi, vào hòm thư, vào trong túi xách, trên bàn ... Bạn có ý "
+"tưởng gì nữa không?"
+
+msgid "invitePreviewPhoneResendNote"
+msgstr ""
+"Nếu bạn muốn gửi tin nhắn SMS một lần nữa, xin vui lòng nhập số điện thoại:"
+
+msgid "inviteResend"
+msgstr "Gửi lại"
+
+msgid "inviteSendInvite"
+msgstr "Gửi lời mời"
+
+msgid "inviteResent"
+msgstr "đã gửi lại"
+
+msgid "inviteSummaryTitleColleagueFemale"
+msgstr "Lời mời tới người quen tên"
+
+msgid "inviteSummaryTitleNeighborFemale"
+msgstr "Lời mời tới hàng xóm tên"
+
+msgid "inviteSummaryTitleClassmateFemale"
+msgstr "Lời mời tới bạn học tên"
+
+msgid "inviteSummaryTitleFamiliarFemale"
+msgstr "Lời mời tới người quen tên"
+
+msgid "inviteSummaryTitleColleagueMale"
+msgstr "Lời mời tới đồng nghiệp tên"
+
+msgid "inviteSummaryTitleNeighborMale"
+msgstr "Lời mời tới hàng xóm tên"
+
+msgid "inviteSummaryTitleClassmateMale"
+msgstr "Lời mời tới bạn học tên"
+
+msgid "inviteSummaryTitleFamiliarMale"
+msgstr "Lời mời tới người quen tên"
+
+msgid "inviteSummaryStateAgree"
+msgstr "đã chấp nhận"
+
+msgid "inviteSummaryStateWait"
+msgstr "đã gửi"
+
+msgid "inviteSummaryNoKeyPhrase"
+msgstr "không có câu then chốt"
+
+msgid "inviteFailCodeField"
+msgstr "Không có lời mời nào cả :( Bạn có nhầm lẫn gì không?"
+
+msgid "inviteApplySuccess"
+msgstr "Lời mời được chấp nhận!"
+
+msgid "increaseInfoConfirm4MaleTitle"
+msgstr "%s đã chia sẻ nhiều thông tin cá nhân hơn bạn."
+
+msgid "increaseInfoConfirm4FemaleTitle"
+msgstr "%s đã chia sẻ nhiều thông tin cá nhân hơn bạn."
+
+msgid "needAddPhotoConfirmTitle"
+msgstr "Bạn nên thêm một hình ảnh"
+
+msgid "needAddPhotoConfirmNote"
+msgstr ""
+"Để xem hình ảnh của người khác, bạn phải tải lên hình ảnh cá nhân của bạn!"
+
+msgid "needAddPhotoConfirmYes"
+msgstr "Tải ảnh"
+
+msgid "needAddPhotoConfirmNo"
+msgstr "Hủy"
+
+msgid "requiredFieldsAlertConfirmTitle"
+msgstr "Chưa điền"
+
+msgid "requiredFieldsAlertConfirmText"
+msgstr ""
+"Các mục sau là bắt buộc: %s<br>Vui lòng đi đến hồ sơ của bạn và điền vào các "
+"mục còn thiếu."
+
+msgid "requiredFieldsAlertConfirmYes"
+msgstr "Đi đến"
+
+msgid "noticeImageSizeLimit"
+msgstr "Giới hạn kích thước hình ảnh"
+
+msgid "noticeImageSizeLimitText"
+msgstr "Hình ảnh phải nhỏ hơn 2MB"
+
+msgid "emailConfirmTitle"
+msgstr "Xác nhận địa chỉ email"
+
+msgid "emailConfirmAlertYes"
+msgstr "Xác nhận"
+
+msgid "emailConfirmAlertNo"
+msgstr "Hủy"
+
+msgid "bannedInfoAlertTitle"
+msgstr "Tài khoản của bạn đã bị khóa"
+
+msgid "bannedInfoAlertNotice"
+msgstr "Thông tin chi tiết có thể tìm thấy trên trang cá nhân"
+
+msgid "bannedInfoAlertYes"
+msgstr "Đi đến hồ sơ"
+
+msgid "bannedInfoAlertNo"
+msgstr "Thoát"
+
+msgid "emailDomainsReplaceAlertTitle"
+msgstr "Thay đổi email"
+
+msgid "emailDomainsReplaceAlertText"
+msgstr ""
+"Chúng tôi đã thay đổi địa chỉ email của bạn thành %s, vì nó nhiều khả năng "
+"bị gõ sai. Tiếp tục hay đổi lại?"
+
+msgid "emailDomainsReplaceAlertYes"
+msgstr "Tiếp tục"
+
+msgid "emailDomainsReplaceAlertNo"
+msgstr "Thay đổi trở lại"
+
+msgid "signinAction"
+msgstr "Đăng nhập"
+
+msgid "signupAction"
+msgstr "Đăng ký"
+
+msgid "signinEmailEmptyError"
+msgstr "Nhập email"
+
+msgid "signinEmailMaskError"
+msgstr "Nhập địa chỉ email hợp lệ của bạn"
+
+msgid "signinPasswordEmptyError"
+msgstr "Nhập mật khẩu"
+
+msgid "signinCountryEmptyError"
+msgstr "Quốc gia"
+
+msgid "signinCityEmptyError"
+msgstr "Thành phố"
+
+msgid "signinErrorBirthDayEmpty"
+msgstr "Ngày"
+
+msgid "signinErrorBirthMonthEmpty"
+msgstr "Tháng"
+
+msgid "signinErrorBirthYearEmpty"
+msgstr "Năm"
+
+msgid "signinErrorTooYoung"
+msgstr "Chỉ cho phép đăng ký khi trên 18 tuổi."
+
+msgid "citySelectDisabledTitle"
+msgstr "Chọn quốc gia"
+
+msgid "signinPasswordMinLengthError"
+msgstr "Mật khẩu phải ít nhất 5 ký tự"
+
+msgid "signinErrorNameEmpty"
+msgstr "Nhập tên bạn"
+
+msgid "signinErrorSex"
+msgstr "Chọn giới tính của bạn"
+
+msgid "loginVia"
+msgstr "Đăng nhập qua %s"
+
+msgid "registerVia"
+msgstr "Đăng ký qua %s"
+
+msgid "timeToFindYourLove"
+msgstr "Cùng tìm tình yêu đích thực"
+
+msgid "socialLikeDescription"
+msgstr ""
+"tán tỉnh giấu mặt với đồng nghiệp, bạn học, hàng xóm và những người quen "
+"biết ..."
+
+msgid "showAll"
+msgstr "Xem tất cả"
+
+msgid "actionMinimize"
+msgstr "Rút gọn"
+
+msgid "chatLoadingHistory"
+msgstr "Tải tin nhắn cũ"
+
+msgid "chatCitationsAdd"
+msgstr "Thêm vào ô chat"
+
+msgid "chatCitationsTitle"
+msgstr "Chat"
+
+msgid "chatCitationsWelcome"
+msgstr ""
+"<p>Xin vui lòng thêm ở đây cụm từ thường xuyên được sử dụng để nhanh chóng "
+"chèn chúng vào hội thoại.</p><p>Cho việc đặt, sử dụng nút<span id="
+"\"citations-welcome-button\"></span>.Thêm vào chat</p>"
+
+msgid "statusOnline"
+msgstr "Online"
+
+msgid "actionEdit"
+msgstr "Sửa"
+
+msgid "chatCitationsRestore"
+msgstr "Khôi phục chat"
+
+msgid "chatNewMessageFrom"
+msgstr "Tin nhắn mới từ"
+
+msgid "chatEmptyTitle"
+msgstr "không có tin nhắn trong bảng trò chuyện"
+
+msgid "chatEmptyText"
+msgstr ""
+"Để thêm bạn, hãy chọn người dùng bạn thích, ví dụ từ mục <a href=\"/\">Tìm "
+"kiếm</a>, và chọn \"Soạn tin nhắn\""
+
+msgid "formUploadFile"
+msgstr "Tải tập tin"
+
+msgid "formDeleteFile"
+msgstr "Xóa tập tin"
+
+msgid "socialLikeTitle"
+msgstr "Một trang web tuyệt vời! Lovetime"
+
+msgid "About Yiinka"
+msgstr "Về Yiinke"
+
+msgid "systemInstruments"
+msgstr "Công cụ"
+
+msgid "Import CSV"
+msgstr "Nhập từ CSV"
+
+msgid "chatMessages"
+msgstr "Tin nhắn"
+
+msgid "profileMessages"
+msgstr "Tin nhắn"
+
+msgid "chatAll"
+msgstr "Tất cả"
+
+msgid "chatOnline"
+msgstr "Online"
+
+msgid "correspondencesActions"
+msgstr "Hoạt động"
+
+msgid "actionMoveIn"
+msgstr "Chuyển tới:"
+
+msgid "actionBlacklist"
+msgstr "Danh sách đen"
+
+msgid "chatEmptyFolder"
+msgstr "Thư mục rỗng"
+
+msgid "chatNoOnline"
+msgstr "Tất cả người trò chuyện đang không online."
+
+msgid "correspondencesMessage"
+msgid_plural "correspondencesMessages"
+msgstr[0] "tin nhắn"
+
+msgid "favoriteUsers"
+msgstr "Người dùng yêu thích"
+
+msgid "favoriteLocation"
+msgstr ""
+"Bạn có thể thấy người dùng mà bạn \"Thêm vào Yêu thích\" trong thư mục \"Yêu "
+"thích\" của phần \"Tin nhắn\"."
+
+msgid "favoriteHideTip"
+msgstr "Ẩn một mẹo"
+
+msgid "favoriteNext"
+msgstr "Tiếp"
+
+msgid "favoriteCancel"
+msgstr "Hủy"
+
+msgid "emailConfirmResultSuccess"
+msgstr "Địa chỉ email của bạn đã được xác nhận thành công."
+
+msgid "emailConfirmAlreadyConfirmed"
+msgstr "Địa chỉ email đã được xác nhận"
+
+msgid "emailConfirmCheckYourEmailNow"
+msgstr "Bây giờ hãy kiểm tra email của bạn"
+
+msgid "emailConfirmClickLinkForComplete"
+msgstr ""
+"Để hoàn thành việc đăng ký, hãy nhấn vào liên kết trong email chúng tôi gửi "
+"đến <b>%email%</b>"
+
+msgid "mailOpen"
+msgstr "Mở"
+
+msgid "emailConfirmCantGetMessage"
+msgstr "Chưa nhận được email?"
+
+msgid "emailConfirmCheckYourEmailOrEnterAnother"
+msgstr "Xác minh địa chỉ email của bạn hoặc nhập một địa chỉ mới"
+
+msgid "emailConfirmTypeValidEmail"
+msgstr "Nhập địa chỉ email hợp lệ của bạn."
+
+msgid "emailConfirmSendAgain"
+msgstr "Gửi lại"
+
+msgid "profileGuests"
+msgstr "Khách ghé thăm"
+
+msgid "guestsFemaleStranger"
+msgstr "người lạ"
+
+msgid "guestsMaleStranger"
+msgstr "người lạ"
+
+msgid "guestsNo"
+msgstr "Bạn không có khách ghé thăm trong khoảng thời gian này"
+
+msgid "catalogUsersCatalog"
+msgstr "Danh mục người dùng"
+
+msgid "formPasswordSent"
+msgstr "Chúng tôi đã gửi hướng dẫn đặt lại mật khẩu đến địa chỉ email của bạn."
+
+msgid "usersList"
+msgstr "Danh sách người dùng"
+
+msgid "likesNoData"
+msgstr "Không có dữ liệu"
+
+msgid "guestsDataError"
+msgstr "Dữ liệu lỗi"
+
+msgid "usersPhotoAlbumOf"
+msgstr "Album của người dùng"
+
+msgid "actionUploadPhoto"
+msgstr "Tải ảnh"
+
+msgid "banProfileNotice"
+msgstr ""
+"Hồ sơ này không hoàn chỉnh, bị từ chối bởi ban quản lý hoặc không được phép "
+"xem. Hãy thử tìm người dùng khác."
+
+msgid "banProfileHome"
+msgstr "Trang chủ"
+
+msgid "usersWriteMessage"
+msgstr "Viết tin nhắn"
+
+msgid "usersInviteToChat"
+msgstr "Mời trò chuyện"
+
+msgid "usersAlreadyToFavorite"
+msgstr "Đã thêm vào Yêu thích"
+
+msgid "carouselDistance"
+msgstr "%s km từ chỗ bạn"
+
+msgid "carouselDistanceOn"
+msgstr "trong khoảng cách"
+
+msgid "carouselDistanceUnknown"
+msgstr "để biết, xác định vị trí của bạn"
+
+msgid "porsonalInfo"
+msgstr "Thông tin cá nhân"
+
+msgid "userProfilePersonalInfoShow"
+msgstr "hiển thị"
+
+msgid "formResetPassword"
+msgstr "Nhận được một liên kết để thiết lập lại mật khẩu"
+
+msgid "carouselDisabledTitle"
+msgstr "Hãy tải lên một tấm ảnh của bạn"
+
+msgid "uploadPhoto"
+msgstr "Tải ảnh"
+
+msgid "carouselDisabledText"
+msgstr ""
+"Bạn không muốn hẹn hò với một bóng ma? Vậy thì hãy tải lên ít nhất một tấm "
+"ảnh đại diện của mình trước đã! Thành công sau đó sẽ được đảm bảo!"
+
+msgid "backToPageDates"
+msgstr "Chọn một đối tác hẹn hò"
+
+msgid "profileRelations"
+msgstr "Hẹn hò"
+
+msgid "profileLikesForMe"
+msgstr "Muốn hẹn hò"
+
+msgid "profileMutualLikes"
+msgstr "Yêu đương"
+
+msgid "profileMyLikes"
+msgstr "Tôi muốn hẹn hò"
+
+msgid "carouselHeYes"
+msgstr "Anh ấy nói<strong>\"Có\"</strong>"
+
+msgid "carouselSheYes"
+msgstr "Cô ấy nói<strong>\"Có\"</strong>"
+
+msgid "carouselHeMaybe"
+msgstr "Anh ấy nói<strong>\"Có thể\"</strong>"
+
+msgid "carouselSheMaybe"
+msgstr "Cô ấy nói<strong>\"Có thể\"</strong>"
+
+msgid "carouselAnswerYes"
+msgstr "Có!"
+
+msgid "carouselAnswerMaybe"
+msgstr "Có thể"
+
+msgid "carouselAnswerNo"
+msgstr "Không"
+
+msgid "carouselMyYes"
+msgstr "Bạn nói<strong>&laq<strong>\"Có\"</strong>"
+
+msgid "carouselYouMaybe"
+msgstr "Bạn nói<strong>\"Có\"</strong>"
+
+msgid "updatePass"
+msgstr "Nhập mật khẩu mới"
+
+msgid "modelForgotpassChangePassword"
+msgstr "Đổi mật khẩu"
+
+msgid "nearTitle1"
+msgstr "Ai đang ở gần"
+
+msgid "nearTitle2"
+msgstr "tôi"
+
+msgid "meOnMap"
+msgstr "Nơi ở"
+
+msgid "userLocationNotFound"
+msgstr "Không tìm thấy vị trí"
+
+msgid "backToPageSearch"
+msgstr "Quay lại tìm kiếm"
+
+msgid "pageLocationTitle"
+msgstr "Xác định vị trí của bạn"
+
+msgid "meOnMapText2"
+msgstr ""
+"Những người dùng khác sẽ không nhìn thấy vị trí chính xác của bạn. Chỉ là "
+"khoảng cách tương đối."
+
+msgid "userLocationPlaceholder"
+msgstr "Xin vui lòng nhập số nhà, tên đường và thành phố"
+
+msgid "userLocationFind"
+msgstr "Tìm "
+
+msgid "locationClear"
+msgstr "Loại bỏ đánh dấu"
+
+msgid "usersRefuseFromMails"
+msgstr "Từ chối thông báo mail"
+
+msgid "usersRefuseFromMailsOk"
+msgstr "Bạn sẽ không nhận được thông báo nào bằng email"
+
+msgid "profileMySettings"
+msgstr "Điều chỉnh"
+
+msgid "profileNotificationSettings"
+msgstr "Cài đặt thông báo"
+
+msgid "inviteIncognitoTitle"
+msgstr "\"Giấu mặt\""
+
+msgid "loginWidgetIncognitoText"
+msgstr "Ảnh được ẩn trước những người dùng khác"
+
+msgid "UTC-11:00"
+msgstr "(UTC-11:00) Thời gian định dạng UTC là 11"
+
+msgid "UTC-10:00"
+msgstr "(UTC-10:00) Hawaii"
+
+msgid "UTC-9:00"
+msgstr "(UTC-09:00) Alaska"
+
+msgid "UTC-8:00[1]"
+msgstr "(UTC-08:00) Baja California"
+
+msgid "UTC-8:00[2]"
+msgstr "(UTC-08:00) Pacific Time (U.S. and Canada)"
+
+msgid "UTC-7:00[1]"
+msgstr "(UTC-07:00) Arizona"
+
+msgid "UTC-7:00[2]"
+msgstr "(UTC-07:00) Mountain Time (U.S. and Canada)"
+
+msgid "UTC-7:00[3]"
+msgstr "(UTC-07:00) La Paz, Mazatlan, Chihuahua"
+
+msgid "UTC-6:00[1]"
+msgstr "(UTC-06:00) Guadalajara, Mexico City, Monterrey"
+
+msgid "UTC-6:00[2]"
+msgstr "(UTC-06:00) Saskatchewan, Central America"
+
+msgid "UTC-6:00[3]"
+msgstr "(UTC-06:00) Central Time (U.S. and Canada)"
+
+msgid "UTC-5:00[1]"
+msgstr "(UTC-05:00) Bogota, Quito, Lima"
+
+msgid "UTC-5:00[2]"
+msgstr "(UTC-05:00) Eastern Time (U.S. and Canada)"
+
+msgid "UTC-5:00[3]"
+msgstr "(UTC-05:00) Indiana (East)"
+
+msgid "UTC-4:30"
+msgstr "(UTC-04:30) Caracas"
+
+msgid "UTC-4:00[1]"
+msgstr "(UTC-04:00) Asuncion"
+
+msgid "UTC-4:00[2]"
+msgstr "(UTC-04:00) Atlantic Time (Canada)"
+
+msgid "UTC-4:00[3]"
+msgstr "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+
+msgid "UTC-4:00[4]"
+msgstr "(UTC-04:00) Cuiaba"
+
+msgid "UTC-4:00[5]"
+msgstr "(UTC-04:00) Santiago"
+
+msgid "UTC-3:30"
+msgstr "(UTC-03: 30) Newfoundland"
+
+msgid "UTC-3:00[1]"
+msgstr "(UTC-03:00) Brazil"
+
+msgid "UTC-3:00[2]"
+msgstr "(UTC-03: 00) Buenos Aires"
+
+msgid "UTC-3:00[3]"
+msgstr "(UTC-03:00) Greenland"
+
+msgid "UTC-3:00[4]"
+msgstr "(UTC-03:00) Cayenne, Fortaleza"
+
+msgid "UTC-3:00[5]"
+msgstr "(UTC-03:00) Montevideo"
+
+msgid "UTC-2:00[1]"
+msgstr "(UTC-02:00) Thời gian định dạng UTC là 02:00"
+
+msgid "UTC-2:00[2]"
+msgstr "(UTC-02:00) Mid-Atlantic time"
+
+msgid "UTC-1:00[1]"
+msgstr "(UTC-01:00) Azores"
+
+msgid "UTC-1:00[2]"
+msgstr "(UTC-01:00) Cape Verde Islands"
+
+msgid "UTC0[2]"
+msgstr "(UTC±00:00) Dublin, Lisbon, London, Edinburgh"
+
+msgid "UTC0[3]"
+msgstr "(UTC±00:00) Casablanca"
+
+msgid "UTC0[4]"
+msgstr "(UTC±00:00) Monrovia, Reykjavik"
+
+msgid "UTC+1[1]"
+msgstr "(UTC+01:00) Amsterdam, Berlin, Bern, Vienna, Rome, Stockholm"
+
+msgid "UTC+1[2]"
+msgstr "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+
+msgid "UTC+1[3]"
+msgstr "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris"
+
+msgid "UTC+1[4]"
+msgstr "(UTC+01:00) Warsaw, Zagreb, Sarajevo, Skopje"
+
+msgid "UTC+1[5]"
+msgstr "(UTC+01:00) Windhoek"
+
+msgid "UTC+1[6]"
+msgstr "(UTC+01:00) West Central Africa"
+
+msgid "UTC+2[1]"
+msgstr "(UTC+02:00) Amman"
+
+msgid "UTC+2[2]"
+msgstr "(UTC+02:00) Athens, Bucharest"
+
+msgid "UTC+2[3]"
+msgstr "(UTC+02:00) Beirut"
+
+msgid "UTC+2[4]"
+msgstr "(UTC+02:00) Vilnius, Kiev, Riga, Sofia, Tallinn, Helsinki"
+
+msgid "UTC+2[5]"
+msgstr "(UTC+02:00) Damascus"
+
+msgid "UTC+2[6]"
+msgstr "(UTC+02:00) Jerusalem"
+
+msgid "UTC+2[7]"
+msgstr "(UTC+02:00) Cairo"
+
+msgid "UTC+2[8]"
+msgstr "(UTC+02:00) Nicosia"
+
+msgid "UTC+2[9]"
+msgstr "(UTC+02:00) Istanbul"
+
+msgid "UTC+2[10]"
+msgstr "(UTC+02:00) Harare, Pretoria"
+
+msgid "UTC+3[1]"
+msgstr "(UTC+03:00) Baghdad"
+
+msgid "UTC+3[2]"
+msgstr "(UTC+03:00) Kaliningrad, Minsk"
+
+msgid "UTC+3[3]"
+msgstr "(UTC+03:00) Kuwait, Riyadh"
+
+msgid "UTC+3[4]"
+msgstr "(UTC+03:00) Nairobi"
+
+msgid "UTC+3:30"
+msgstr "(UTC+03:30) Tehran"
+
+msgid "UTC+4[1]"
+msgstr "(UTC+04:00) Abu Dhabi, Muscat"
+
+msgid "UTC+4[2]"
+msgstr "(UTC+04:00) Baku"
+
+msgid "UTC+4[3]"
+msgstr "(UTC+04:00) Volgograd, Moscow, St. Petersburg"
+
+msgid "UTC+4[4]"
+msgstr "(UTC +04:00) Yerevan"
+
+msgid "UTC+4[5]"
+msgstr "(UTC+04:00) Tbilisi"
+
+msgid "UTC+4:30"
+msgstr "(UTC+04:30) Kabul"
+
+msgid "UTC+5[1]"
+msgstr "(UTC+05:00) Islamabad, Karachi"
+
+msgid "UTC+5[2]"
+msgstr "(UTC+05:00) Tashkent"
+
+msgid "UTC+5:30"
+msgstr "(UTC+05:30) Kolkata, Mumbai, New Delhi, Chennai"
+
+msgid "UTC+5:45"
+msgstr "(UTC+05:45) Katmandu"
+
+msgid "UTC+6[1]"
+msgstr "(UTC+06:00) Astana"
+
+msgid "UTC+6[2]"
+msgstr "(UTC+06:00) Dacca"
+
+msgid "UTC+6[3]"
+msgstr "(UTC+06:00) Yekaterinburg"
+
+msgid "UTC+6:30"
+msgstr "(UTC+06:30) Yangon"
+
+msgid "UTC+7[1]"
+msgstr "(UTC+07:00) Bangkok, Jakarta, Hanoi"
+
+msgid "UTC+7[2]"
+msgstr "(UTC+07:00) Novosibirsk"
+
+msgid "UTC+8[1]"
+msgstr "(UTC+08:00) Hong Kong, Beijing, Urumqi, Chongqing"
+
+msgid "UTC+8[2]"
+msgstr "(UTC+08:00) Krasnoyarsk"
+
+msgid "UTC+8[3]"
+msgstr "(UTC+08:00) Kuala Lumpur, Singapore"
+
+msgid "UTC+8[4]"
+msgstr "(UTC+08:00) Perth"
+
+msgid "UTC+8[5]"
+msgstr "(UTC+08:00) Taipei"
+
+msgid "UTC+8[6]"
+msgstr "(UTC+08:00) Ulaanbaatar"
+
+msgid "UTC+9[1]"
+msgstr "(UTC+09:00) Irkutsk"
+
+msgid "UTC+9[2]"
+msgstr "(UTC+09:00) Osaka, Sapporo, Tokyo"
+
+msgid "UTC+9[3]"
+msgstr "(UTC+09:00) Seoul"
+
+msgid "UTC+9:30[1]"
+msgstr "(UTC+09:30) Adelaide"
+
+msgid "UTC+9:30[2]"
+msgstr "(UTC+09:30) Darwin"
+
+msgid "UTC+10[1]"
+msgstr "(UTC+10:00) Brisbane"
+
+msgid "UTC+10[2]"
+msgstr "(UTC+10:00) Guam, Port Moresby"
+
+msgid "UTC+10[3]"
+msgstr "(UTC+10:00) Canberra, Melbourne, Sydney"
+
+msgid "UTC+10[4]"
+msgstr "(UTC+10:00) Hobart"
+
+msgid "UTC+10[5]"
+msgstr "(UTC+10:00) Yakutsk"
+
+msgid "UTC+11[1]"
+msgstr "(UTC+11:00) Vladivostok"
+
+msgid "UTC+11[2]"
+msgstr "(UTC+11:00) Solomon Islands, New Caledonia"
+
+msgid "UTC+12[1]"
+msgstr "(UTC+12:00) Wellington, Auckland"
+
+msgid "UTC+12[3]"
+msgstr "(UTC+12:00) Magadan"
+
+msgid "UTC+12[4]"
+msgstr "(UTC+12:00) Fiji"
+
+msgid "UTC+13[1]"
+msgstr "(UTC+13:00) Nuku'alofa"
+
+msgid "UTC+13[2]"
+msgstr "(UTC+13:00) Samoa"
+
+msgid "profileAdditional"
+msgstr "Tùy chọn"
+
+msgid "saved"
+msgstr "Đã lưu"
+
+msgid "userSettingsChangePassword"
+msgstr "Đổi mật khẩu"
+
+msgid "systemRegisterNew"
+msgstr "Đăng ký người dùng mới"
+
+msgid "systemRegisterChange"
+msgstr "Thay đổi hồ sơ"
+
+msgid "registerSex"
+msgstr "Giới tính"
+
+msgid "siteRulesAccept"
+msgstr "Nhấn nút chấp nhận"
+
+msgid "pagesRulesTitle"
+msgstr "Người dùng đồng ý"
+
+msgid "profileMyAnketa"
+msgstr "Hồ sơ"
+
+msgid "userProfileChangeCountry"
+msgstr ""
+"Bạn đã xác định quốc gia của mình là <strong>%current_country%</strong>. Địa "
+"điểm hiện tại của bạn là - <strong>%country_by_ip%</strong>. <a "
+"%href_extension% href='%link%'>Đổi quốc gia trong hồ sơ của bạn</a>"
+
+msgid "iLookingFor"
+msgstr "Tôi đang tìm kiếm"
+
+msgid "preferredAgeFrom"
+msgstr "từ"
+
+msgid "preferredAgeTo"
+msgstr "đến"
+
+msgid "aboutMe"
+msgstr "Về tôi"
+
+msgid "userViewProfessionOrSphereOfActivity"
+msgstr "Nghề nghiệp / Công việc"
+
+msgid "contestUnselectAll"
+msgstr "Bỏ chọn tất cả"
+
+msgid "step"
+msgstr ""
+
+msgid "locationSavedOk"
+msgstr "Địa điểm của bạn đã được lưu."
+
+msgid "locationClearedOk"
+msgstr "Chi tiết địa điểm của bạn đã được xóa."
+
+msgid "locationSavedErr"
+msgstr "Lỗi lưu địa điểm"
+
+msgid "inviteCaptchaWrong"
+msgstr "Sai mã"
+
+msgid "formIncorrectLink"
+msgstr ""
+"Bạn không thể sử dụng lại link để gài đặt lại mật khẩu.<br />Để làm vậy hãy "
+"ấn vào link"
+
+msgid "msgNoNearestNew"
+msgstr "Không có thêm ai xung quanh xuất hiện từ lần ghé thăm trước."
+
+msgid "msgNoNearestOnline"
+msgstr "Xin lỗi, không có ai ở xung quanh đây."
+
+msgid "msgNoNearestAll"
+msgstr "Xin lỗi, không có ai ở xung quanh."
+
+msgid "carouselUsersAreAbsent"
+msgstr "Không có thêm người dùng nào có thể xem."
+
+msgid "profileAgeStr"
+msgstr "%s tuổi"
+
+msgid "complainSuccess"
+msgstr "Lời phàn nàn của bạn đã được gửi đến ban quản trị"
+
+msgid "complainNoSuccess"
+msgstr "Xảy ra lỗi khi gửi lời phàn nàn"
+
+msgid "complainAllPoles"
+msgstr "Làm ơn điền vào tất cả các mục"
+
+msgid "feedbackFileError"
+msgstr "Tập tin sai định dạng. Định dạng hợp lệ: jpg, png."
+
+msgid "feedbackSentError"
+msgstr "Lỗi lưu tin nhắn. Mời bạn thử lại sau. "
+
+msgid "feedbackSent"
+msgstr "Tin nhắn đã được gửi."
+
+msgid "unsubscribeSuccess"
+msgstr "Bạn đã bỏ thông báo qua email thành công"
+
+msgid "unsubscribeNoSuchUser"
+msgstr "Không có người dùng nào với địa chỉ email này."
+
+msgid "loginWidgetPhotoDidNotModeratedYet"
+msgstr "Ảnh chưa phù hợp"
+
+msgid "loginWidgetPhotoDidNotPassModerated"
+msgstr "Ảnh chưa phù hợp"
+
+msgid "chatSessionClose"
+msgstr "Thời gian giao dịch của bạn đã kết thúc. Mời xác nhận lại. "
+
+msgid "searchNoResults"
+msgstr "Không có kết quả"
+
+msgid "loginWidgetAddPhoto"
+msgstr "Thêm ảnh"
+
+msgid "systemExitConfirmTitle"
+msgstr "Bạn chắc chắn muốn thoát?"
+
+msgid "systemExitConfirmBody"
+msgstr "Lần tới bạn phải ấn login và nhập mật khẩu một lần nữa."
+
+msgid "systemExitConfirmNo"
+msgstr "Không thoát"

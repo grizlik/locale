@@ -1,0 +1,4231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-01 08:57+0000\n"
+"PO-Revision-Date: 2013-07-02 10:39+0200\n"
+"Last-Translator: Olesya <alesena@gmail.com>\n"
+"Language-Team: \n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/jowee/Development/flirteka/trunk\n"
+
+msgid "lettersGiftTitle"
+msgstr "អ្នកទទួលបានអំណោយថ្មីមួយនៅលើ %s។"
+
+msgid "lettersHelloName"
+msgstr "សួស្តី %s"
+
+msgid "messageNewPresentLookAtButton"
+msgstr "មើល"
+
+msgid "lettersFindYourLoveMatch"
+msgstr "ស្វែងរកដៃគូស្នេហារបស់អ្នក !"
+
+msgid "lettersUnsubscribe"
+msgstr ""
+"ប្រសិនបើអ្នកមិនចង់ទទួលការជូនដំណឹងតាមរយៈអ៊ីម៉ែល លោកអ្នកគ្រាន់តែចុច <a href=\"%s\" style="
+"\"color: #0072bc;\">ឈប់បញ្ចូលឈ្មោះរបស់អ្នកក្នុងបញ្ជីឈ្មោះត្រូវផ្ញើ</a>"
+
+msgid "lettersChangeDataByClickingTheLink"
+msgstr ""
+"លោកអ្នកក៏អាចផ្លាស់ប្តូរការកំណត់របស់លោកអ្នក <a href=\"%s\" style=\"color: #0072bc;"
+"\">ដោយចុចនៅទីនេះ</a>"
+
+msgid "lettersUserSentGift"
+msgstr "អ្នកប្រើ <b><a href='%s'>%s</a></b> បានផ្ញើអំណោយដល់អ្នក។"
+
+msgid "lettersBalanceIncreasedTitle"
+msgstr "សមតុល្យគណនីរបស់អ្នកត្រូវបានបង្កើន"
+
+msgid "lettersBalanceIncreased"
+msgid_plural "lettersBalanceIncreased"
+msgstr[0] "សមតុល្យគណនីរបស់អ្នកបានកើនឡើងចំនួន %s កាក់"
+
+msgid "inviteCaptcha"
+msgstr "លេខកូដក្រង"
+
+msgid "captchaNewCode"
+msgstr "លេខកូដថ្មី"
+
+msgid "moderatorSpamers"
+msgstr ""
+
+msgid "formSearch"
+msgstr "ស្វែងរក"
+
+msgid "modelSpamersOneName"
+msgstr ""
+
+msgid "modelSpamersBack"
+msgstr ""
+
+msgid "modelSpamersBanTime"
+msgstr ""
+
+msgid "modelSpamersBanMessagesHeader"
+msgstr ""
+
+msgid "modelSpamersMessage"
+msgstr ""
+
+msgid "modelSpamersTranslate"
+msgstr ""
+
+msgid "modelSpamersDate"
+msgstr ""
+
+msgid "moderatorBannedUsers"
+msgstr "អ្នកប្រើដែលគេហាមឃាត់"
+
+msgid "moderatorBan"
+msgstr "ហាមឃាត់"
+
+msgid "moderatorUnban"
+msgstr "មិនហាមឃាត់"
+
+msgid "statisticsMailchartsbytemplatesTemplateTitle"
+msgstr "ខ្នាតគំរូ #%d (%s)"
+
+msgid "statisticsMailchartsbytemplatesQuantityChartTitle"
+msgstr "ចំនួន"
+
+msgid "statisticsMailchartsbytemplateQuantityChartYAxis"
+msgstr "ចំនួន"
+
+msgid "statisticsMailchartsbytemplatesPercentChartTitle"
+msgstr "ភាគរយ"
+
+msgid "statisticsMailchartsbytemplatePercentChartYAxis"
+msgstr "ភាគរយ"
+
+msgid "moderatorStatisticMenuMailTotal"
+msgstr ""
+
+msgid "moderatorStatisticMenuEximStats"
+msgstr ""
+
+msgid "statisticsMailTodayTitle"
+msgstr "ស្ថិតិអ៊ីម៉ែលថ្ងៃនេះ"
+
+msgid "statisticsMailDomainsTitle"
+msgstr "ដែន"
+
+msgid "statisticsMailUniqueOpens"
+msgstr "របកគំហើញតែមួយ"
+
+msgid "statisticsMailUniqueClicks"
+msgstr "ចុចតែមួយ"
+
+msgid "statisticsMailAll"
+msgstr "សរុប"
+
+msgid "statisticsMailTemplateTitle"
+msgstr "ចំណងជើងសារ"
+
+msgid "statisticsMailchartsbydomainDisplayDomains"
+msgstr "ដែនត្រូវបង្ហាញ"
+
+msgid "statisticsMailchartsbydomainAllDomains"
+msgstr "ទាំងអស់"
+
+msgid "statisticsMailchartsbydomainDisplayCounters"
+msgstr "ការបង្ហាញ"
+
+msgid "statisticsMailchartsbydomainSubmitButton"
+msgstr "ទាន់សម័យ"
+
+msgid "statisticsMailchartsbydomainQuantityChartTitle"
+msgstr "ចំនួន"
+
+msgid "statisticsMailchartsbydomainQuantityChartYAxis"
+msgstr "ចំនួន"
+
+msgid "statisticsMailchartsbydomainPercentChartTitle"
+msgstr "ភាគរយ"
+
+msgid "statisticsMailchartsbydomainPercentChartYAxis"
+msgstr "ភាគរយ"
+
+msgid "moderatorRefusalOfInvitation"
+msgstr "បដិសេធការអញ្ជើញ"
+
+msgid "moderatorComplaintAboutUsers"
+msgstr "បណ្តឹងអំពីអ្នកប្រើ"
+
+msgid "moderatorFeedBack"
+msgstr "មតិផ្តល់មកវិញ"
+
+msgid "moderatorErrorMessages"
+msgstr "សារមានបញ្ហា"
+
+msgid "moderatorUsers"
+msgstr "អ្នកប្រើ"
+
+msgid "moderatorContactsExclusion"
+msgstr "ការដកចេញពីបញ្ជីទំនាក់ទំនង"
+
+msgid "moderatorPhotos"
+msgstr "រូបថត"
+
+msgid "moderatorCarousel"
+msgstr "ល្បែងផ្ទះវិល"
+
+msgid "moderatorModeratingPhotos"
+msgstr "ត្រួតពិនិត្យរូបថត"
+
+msgid "moderatorEmailNotifications"
+msgstr "ការជូនដំណឹងតាមរយៈអ៊ីម៉ែល"
+
+msgid "moderatorBlackListForDeliveries"
+msgstr "បញ្ជីខ្មៅចំពោះការបញ្ជូនចេញ"
+
+msgid "moderatorUsernamesBlacklist"
+msgstr "បញ្ជីខ្មៅសម្រាប់ឈ្មោះអ្នកប្រើ"
+
+msgid "moderatorStatistic"
+msgstr "ស្ថិតិ"
+
+msgid "moderatorStatisticOpenedClickedStats"
+msgstr ""
+
+msgid "moderatorStatisticMenuMailNumbers"
+msgstr "សារ - ទិន្នន័យ"
+
+msgid "moderatorStatisticMenuMailChartByDomain"
+msgstr "សារ - គំនូសតាង - ដែន"
+
+msgid "moderatorStatisticMenuMailChartByTemplate"
+msgstr "សារ - គំនូសតាង - ពុម្ព"
+
+msgid "moderatorRemovedRestoredUsers"
+msgstr "លុប​ ឬស្តារទម្រង់ឡើងវិញ"
+
+msgid "Advertising statistics"
+msgstr ""
+
+msgid "moderatorBalanceBilling"
+msgstr "វិក័យបត្រ"
+
+msgid "moderatorMenuItemProducts"
+msgstr "ផលិតផល"
+
+msgid "moderatorMenuItemProductPresents"
+msgstr "អំណោយ"
+
+msgid "systemExit"
+msgstr "ចេញ"
+
+msgid "systemUser"
+msgstr "អ្នកប្រើ"
+
+msgid "moderatorRemoveRecord"
+msgstr "លុបកំណត់ត្រាចេញ​"
+
+msgid "moderatorMaxUsersOnline"
+msgstr "អ្នកប្រើប្រាស់ជាច្រើន កំពុងនៅលើបណ្តាញ (អតិបរមា)"
+
+msgid "moderatorRegisteredStatistic"
+msgstr ""
+
+msgid "moderatorAudienceOfSystem"
+msgstr "អ្នកដើរតាម"
+
+msgid "moderatorInAll"
+msgstr "សរុប"
+
+msgid "moderatorQuantityOfBoys"
+msgstr "ចំនួនក្មេងប្រុស"
+
+msgid "moderatorQuantityOfGirls"
+msgstr "ចំនួនក្មេងស្រី"
+
+msgid "moderatorVisitsToday"
+msgstr "ចូលមើលថ្ងៃនេះ"
+
+msgid "moderatorVisitsOnWeek"
+msgstr "ចូលមើលតាមសប្ដាហ៍"
+
+msgid "moderatorVisitsOnMonth"
+msgstr "ចូលមើលតាមខែ"
+
+msgid "moderatorUsersWithCoords"
+msgstr "ខចោទប្រកាន់របស់អ្នកប្រើប្រាស់ជាមួយការសម្របសម្រួល"
+
+msgid "moderatorUsersFillProfile"
+msgstr "ខចោទប្រកាន់អ្នកប្រើប្រាស់ជាមួយបញ្ជីទម្រង់"
+
+msgid "moderatorUsersWithPhoto"
+msgstr "អ្នកប្រើដែលមានរូបថត"
+
+msgid "moderatorPhotosToday"
+msgstr "រូបថតថ្ងៃនេះ"
+
+msgid "moderatorPhotosOnWeek"
+msgstr "រូបថតសប្តាហ៍នេះ"
+
+msgid "moderatorPhotosOnMonth"
+msgstr "រូបថតខែនេះ"
+
+msgid "moderatorDialogs"
+msgstr "ការសន្ទនា"
+
+msgid "moderatorAverageNumberOfMessages"
+msgstr "ចំនួនសារជាមធ្យម"
+
+msgid "moderatorQuantityDialogsStartedBoys"
+msgstr "ចំនួននៃការសន្ទនាដែលចាប់ផ្ដើមដោយក្មេងប្រុស"
+
+msgid "moderatorQuantityDialogsStartedGirls"
+msgstr "ចំនួននៃការសន្ទនាដែលចាប់ផ្ដើមដោយក្មេងស្រី"
+
+msgid "moderatorEmails"
+msgstr "អ៊ីម៉ែល"
+
+msgid "moderatorEmailsConfirmed"
+msgstr "បានបញ្ជាក់"
+
+msgid "moderatorEmailsNotConfirmed"
+msgstr "មិនបានបញ្ជាក់"
+
+msgid "moderatorRemovedRestoredCauses"
+msgstr "ហេតុផលនៃការលុបចេញ"
+
+msgid "moderatorRemovedRestoredDivisionForSexAndTime"
+msgstr "ការបែងចែងរវាងការរួមភេទ និងពេលវេលា"
+
+msgid "guestsToday"
+msgstr "ថ្ងៃនេះ"
+
+msgid "guestsByWeek"
+msgstr "សប្ដាហ៍មុន"
+
+msgid "guestsByMonth"
+msgstr "ខែមុន"
+
+msgid "male"
+msgstr ""
+
+msgid "female"
+msgstr ""
+
+msgid "moderatorProductPresentsTitle"
+msgstr "អំណោយ"
+
+msgid "yes"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "moderatorProductPresentsCreateTitle"
+msgstr "បង្កើតអំណោយថ្មីមួយ"
+
+msgid "moderatorProductPresentsUpdateTitle"
+msgstr "បន្ទាន់សម័យអំណោយ"
+
+msgid "usersDeleteSelectedPhotos"
+msgstr "លុប"
+
+msgid "usersDeletePhotoConfirm"
+msgstr "តើអ្នកប្រាកដទេថា អ្នកចង់លុបរូបថតមួយឬ?"
+
+msgid "moderatorBack"
+msgstr "ត្រលប់ក្រោយ"
+
+msgid "moderatorNext"
+msgstr "បន្ទាប់"
+
+msgid "moderatorAddRecord"
+msgstr "បន្ថែមកំណត់ត្រា"
+
+msgid "actionSave"
+msgstr "រក្សាទុក"
+
+msgid "actionCancel"
+msgstr "បោះបង់"
+
+msgid "moderatorChangeRecord"
+msgstr "ប្តូរកំណត់ត្រា"
+
+msgid "moderatorRemove"
+msgstr "លុបចេញ"
+
+msgid "formOperatorsBegin"
+msgstr "នៅដំណាក់កាលចាប់ផ្ដើមនៃជួរស្វែងរកនីមួយៗ"
+
+msgid "formOperatorsEnd"
+msgstr "អ្នកអាចប្រើប្រាស់ការីប្រៀបធៀប"
+
+msgid "formAdvancedSearch"
+msgstr "ការស្វែងរកលម្អិត"
+
+msgid "moderatorActionBanQuestion"
+msgstr "បម្រាម?"
+
+msgid "formCreate"
+msgstr "បង្កើតធាតុ"
+
+msgid "formRequired"
+msgstr "តម្រូវឲ្យបំពេញកន្លែងដែលមានសញ្ញាសម្គាល់ * "
+
+msgid "formNoactive"
+msgstr "ទេ"
+
+msgid "formActive"
+msgstr "យល់ព្រម"
+
+msgid "systemModerator"
+msgstr "អន្តរការី"
+
+msgid "anketaPersonalsCustomLabel"
+msgstr "ផ្សេងទៀត"
+
+msgid "coin"
+msgid_plural "coins"
+msgstr[0] "កាក់"
+msgstr[1] "កាក់"
+
+msgid "moderatorUserFormBalanceChangeAlt"
+msgstr "គណនី"
+
+msgid "formSave"
+msgstr "រក្សាទុកការផ្លាស់ប្តូរ"
+
+msgid "formManage"
+msgstr "គ្រប់គ្រងធាតុ"
+
+msgid "formUpdate"
+msgstr "កែធាតុ"
+
+msgid "formDelete"
+msgstr "លុបធាតុ"
+
+msgid "systemLogin"
+msgstr "ចូល"
+
+msgid "moderatorComplaintsResolved"
+msgstr "បានដោះស្រាយ"
+
+msgid "moderatorComplaintsNew"
+msgstr "ថ្មី"
+
+msgid "sexFemale"
+msgstr "ស្រី"
+
+msgid "sexMale"
+msgstr "ប្រុស"
+
+msgid "formList"
+msgstr "បញ្ជីធាតុ"
+
+msgid "formView"
+msgstr "មើលធាតុ"
+
+msgid "moderatorSlider"
+msgstr "គ្រាប់រំកិល"
+
+msgid "moderatorMosaic"
+msgstr "គំនូរវិចិត្រដោយផ្គុំរូបតូចៗ "
+
+msgid "photosStatusNew"
+msgstr "ថ្មី"
+
+msgid "moderatorActions"
+msgstr "សកម្មភាព"
+
+msgid "moderatorAccept"
+msgstr "យល់ព្រម"
+
+msgid "moderatorRefuse"
+msgstr "បដិសេធ"
+
+msgid "moderatorModerating"
+msgstr ""
+
+msgid "moderatorPhotosVersions"
+msgstr "កំណែប្រែរូបថត"
+
+msgid "moderatorStatus"
+msgstr "ស្ថានភាព"
+
+msgid "userID"
+msgstr "លេខសម្គាល់របស់អ្នក"
+
+msgid "moderatorPhotosSearchInTheWeb"
+msgstr "ស្វែងរកក្នុងតំបន់បណ្ដាញ"
+
+msgid "modelUsersSex"
+msgstr "ភេទ"
+
+msgid "searchGo"
+msgstr "ស្វែងរក"
+
+msgid "moderatorRefuseReason"
+msgstr "មូលហេតុនៃការបដិសេធ"
+
+msgid "moderatorLastEditName"
+msgstr ""
+
+msgid "moderatorBalanceBillingGlobalCountersRegistrations"
+msgstr "ចូល/បញ្ជាក់/គណនីដែលបានទួទាត់ហើយ"
+
+msgid "moderatorBalanceBillingGlobalCountersExpense"
+msgstr "ចំណាយសរុបរបស់អ្នកប្រើ"
+
+msgid "moderatorBalanceBillingGlobalCountersCurrent"
+msgstr "សមតុល្យគណនីបច្ចុប្បន្ន"
+
+msgid "moderatorBalanceSetTitle"
+msgstr "ប្តូរសមតុល្យគណនី"
+
+msgid "moderatorBalanceSetSuccessful"
+msgstr "សមតុល្យគណនីត្រូវបានប្តូរដោយជោគជ័យ"
+
+msgid "moderatorBalanceUserStatTitle"
+msgstr "ស្ថិតិសមតុល្យ"
+
+msgid "moderatorBalanceUserStatTableFieldTime"
+msgstr "ពេល"
+
+msgid "moderatorBalanceUserStatTableFieldDescription"
+msgstr "បរិយាយ"
+
+msgid "moderatorBalanceUserStatTableFieldAmount"
+msgstr "ចំនួន"
+
+msgid "moderatorBalanceUserStatTableFieldCurrent"
+msgstr "សមតុល្យ"
+
+msgid "moderatorRegisteredToday"
+msgstr "ចំនួនសរុបដែលបានចុះឈ្មោះថ្ងៃនេះ"
+
+msgid "bannedSecondChance"
+msgstr ""
+"យល់ព្រម វាច្បាស់លាស់ហើយ ខ្ញុំនឹងមិនបំពានវិធានណាមួយឡើយ<a href='%s'>សូមមេត្តាកុំបង្ខាំងខ្ញុំ</a>"
+
+msgid "bannedForever"
+msgstr ""
+"សូម បង្កើតគណនីថ្មីមួយ ហើយត្រូវជ្រាបច្បាស់ថាមិនប្រព្រឹត្តសកម្មភាពបែបនេះម្តងទៀតទេ។ បើមិនដូច្នេះ "
+"យើងនឹងត្រូវបង្ខាំងគណនីរបស់អ្នកម្តងទៀត។"
+
+msgid "actionTranslate"
+msgstr "បកប្រែ"
+
+msgid "chatSendByClickOn"
+msgstr "ផ្ញើតាមរយ:"
+
+msgid "formPleaseFixErrors"
+msgstr "សូមកែកំហុសនានាខាងក្រោម:"
+
+msgid "userBalloonAddToFavorite"
+msgstr "រក្សាទុកជាសំណព្វចិត្ត"
+
+msgid "ofPair"
+msgstr "ដៃគូ"
+
+msgid "visitor"
+msgid_plural "visitors"
+msgstr[0] "អ្នកចូលមើល"
+msgstr[1] "អ្នកចូលមើល"
+
+msgid "signupMe"
+msgstr "ខ្ញុំ"
+
+msgid "signupIAmSearching"
+msgstr "កំពុងស្វែងរក"
+
+msgid "bannedInfoTitle"
+msgstr "គណនីរបស់អ្នកត្រូវបានបង្ខាំង។​ នេះអាចបណ្តាលមកពីមូលហេតុមួយក្នុងចំណោមមូលហេតុខាងក្រោម៖"
+
+msgid "bannedInfoCauseSendSpam"
+msgstr "&mdash; ចំនួនសារដ៏សន្ធឹកសន្ធាប់នៃការផ្សាយពាណិជ្ជកម្ម ឬជាសារឥតបានការ;"
+
+msgid "bannedInfoCauseSendContacts"
+msgstr ""
+"&mdash; ចំនួនសារដ៏សន្ធឹកសន្ធាប់ដែលផ្ទុកទៅដោយព័ត៌មានទំនាក់ទំនងផ្ទាល់ខ្លួន ឧ. លេខទូរស័ព្ទ អ៊ីម៉ែល  "
+"skype ។ល។"
+
+msgid "bannedInfoCauseWrongProfile"
+msgstr "&mdash; ទម្រង់ផ្ទុកដោយខ្លឹមសារមិនសមរម្យ ឧ. ការផ្សាយពាណិជ្ជកម្ម ។ល។"
+
+msgid "bannedInfoCauseRudeAttitude"
+msgstr "&mdash; អាកប្បកិរិយាគ្រោតគ្រាតទៅលើអ្នកប្រើដទៃទៀត"
+
+msgid "bannedInfoRecommendation"
+msgstr ""
+"យើងស្នើឲ្យអាន <a href=\"http://lovetime.com/pages/rules"
+"\">លក្ខខណ្ឌព្រមព្រៀងនៃការប្រើប្រាស់របស់យើង</a>"
+
+msgid "bannedInfoCreateNewAccount"
+msgstr ""
+"សូម បង្កើតគណនីថ្មីមួយទៀត ហើយគប្បីដឹងថាមិនត្រូវធ្វើសកម្មភាពបែបនេះម្តងទៀតទេ។ បើមិនដូច្នេះទេ "
+"យើងនឹងត្រូវបង្ខាំងគណនីរបស់អ្នកម្តងទៀត។"
+
+msgid "bannedInfoSendEmail"
+msgstr ""
+"ប្រសិនបើអ្នកគិតថាគណនីរបស់អ្នកត្រូវបានបង្ខាំងដោយសារកំហុស សូមផ្ញើអ៊ីម៉ែលមកកាន់យើងតាមរយៈ <a href="
+"\"mailto:info@lovetime.com?subject=Wrongly banned user %id%\">info@lovetime."
+"com</a>"
+
+msgid "loginErrorUserBanned"
+msgstr "មិនមានការអនុញ្ញាតឲ្យចូល។ អ្នកប្រើ%sត្រូវបានហាមឃាត់"
+
+msgid "messageFilterTitle"
+msgstr "តម្រងសារ"
+
+msgid "messageFilterSuggestion"
+msgstr "កំណត់ថាសារណាមួយដែលអ្នកចង់ទទួល"
+
+msgid "messageFilterReceiveFromAll"
+msgstr "សារទាំងអស់"
+
+msgid "messageFilterReceiveFromWoman"
+msgstr "សារពីនារីៗតែប៉ុណ្ណោះ"
+
+msgid "messageFilterReceiveFromMen"
+msgstr "សារពីបុរសតែប៉ុណ្ណោះ"
+
+msgid "messageFilterWithPhotoOnly"
+msgstr "សារដែលមានភ្ជាប់រូបថតមកជាមួយតែប៉ុណ្ណោះ"
+
+msgid "messageFilterAgedFrom"
+msgstr "អាយុរបស់អ្នកចាប់ពី"
+
+msgid "messageFilterAgedTo"
+msgstr "ដល់"
+
+msgid "messageFilterFromMyCountry"
+msgstr "ពីអ្នកនៅក្នុងប្រទេសរបស់ខ្ញុំតែប៉ុណ្ណោះ"
+
+msgid "modelUsersFilterSex"
+msgstr "សម្រាំងដោយភេទ"
+
+msgid "modelUsersFilterPhoto"
+msgstr "ដោយមានរូបថតតែប៉ុណ្ណោះ"
+
+msgid "modelUsersFilterAgeFrom"
+msgstr "ដោយមានអាយុរបស់អ្នកប្រើតែប៉ុណ្ណោះ"
+
+msgid "modelUsersFilterAgeTo"
+msgstr "ទៅ"
+
+msgid "modelUsersFilterCountry"
+msgstr "មកពីប្រទេសរបស់ខ្ញុំតែប៉ុណ្ណោះ"
+
+msgid "chatFilterMan"
+msgstr "បានកំណត់សម្រាំងសាររបស់គាត់ ដូច្នេះអ្នកមិនអាចផ្ញើសារ។​ ព្យាយាមជជែកជាមួយអ្នកផ្សេងវិញ។"
+
+msgid "chatFilterWoman"
+msgstr "បានកំណត់សម្រាំងសាររបស់នាង ដូច្នេះអ្នកមិនអាចផ្ញើសារ។​ ព្យាយាមជជែកជាមួយអ្នកផ្សេងវិញ។"
+
+msgid "chatImpossibleCompanionBanned"
+msgstr ""
+"អ្នកមិនអាចផ្ញើសារជជែកកំសាន្តដោយហេតុថាអ្នកប្រើ%s ត្រូវបានបង្ខាំង ឬទម្រង់របស់នាង/"
+"គាត់ត្រូវបានលុបចេញដោយរដ្ឋបាល។"
+
+msgid "lettersHiAndWelcome"
+msgstr "សួស្តី %name%! រដ្ឋបាល %host% សូមសា្វគមន៍អ្នក!"
+
+msgid "lettersAlmostDone"
+msgstr "ជិតរួចរាល់ហើយ..."
+
+msgid "lettersConfirm"
+msgstr "បញ្ជាក់អ៊ីម៉ែលរបស់អ្នក"
+
+msgid "lettersPersonalData"
+msgstr "ព័ត៌មានលំអិតផ្ទាល់ខ្លួនរបស់អ្នក:"
+
+msgid "lettersNick"
+msgstr "ឈ្មោះហៅក្រៅ:"
+
+msgid "lettersEmail"
+msgstr "អ៊ីម៉ែល:"
+
+msgid "lettersAboutSite"
+msgstr ""
+"អ្នកអាចស្វែងរកគូប្រចាំចិត្តរបស់អ្នកនៅលើតំបន់បណ្តាញរបស់យើង, អាចមានទំនាក់ទំនងស្នេហា និង អាច "
+"ចែចង់មិត្តភក្តិ និងសន្ទិដ្ឋមិត្តរបស់អ្នកដោយមិនបង្ហាញអត្តសញ្ញាណរបស់អ្នក។"
+
+msgid "lettersTryIt"
+msgstr "<a href=\"%s\">សូមសាកល្បងប្រើប្រាស់វា!</a> វាពិតជាធ្វើអោយអ្នករំជួលចិត្តជាមិនខាន !"
+
+msgid "lettersTellAboutUs"
+msgstr "ប្រាប់មិត្តភក្តិរបស់អ្នកអំពីតំបន់បណ្តាញនេះ។"
+
+msgid "lettersThankYou"
+msgstr "អរគុណ"
+
+msgid "lettersYouCanChangeData"
+msgstr "អ្នកអាចផ្លាស់ប្តូរព័ត៌មានលំអិតរបស់អ្នកបានតាមរយៈ"
+
+msgid "removingProfileRemovingProfile"
+msgstr "កំពុងលុបគណនី"
+
+msgid "removingProfileRemoveProfileAction"
+msgstr "លុបគណនី"
+
+msgid "removingProfileQuestion"
+msgstr "តើអ្នកប្រាកដថាចង់លុបគណនីរបស់អ្នក?"
+
+msgid "removingProfileCauseManagedFindYourSoulMate"
+msgstr "ពិតមែនហើយ ខ្ញុំបានរកឃើញគូប្រចាំចិត្តរបស់ខ្ញុំ!"
+
+msgid "removingProfileCauseICanNotFindAnyone"
+msgstr "ខ្ញុំបានប្រើតំបន់បណ្តាញអស់រយៈពេលជាយូរមកហើយ ហើយនៅតែមិនទាន់រកឃើញអ្នកដែលខ្ញុំចូលចិត្ត។"
+
+msgid "removingProfileCauseIPlanGoBack"
+msgstr "ខ្ញុំចាកចេញតំបន់បណ្តាញជាបណ្តោះអាសន្ន ប៉ុន្តែខ្ញុំនឹងត្រលប់មកវិញ។"
+
+msgid "removingProfileCauseIHaveAnotherProfile"
+msgstr "ខ្ញុំមានទម្រង់មួយផ្សេងទៀត។"
+
+msgid "removingProfileCauseIWasInsultedByAnother"
+msgstr "ខ្ញុំត្រូវបានប្រមាថដោយអ្នកប្រើផ្សេងទៀត។"
+
+msgid "removingProfileCauseIReceiveOffersEroticServices"
+msgstr "ខ្ញុំទទួលបានសំណើដ៏ស្និទ្ធស្នាល។"
+
+msgid "removingProfileCauseOther"
+msgstr "ផ្សេងទៀត"
+
+msgid "removingProfileIChangedMyMindAction"
+msgstr "ខ្ញុំបានប្តូរចិត្ត"
+
+msgid "removingProfileNotification"
+msgstr ""
+"ដោយចុចលើពាក្យ \"លុប\" អ៊ីម៉ែលបញ្ជាក់មួយនឹងត្រូវបានផ្ញើទៅកាន់ (% email%) "
+"ចូលតាមតំនភ្ជាប់ដែលបានផ្តល់ឲ្យនៅក្នុងអ៊ីម៉ែលនេះ ហើយបញ្ជាក់ការលុបទម្រង់របស់អ្នក។ "
+"ប្រសិនបើអ្នកចង់ស្តារគណនីរបស់អ្នក (រួមទាំងរូបថត និងបញ្ជីទំនាក់ទំនង) អ្នកអាចធ្វើបានក្នុងកំឡុងពេល "
+"៣០ថ្ងៃ។ "
+
+msgid "removingProfileRemoveAction"
+msgstr "លុប"
+
+msgid "removingProfileCanselAction"
+msgstr "បោះបង់"
+
+msgid "removingProfileEmailSendNotification"
+msgstr ""
+"អ៊ីម៉ែលបញ្ជាក់ពីការលុបគណនីរបស់អ្នកត្រូវបានផ្ញើ។ សូមអនុវត្តតាមសេចក្តីណែនាំ​ "
+"ហើយចុចតំណភ្ជាប់ដែលផ្តល់ឲ្យនៅក្នុងអ៊ីម៉ែលនេះ ដើម្បីបញ្ចប់ដំណើរការលុបគណនី។"
+
+msgid "removingProfileNextAction"
+msgstr "បន្ទាប់"
+
+msgid "removingProfileEnterEmailAndCode"
+msgstr "បញ្ចូលអាសយដ្ឋានអ៊ីម៉ែលរបស់អ្នក និងលេខកូដដែលអ្នកបានទទួល។"
+
+msgid "removingProfileEmail"
+msgstr "អ៊ីម៉ែល"
+
+msgid "removingProfileEnterEmail"
+msgstr "បញ្ចូលអ៊ីម៉ែល"
+
+msgid "removingProfileCodeOfPost"
+msgstr "លេខកូដសារ"
+
+msgid "removingProfileEnterCodeOfPost"
+msgstr "បញ្ចូលលេខកូដ"
+
+msgid "removingProfileDoNotGo"
+msgstr "សូមកុំចាកចេញ! អ្នកទាំងនេះនឹងនឹកអ្នក!"
+
+msgid "removingProfileCancelRemovingAction"
+msgstr "បោះបង់"
+
+msgid "removingProfileContinueAction"
+msgstr "បន្ត"
+
+msgid "removingProfileRemovedStatus"
+msgstr "ស្ថានភាពទម្រង់របស់អ្នក &mdash; ត្រូវបានលុបចេញ"
+
+msgid "removingProfileRemovedMessage"
+msgstr ""
+"ឥលូវនេះ ទំព័រទម្រង់របស់អ្នកត្រូវបានសំគាល់ថាបានលុបចេញ។ រាល់សារ ទំនាក់ទំនង រូបថត "
+"និងការកំណត់ទាំងអស់របស់អ្នកនឹងត្រូវបានផ្ទុកក្នុងរយៈពេល ៣០ថ្ងៃ "
+"មុននឹងត្រូវបានលុបចេញជាអចិន្ត្រៃយ៍ពីក្នុងប្រព័ន្ធរបស់យើង។"
+
+msgid "removingProfileRestoreProfileAction"
+msgstr "ស្តារគណនី"
+
+msgid "modelUsersHobbies"
+msgstr "រៀបរាប់ពីខ្លួនអ្នក"
+
+msgid "balanceChangesBuyProductDecreaseProductId"
+msgstr "ផលិតផល"
+
+msgid "balanceChangesByAdminUserId"
+msgstr "អ្នកប្រើប្រាស់"
+
+msgid "balanceChangesPSIncreasePSId"
+msgstr "ប្រព័ន្ធទូទាត់ប្រាក់"
+
+msgid "BalanceIncreaseErrorTitle"
+msgstr "សមតុល្យគណនីកំពុងកើនកំហុស"
+
+msgid "everyDayBalanceIncreasingDesc"
+msgstr "សមតុល្យគណនីកើនប្រចាំថ្ងៃ"
+
+msgid "invisibleSettingsFormButton"
+msgstr "រក្សាទុក"
+
+msgid "invisibleSettingsPageText"
+msgstr ""
+"យើងសូមឲ្យយោបល់ថាអ្នកមិនគួរប្រើម៉ូតនេះញឹកញាប់ពេកទេ។ ទោះបីជាពិបាកក្នុងការច្រានចោល "
+"ប៉ុន្តែសូមរំលឹកថាអ្នកដែលអនុញ្ញាតឲ្យអ្នកដទៃមើលឃើញទំនងជាអាចបង្កើតមិត្តភក្តិថ្មីៗច្រើនជាងអ្នកប្រើដែលបិទបាំង។"
+
+msgid "invisibleSettingsPageTitle"
+msgstr "ម៉ូតបិទបាំង"
+
+msgid "modelUsersBalance"
+msgstr "គណនី"
+
+msgid "modelUsersInvisibleeWalk"
+msgstr "បិទបាំងខ្ញុំពីបញ្ជីអ្នកចូលមើលនៅលើទម្រង់ផ្សេងៗ"
+
+msgid "modelUsersInvisibleOnline"
+msgstr "បិទបាំងស្ថានភាពលើបណ្តាញរបស់ខ្ញុំពីអ្នកប្រើផ្សេងៗ"
+
+msgid "modelUsersInvisibleSuperstarStatus"
+msgstr "បិទបាំងស្ថានភាពSuperstar របស់ខ្ញុំពីអ្នកប្រើផ្សេងៗ"
+
+msgid "moderatorProductPresentsAddButton"
+msgstr "បញ្ចូលជាអំណោយ"
+
+msgid "monetizationInfoPageSearchText"
+msgstr "បង្កើនឱកាសរបស់អ្នកសម្រាប់ទំនាក់ទំនងដ៏រីករាយ"
+
+msgid "monetizationInfoPageSearchTitle"
+msgstr "តំណែង ១ នៅក្នុងលទ្ធផលនៃការស្វែងរក"
+
+msgid "monetizationInfoPageSuperstarButton"
+msgstr "ក្លាយជា Superstar ម្នាក់"
+
+msgid "monetizationInfoPageSuperstarText"
+msgstr "អាទិភាពនៅក្នុងល្បែង  \"ណាត់ជួប\""
+
+msgid "monetizationInfoPageSuperstarTitle"
+msgstr "ស្ថានភាព Superstar "
+
+msgid "monetizationInfoPageText"
+msgstr "អ្នកអាច <a href='#' id='%s'> ទិញកាក់ </a> រឺស្វែងរកនៅលើបណ្តាញគេហទំព័រ"
+
+msgid "monetizationInfoPageText2"
+msgstr "ក្នុងមួយថ្ងៃ យើងឲ្យកាក់ឥតគិតថ្លៃមួយដល់អ្នក"
+
+msgid "monetizationInfoPageTitle"
+msgstr "ប្រើកាក់ដើម្បីឲ្យកាន់តែមានប្រជាប្រិយ"
+
+msgid "monetizationInfoPageTopFacesButton"
+msgstr "ដល់កំពូល"
+
+msgid "monetizationInfoPageTopFacesText"
+msgstr ""
+"យើងពិចារណាចំណង់ចំណូលចិត្តរបស់អ្នក ហើយជ្រើសរើសអ្នកដែលស័ក្តិសមផ្អែកលើការគណនាបែប algorithm តែមួយ"
+
+msgid "monetizationInfoPageTopFacesTitle"
+msgstr "ទីតាំងនៅលើ"
+
+msgid "monetizationAboutTopTitle"
+msgstr "ផ្សព្វផ្សាយទម្រង់"
+
+msgid "monetizationAboutTopText"
+msgstr "កែលម្អទីតាំងនៅក្នុងលទ្ធផលស្វែងរក និង នៅក្នុងកន្លែងចែកចាយរូបថត"
+
+msgid "monetizationAboutTopButton"
+msgstr "តម្លើងទៅខាងលើ"
+
+msgid "monetizationAboutGiftsTitle"
+msgstr "អំណោយ"
+
+msgid "monetizationAboutGiftsText"
+msgstr "បង្កើនប្រជាប្រិយភាពរបស់អ្នក"
+
+msgid "monetizationAboutUnlimitedTitle"
+msgstr "គ្មានដែនកំណត់"
+
+msgid "monetizationAboutUnlimitedText"
+msgstr "ដកការរឹតត្បិតទាំងអស់"
+
+msgid "monetizationAboutUnlimitedButton"
+msgstr "ដកការរឹតត្បិត"
+
+msgid "monetizationAboutVipTitle"
+msgstr "VIP"
+
+msgid "monetizationAboutVipText"
+msgstr "កែលម្អអាការៈខាងក្រៅនៃទម្រង់របស់អ្នក"
+
+msgid "monetizationAboutVipButton"
+msgstr "ក្លាយជា VIP​ ម្នាក់"
+
+msgid "monetizationAboutIncognitoTitle"
+msgstr "បិទបាំង"
+
+msgid "monetizationAboutIncognitoText"
+msgstr "លេចចេញដោយបិទបាំងទៅអ្នកដទៃ"
+
+msgid "monetizationAboutIncognitoButton"
+msgstr "លេចចេញថានៅក្រៅបណ្តាញ"
+
+msgid "monetizationBalanceSendSMS"
+msgstr "ផ្ញើ SMS"
+
+msgid "monetizationBalanceSum"
+msgstr "ចំនួនទឹកប្រាក់ទូទាត់"
+
+msgid "monetizationBalancePhoneNumber"
+msgstr "លេខទូរស័ព្ទ"
+
+msgid "monetizationBalanceOrderNumber"
+msgstr "លេខបញ្ជាទិញ"
+
+msgid "monetizationBalanceYouPayOrder"
+msgstr "អ្នកកំពុងទូទាត់ការបញ្ជាទិញ"
+
+msgid "monetizationBalanceCheckOrder"
+msgstr "ត្រួតពិនិត្យការបញ្ជាទិញ"
+
+msgid "monetizationBalanceOperator"
+msgstr "ប្រតិបត្តិករ"
+
+msgid "monetizationBalanceUpText"
+msgstr ""
+"ដើម្បីបង្កើនសមតុល្យគណនីដោយ %s កាក់ (តម្លៃ %s មិនគិតបញ្ចូលVAT) "
+"​អ្នកត្រូវតែផ្ញើសារមួយ។"
+
+msgid "monetizationBalanceNumber"
+msgstr "ចំនួន"
+
+msgid "monetizationBalanceText"
+msgstr "ខ្លឹមសារ"
+
+msgid "paymentDialogMessageSuperstarForSearch"
+msgstr "ដើម្បីមើលទម្រង់រកឃើញដោយការស្វែងរកលម្អិត អ្នកត្រូវធ្វើឲ្យសកម្មស្ថានភាព Superstar"
+
+msgid "paymentDialogTitleDefault"
+msgstr "បញ្ចូលទឹកប្រាក់ទៅក្នុងគណនីរបស់អ្នក"
+
+msgid "paymentDialogTitleSuperstar"
+msgstr "ទិញស្ថានភាពជា​ Superstar"
+
+msgid "paymentDialogTitleTopFaces"
+msgstr "ទៅលើ"
+
+msgid "paymentDialogWidgetBuy"
+msgstr "បង់ប្រាក់"
+
+msgid "paymentDialogWidgetTermsOfUse"
+msgstr "លក្ខខណ្ឌនៃការប្រើប្រាស់"
+
+msgid "productPresentModelCodePatternMessage"
+msgstr ""
+"លេខកូដផលិតផលត្រូវប្រហែលគ្នានឹង 'អំណោយ-*' ដែល * អាចជាអក្សរឡាតាំងតូចៗ មានចំនួន០១​ឬច្រើនខ្ទង់"
+
+msgid "productPresentModelImageFieldLabel"
+msgstr "រូបភាព"
+
+msgid "productSuperstar12PublicTitle"
+msgstr "ស្ថនភាពជា Superstar​ សម្រាប់រយៈពេល១២ខែ"
+
+msgid "productSuperstar1PublicTitle"
+msgstr "ស្ថនភាពជា Superstar​ សម្រាប់រយៈពេល១ខែ"
+
+msgid "productSuperstar3PublicTitle"
+msgstr "ស្ថនភាពជា Superstar​ សម្រាប់រយៈពេល ៣ខែ"
+
+msgid "productSuperstar6PublicTitle"
+msgstr "ស្ថនភាពជា Superstar​ សម្រាប់រយៈពេល 6ខែ"
+
+msgid "productSuperstarFriendly"
+msgstr "រួសរាយ"
+
+msgid "productSuperstarStatusModelFieldPeriod"
+msgstr "កំឡុងពេល"
+
+msgid "productSuperstarStatusModelFieldType"
+msgstr "ប្រភេទ"
+
+msgid "productSuperstarTypeRomantic"
+msgstr "បែបមនោសញ្ចេតនា"
+
+msgid "productTopFacesPublicTitle"
+msgstr "បញ្ចូលទៅខាងលើ"
+
+msgid "publicFlashNotifierWidgetPresentBalanceWasChanged"
+msgstr "សមតុល្យគណនីបានកាត់បន្ថយត្រឹម %d %s"
+
+msgid "publicFlashNotifierWidgetPresentNotice"
+msgstr "អ្នកបានជ្រើសរើសអំណោយមួយ"
+
+msgid "sendGiftDialogCommentLabel"
+msgstr "សារឬ ជំនូនរបស់អ្នក"
+
+msgid "sendGiftDialogHiddenFieldLabel"
+msgstr "មានតែអ្នកទទួលទេដែលអាចមើលឃើញអំណោយ"
+
+msgid "sendGiftDialogSubmit"
+msgstr "ផ្ញើ"
+
+msgid "sendGiftDialogText"
+msgstr "នេះគឺជាវិធីដ៏ល្អបំផុតដែលអាចទាញចំនាប់អារម្មណ៍របស់អ្នក"
+
+msgid "sendGiftDialogTitle"
+msgstr "ផ្ញើអំណោយ"
+
+msgid "superstarModelAttributeBegin"
+msgstr "ចាប់ផ្តើម"
+
+msgid "superstarModelAttributeFinish"
+msgstr "បញ្ចប់"
+
+msgid "superstarModelAttributeUser"
+msgstr "អ្នកប្រើប្រាស់"
+
+msgid "topFacesDialogNotice"
+msgstr "តម្លៃគឺ %d %s"
+
+msgid "userRatingAndBalanceWidgetBecameSuperstar"
+msgstr "ក្លាយជា Superstar"
+
+msgid "userRatingAndBalanceWidgetRatingExtraLow"
+msgstr "ទាបណាស់"
+
+msgid "userRatingAndBalanceWidgetRatingLow"
+msgstr "ទាប"
+
+msgid "userRatingAndBalanceWidgetRatingMiddle"
+msgstr "មធ្យម"
+
+msgid "userRatingAndBalanceWidgetRatingHigh"
+msgstr "ខ្ពស់"
+
+msgid "userRatingAndBalanceWidgetRatingExtraHigh"
+msgstr "ខ្ពស់ណាស់"
+
+msgid "userRatingAndBalanceWidgetFillUpBalance"
+msgstr "បញ្ចូលទឹកប្រាក់"
+
+msgid "userRatingAndBalanceWidgetIncrease"
+msgstr "បង្កើន"
+
+msgid "userRatingAndBalanceWidgetRatingAndVisitorsText"
+msgstr ""
+"ទីតាំងស្វែងរករបស់អ្នកគឺ <a href='%s'>%s</a> ហើយថ្ងៃនេះ អ្នកមាន <a href='%s'>%d</a> %s"
+
+msgid "userRatingAndBalanceWidgetToTop"
+msgstr "ទៅខាងលើ"
+
+msgid "userRatingAndBalanceWidgetYourRating"
+msgstr "ប្រជាប្រិយភាពរបស់អ្នក"
+
+msgid "userViewBalloonActivateSuperstar"
+msgstr "ធ្វើឲ្យសកម្មស្ថានភាព Superstar"
+
+msgid "userViewBalloonReturnToBasicSearch"
+msgstr "ត្រលប់ទៅកាន់ស្វែងរក"
+
+msgid "userViewBalloonTitle"
+msgstr "ដើម្បីមើលទម្រង់រកឃើញដោយការស្វែងរកលម្អិត អ្នកត្រូវធ្វើឲ្យសកម្ម Superpower ។"
+
+msgid "walletBalanceChangesAmount"
+msgstr "ចំនួន"
+
+msgid "walletBalanceChangesBalance"
+msgstr "សមតុល្យគណនីចរន្ត"
+
+msgid "walletBalanceChangesCode"
+msgstr "លេខកូដ"
+
+msgid "walletBalanceChangesDescription"
+msgstr "បរិយាយ"
+
+msgid "walletBalanceChangesPrice"
+msgstr "តម្លៃ"
+
+msgid "walletBalanceChangesProductId"
+msgstr "ផលិតផល"
+
+msgid "walletBalanceChangesTimestamp"
+msgstr "ពេលវេលា"
+
+msgid "walletBalanceChangesUserId"
+msgstr "អ្នកប្រើប្រាស់"
+
+msgid "walletProductsCode"
+msgstr "លេខកូដ"
+
+msgid "walletProductsCreatedAt"
+msgstr "កាលបរិច្ជេទនៃការបង្កើត"
+
+msgid "walletProductsCreatedBy"
+msgstr "បង្កើតដោយ"
+
+msgid "walletProductsDescription"
+msgstr "ពិពណ៌នា"
+
+msgid "walletProductsPrice"
+msgstr "តម្លៃ"
+
+msgid "walletProductsTitle"
+msgstr "ឈ្មោះ"
+
+msgid "walletProductsUpdatedAt"
+msgstr "បន្ទាន់សម័យ"
+
+msgid "walletProductsUpdatedBy"
+msgstr "បន្ទាន់សម័យដោយ"
+
+msgid "YourBalanceWasIncreasedText"
+msgstr "សមតុល្យគណនីរបស់អ្នកត្រូវបានបង្កើនត្រឹម %d %s​ ។សមតុល្យបច្ចុប្បន្នគឺ %d %s។"
+
+msgid "YourBalanceWasIncreasedTitle"
+msgstr "បង្កើនសមតុល្យគណនី"
+
+msgid "YourPresentHasBeenSent"
+msgstr "អំណោយរបស់អ្នកត្រូវបានផ្ញើ"
+
+msgid "sendGiftDialogFilterAll"
+msgstr "ទាំងអស់"
+
+msgid "sendGiftDialogFilterFriendly"
+msgstr "រួសរាយ"
+
+msgid "sendGiftDialogFilterRomantic"
+msgstr "មនោសញ្ចេតនា"
+
+msgid "paymentDialogBuyCoins"
+msgstr "បញ្ចូលទឹកប្រាក់"
+
+msgid "carouselNeedBuySuperstarNotice"
+msgstr "ដើម្បីមើលទម្រង់ អ្នកត្រូវការ <a href=\"%s\"> ក្នុងការទិញ </a> ឋានៈជា Superstar "
+
+msgid "leftMenuSearchPosition"
+msgstr "ទីតាំងស្វែងរក"
+
+msgid "leftMenuVisitorsToday"
+msgstr "%s ថ្ងៃនេះ"
+
+msgid "leftMenuButtonTop"
+msgstr "ខាងលើ"
+
+msgid "leftMenuButtonSuperstar"
+msgstr "Superstar"
+
+msgid "leftMenuBalance"
+msgstr "សមតុល្យ"
+
+msgid "balanceChangeTitle"
+msgstr "ប្តូរសមតុល្យគណនី"
+
+msgid "balanceChangeBuyProductDecreaseTitle"
+msgstr "ទិញទំនិញ"
+
+msgid "balanceChangeByAdminTitle"
+msgstr "ប្តូរដោយរដ្ឋបាល"
+
+msgid "balanceChangeDailyTitle"
+msgstr "សមតុល្យគណនីកើនប្រចាំថ្ងៃ"
+
+msgid "balanceChangePSIncreaseTitle"
+msgstr "បំពេញសមតុល្យដោយប្រព័ន្ធទូទាត់ទឹកប្រាក់"
+
+msgid "userProfileAddPresentBaitF"
+msgstr "ផ្ញើអំណោយមួយឲ្យនាង ហើយនាងនឹងចាប់អារម្មណ៍អ្នក"
+
+msgid "userProfileAddPresentBaitM"
+msgstr "ផ្ញើអំណោយមួយដល់គាត់ ហើយគាត់នឹងចាប់អារម្មណ៍អ្នក!"
+
+msgid "mailTemplateTitleNewPresent"
+msgstr "%name%, អ្នកបានទទួលអំណោយថ្មីមួយពី %sender_name% on %host%"
+
+msgid "mailTemplateBodyNewPresent"
+msgstr ""
+"<a href='%sender_profile_url%'>%sender_name%</a> បានផ្ញើអំណោយមួយដល់អ្នក។​ "
+"អ្នកអាចមើលអំណោយនោះនៅក្នុង <a href='%profile_url%'>ទម្រង់របស់អ្នក</a>."
+
+msgid "balanceChangeBuyProductSuperstarDecreaseTitle"
+msgstr "ការទូទាត់ប្រាក់សម្រាប់ដំណើរការស្ថានភាពជា \"Superstar\"។"
+
+msgid "balanceChangeBuyProductPresentDecreaseTitle"
+msgstr "ការទូទាត់ប្រាក់សម្រាប់ការទីញអំណោយមួយ"
+
+msgid "balanceChangeBuyProductTopFacesDecreaseTitle"
+msgstr "ការទូទាត់ប្រាក់សម្រាប់ការបង្កើនប្រជាប្រិយភាពរបស់អ្នក។"
+
+msgid "userTransactionsPageTitle"
+msgstr "សមតុល្យគណនីបច្ចុប្បន្នរបស់អ្នកគឺ: %d %s"
+
+msgid "userTransactionsPageDescription"
+msgstr ""
+"គណនី​ និងប្រវត្តិនៃការទិញរបស់អ្នកជាមួយគេហទំព័ររបស់យើង។ នៅក្នុង  “ស្ថានភាពគណនី” "
+"អ្នកអាចមើលបញ្ជីនៃស្ថានភាពបច្ចុប្បន្ននៃគណនីរបស់អ្នក និង <br /> បោះពុម្ពឯកសារដែលពាក់ព័ន្ធ។ "
+"នៅក្នុង “ប្រវត្តិការទិញ” អ្នកអាចមើលបញ្ជីនៃការចំណាយ និងការទិញមុនៗរបស់អ្នក។"
+
+msgid "userTransactionsPageLinkTypeExpenses"
+msgstr "ស្ថានភាពគណនី"
+
+msgid "userTransactionsPageLinkTypeIncomes"
+msgstr "ប្រវត្តិការទិញ"
+
+msgid "userTransactionsPageTableHeaderCol1"
+msgstr "ប្រតិបត្តិការ"
+
+msgid "userTransactionsPageTableHeaderCol2"
+msgstr "ណាត់ជួប"
+
+msgid "userTransactionsPageTableHeaderCol3"
+msgstr "ចំនួន"
+
+msgid "userTransactionsPageLinkAll"
+msgstr "មើលទំាងអស់"
+
+msgid "monetizationInfoPageLinkTransactions"
+msgstr "របាយការណ៍គណនី"
+
+msgid "SuperstarPaymentWasPurchasedTitle"
+msgstr "អ្នកបានដំណើរការស្ថានភាព Superstar ដោយជោគជ័យ!"
+
+msgid "monetizationInfoPageLinkRecharge"
+msgstr "ទទួលបានកាក់"
+
+msgid "messageNewPresentText"
+msgstr ""
+
+msgid "superstarInfoPageTitle"
+msgstr "ក្លាយជា Superstar!"
+
+msgid "superstarInfoPageTitleNotice"
+msgstr "ម៉ូត Superstar ជួយឲ្យអ្នកជួបមនុស្សច្រើន ហើយលឿនជាងមុន។"
+
+msgid "superstarInfoPageEncountersTitle"
+msgstr "ព្រឹត្តិការណ៍ពើបប្រទះ – ស្វែងរកអ្នកដែលចង់ជួបអ្នក"
+
+msgid "superstarInfoPageEncountersNotice"
+msgstr "ទទួលយកថតនៃព្រឹត្តិការណ៍ពើបប្រទះ ដើម្បីស្វែងរកអ្នកដែលឆ្លើយថា  'ព្រម'!"
+
+msgid "superstarInfoPageAdvancedSearchTitle"
+msgstr "ការស្វែងរកលម្អិត"
+
+msgid "superstarInfoPageAdvancedSearchNotice"
+msgstr "ពិនិត្យមើលទម្រង់ទំាងឡាយណាដែលត្រូវគ្នាទាំងស្រុងទៅនឹងអ្វីដែលអ្នកកំពុងស្វែងរក។"
+
+msgid "superstarInfoPageInvisibleModeTitle"
+msgstr "ម៉ូតបិទបាំង"
+
+msgid "superstarInfoPageInvisibleModeNotice"
+msgstr "មើលទម្រង់របស់សមាជិកផ្សេងទៀតដោយមិនឲ្យគេមើលឃើញ!​ ពួកគេនឹងមិនដែលដឹងថាអ្នកនៅទីនោះទេ…"
+
+msgid "superstarInfoPageLimitsTitle"
+msgstr "គ្មានព្រំដែនទៀតទេ"
+
+msgid "superstarInfoPageLimitsNotice"
+msgstr "ជីះល្បែងផ្ទះក្មេងដោយឥតដែនកំណត់ ស្វែងរក​ និងជជែកកំសាន្ត។"
+
+msgid "superstarInfoPageButtonBuy"
+msgstr "ក្លាយជា Superstar"
+
+msgid "superstarInfoPageButtonRun"
+msgstr "សាកល្បងវា ដោយឥតគិតថ្លៃ"
+
+msgid "or"
+msgstr "ឬ"
+
+msgid "close"
+msgstr "បិទ"
+
+msgid "YouHaveReceivedAGift"
+msgstr "អ្នកបានទទួលអំណោយមួយ"
+
+msgid "YouHaveMadeAGift"
+msgstr "អ្នកបានផ្ញើអំណោយមួយ"
+
+msgid "paymentDialogWidgetTermsOfUseText"
+msgstr ""
+"ដោយចុច '#button#'អ្នកអនុញ្ញាត #ltd# ឲ្យដកប្រាក់ពី #paySystemName# "
+"#moneyAmount# #moneyCurrency# សម្រាប់ #starAmount# #coins# "
+"ដែលអាចត្រូវបានប្រើប្រាស់នៅលើ #domain# "
+"ហើយអ្នកយល់ព្រមចំពោះលក្ខខណ្ឌប្រើប្រាស់កាក់ខាងក្រោមរបស់គេហទំព័រ "
+"#siteName#។អ្នកអាចបន្ទាន់សម័យការកំណត់របស់អ្នក "
+"ប្រសិនបើអ្នកចង់ប្តូរមធ្យោបាយនៃការទូទាត់ប្រាក់ ។ <br/> <br/> "
+"លក្ខខណ្ឌប្រើប្រាស់កាក់នៅលើ  #siteName#: <br/> <br/> 1. នៅពេលអ្នកទិញ​ "
+"ឬទទួលកាក់ អ្នកមិនមានសិទ្ធិលើកាក់ទាំងនោះទេ។ "
+"ប៉ុន្តែអ្នកមានសិទ្ធិប្រើប្រាស់កាក់ទាំងនេះដើម្បីទិញសណ្ឋាននានា ដែលផ្តល់ដោយ  "
+"#siteName# ដូចជាអំណោយ ស្ថានភាពជាSuperstar ។ល។ <br/> 2. "
+"ការទិញកាក់នឹងមិនត្រូវបានសងត្រលប់មកវិញឡើយ។ <br/> 3.យើងអាចនឹងប្តូរតម្លៃ "
+"ទិញកាក់បានគ្រប់ពេល និងអាចប្តូរមធ្យោបាយនៃការប្រើកាក់នៅលើគេហទំព័រ។ "
+"យើងក៏សូមរក្សាសិទ្ធិក្នុងការបញ្ឈប់បោះពុម្ពកាក់ដែរ។  <br/> 4. "
+"កាក់មិនអាចលក់ជាសាច់ប្រាក់សម្រាប់ជាចំនួនទឹកប្រាក់ ឬតម្លៃជាសាច់ប្រាក់ "
+"លុះត្រាយើងព្រមព្រៀងជាលាយលក្ខណ៍អក្សរ។ <br/> 5. "
+"កាក់ដែលមិនបានប្រើនឹងអស់សុពលភាពក្នុងកំឡុងពេល០៦ខែបន្ទាប់ពិការទិញ។ <br/> 6. "
+"ប្រសិនបើអ្នកលុប​ ឬគណនីរបស់អ្នកត្រូវបានផ្អាកដោយរដ្ឋបាលនៃ #siteName# "
+"ចំពោះការរំលោភបំពានលើលក្ខខណ្ឌប្រើប្រាស់ អ្នកនឹងបាត់បង់រាល់កំនើនកាក់ទាំងអស់។ "
+"<br/> 7. ប្រសិនបើអ្នកទទួលបានកាក់ដោយឥតគិតថ្លៃតាមរយៈយុទ្ធនាការផ្សាយផលិតផល "
+"យើងក៏សូមរក្សាសិទ្ធិក្នុងការបញ្ឈប់សុពលភាពកាក់ទាំងនោះបានគ្រប់ពេលវេលា។ <br/> "
+"<br/>ការទូទាត់ប្រាក់បានកំពុងនឹងដំណើរការដោយ #ltd#។"
+
+msgid "payonlineTetmsOfUse"
+msgstr ""
+"<p> ទឹកប្រាក់ទូទាត់ចុងក្រោយ "
+"អាសយដ្ឋានគេហទំព័រឬឈ្មោះក្រុមហ៊ុនអត្តសញ្ញាណ(តួលេខ)នៃភារកិច្ចឬ "
+"ការបញ្ជាទិញទាក់ទងនឹងការទូទាត់ប្រាក់។ "
+"</p><p>ព័ត៌មានផ្ទាល់ខ្លួនរបស់អ្នកនឹងត្រូវបានរក្សាទុកជាពិសេសនៅក្នងប្រព័ន្ធ "
+"PayOnline។ យើងធានាអះអាងថាព័ត៌មានផ្ទាល់ខ្លួននេះ ទោះបីក្នុងកាលៈទេសៈណាក៏ដោយ "
+"នឹងមិនបញ្ចេញទៅដល់ភាគីទីបីជាដាច់ខាត "
+"លើកលែងករណីការអនុលោមទៅតាមច្បាប់ជាធរមានរបស់Russian Federation "
+"ដោយមានការដាក់ស្នើជាលាយលក្ខណ៍អក្សរមកពីអាជ្ញាធរសាធារណៈ។</p><p>PayOnline "
+"Systems Ltd. ត្រូវបានចុះឈ្មោះទៅក្នុង Federal "
+"Registerនៃប្រតិបត្តិករក្រោមបញ្ជីការលេខ 10-0104880 ហើយមានគោលបំនងប្រមូល "
+"រក្សាទុក និងដាក់ដំណើរការព័ត៌មានផ្ទាល់ខ្លួននៃបុគ្គលសាមញ្ញ។ </p><p>ព័ត៌មាននៃប័"
+"ណ្ណឥណទានរបស់អ្នកនឹងត្រូវប្រើប្រាស់នៅពេលប្រតិបត្តិការតែប៉ុណ្ណោះ ហើយដែលព័ត៌មាន"
+"ទាំងនេះនឹងបញ្ជូនជាទម្រង់អ៊ិនគ្រីបតាមរយៈពិធីការសុវត្ថិភាពទៅកាន់ធនាគារដែលជាអ្ន"
+"កទទួល។ ព័ត៌មានលម្អិតនៃប័ណ្ណឥណទានរបស់អ្នកមិនត្រូវបានរក្សាទុកនៅក្នុងប្រព័ន្ធ "
+"PayOnlineទេ ដូច្នេះហើយ ទោះបីក្នុងកាលៈទេសៈណាក៏ដោយ "
+"ព័ត៌មានទាំងនេះមិនអាចផ្ទេរទៅកាន់អ្នកទីបីបានឡើយ។ "
+"</p><p>ប្រសិនបើលោកអ្នកមានសំណួរផ្សេងៗពាក់ព័ន្ធនឹងការទូទាត់ "
+"លោកអ្នកអាចទាក់ទងផ្នែកសេវាគាំទ្រអតិថិជនតាមរយៈទូរស័ព្ទលេខ: +8 (800) 7000 729 "
+"(ទូរស័ព្ទដោយឥតគិតថ្លៃសម្រាប់ក្នុងប្រទេសរុស្សី), +7 (495) 666 2143; "
+"ឬតាមរយៈអ៊ីម៉ែល: support@payonline.ru។ </p><p>លោកអ្នកអាចស្វែងរកទូទាត់នេះនៅក្ន"
+"ុងរបាយការណ៍ធនាគាររបស់អ្នកដោយប្រើលេខសំគាល់នៅលើ Lovetime.com "
+"។</p><p>សួមកត់សំគាល់ថាអាសយដ្ឋាន IP របស់អ្នកនឹងត្រូវបានរក្សាទុកដើម្បីទប់ស្កាត"
+"់ការប្រើប្រាស់ព័ត៌មានផ្ទាល់ខ្លួនរបស់អ្នកដោយគ្មានការអនុញ្ញាត។ "
+"ករណីមានការប្រើប្រាស់ព័ត៌មានផ្ទាល់ខ្លួនរបស់អ្នកដោយគ្មានការអនុញ្ញាតកើតឡើង "
+"នោះនឹងត្រូវបានដោះស្រាយដោយម៉ឹងម៉ាត់ បញ្ឈប់ និងផ្តន្ទាទោសតាមច្បាប់។</p>"
+
+msgid "unsubscribeWrongEmail"
+msgstr "អាសយដ្ឋានអ៊ីម៉ែលមិនត្រឹមត្រូវ"
+
+msgid "contestMain"
+msgstr ""
+
+msgid "contestFindYourLove"
+msgstr "ស្វែងរកគូស្នេហ៍របស់អ្នក"
+
+msgid "contestIncreaseChanceSuccess"
+msgstr "បង្កើនឱកាសដើម្បីឈ្នះ"
+
+msgid "contestOr"
+msgstr "ឬ"
+
+msgid "contestFindLove"
+msgstr "ស្វែងរកស្នេហ៍"
+
+msgid "contestResult"
+msgstr "លទ្ធផល"
+
+msgid "contestSelectAll"
+msgstr "ជ្រើសទាំងអស់"
+
+msgid "contestPhotoPhrase1"
+msgstr "គ្មានរូបថត? គ្មានអំណោយ!"
+
+msgid "contestPhotoPhrase2"
+msgstr ""
+"សូមអភ័យទោស "
+"មានតែអ្នកប្រើដែលបានផ្ទៀងផ្ទាត់ជាមួយរូបថតប៉ុណ្ណោះដែលអាចទទួលបានរង្វាន់ដ៏អស្ចារ្យរបស់យើង<br />  "
+"សូមបញ្ចូលរូបថតមួយ។"
+
+msgid "contestPhotoPhrase3"
+msgstr "អូស និងទម្លាក់<br /> ឯកសារពីក្នុងប្រព័ន្ធឯកសាររបស់អ្នក<br /> នៅទីនេះដើម្បីដាក់បញ្ចូល"
+
+msgid "contestUploadPhoto"
+msgstr "ដាក់បញ្ចូលរូបថត"
+
+msgid "contestImportPhoto"
+msgstr "ឬនាំចូលរូបថតពី"
+
+msgid "contestFbProfile"
+msgstr "ទម្រង់ Facebook"
+
+msgid "contestGoogleProfile"
+msgstr "Google+ ទម្រង់"
+
+msgid "contestInviteMorePhrase"
+msgstr ""
+"អ្នកបានអញ្ជើញ <span>%d</span> អ្នកប្រើ...<br>ប្រសិនបើម្នាក់ក្នុងចំណោមពួកគេឈ្នះ<br> "
+"<b>អ្នកក៏នឹងឈ្នះរង្វាន់ដែរ!</b><button class='n-d-more-button'>បង្កើនឱកាសរបស់អ្នក "
+"&rarr; <ins>អញ្ជើញថែមទៀត!</ins></button>ឬ <a href='/' "
+"target='_blank'>ស្វែងរកគូស្នេហ៍របស់អ្នក</a>!"
+
+msgid "contestAnnouncePhrase1"
+msgstr ""
+"អ្នកបានអញ្ជើញ <strong class='announce-contest__highlight'>%d</strong> អ្នកប្រើ!"
+
+msgid "contestAnnouncePhrase2"
+msgstr "ប្រសិនបើម្នាក់ក្នុងចំណោមពួកគេឈ្នះ"
+
+msgid "contestAnnouncePhrase3"
+msgstr "អ្នកទទួលបានរង្វាន់ដូចគ្នា!"
+
+msgid "contestAnnouncePhrase4"
+msgstr "អញ្ជើញអ្នកផ្សេងថែមទៀត"
+
+msgid "contestAnnouncePhrase5"
+msgstr "បង្កើនឱកាសរបស់អ្នកដើម្បីឈ្នះ។"
+
+msgid "contestAnnouncePhrase6"
+msgstr "ការចាប់រង្វាន់របស់ Lovetime!"
+
+msgid "contestAnnouncePhrase7"
+msgstr "សុបិន្តក្លាយជាការពិតមែន..."
+
+msgid "contestAnnouncePhrase8"
+msgstr "ចុះឈ្មោះឥឡូវនេះ ហើយនឹងឈ្នះ"
+
+msgid "contest"
+msgstr "ការចាប់រង្វាន់"
+
+msgid "step1"
+msgstr "ជំហានទី ១"
+
+msgid "step2"
+msgstr "ជំហានទី​​២"
+
+msgid "step3"
+msgstr "ជំហានទី៣"
+
+msgid "contestInviteByOtherServices"
+msgstr ""
+"បង្កើនឱកាសដើម្បីឈ្នះ! ភ្ជាប់ទៅប្រអប់សំបុត្រមួយថែមទៀត (Hotmail, Yahoo, Gmail) ឬ <a href="
+"\"%s\" target=\"_blank\">អញ្ជើញមិត្តភក្តិ Facebook របស់អ្នក </a> ឬចម្លងតំនភ្ជាប់ %s"
+
+msgid "cntTitle"
+msgstr ""
+
+msgid "cntRegister"
+msgstr ""
+
+msgid "cntInviteFriends"
+msgstr ""
+
+msgid "cntSamePrize"
+msgstr ""
+
+msgid "cntHigherChances"
+msgstr ""
+
+msgid "cntAddFriends"
+msgstr ""
+
+msgid "cntBannerUsersOnly"
+msgstr ""
+
+msgid "cntBannerParticipatePrizeDraw"
+msgstr ""
+
+msgid "cntBannerFbDescription"
+msgstr ""
+
+msgid "cntPhotoDrag"
+msgstr ""
+
+msgid "cntPhotoUpload"
+msgstr ""
+
+msgid "cntPhotoImport"
+msgstr ""
+
+msgid "cntNext"
+msgstr ""
+
+msgid "cntNotSelected"
+msgstr ""
+
+msgid "cntInvited"
+msgstr ""
+
+msgid "cntWinsSamePrize"
+msgstr ""
+
+msgid "cntIncreaseChances"
+msgstr ""
+
+msgid "cntDropHere"
+msgstr ""
+
+msgid "cntUnselectAll"
+msgstr ""
+
+msgid "cntSelectAll"
+msgstr ""
+
+msgid "cntHours"
+msgstr ""
+
+msgid "cntMinutes"
+msgstr ""
+
+msgid "cntSeconds"
+msgstr ""
+
+msgid "emailContestSubject"
+msgstr ""
+
+msgid "emailContestTitle"
+msgstr ""
+
+msgid "emailContestJoinUs"
+msgstr ""
+
+msgid "emailContestPrizesDescriptions"
+msgstr ""
+
+msgid "emailContestRegister"
+msgstr ""
+
+msgid "emailContestTerms"
+msgstr ""
+
+msgid "emailContestClickHere"
+msgstr ""
+
+msgid "emailContestPrizes"
+msgstr ""
+
+msgid "emailContestUnsubscribe"
+msgstr ""
+
+msgid "actionNote"
+msgstr "កត់ត្រា"
+
+msgid "noteEdit"
+msgstr "កែសម្រួល"
+
+msgid "noteRemove"
+msgstr "លុបចោល"
+
+msgid "noteSave"
+msgstr "រក្សាទុក"
+
+msgid "noteConfirmDelete"
+msgstr "តើអ្នកប្រាកដទេថា អ្នកចង់លុបការកត់ត្រានេះចោល?"
+
+msgid "lettersCheckSpamFolder"
+msgstr ""
+"ពិនិត្យថតនៃសារឥតបានការ ដើម្បីប្រាកដថាសាររបស់យើងមិនទាន់បានជ្រើសរើសចេញ។​ បើដូច្នេះ "
+"សូមជ្រើសរើសវា ហើយចុចយកឃ្លាថា មិនមែនសារឥតបានការ។"
+
+msgid "lettersMarkEmailNotSpam"
+msgstr "ហើយសំគាល់អ៊ីម៉ែលនេះថាមិនមែនជាសារឥតបានការ"
+
+msgid "pagesContacts"
+msgstr ""
+"<b>អាសយដ្ឋាន:</b> <br /> 25/4 Soi Ratchadaphisak 36, Ratchadaphisak Rd., "
+"ChanKasem, Chatuchak BKK 10900 Thailand <br /><br /> <br /> Phnom Penh "
+"Tower, 12F, #445, 232/93 (Monivong Blvd), Phnom Penh, Cambodia, 12258 <br /"
+"><br /> <br /> Russia,  Moscow,  Svobody str. 50,  Build. 3, 125364 <br /"
+"><br /> <b>អ៊ីម៉ែល:</b><br /><a href=\"mailto:info@lovetime.com\">info@lovetime."
+"com</a>"
+
+msgid "seocatalogTitleInCity"
+msgstr "តំបន់បណ្តាញសម្រាប់ជួបក្មេងស្រី ក្មេងប្រុស បុរស នារី នៅក្នុង %city_title%"
+
+msgid "seocatalogH1InCity"
+msgstr "ណាត់ជួបនៅក្នុង %city_title%"
+
+msgid "seocatalogSeeking"
+msgstr "កំពុងស្វែងរក"
+
+msgid "seocatalogAge"
+msgstr "អាយុ"
+
+msgid "seocatalogAppearance"
+msgstr "រូបរាងសម្បតិ្ត"
+
+msgid "seocatalogOther"
+msgstr "ផ្សេងៗ"
+
+msgid "seocatalogNext"
+msgstr "ថែមទៀត"
+
+msgid "seocatalogWoman"
+msgstr "នារី"
+
+msgid "seocatalogMen"
+msgstr "បុរស"
+
+msgid "seocatalogLesbian"
+msgstr "ស្រីស្រលាញ់ស្រី"
+
+msgid "seocatalogGay"
+msgstr "ប្រុសស្រលាញ់ប្រុស"
+
+msgid "seocatalogBisexual"
+msgstr "អ្នកស្រលាញ់ទាំងស្រីទាំងប្រុស"
+
+msgid "seocatalogFriendship"
+msgstr "មិត្តភាព​​ និងប្រាស្រ័យទាក់ទងគ្នា"
+
+msgid "seocatalogRomanticRelations"
+msgstr "ទំនាក់ទំនងស្នេហា"
+
+msgid "seocatalogFlirt"
+msgstr "ចែចង់"
+
+msgid "seocatalogSex"
+msgstr "រួមភេទ"
+
+msgid "seocatalogBlondes"
+msgstr "អ្នកមានសក់ពណ៌ទង់ដែង"
+
+msgid "seocatalogBrunettes"
+msgstr "អ្នកមានសក់ពណ៌មាស"
+
+msgid "seocatalogBrownHair"
+msgstr "អ្នកមានសក់ពណ៌ត្នោត"
+
+msgid "seocatalogAthletic"
+msgstr "អត្ថពលលិក"
+
+msgid "seocatalogSlim"
+msgstr "អត្ថពលលិក"
+
+msgid "seocatalogHeavy"
+msgstr "អ្នកមានរាងធាត់"
+
+msgid "seocatalogForeigner"
+msgstr "ជនបរទេស"
+
+msgid "seocatalogRich"
+msgstr "អ្នកមាន"
+
+msgid "seocatalogSingle"
+msgstr "អ្នកនៅលីវ"
+
+msgid "seocatalogNoBadHabits"
+msgstr "អ្នកគ្មានទម្លាប់អាក្រក់"
+
+msgid "chatFilterManGifts"
+msgstr ""
+"%s បានកំណត់នៅក្នុងការជ្រើសរើសសាររបស់គាត់ ដូច្នេះអ្នកមិនអាចផ្ញើសារបានទេ។"
+"<b>ផ្ញើអំណោយមួយជូនគាត់</b> ហើយវានឹងដកការកំហិតនោះចេញ។ ឬអាចសាកល្បងជជែកលេងជាមួយអ្នកផ្សេងវិញ។"
+
+msgid "chatFilterWomanGifts"
+msgstr ""
+"%s បានកំណត់នៅក្នុងការជ្រើសរើសសាររបស់នាង ដូច្នេះអ្នកមិនអាចផ្ញើសារបានទេ។"
+"<b>ផ្ញើអំណោយមួយជូននាង</b> ហើយវានឹងដកការកំហិតនោះចេញ។ ឬអាចសាកល្បងជជែកលេងជាមួយអ្នកផ្សេងវិញ។"
+
+msgid "modelLoginFormEmailOrNick"
+msgstr "អ៊ីម៉ែល"
+
+msgid "modelLoginFormPassword"
+msgstr "ពាក្យសម្ងាត់"
+
+msgid "modelLoginFormAlien"
+msgstr "មិនមែនជាកុំព្យូទ័រខ្ញុំទេ"
+
+msgid "loginErrorInvalidEmailOrPassword"
+msgstr "អ៊ីម៉ែល ឬពាក្យសម្ងាត់គ្មានសុពលភាព"
+
+msgid "systemForgotPassword"
+msgstr "ភ្លេចពាក្យសម្ងាត់របស់អ្នក"
+
+msgid "loginErrorUserNotVisible"
+msgstr "អ្នកប្រើ%sមិនត្រូវបានអនុញ្ញាតឲ្យចូល"
+
+msgid "wrongEmail"
+msgstr "អ៊ីម៉ែលគ្មានសុពលភាព"
+
+msgid "errorEmailExists"
+msgstr "បញ្ចូលអ៊ីម៉ែលមួយផ្សេងទៀត"
+
+msgid "citationsDefault1"
+msgstr "សួស្តី តើអ្នកសុខសប្បាយជាទេ?"
+
+msgid "citationsDefault2"
+msgstr "សួស្តី តើអ្នកកំពុងធ្វើអ្វី?"
+
+msgid "modelUsersValidateReservedNicks"
+msgstr "សូមជ្រើសរើសឈ្មោះហៅក្រៅផ្សេងទៀត"
+
+msgid "registrationFormWrongDate"
+msgstr "ទិន្នន័យមិនត្រឹមត្រូវ"
+
+msgid "months1"
+msgstr "មករា"
+
+msgid "months2"
+msgstr "កុម្ភៈ"
+
+msgid "months3"
+msgstr "មីនា"
+
+msgid "months4"
+msgstr "មេសា"
+
+msgid "months5"
+msgstr "ឧសភា"
+
+msgid "months6"
+msgstr "មិថុនា"
+
+msgid "months7"
+msgstr "កក្កដា"
+
+msgid "months8"
+msgstr "សីហា"
+
+msgid "months9"
+msgstr "កញ្ញា"
+
+msgid "months10"
+msgstr "តុលា"
+
+msgid "months11"
+msgstr "វិច្ឆិកា"
+
+msgid "months12"
+msgstr "ធ្នូ"
+
+msgid "modelSmileCode"
+msgstr "លេខកូដ"
+
+msgid "modelSmileImage"
+msgstr "រូបភាព"
+
+msgid "modelSmileVisible"
+msgstr "ដាក់ឲ្យមើលឃើញ"
+
+msgid "Noactive"
+msgstr "គ្មាន"
+
+msgid "modelSpamersName"
+msgstr ""
+
+msgid "modelUsersName"
+msgstr "ឈ្មោះហៅក្រៅ"
+
+msgid "modelUsersEmail"
+msgstr "អ៊ីម៉ែល"
+
+msgid "modelComplaintsStatus"
+msgstr "ស្ថានភាព"
+
+msgid "modelSpamersTime"
+msgstr ""
+
+msgid "modelSpamersMessages"
+msgstr ""
+
+msgid "modelComplaintsSenderId"
+msgstr "អ្នកផ្ញើ"
+
+msgid "modelComplaintsCompanionId"
+msgstr "ត្រូវបានចោទប្រកាន់"
+
+msgid "modelComplaintsReasonText"
+msgstr "ហេតុផល"
+
+msgid "modelComplaintsComment"
+msgstr "អត្ថាធិប្បាយ"
+
+msgid "modelComplaintsCompanion"
+msgstr "ចុងចោទ"
+
+msgid "modelComplaintsSender"
+msgstr "សុភាចារបុរស"
+
+msgid "complainReason1"
+msgstr "សារឥតបានការ ផ្សព្វផ្សាយពាណិជ្ជកម្ម"
+
+msgid "complainReason2"
+msgstr "ក្លែងបន្លំ"
+
+msgid "complainReason3"
+msgstr "សំណើមិនសមរម្យ"
+
+msgid "complainReason4"
+msgstr "ភាពគ្រោតគ្រាត ការគំរាមកំហែង"
+
+msgid "complainReason5"
+msgstr "រូបថតគ្មានម្ចាស់"
+
+msgid "complainReason6"
+msgstr "ការល្បួងរួមភេទ"
+
+msgid "photosRefuseReasonPicture"
+msgstr "គំនូរ វត្ថុ ឬសត្វ"
+
+msgid "photosRefuseReasonErotica"
+msgstr "សៀវភៅ ឬរូបភាពធ្វើឲ្យស្រើបស្រាល ការប្រមាថ"
+
+msgid "photosRefuseReasonFamous"
+msgstr "អ្នកល្បីល្បាញ"
+
+msgid "photosRefuseReasonSpam"
+msgstr "សារឥតបានការ ការផ្សព្វផ្សាយពាណិជ្ជកម្ម"
+
+msgid "photosRefuseReasonPoorQuality"
+msgstr "គុណភាពអន់"
+
+msgid "photosRefuseReasonOnlyYouMustBeSeen"
+msgstr "មានតែអ្នកទេដែលត្រូវបានមើលឃើញ"
+
+msgid "photosRefuseReasonNotVisibleFace"
+msgstr "មុខដែលបាំងមិនឲ្យឃើញ"
+
+msgid "photosRefuseReasonChildOnThePhoto"
+msgstr "កុមារក្នុងរូបថត"
+
+msgid "photosRefuseReasonExcessiveDecoration"
+msgstr "ការតុបតែងជ្រុលហួសហេតុ"
+
+msgid "photosStatusAccept"
+msgstr "យល់ព្រម"
+
+msgid "photosStatusRefuse"
+msgstr "បដិសេធ"
+
+msgid "userName"
+msgstr "ឈ្មោះ"
+
+msgid "feedbackText"
+msgstr "អត្ថបទ"
+
+msgid "userWrongOldPasswError"
+msgstr "ពាក្យសម្ងាត់មិនត្រឹមត្រូវ"
+
+msgid "userPasswTooShort"
+msgstr "ពាក្យសម្ងាត់ថ្មីខ្លីពេក (អប្បរមា​ {min}​ តួអក្សរ)"
+
+msgid "dateFormat"
+msgstr "កាលបរិច្ឆទត្រូវមានទម្រង់ ថ្ងៃ ខែ ឆ្នាំ"
+
+msgid "modelUsersValidateRequireMessage"
+msgstr "ព័ត៌មាន %s ត្រូវបានគេតម្រូវ"
+
+msgid "modelUsersLookingFor"
+msgstr "ខ្ញុំកំពុងស្វែងរក"
+
+msgid "modelUsersPassword"
+msgstr "ពាក្យសម្ងាត់"
+
+msgid "modelUsersOldPassword"
+msgstr "ពាក្យសម្ងាត់បច្ចុប្បន្ន"
+
+msgid "modelUsersNewPassword"
+msgstr "ពាក្យសម្ងាត់ថ្មី"
+
+msgid "modelUsersVisible"
+msgstr "ភាពដែលអាចមើលឃើញ"
+
+msgid "modelUsersRole"
+msgstr "ក្រុម"
+
+msgid "modelUsersPhone"
+msgstr "លេខទូរស័ព្ទ"
+
+msgid "modelUsersVkId"
+msgstr " លេខសម្គាល់ Vkontakte "
+
+msgid "modelUsersFacebookId"
+msgstr "លេខសម្គាល់ Facebook"
+
+msgid "modelUsersTwitterId"
+msgstr "លេខសម្គាល់ Twitter"
+
+msgid "modelUsersAvatar"
+msgstr "រូបតំណាងអ្នកប្រើ"
+
+msgid "modelUsersDefaultAvatar"
+msgstr "រូបតំណាងអ្នកប្រើស្តង់ដា"
+
+msgid "modelUsersCity"
+msgstr "ទីក្រុង"
+
+msgid "modelUsersCountry"
+msgstr "ប្រទេស"
+
+msgid "modelUsersResidence"
+msgstr "ទីតាំង"
+
+msgid "modelUsersLat"
+msgstr "រយៈទទឹង"
+
+msgid "modelUsersLng"
+msgstr "រយៈបណ្ដោយ"
+
+msgid "modelUsersAbout"
+msgstr "អំពីខ្ញុំ"
+
+msgid "profileStatus"
+msgstr "ស្ថានភាព"
+
+msgid "modelUsersIntroduceMyself"
+msgstr "ស្ថានភាពរបស់ខ្ញុំ"
+
+msgid "modelUsersWantToMeet"
+msgstr "ចង់ស្វែងរក"
+
+msgid "modelUsersPreferredAge"
+msgstr "អាយុដែលពេញចិត្ត"
+
+msgid "dateofbirth"
+msgstr "ថ្ងៃខែឆ្នាំកំណើត"
+
+msgid "modelUsersHeight"
+msgstr "កំពស់"
+
+msgid "modelUsersWeight"
+msgstr "ទម្ងន់"
+
+msgid "modelUsersPhysique"
+msgstr "រាងរៅ"
+
+msgid "modelUsersColor"
+msgstr "ពណ៌សក់"
+
+msgid "modelUsersColorEyes"
+msgstr "ពណ៌ភ្នែក"
+
+msgid "modelUsersSign"
+msgstr "សញ្ញារាសីចក្រ"
+
+msgid "modelUsersType"
+msgstr "គោលបំណងនៃការណាត់ជួប"
+
+msgid "modelUsersAcquainted"
+msgstr "ខ្ញុំចាប់ផ្តើមស្គាល់ ..."
+
+msgid "modelUsersBed"
+msgstr "ការរួមភេទដែលខ្ញុំចូលចិត្ត"
+
+msgid "modelUsersExcites"
+msgstr "ខ្ញុំរំភើបអំពី"
+
+msgid "modelUsersStatus"
+msgstr "ស្ថានភាព​ទំនាក់ទំនង"
+
+msgid "modelUsersChildren"
+msgstr "កូន"
+
+msgid "modelUsersOrientation"
+msgstr "ទិសដៅផ្លូវភេទ"
+
+msgid "modelUsersSmoking"
+msgstr "ជក់បារី"
+
+msgid "modelUsersAlcohol"
+msgstr "ផឹកស្រា"
+
+msgid "modelUsersEducation"
+msgstr "ការអប់រំ"
+
+msgid "modelUsersJob"
+msgstr "មុខរបរ"
+
+msgid "modelUsersIncome"
+msgstr "ប្រាក់ចំណូល"
+
+msgid "modelUsersLove_work"
+msgstr "នៅកន្លែងការងារដែលខ្ញុំចូលចិត្ត"
+
+msgid "modelUsersLove_institute"
+msgstr "នៅសកលវិទ្យាល័យដែលខ្ញុំចូលចិត្ត"
+
+msgid "modelUsersLove_go"
+msgstr "ខ្ញុំចូលចិត្តទៅទស្សនា"
+
+msgid "modelUsersLove_music"
+msgstr "តន្រ្តីសំណព្វចិត្ត"
+
+msgid "modelUsersBan"
+msgstr "ហាមឃាត់"
+
+msgid "modelUsersSendEmails"
+msgstr "ទទួលបានការជូនដំណឹងតាមរយៈអ៊ីម៉ែល"
+
+msgid "modelUsersSounds"
+msgstr "អនុញ្ញាតសារជាសម្លេង"
+
+msgid "modelUsersShowPixeledImages"
+msgstr "បង្ហាញរូបថតព្រាលៗទៅកាន់មនុស្សមិនស្គាល់"
+
+msgid "modelUsersHideImages"
+msgstr "មិនបង្ហាញរូបថត"
+
+msgid "modelUsersTimeZone"
+msgstr "តំបន់ពេលវេលា"
+
+msgid "moduleUsersAutoSelectTimeZone"
+msgstr "កំណត់ដោយស្វ័យប្រវត្តិ"
+
+msgid "modelUsersRegistered"
+msgstr "បានចុះឈ្មោះ"
+
+msgid "modelUsersInvitedBy"
+msgstr "ការអញ្ជើញ"
+
+msgid "modelUsersLoginWithToken"
+msgstr "ចូលដោយស្វ័យប្រវត្តិតាមរយៈតំណភ្ជាប់អ៊ីម៉ែល"
+
+msgid "physiqueSlim"
+msgstr "រាងតូចស្តើង"
+
+msgid "physiqueAverage"
+msgstr "មធ្យម"
+
+msgid "physiqueAthletic"
+msgstr "មាំមួន"
+
+msgid "physiqueMuscular"
+msgstr "រូបរាងសមសួន"
+
+msgid "physiqueHeavy"
+msgstr "លើសទម្ងន់"
+
+msgid "physiqueFull"
+msgstr "ថែមពីរបីផោនទៀត"
+
+msgid "colorEyesBrown"
+msgstr "ពណ៌ត្នោត"
+
+msgid "colorEyesGreen"
+msgstr "ពណ៌បៃតង"
+
+msgid "colorEyesBlue"
+msgstr "ពណ៌ខៀវ"
+
+msgid "colorEyesGray"
+msgstr "ពណ៌ប្រផេះ"
+
+msgid "colorEyesBlack"
+msgstr "ពណ៌ខ្មៅ"
+
+msgid "colorEyesHazel"
+msgstr "ពណ៌ក្រហមព្រឿងៗ"
+
+msgid "smokingDoNotSmoke"
+msgstr "មិនដែលសោះ"
+
+msgid "smokingRarely"
+msgstr "ម្ដងម្កាល"
+
+msgid "smokingGiving"
+msgstr "កំពុងព្យាយាមបោះបង់"
+
+msgid "smokingOften"
+msgstr "ជាញឹកញាប់"
+
+msgid "alcoholDoNotDrink"
+msgstr "មិនដែលសោះ"
+
+msgid "alcoholILikeToDrink"
+msgstr "ជាញឹកញាប់"
+
+msgid "alcoholOnHolidays"
+msgstr "តាមរបៀបសង្គម"
+
+msgid "educationSecondary"
+msgstr "វិទ្យាល័យ"
+
+msgid "educationTechnical"
+msgstr "បរិញ្ញាបត្ររង"
+
+msgid "educationHigher"
+msgstr "សកលវិទ្យាល័យ"
+
+msgid "incomeLow"
+msgstr "ទាប"
+
+msgid "incomeMedium"
+msgstr "មធ្យម"
+
+msgid "incomeHigh"
+msgstr "ច្រើន"
+
+msgid "systemAdministrator"
+msgstr "អ្នកគ្រប់គ្រង"
+
+msgid "childrenNo"
+msgstr "គ្មាន"
+
+msgid "childrenYes"
+msgstr "មាន"
+
+msgid "signAries"
+msgstr "មេសរាសី (រាសី​ចៀម​ឬ​ពពែ)"
+
+msgid "signTaurus"
+msgstr "ឧសភរាសី (គោ​ឈ្មោល)"
+
+msgid "signTwins"
+msgstr "មិថុន​រាសី (គូ​បុរស​និង​ស្ត្រី)"
+
+msgid "signCancer"
+msgstr "កក្កដ​រាសី (ក្ដាម)"
+
+msgid "signLion"
+msgstr "សីហ​រាសី (សីហៈ)"
+
+msgid "signVirgo"
+msgstr "កញ្ញា​រាសី (ស្រីក្រមុំ)"
+
+msgid "signLibra"
+msgstr "តុលា​រាសី (ជញ្ជីង)"
+
+msgid "signScorpio"
+msgstr " វិច្ឆិក​រាសី (ខ្ទួយ)"
+
+msgid "signSagittarius"
+msgstr " ធនុ​រាសី (ខ្មាន់ធ្នួរ)"
+
+msgid "signCapricorn"
+msgstr "មកររាសី (មករ)"
+
+msgid "signAquarius"
+msgstr "កុម្ភ​រាសី (ក្អម)"
+
+msgid "signPisces"
+msgstr "មីន​រាសី (ត្រី)"
+
+msgid "changeFieldInSearch"
+msgstr "កំពុងស្វែងរកយ៉ាងសកម្ម"
+
+msgid "changeFieldHasAFriend"
+msgstr "កំពុងមានទំនាក់ទំនងស្នេហា"
+
+msgid "changeFieldMarried"
+msgstr "បានរៀបការ"
+
+msgid "changeFieldNotInSearch"
+msgstr "បានភា្ជប់ពាក្យ"
+
+msgid "changeFieldBreaked"
+msgstr "បានលែងលះ"
+
+msgid "haircolorLight"
+msgstr "ពណ៌ទង់ដែង"
+
+msgid "haircolorDark"
+msgstr "ពណ៌ក្រម៉ៅ"
+
+msgid "haircolorRed"
+msgstr "ពណ៌ក្រហម"
+
+msgid "haircolorTanned"
+msgstr "ហាយឡាយឆ្នូត"
+
+msgid "haircolorBright"
+msgstr "ភ្លឺ"
+
+msgid "haircolorWhite"
+msgstr "ប្រផេះ"
+
+msgid "haircolorSkin"
+msgstr "ត្រងោល"
+
+msgid "haircolorBald"
+msgstr "ទំពែក"
+
+msgid "changeFieldHetero"
+msgstr "ធម្មតា"
+
+msgid "changeFieldGay"
+msgstr "មនុស្សស្រលាញ់ភេទដូចគ្នា(ប្រុស)/មនុស្សស្រលាញ់ភេទដូចគ្នា(ស្រី)"
+
+msgid "changeFieldBi"
+msgstr "ខ្ទើយ"
+
+msgid "ofWoman"
+msgstr "នារី"
+
+msgid "ofMan"
+msgstr "បុរស"
+
+msgid "introduceMyselfOnlyMyself"
+msgstr "នៅលីវ"
+
+msgid "introduceMyselfAsPair"
+msgstr "គូស្នេហ៍"
+
+msgid "changeFieldFriendship"
+msgstr "មិត្តភាព និង ការប្រាស្រ័យទាក់ទង"
+
+msgid "changeFieldFlirt"
+msgstr "ចែចង់"
+
+msgid "changeFieldRomantic"
+msgstr "ទំនាក់ទំនងស្នេហា"
+
+msgid "changeFieldSex"
+msgstr "ការរួមភេទ"
+
+msgid "changeFieldAtWork"
+msgstr "នៅកន្លែងធ្វើការ"
+
+msgid "changeFieldNeighbor"
+msgstr "ក្នុងភាពជាអ្នកជិតខាង"
+
+msgid "changeFieldSchool"
+msgstr "នៅសាលា/នៅសកលវិទ្យាល័យ"
+
+msgid "changeFieldStreet"
+msgstr "នៅតាមផ្លូវ"
+
+msgid "changeFieldOral"
+msgstr "ការរួមភេទតាមមាត់"
+
+msgid "changeFieldAnal"
+msgstr "ការរួមភេទតាមរន្ធគូថ"
+
+msgid "changeFieldGroup"
+msgstr "ការរួមភេទជាក្រុម"
+
+msgid "changeFieldPublic"
+msgstr "ការរួមភេទនៅកន្លែងចំលែក"
+
+msgid "changeFieldRoleplay"
+msgstr "ការរួមភេទដោយសម្ដែងជាមុន"
+
+msgid "changeFieldToys"
+msgstr "ការរួមភេទដោយប្រើប្រដាប់កំសាន្ដ"
+
+msgid "changeFieldBdsm"
+msgstr "ចូលចិត្តសប្បាយ និងធ្វើបាបអ្នកដៃគូពេលរួមភេទ"
+
+msgid "changeFieldClassicSex"
+msgstr "ការរួមភេទតាមបែបធម្មតា"
+
+msgid "changeFieldSmells"
+msgstr "ក្លិន"
+
+msgid "changeFieldHighHair"
+msgstr "ដែលមានសក់ច្រើន"
+
+msgid "changeFieldTattoo"
+msgstr "សាក់ និងចោះ"
+
+msgid "changeFieldDarkskin"
+msgstr "សម្បុរស្រអែម"
+
+msgid "changeFieldUnderwear"
+msgstr "ខោអាវទ្រនាប់"
+
+msgid "changeFieldUniform"
+msgstr "ឯកសណ្ឋាន"
+
+msgid "changeFieldStockings"
+msgstr "ស្រោមជើងវែង"
+
+msgid "changeFieldFootwear"
+msgstr "គ្រឿងសម្រាប់ពាក់នៅជើង"
+
+msgid "changeFieldDominate"
+msgstr "ខ្ពស់ជាងឬ អន់ជាង"
+
+msgid "changeFieldBondage"
+msgstr "ឥតសេរីភាព និងឥតកំរើកបាន"
+
+msgid "changeFieldPain"
+msgstr "ឈឺចាប់"
+
+msgid "monthsJan"
+msgstr "មករា"
+
+msgid "monthsFeb"
+msgstr "កុម្ភៈ"
+
+msgid "monthsMar"
+msgstr "មីនា"
+
+msgid "monthsApr"
+msgstr "មេសា"
+
+msgid "monthsMay"
+msgstr "ឧសភា"
+
+msgid "monthsJun"
+msgstr "មិថុនា"
+
+msgid "monthsJul"
+msgstr "កក្តដា"
+
+msgid "monthsAug"
+msgstr "សីហា"
+
+msgid "monthsSep"
+msgstr "កញ្ញា"
+
+msgid "monthsOct"
+msgstr "តុលា"
+
+msgid "monthsNov"
+msgstr "វិចិ្ឆកា"
+
+msgid "monthsDec"
+msgstr "ធ្នូ"
+
+msgid "removingProfileCauseIPlaGoBack"
+msgstr "ខ្ញុំកំពុងចាកចេញពីតំបន់បណ្តាញជាបណ្តោះអាសន្នប៉ុណ្ណោះ ប៉ុន្តែខ្ញុំនឹងត្រលប់មកវិញ។"
+
+msgid "profileLastVisit"
+msgstr "ការចូលមើលចុងក្រោយ"
+
+msgid "dateToday"
+msgstr "ថ្ងៃនេះ"
+
+msgid "dateYesterday"
+msgstr "ម្សិលមិញ"
+
+msgid "date2DaysAgo"
+msgstr "ម្សិលម្ង៉ៃ"
+
+msgid "profileLastVisitAt"
+msgstr "នៅ"
+
+msgid "chatBigMessage"
+msgstr "សារវែងពេកហើយ។ អនុញ្ញាតមិនលើសពី ២០០០តួអក្សរ។"
+
+msgid "errorFolderCreate"
+msgstr "អ្នកមានថតដែលមានឈ្មោះនេះរួចហើយ"
+
+msgid "foldersDeleteError"
+msgstr "សូមទោស ខកខានមិនបានលុប​​​​​ថតដែលបានជ្រើសរើស :("
+
+msgid "noteErrorTooLong"
+msgstr "កំណត់ត្រាមិនគួរលើសពី ១០០០តួអក្សរទេ"
+
+msgid "noteErrorTags"
+msgstr "កំណត់ត្រាមិនគួរផ្ទុកស្លាកHTMLទេ"
+
+msgid "guestsWasMan"
+msgid_plural "guestsWasWoman"
+msgstr[0] "មើលចុងក្រោយ"
+
+msgid "guestsYear"
+msgid_plural "guestsYears"
+msgstr[0] "%d ឆ្នាំ"
+
+msgid "guestsMonth"
+msgid_plural "guestsMonths"
+msgstr[0] "%d ខែ"
+
+msgid "guestsDay"
+msgid_plural "guestsDays"
+msgstr[0] "%d ថ្ងៃ"
+
+msgid "guestsHour"
+msgid_plural "guestsHours"
+msgstr[0] "%s ម៉ោង"
+
+msgid "guestsMinute"
+msgid_plural "guestsMinutes"
+msgstr[0] "%s នាទី"
+
+msgid "guestsBack"
+msgstr "កន្លងទៅ"
+
+msgid "topfacesMessageTooShort"
+msgstr "សារមិនគូរលើសពី ១៤០តួអក្សរទេ"
+
+msgid "topfaceStatusInvalidValue"
+msgstr "ព័ត៌មាននៃឋានៈផ្ទុកនូវតម្លៃដែលគ្មានសុពលភាព"
+
+msgid "formErrorNewPasswRepeat"
+msgstr "ពាក្យសម្ងាត់មិនត្រឹមត្រូវ"
+
+msgid "modelLoginFormEmail"
+msgstr "អ៊ីម៉ែល"
+
+msgid "modelForgotpassPassword"
+msgstr "ពាក្យសម្ងាត់"
+
+msgid "modelForgotpassPasswordRepeat"
+msgstr "ដាក់ពាក្យសម្ងាត់ម្តងទៀត"
+
+msgid "modelFogotpassEmailExists"
+msgstr "ពុំមានអ្នកប្រើចុះឈ្មោះជាមួយនឹងអាសយដ្ឋានអ៊ីម៉ែលនោះទេ"
+
+msgid "modelFogotpassInvalidLink"
+msgstr "តំណភ្ជាប់គ្មានសុពលភាព"
+
+msgid "modelFogotpassPassDoNotMatch"
+msgstr "ពាក្យសម្ងាត់មិនត្រឹមត្រូវ"
+
+msgid "visitors"
+msgstr ""
+
+msgid "facebookLikeShowUsYouLikeUs"
+msgstr "បង្ហាញថាអ្នកចូលចិត្តយើង"
+
+msgid "systemRegisterSmall"
+msgstr "ការចុះឈ្មោះ"
+
+msgid "chatMoveIn"
+msgstr "ប្តូរទៅកាន់"
+
+msgid "chatFoldersFirst"
+msgstr "ទូទៅ"
+
+msgid "chatFoldersSecond"
+msgstr "សំណព្វចិត្ត"
+
+msgid "chatFoldersThird"
+msgstr "មិនអើពើ"
+
+msgid "langRussian"
+msgstr "ភាសារុស្សី"
+
+msgid "yourPhotoHere"
+msgstr "ដាក់រូបថត អ្នកទីនេះ"
+
+msgid "topfacesAdd"
+msgstr "ខាងលើ"
+
+msgid "topfacesItsYou"
+msgstr "គឺអ្នក !"
+
+msgid "userBalloonChat"
+msgstr "បង្កើតសារ"
+
+msgid "userBalloonProfile"
+msgstr "មើលទម្រង់"
+
+msgid "topfacesDialogTitle"
+msgstr "បញ្ចូលរូបអ្នកទៅកាន់&nbsp;ផ្នែកខាងលើ"
+
+msgid "topfacesDialogChoosePhoto"
+msgstr "ជ្រើសរើសរូបភាពរបស់អ្នក ឬ <a href=\"/users/view/%s\">បញ្ចូល&nbsp;ថ្មីមួយទៀត</a>"
+
+msgid "topfacesDialogTypeMessage"
+msgstr "វាយសារខ្លីមួយ"
+
+msgid "actionSend"
+msgstr "ដាក់ពិនិត្យ"
+
+msgid "topfacesDialogNoPhotos"
+msgstr ""
+"ដើម្បីបន្ថែមរូបភាពចូល &nbsp;នៅផ្នែកខាងលើ អ្នកត្រូវ <a href=\"/users/view/%s\">បញ្ចូល</"
+"a>&nbsp; រូបភាពទម្រង់ជាមុនសិន។"
+
+msgid "TopFacesLimitExceeded"
+msgstr "អនុញ្ញាតឲ្យបន្ថែម&nbsp;រូបភាពមិនលើសពីមួយក្នុង&nbsp;មួយម៉ោង។ សូមមេត្តារង់ចាំ។"
+
+msgid "emailConfirmPleaseTitle"
+msgstr ""
+"តំនភ្ជាប់នៃការបញ្ជាក់ ត្រូវបានផ្ញើទៅកាន់អាសយដ្ឋានអ៊ីម៉ែលរបស់អ្នក។ "
+"បន្ទាប់ពីបញ្ជាក់អាសយដ្ឋានអ៊ីម៉ែលរបស់អ្នក អ្នកនឹងមានសិទ្ធិចូលទៅកាន់រាល់លក្ខណៈពិសេសនៃគេហទំព័រ។ <a "
+"href='%link%'>នៅមិនទាន់បានទទួលតំនភ្ជាប់នៅឡើយទេ </a>?"
+
+msgid "emailConfirmCheckSpam"
+msgstr ""
+"សូមពិនិត្យសារឥតបានការ/មានមន្ទិលលើប្រអប់សំបុត្ររបស់អ្នក សំបុត្ររបស់យើងអាចទៅកាន់លោកអ្នកដោយភាន់ច្រលំ។​ "
+"ប្រសិនបើដូច្នេះ សូមសំគាល់វាជា<b>មិនមែនជាសារឥតបានការ</b>។"
+
+msgid "emailConfirmPleaseNotice"
+msgstr "&nbsp;"
+
+msgid "socialLikeStr"
+msgstr "ចូលចិត្ត"
+
+msgid "complainHead"
+msgstr "ប្ដឹងពី"
+
+msgid "complainIgnore"
+msgstr "មិនអើពើ"
+
+msgid "complainIgnoreDescription"
+msgstr ""
+"អ្នកនឹងមិនទទួលបានសារពីម្នាក់នេះទេ។​ ពេលក្រោយ ប្រសិនបើអ្នកចង់ ប្រតិបត្តិការអាចនឹងមិនដំណើរការ។"
+
+msgid "complainError1"
+msgstr "បញ្ជាក់មូលហេតុបណ្ដឹង"
+
+msgid "complainSubmit"
+msgstr "ផ្ញើ"
+
+msgid "complainOr"
+msgstr "ឫ"
+
+msgid "complainClose"
+msgstr "បោះបង់"
+
+msgid "menuFeedback"
+msgstr "មតិផ្តល់មកវិញ"
+
+msgid "menuRules"
+msgstr "វិធាន"
+
+msgid "menuContacts"
+msgstr "ទំនាក់ទំនង"
+
+msgid "menuHelpUs"
+msgstr "ជួយយើង"
+
+msgid "flirtNear"
+msgstr "ស្វែងរកនៅជិតៗ"
+
+msgid "menuAbout"
+msgstr "អំពីយើង"
+
+msgid "menuSearch"
+msgstr "ស្វែងរក"
+
+msgid "flirtCarousel"
+msgstr "ណាត់ជួប"
+
+msgid "menuChat"
+msgstr "ជជែកគ្នា"
+
+msgid "mainTitle"
+msgstr "អញ្ជើញមិត្តភក្តិថ្មីៗ សហការី និងអ្នកជិតខាងរបស់អ្នក..."
+
+msgid "mainTitle2"
+msgstr "និង​ ចែចង់ដោយមិនបង្ហាញអត្តសញ្ញាណ"
+
+msgid "menTitles1"
+msgstr "តើអ្នកចូលចិត្តអ្នកជិតខាងរបស់អ្នកដែរឫទេ?"
+
+msgid "menTitles2"
+msgstr "តើអ្នកចូលចិត្តសហការីរបស់អ្នកដែរឫទេ?"
+
+msgid "menTitles3"
+msgstr "តើអ្នកចង់ចែចង់អតីតមិត្តភក្តិរបស់អ្នកដែរឫទេ?"
+
+msgid "menTitles4"
+msgstr "តើអ្នកធុញទ្រាន់ដែរឫទេ?"
+
+msgid "womanTitles1"
+msgstr "តើអ្នកចូលចិត្តអ្នកជិតខាងរបស់អ្នកដែរឫទេ?"
+
+msgid "womanTitles2"
+msgstr "តើអ្នកចូលចិត្តសហការីរបស់អ្នកដែរឫទេ?"
+
+msgid "womanTitles3"
+msgstr "តើអ្នកចង់ចែចង់អតីតមិត្តភក្តិរបស់អ្នកដែរឫទេ?"
+
+msgid "womanTitles4"
+msgstr "តើអ្នកធុញទ្រាន់ដែរឫទេ?"
+
+msgid "menTexts1"
+msgstr ""
+"<a href=\"/\">អញ្ជើញ</a> នាង ដោយប្រៃសណីយបត្រ។ ដាក់វានៅខាងក្រោមកញ្ចក់មុខរថយន្ត ឬ "
+"ក្នុងប្រអប់សំបុត្ររបស់នាង។ "
+
+msgid "menTexts2"
+msgstr "ស្វែងរកអាសយដ្ឋានអ៊ីម៉ែលរបស់នាង និង <a href=\"/\">អញ្ជើញ</a> ទៅកាន់ Lovetime។"
+
+msgid "menTexts3"
+msgstr ""
+"ស្វែងរកអាសយដ្ឋានអ៊ីម៉ែល រឺ លេខទូរស័ព្ទរបស់នាង​ និង <a href=\"/\">អញ្ជើញ</a> ទៅកាន់ "
+"Lovetime។"
+
+msgid "menTexts4"
+msgstr ""
+"ចុច \"<a href=\"/#flirt\" class=\"top-flirt\">ចែចង់</a>\" ហើយចាប់ផ្តើមស្គាល់គ្នា។"
+
+msgid "womanTexts1"
+msgstr ""
+"<a href=\"/\">អញ្ជើញ</a> គាត់ ដោយប្រៃសណីយបត្រ។ ដាក់វានៅខាងក្រោមកញ្ចក់មុខរថយន្ត រឺក៏​ "
+"ក្នុងប្រអប់សំបុត្ររបស់គាត់។"
+
+msgid "womanTexts2"
+msgstr "ស្វែងរកអាសយដ្ឋានអ៊ីម៉ែលរបស់គាត់ និង <a href=\"/\">អញ្ជើញ</a> ទៅកាន់ Lovetime។"
+
+msgid "womanTexts3"
+msgstr ""
+"ស្វែងរកអាសយដ្ឋានអ៊ីម៉ែល រឺ លេខទូរស័ព្ទរបស់គាត់ និង <a href=\"/\"> អញ្ជើញ </a> ទៅកាន់ "
+"Lovetime។"
+
+msgid "womanTexts4"
+msgstr ""
+"ចុច \"<a href=\"/#flirt\" class=\"top-flirt\">ចែចង់</a>\" ហើយចាប់ផ្តើមស្គាល់គ្នា។"
+
+msgid "foldersTitle"
+msgstr "បញ្ចូលឈ្មោះថត"
+
+msgid "foldersCancel"
+msgstr "បដិសេធចោល"
+
+msgid "foldersCreate"
+msgstr "បង្កើត"
+
+msgid "foldersRename"
+msgstr "ប្តូរឈ្មោះ"
+
+msgid "userBalloonCarousel"
+msgstr "ណាត់ជួប"
+
+msgid "userBalloonExchange"
+msgstr "ផ្លាស់ប្តូរព័ត៌មាន"
+
+msgid "chatBalloonMove"
+msgstr "ប្តូរទីតាំង"
+
+msgid "chatBalloonSelect1"
+msgstr "បានជ្រើសរើស"
+
+msgid "chatBalloonSelect2"
+msgstr "បានជ្រើសរើស"
+
+msgid "chatBalloonSelect3"
+msgstr "បានជ្រើសរើស"
+
+msgid "errorFolderEmpty"
+msgstr "សូមបញ្ចូលឈ្មោះថត"
+
+msgid "dateDaysBefore"
+msgstr "ថ្ងៃកន្លងទៅ"
+
+msgid "dateMomentAgo"
+msgstr "គ្រាន់តែ"
+
+msgid "dateSecondAgo_plural_1"
+msgstr "អម្បាញ់ម៉ិញនេះ"
+
+msgid "dateSecondAgo_plural_2"
+msgstr "វិនាទីកន្លងទៅ"
+
+msgid "dateSecondAgo_plural_3"
+msgstr "វិនាទីកន្លងទៅ"
+
+msgid "dateMinuteAgo_plural_1"
+msgstr "មួយនាទីកន្លងទៅ"
+
+msgid "dateMinuteAgo_plural_2"
+msgstr "នាទីកន្លងទៅ"
+
+msgid "dateMinuteAgo_plural_3"
+msgstr "នាទីកន្លងទៅ"
+
+msgid "dateCoupleMinutesAgo"
+msgstr "ពីរបីនាទីកន្លងទៅ"
+
+msgid "dateHourAgo_plural_1"
+msgstr "មួយម៉ោងកន្លងទៅ"
+
+msgid "dateHourAgo_plural_2"
+msgstr "ម៉ោងកន្លងទៅ"
+
+msgid "dateHourAgo_plural_3"
+msgstr "ម៉ោងកន្លងទៅ"
+
+msgid "messages_plural_1"
+msgstr "សារ"
+
+msgid "messages_plural_2"
+msgstr "សារ"
+
+msgid "messages_plural_3"
+msgstr "សារ"
+
+msgid "usersAddToFavorite"
+msgstr "រក្សាទុកជាសំណព្វចិត្ត"
+
+msgid "actionBlock"
+msgstr "មិនអើពើ"
+
+msgid "chatComplain"
+msgstr "ប្តឹង"
+
+msgid "usersRemoveFromFavorite"
+msgstr "ដកចេញពីសំណព្វចិត្ត"
+
+msgid "actionOr"
+msgstr "ឫ"
+
+msgid "actionDelete"
+msgstr "លុបចោល"
+
+msgid "galleryClose"
+msgstr "បិទ"
+
+msgid "galleryUploadError"
+msgstr "មានបញ្ហានៅពេលដាក់បញ្ចូល។ សូមព្យាយាមម្តងទៀតនៅពេលក្រោយ។"
+
+msgid "galleryUploadFilesName"
+msgstr "ឯកសាររូបភាព​​​"
+
+msgid "galleryUploadPossibleFiles"
+msgstr "អ្នកអាចដាក់បញ្ចូលឯកសាររូបភាពតែប៉ុណ្ណោះ។ ទ្រង់ទ្រាយដែលអនុញ្ញាត ៖"
+
+msgid "modelUsersHasPhoto"
+msgstr "រូបថត"
+
+msgid "modelUsersHasPhotoCondition"
+msgstr "ដោយមានរូបថត"
+
+msgid "modelUsersHasNoPhotoCondition"
+msgstr "ដោយគ្មានរូបថត"
+
+msgid "searchHair"
+msgstr "ពណ៌សក់"
+
+msgid "requireRegistration4MaleTitle"
+msgstr "%s បានចែករំលែកព័ត៌មានផ្ទាល់ខ្លួនច្រើនជាងអ្នក។"
+
+msgid "requireRegistration4FemaleTitle"
+msgstr "%s បានចែករំលែកព័ត៌មានផ្ទាល់ខ្លួនច្រើនជាងអ្នក។"
+
+msgid "requireRegistrationNote"
+msgstr "ដើម្បីមើលទម្រង់របស់អ្នកផ្សេងៗ អ្នកត្រូវតែចុះឈ្មោះ។"
+
+msgid "requireRegistrationCancel"
+msgstr "បោះបង់"
+
+msgid "requireRegistrationRegister"
+msgstr "ចុះឈ្មោះ"
+
+msgid "increaseInfoConfirmNote"
+msgstr "ដើម្បីមើលទម្រង់របស់អ្នកដ៏ទៃទៀត អ្នកត្រូវបំពេញព័ត៌មានរបស់អ្នកឲបានយ៉ាងតិច ៥០%។"
+
+msgid "increaseInfoConfirmFillNow"
+msgstr "បំពេញឥឡូវនេះ"
+
+msgid "increaseInfoConfirmCancel"
+msgstr "បដិសេធចោល"
+
+msgid "Credit Card"
+msgstr "ប័ណ្ណឥណទាន"
+
+msgid "registerHello"
+msgstr "សួស្តី"
+
+msgid "registerForEnd"
+msgstr "ដើម្បីបញ្ចប់ការចុះឈ្មោះ តើអ្នកអាចបញ្ជាក់ថា អ្នកមានទម្រង់នៅលើតំបន់បណ្ដាញរបស់យើងដែររឺទេ?"
+
+msgid "registerYes"
+msgstr "យល់ព្រម"
+
+msgid "registerNo"
+msgstr "មិនយល់ព្រម"
+
+msgid "registerForEndYes"
+msgstr "សូមបញ្ចូលពាក្យសម្ងាត់"
+
+msgid "registerBack"
+msgstr "ត្រលប់ក្រោយ"
+
+msgid "registerForEndNo"
+msgstr "ត្រួតពិនិត្យព័ត៌មាន"
+
+msgid "registerUnderNick"
+msgstr "សូមកុំប្រើឈ្មោះពិត ឬឈ្មោះហៅក្រៅរបស់អ្នកដែលអាចឲ្យគេស្គាល់។"
+
+msgid "registerEmailTip"
+msgstr "គ្មាននរណាអាចឃើញទេ"
+
+msgid "birthDay"
+msgstr "ថ្ងៃ"
+
+msgid "birthMonth"
+msgstr "ខែ"
+
+msgid "birthYear"
+msgstr "ឆ្នាំ"
+
+msgid "systemLoginAllRight"
+msgstr "គ្រប់យ៉ាងត្រឹមត្រូវ"
+
+msgid "registerRequire"
+msgstr "សូមបំពេញគ្រប់ព័ត៌មានដែលគេតម្រូវ"
+
+msgid "socialAuthFailed"
+msgstr "ការអនុញ្ញាតបរាជ័យ"
+
+msgid "registerAuthOk"
+msgstr "ការអនុញ្ញាតជោគជ័យ។ ឥឡូវនេះ អ្នកនឹងត្រូវបានបញ្ជូនទៅទំព័រដើម។ ឬ​ ចុច"
+
+msgid "registerAuthHere"
+msgstr "ទីនេះ"
+
+msgid "registerAuthNone"
+msgstr "អ្នកប្រើមិនត្រូវបានរកឃើញ"
+
+msgid "registerAlreadyYes"
+msgstr "អ្នកប្រើដែលមានអាសយដ្ឋានដូចគ្នា បានចុះឈ្មោះរួចរាល់ហើយ"
+
+msgid "registerAuthFailed"
+msgstr "ការអនុញ្ញាតបរាជ័យ"
+
+msgid "registerCreateFailed"
+msgstr "បរាជ័យក្នុងការបង្កើតអ្នកប្រើ។ គូសធីកគ្រប់ព័ត៌មាន។"
+
+msgid "authFacebook"
+msgstr "អនុញ្ញាតតាមរយៈ Facebook"
+
+msgid "authVkontakte"
+msgstr "អនុញ្ញាតតាមរយៈ Vkontakte"
+
+msgid "citationNotExist"
+msgstr "រកមិនឃើញសម្រង់"
+
+msgid "citationAccessDenied"
+msgstr "សម្រង់មិនមែនជារបស់អ្នកទេ"
+
+msgid "VIP"
+msgstr "VIP"
+
+msgid "questRegister"
+msgstr "ចុះឈ្មោះ"
+
+msgid "balanceChangeInQuest"
+msgstr "ប្តូរសមតុល្យ (ស្នើ)"
+
+msgid "superstarModelAttributeIsReseted"
+msgstr ""
+
+msgid "payonlinesystemError3"
+msgstr ""
+"ការទូទាត់ត្រូវបានបដិសេធដោយធនាគារដែលចេញបណ្ណឥណទាន។​ "
+"អ្នកត្រូវទាក់ទងធនាគារដើម្បីរកមូលហេតុនៃការបដិសេធលើការទូទាត់របស់អ្នក និងព្យាយាមម្តងទៀត។"
+
+msgid "payonlinesystemError2"
+msgstr "មិនអាចទូទាត់ដោយប័ណ្ណឥណទានបានទេ។ អ្នកត្រូវប្រើមធ្យោបាយទូទាត់ផ្សេងទៀត។"
+
+msgid "payonlinesystemError1"
+msgstr "មានបញ្ហាបច្ចេកទេស សូមព្យាយាមម្តងទៀតនៅពេលក្រោយ។"
+
+msgid "payonlinesystemError0"
+msgstr "មិនអាចធ្វើការទូទាត់បានទេ។"
+
+msgid "seocatalogTitleDatingSite"
+msgstr "ជាតំបន់បណ្តាញណាត់ជួបដើម្បីជួបនារីៗ និងស្រ្តី កំលោះៗនិងបុរស។"
+
+msgid "seocatalogH1DatingSite"
+msgstr "តំបន់បណ្តាញណាត់ជួប"
+
+msgid "seocatalogH1CountriesAndCities"
+msgstr "ប្រទេស និងទីក្រុងជាច្រើន"
+
+msgid "seocatalogTitleDatingWithWomen"
+msgstr "ណាត់ជួបជាមួយនារីៗ និងស្រ្តី ។"
+
+msgid "seocatalogH1DatingWithWomen"
+msgstr "ណាត់ជួបជាមួយនារី"
+
+msgid "seocatalogTitleDatingWithMen"
+msgstr "ណាត់ជួបជាមួយកំលោះៗនិងបុរស។"
+
+msgid "seocatalogH1DatingWithMen"
+msgstr "ណាត់ជួបជាមួយបុរស"
+
+msgid "seocatalogTitleDatingWithLesbian"
+msgstr "ណាត់ជួបជាមួយស្រីស្រលាញ់ស្រី"
+
+msgid "seocatalogH1DatingWithLesbian"
+msgstr "ណាត់ជួបជាមួយស្រីស្រលាញ់ស្រី"
+
+msgid "seocatalogTitleDatingWithGays"
+msgstr "ណាត់ជួបជាមួយប្រុសស្រលាញ់ប្រុស"
+
+msgid "seocatalogH1DatingWithGays"
+msgstr "ណាត់ជួបជាមួយប្រុសស្រលាញ់ប្រុស"
+
+msgid "seocatalogTitleDatingWithBisexuals"
+msgstr "ណាត់ជួបជាមួយប្រុសស្រលាញ់ប្រុស"
+
+msgid "seocatalogH1DatingWithBisexuals"
+msgstr "ណាត់ជួបជាមួយអ្នកស្រលាញ់ទាំងស្រីទាំងប្រុស"
+
+msgid "seocatalogTitleGuysGirls_18_20"
+msgstr "បុរស​ និងនារីអាយុ ១៨-២០ឆ្នាំ"
+
+msgid "seocatalogH1GuysGirls_18_20"
+msgstr "បុរស​ និងនារីអាយុ ១៨-២០ឆ្នាំ"
+
+msgid "seocatalogTitleGuysGirls_21_25"
+msgstr "បុរស​ និងនារីអាយុ ២០-២៥ឆ្នាំ"
+
+msgid "seocatalogH1GuysGirls_21_25"
+msgstr "បុរស​ និងនារីអាយុ ២១-២៥ឆ្នាំ"
+
+msgid "seocatalogTitleGuysGirls_26_30"
+msgstr "បុរស​ និងនារីអាយុ ២៥-៣០ឆ្នាំ"
+
+msgid "seocatalogH1GuysGirls_26_30"
+msgstr "បុរស​ និងនារីអាយុ ២១-២៥ឆ្នាំ"
+
+msgid "seocatalogTitleGuysGirls_31_35"
+msgstr "បុរស​ និងនារីអាយុ ៣១-៣៥ឆ្នាំ"
+
+msgid "seocatalogH1GuysGirls_31_35"
+msgstr "បុរស​ និងនារីអាយុ ៣១-៣៥ឆ្នាំ"
+
+msgid "seocatalogTitleGuysGirls_35_40"
+msgstr "នារី​ និងបុរសអាយុ ៣៥-៤០ឆ្នាំ"
+
+msgid "seocatalogH1GuysGirls_35_40"
+msgstr "បុរស​ និងនារីអាយុ ៣៥-៤០ឆ្នាំ"
+
+msgid "seocatalogTitleMeetingForCommunication"
+msgstr "ជួបគ្នាដើម្បីមិត្តភាព និងប្រាស្រ័យទាក់ទង"
+
+msgid "seocatalogH1MeetingForCommunication"
+msgstr "ជួបគ្នាដើម្បីប្រាស្រ័យទាក់ទង"
+
+msgid "seocatalogTitleMeetingRorRomanticRelations"
+msgstr "ជួបគ្នាដើម្បីមិត្តភាព និងប្រាស្រ័យទាក់ទង"
+
+msgid "seocatalogH1MeetingRorRomanticRelations"
+msgstr "ជួបគ្នាដើម្បីប្រាស្រ័យទាក់ទង"
+
+msgid "seocatalogTitleMeetingForFlirt"
+msgstr "ជួបគ្នាដើម្បីចែចង់"
+
+msgid "seocatalogH1MeetingForFlirt"
+msgstr "ជួបគ្នាដើម្បីចែចង់"
+
+msgid "seocatalogTitleMeetingForCloseRelations"
+msgstr "ជួបគ្នាដើម្បីទំនាក់ទំនងស្និទ្ធិស្នាល ទំនាក់ទំនងស៊ីជម្រៅ និងរួមភេទ"
+
+msgid "seocatalogH1MeetingForCloseRelations"
+msgstr "ជួបគ្នាដើម្បីទំនាក់ទំនងស្និទ្ធិស្នាល"
+
+msgid "seocatalogTitleBlondes"
+msgstr "ជួបនារីសក់ពណ៌មាស​ និង​បុរសសក់ពណ៌មាស"
+
+msgid "seocatalogH1Blondes"
+msgstr "នារីមានសក់ពណ៌មាស​ និង​បុរសមានសក់ពណ៌មាស"
+
+msgid "seocatalogTitleBrunettes"
+msgstr "ជួបនារីសក់ពណ៌ខ្មៅ​ និង​បុរសសក់ពណ៌ខ្មៅ"
+
+msgid "seocatalogH1Brunettes"
+msgstr "នារីមានសក់ពណ៌ខ្មៅ​ និង​បុរសមានសក់ពណ៌ខ្មៅ"
+
+msgid "seocatalogTitleBrownHaired"
+msgstr "ជួបនារីឬបុរសសក់ពណ៌ក្រហម​ នារីសក់ពណ៌ត្នោត និងបុរសសក់ពណ៌ត្នោត"
+
+msgid "seocatalogH1BrownHaired"
+msgstr "នារីមានសក់ពណ៌ខ្មៅ​ និង​បុរសមានសក់ពណ៌ខ្មៅ"
+
+msgid "seocatalogTitleDatingWithAthletic"
+msgstr "ជួបជាមួយនារីជាអត្ថពលលិក ឬបុរសជាអត្ថពលលិក​ "
+
+msgid "seocatalogH1DatingWithAthletic"
+msgstr "ណាត់ជួបជាមួយបុរសជាអត្ថពលលិក​ និងនារីជាអត្ថពលលិក"
+
+msgid "seocatalogTitleDatingWithSlim"
+msgstr "ជួបជាមួយនារីរាងស្តើង ឬបុរសរាងស្តើង​ "
+
+msgid "seocatalogH1DatingWithSlim"
+msgstr "ណាត់ជួបជាមួយបុរសរាងស្តើង​ និងនារីរាងស្តើង"
+
+msgid "seocatalogTitleDatingWithHeavy"
+msgstr "ជួបជាមួយនារីរាងធាត់ ឬបុរសរាងធាត់​ "
+
+msgid "seocatalogH1DatingWithHeavy"
+msgstr "ណាត់ជួបជាមួយបុរសរាងធាត់​ និងនារីរាងធាត់"
+
+msgid "seocatalogTitleDatingWithForeigners"
+msgstr "ជួបជាមួយនារីរាងធាត់ ឬបុរសរាងធាត់​ "
+
+msgid "seocatalogH1DatingWithForeigners"
+msgstr "ណាត់ជួបជាមួយជនបរទេស"
+
+msgid "seocatalogTitleDatingWithRich"
+msgstr "ជួបជាមួយជនបរទេស"
+
+msgid "seocatalogH1DatingWithRich"
+msgstr "ណាត់ជួបជាមួយអ្នកមាន"
+
+msgid "seocatalogTitleDatingWithSingles"
+msgstr "ជួបជាមួយអ្នកនៅលីវ"
+
+msgid "seocatalogH1DatingWithSingles"
+msgstr "ណាត់ជួបជាមួយអ្នកនៅលីវ"
+
+msgid "seocatalogTitleDatingWithPeopleHavingNoBadHabits"
+msgstr "ជួបជាមួយអ្នកគ្មានទម្លាប់អាក្រក់"
+
+msgid "seocatalogH1DatingWithPeopleHavingNoBadHabits"
+msgstr "ណាត់ជួបជាមួយអ្នកគ្មានទម្លាប់អាក្រក់"
+
+msgid "searchShowMore"
+msgstr "បង្ហាញបន្ថែមទៀត"
+
+msgid "seocatalogTitleCountriesAndCities"
+msgstr "ប្រទេស និងទីក្រុងជាច្រើន"
+
+msgid "age"
+msgstr "អាយុ"
+
+msgid "modelUsersSexWoman"
+msgstr "ស្រី"
+
+msgid "modelUsersSexMan"
+msgstr "ប្រុស"
+
+msgid "modelUsersSexAny"
+msgstr "ភេទណាមួយ"
+
+msgid "searchUsersRegion"
+msgstr "តំបន់"
+
+msgid "actionFind"
+msgstr "ស្វែងរក"
+
+msgid "mainTitle3Noa"
+msgstr "ការណាត់ជួបលើបណ្តាញដោយឥតគិតថ្លៃ"
+
+msgid "clockNavExactSearch"
+msgstr "ការស្វែងរកជាក់លាក់"
+
+msgid "clockNavExactSearchSubtext"
+msgstr "​ជាង​២០ប៉ារ់ាម៉ែតស្វែងរក"
+
+msgid "clockNavMeetings"
+msgstr "ការណាត់ជួប"
+
+msgid "clockNavMeetingsSubtext"
+msgstr "ផ្ញើ និងទទូល <b>ការអញ្ជើញណាត់ជួបក្នុងពេល  ប៉ុន្មាននាទីប៉ុណ្ណោះ </b>"
+
+msgid "clockNavInstantCommunication"
+msgstr "ទាក់ទងឥឡូវនេះ"
+
+msgid "clockNavInstantCommunicationSubtext"
+msgstr "ស្វែងរកអ្នកជជែកជាមួយ <b>តែ  ប៉ុន្មានវិនាទីប៉ុណ្ណោះ</b>"
+
+msgid "clockNavWhosNear"
+msgstr "ជួបអ្នកនៅជិតៗ"
+
+msgid "clockNavWhosNearSubtext"
+msgstr "ស្វែងរក <b>អ្នកស្អាតៗរាប់រយនាក់ </b>នៅវង់ចម្ងាយ​0០១​គីឡូម៉ែត"
+
+msgid "clockNavHasContact"
+msgstr "ជួបអ្នកដែលមកពី កន្លែងផ្សេងៗ"
+
+msgid "clockNavHasContactSubtext"
+msgstr "ការបកប្រែភាសា សម្រាប់ជជែកកំសាន្ត មានចំនួន<b>៦៤ភាសា</b>"
+
+msgid "clockNavperfectCouple"
+msgstr "រាប់អានមិត្តភក្តិថ្មីៗ  ដោយគ្រាន់តែចុចខ្លះៗ"
+
+msgid "clockNavperfectCoupleSubtext"
+msgstr "<b>ឃ្លាដែលបានបង្កើតទុកមុន</b>-ជួបគ្នាដោយចំណាយតែ ៣០វិនាទីប៉ុណ្ណោះ"
+
+msgid "peopleHere"
+msgstr "នៅទីនេះរួចហើយ"
+
+msgid "carouselFillAnketa0"
+msgstr "លេងល្បែងផ្ទះវិល​"
+
+msgid "carouselFillAnketa1"
+msgstr "សូម បញ្ជាក់"
+
+msgid "carouselFillAnketa2"
+msgstr "អាយុរបស់អ្នក ប្រទេស ទីក្រុង និងដាក់បញ្ចូលរូបភាពមួយ"
+
+msgid "flirtSearch"
+msgstr "ស្វែងរក"
+
+msgid "pagesAbout"
+msgstr ""
+"ស្ទើរតែរាល់គ្នាចូលចិត្តសន្ទិដ្ឋ​មិត្តនៅក្នុងជីវិតរបស់ពួកគេ។​ "
+"ប៉ុន្តែពួកគេភាគច្រើនភ័យខ្លាចក្នុងការបង្ហាញពីអារម្មណ៍របស់ពួកគេដោយចំហ។ សេវា<br/<br/"
+">នឹងដោះស្រាយបញ្ហានេះ។ ឥលូវអ្នកមានឪកាសចែចង់ដោយគ្មានការបារម្ភថានឹងត្រូវបានគេបដិសេធ។ <br/"
+"><br/>&bull; អ្នកកំពុងអង្គុយជិតសហសេវិករបស់អ្នក ហើយមិនដឹងថាតើត្រូវទាក់ទងនាងដោយរបៀបណា? "
+"សេវានេះនឹងជួយអ្នក។  <br/>&bull; ចាប់ផ្តើមស្គាល់គ្នាជាមួយតារាប្រចាំសាលាឫសកលវិទ្យាល័យ? "
+"ពិតជាងាយស្រួលណាស់។ <br/>&bull; តើអ្នកចូលចិត្តអ្នកជិតខាងរបស់អ្នកទេ? "
+"សួរនាងថាតើនាងចូលចិត្តអ្នកទេ។ <br/><br/> តើមនុស្សដែលអ្នកចូលចិត្តជាអ្នកស្វែងរកអ្វី...ស្នេហា "
+"ឬការរួមភេទ? តើគាត់ចូលចិត្តអ្នកណាម្នាក់នៅកន្លែងការងារ សាលារៀន ជាដើម? "
+"អ្នកអាចស្វែងយល់ដោយចុចតែម្តងប៉ុណ្ណោះ?"
+
+msgid "pagesRulesTitle2"
+msgstr "វិធាននានាសម្រាប់ការចុះឈ្មោះ"
+
+msgid "pagesRules"
+msgstr ""
+"<h2>ដោយបញ្ចូលព័ត៌មានផ្ទាល់ខ្លួនរបស់ខ្ញុំនៅលើតំបន់បណ្តាញLovetime (តទៅនេះហៅកាត់ថា តំបន់បណ្តាញ)​ "
+"ខ្ញុំយល់ព្រមតាមលក្ខខណ្ឌដូចខាងក្រោម៖ </h2><ol><li> "
+"ខ្ញុំសូមអះអាងថាខ្ញុំបានអានខ្លឹមសារនិងលក្ខខណ្ឌហើយត្រៀមខ្លួនជាស្រេចក្នុងការគោរពតាមខ្លឹមសារនិងលក្ខខណ្ឌទាំងនោះ។ "
+"</li><li> ខ្ញុំសូមធានាថាខ្ញុំមានអាយុយ៉ាងតិច១៨ ឆ្នាំ។ </li><li> "
+"ខ្ញុំទទួលខុសត្រូវទាំងស្រុងចំពោះខ្លឹមសារ ឫព័ត៌មានផ្សេងៗដែលបានផ្សាយនៅលើតំបន់បណ្តាញ "
+"ប្រកបដោយភាពត្រឹមត្រូវ និងទំនុកចិត្តដែលចាំបាច់ចំពោះសិទ្ធរបស់ខ្ញុំនៅលើតំបន់បណ្តាញ។ </li><li> "
+"ខ្ញុំដឹងថាតំបន់បណ្តាញអាចផ្ទុកព័ត៌មានផ្តោតទៅលើនីតិជនប៉ុណ្ណោះ។ </li><li> "
+"ខ្ញុំសូមសន្យាថានឹងប្រើប្រាស់តំបន់បណ្តាញដោយអនុលោមទៅតាមច្បាប់ដែលពាក់ព័ន្ធនៃតំបន់បណ្តាញ</li><li> "
+"ខ្ញុំសូមសន្យាថានឹងមិនផ្សព្វផ្សាយ ឫអាសយដ្ឋានអ៊ីម៉ែល លេខទូរស័ព្ទ តំណភ្ជាប់ ឫព័ត៌មានលម្អិតផ្សេងៗ។ </"
+"li><li> ខ្ញុំសូមសន្យាថាមិនផ្សព្ចផ្សាយពាក់ព័ន្ធនឹងការមាក់ងាយ ការបង្ខូចកេរិ៍្តឈ្មោះ ការប្រមាថ "
+"រូបអាសអាភាស ឫរបស់អសីលធម៌ផ្សេងៗ របស់ដែលបង្ហាញឫផ្សព្វផ្សាយ ភាពឃោរឃៅ ភេវរកម្ម ឫអំពើហិង្សា "
+"របស់ដែលបំពានដល់សេចក្តីថ្លៃថ្នូររបស់មនុស្ស ព្រមទាំងរបស់ផ្សេងទៀតដែលមិនស្របច្បាប់។ </li><li> "
+"ខ្ញុំសូមសន្យាថាមិនបោកបញ្ឆោតអ្នកប្រើប្រាស់ផ្សេងទៀត ក៏ដូចជាមិនតាម​ រំខានពួកគេ។ </li><li> "
+"ខ្ញុំសូមសន្យាថានឹងមិនប្រើតំបន់បណ្តាញសម្រាប់ទាក់ទាញចំណាប់អារម្មណ៍អ្នកប្រើផ្សេងទៀតទៅលើ ផលិតផល កិច្ចការ "
+"ឫសេវាដែលផលិត លក់ អនុវត្ត ឫផ្តល់ដោយខ្ញុំឫអ្នកដទៃ។ បន្ថែមពីនេះ "
+"ខ្ញុំសូមសន្យាថានឹងមិនប្រើតំបន់បណ្តាញសម្រាប់ឃោសនា និងផ្សព្វផ្សាយរបស់ខុសច្បាប់។ </li><li> "
+"ខ្ញុំដឹងថាព័ត៌មានរបស់ខ្ញុំដែលបានដាក់នៅតំបន់បណ្តាញអាចនឹងត្រូវយកប្រើប្រាស់បានដោយអ្នកប្រើអ៊ីនធើណេតផ្សេងទៀត "
+"ពីព្រោះសកម្មភាពពួកគេមិនទទួលខុសត្រូវដោយរដ្ឋបាលតំបន់បណ្តាញទេ។ </"
+"li><li>ខ្ញុំទទួលខុសត្រូវទាំងស្រុងចំពោះរាល់ផលវិបាកជាអវិជ្ជមានដែលបង្កឡើងដោយការអញ្ជើញមិនបង្ហាញអត្តសញ្ញាណ។ "
+"</li></ol><h2> រដ្ឋបាលតំបន់បណ្តាញមិនទទួលខុសត្រូវចំពោះ ៖ </h2><ol><li>​ ខ្លឹមសារ សុពលភាព​ "
+"និងសុក្រឹតភាពនៃព័ត៌មានដែលបានផ្សាយដោយអ្នកប្រើ។​ </li><li> "
+"សម្រាប់ការអន្តរាយការខូចខាតឫការបាត់បង់ព័ត៌មានណាមួយដែលបង្កដល់អ្នកណាម្នាក់ដែលប្រើតំបន់បណ្តាញឫតាមរយៈការប្រាស្រ័យទាក់ទងនៅលើទូរស័ព្ទ "
+"ឫប្រព័ន្ធទូរគមនាគមន៍ផ្សេងទៀត។  </li><li> "
+"ការរំលោភលើកម្មសិទ្ធិបញ្ញារបស់អ្នកប្រើនិងសិទ្ធិផ្សេងៗនៃភាគីទីបីដោយការផ្សព្ចផ្សាយរបស់ដែលមិនស្របច្បាប់ពាក់ព័ន្ធ "
+"(រួមទាំងច្បាប់កម្មសិទ្ធិបញ្ញា) បញ្ចូលបន្ថែមដោយអ្នកប្រើនៅលើតំបន់បណ្តាញ។ </li></ol>"
+
+msgid "error404"
+msgstr "404មានបញ្ហា "
+
+msgid "pageNotFound"
+msgstr "ទំព័រមិនត្រូវបានរកឃើញ"
+
+msgid "formMustFill"
+msgstr "ត្រូវបានតម្រូវ"
+
+msgid "feedbackFile"
+msgstr "រូបថតអេក្រង់"
+
+msgid "feedbackFileTip"
+msgstr "អ្នកអាចភ្ជាប់រូបថតអេក្រង់ដែលមានកំហុស"
+
+msgid "siteCopyrightTh"
+msgstr "Lovetime.com"
+
+msgid "man"
+msgstr "បុរស"
+
+msgid "woman"
+msgstr "ស្រ្តី"
+
+msgid "countrySelectName"
+msgstr "ប្រទេស"
+
+msgid "citySelectName"
+msgstr "ទីក្រុង"
+
+msgid "signupBirthDay"
+msgstr "ថ្ងៃ"
+
+msgid "signupBirthMonth"
+msgstr "ខែ"
+
+msgid "signupBirthYear"
+msgstr "ឆ្នាំ"
+
+msgid "systemRegister"
+msgstr "ចុះឈ្មោះ"
+
+msgid "signupLicenseNote"
+msgstr ""
+"ដោយគ្រាន់តែចុច «ចុះឈ្មោះ» អ្នកអះអាងថា អ្នកមានអាយុយ៉ាងតិច ១៨ ឆ្នាំ និង យល់ព្រមតាម <a href=\"/"
+"pages/rules\"> កិច្ចព្រមព្រៀងអ្នកប្រើ </a>"
+
+msgid "searchExcite"
+msgstr "កត្តាទាក់ទាញផ្លូវភេទ"
+
+msgid "searchExcitesHe"
+msgstr "រំភើបអំពី"
+
+msgid "searchExcitesShe"
+msgstr "រំភើបអំពី"
+
+msgid "searchFrom"
+msgstr "ពី"
+
+msgid "searchTo"
+msgstr "ទៅ"
+
+msgid "searchSm"
+msgstr "សង់ទីម៉ែត"
+
+msgid "searchKg"
+msgstr "គីឡូក្រាម"
+
+msgid "searchSkipCond"
+msgstr "រំលងការផ្តល់ជូននេះ"
+
+msgid "sexYears"
+msgstr "ឆ្នាំ"
+
+msgid "searchHave"
+msgstr "ធ្លាប់"
+
+msgid "searchHaveNot"
+msgstr "មិនធ្លាប់"
+
+msgid "searchHaveChildren"
+msgstr "មាន"
+
+msgid "searchHaveNotChildren"
+msgstr "គ្មាន"
+
+msgid "searchLocationUndefined"
+msgstr "ទីតាំងណាមួយ"
+
+msgid "nearFilterOnline"
+msgstr "នៅលើបណ្តាញ"
+
+msgid "nearFilterNew"
+msgstr "ថ្មី"
+
+msgid "nearFilterAll"
+msgstr "ទាំងអស់"
+
+msgid "searchAddParams"
+msgstr "ជំរើសលម្អិត"
+
+msgid "searchAddToSearch"
+msgstr "បញ្ចូលទៅកន្លែងស្រាវជ្រាវ"
+
+msgid "searchChooseAddParam"
+msgstr "ជ្រើសរើសជម្រើសលម្អិត"
+
+msgid "carouselYes"
+msgstr "យល់ព្រម"
+
+msgid "carouselMaybeYes"
+msgstr "នឹងអាច"
+
+msgid "carouselNo"
+msgstr "ទេ"
+
+msgid "carouselLikeHim"
+msgstr "តើអ្នកចង់ណាត់ជួបគាត់ដែរឬទេ?"
+
+msgid "carouselLikeHer"
+msgstr "តើអ្នកចង់ណាត់ជួបនាងដែរឬទេ?"
+
+msgid "carouselMutualGreeting"
+msgstr "<strong>អបអរសាទរ!</strong>​ អ្នកទទួលបានការស្រលាញ់គ្នាទៅវិញទៅមក"
+
+msgid "carouselMutualMessageFemale"
+msgstr "ខ្ញុំក៏ចង់ជួបអ្នកដែរ"
+
+msgid "carouselMutualMessageMale"
+msgstr "ខ្ញុំក៏ចង់ជួបអ្នកដែរ"
+
+msgid "chatWithHer"
+msgstr "ជជែកកំសាន្ដជាមួយនាង"
+
+msgid "chatWithHim"
+msgstr "ជជែកកំសាន្ដជាមួយគាត់"
+
+msgid "chatMutualGreeting_female"
+msgstr ""
+"%s អ្នក&nbsp;ចង់ធ្វើការណាត់ជួប យល់ព្រមជួបអ្នក! នាងកំពុងរង់ចាំសាររបស់អ្នកដើម្បីរៀបចំ a&nbsp;"
+"ការណាត់ជួប!"
+
+msgid "chatMutualGreeting_male"
+msgstr ""
+"%s អ្នក&nbsp;ចង់ធ្វើការណាត់ជួប យល់ព្រមជួបអ្នក! គាត់កំពុងរង់ចាំសាររបស់អ្នកដើម្បីរៀបចំ a&nbsp;"
+"ការណាត់ជួប!"
+
+msgid "gallerySingleUploadBtn"
+msgstr "បញ្ចូលរូបថត"
+
+msgid "km"
+msgstr "គីឡូម៉ែត"
+
+msgid "profileMeet"
+msgstr "ការណាត់ជួប"
+
+msgid "wannaMeet"
+msgstr "ចង់ជួបដែរឬទេ?"
+
+msgid "wannaMeetHer"
+msgstr "ចង់ជួបនាងដែរឬទេ?"
+
+msgid "wannaMeetHim"
+msgstr "ចង់ជួបគាត់ដែរឬទេ?"
+
+msgid "locatorSpecifyLocationPart1"
+msgstr "បញ្ជាក់ទីតាំងរបស់អ្នក"
+
+msgid "locatorSpecifyLocationPart2"
+msgstr "លើផែនទី បន្ទាប់មកយើងអាចបង្ហាញអ្នកដែលនៅជិត។"
+
+msgid "locatorSpecifyLocationPart3"
+msgstr "បញ្ជាក់"
+
+msgid "corrBlackListConfirm"
+msgstr "តើអ្នកប្រាកដទេថា អ្នកចង់ប្ដូរទីតាំងសារទៅក្នុងបញ្ជីខ្មៅ?"
+
+msgid "corrBlackListConfirmNote"
+msgstr "បន្ទាប់មក ប្រសិនបើត្រូវការ អ្នកអាចយកវាត្រលប់មកវិញ"
+
+msgid "actionMove"
+msgstr "ប្ដូរទីតាំង"
+
+msgid "actionDontMove"
+msgstr "មិនប្ដូរទីតាំង"
+
+msgid "corrDeleteFolderConfirm"
+msgstr "តើអ្នកប្រាកដទេថា អ្នកចង់លុបថតនេះចោល?"
+
+msgid "corrDeleteFolderConfirmNote"
+msgstr ""
+"សារនានាដែលមាន&nbsp;នៅទីនេះនៅតែបង្ហាញ ប៉ុន្តែ&nbsp;វានឹងត្រូវបានប្ដូរទីតាំងទៅក្នុងថតទូទៅ។"
+
+msgid "actionDontDelete"
+msgstr "មិនលុបចោល"
+
+msgid "guestsIgnoreOk"
+msgstr "ការឆ្លើយឆ្លងគ្នាជាមួយអ្នកប្រើត្រូវបានប្ដូរទីតាំងទៅ &laquo;Ignored&raquo;"
+
+msgid "guestsIgnoreNote"
+msgstr "អ្នកអាចយកវាត្រលប់មកវិញនាពេលក្រោយ។"
+
+msgid "actionClose"
+msgstr "បិទ"
+
+msgid "actionChat"
+msgstr "ជជែកគ្នា"
+
+msgid "invitePreviewFromColleagueFemale"
+msgstr "សហការីរបស់អ្នកចង់ជួបអ្នក"
+
+msgid "invitePreviewFromNeighborFemale"
+msgstr "អ្នកជិតខាងរបស់អ្នកចង់ជួបអ្នក"
+
+msgid "invitePreviewFromClassmateFemale"
+msgstr "មិត្តរួមថ្នាក់របស់អ្នកចង់ជួបអ្នក"
+
+msgid "invitePreviewFromFamiliarFemale"
+msgstr "អ្នកណាម្នាក់ចង់ជួបអ្នក"
+
+msgid "invitePreviewFromColleagueMale"
+msgstr "សហសេវិករបស់អ្នកចង់ជួបអ្នក"
+
+msgid "invitePreviewFromNeighborMale"
+msgstr "អ្នកជិតខាងរបស់អ្នកចង់ជួបអ្នក"
+
+msgid "invitePreviewFromClassmateMale"
+msgstr "មិត្តរួមថ្នាក់របស់អ្នកចង់ជួបអ្នក"
+
+msgid "invitePreviewFromFamiliarMale"
+msgstr "អ្នកណាម្នាក់ចង់ជួបអ្នក"
+
+msgid "invitePreviewTextFemale"
+msgstr "ដើម្បីបង្ហាញឲឃើញថាវាមិនមែនជាការលេងសើច នាងប្រាប់អ្នកអំពីឃ្លាគន្លឹះមួយ ដូចជា"
+
+msgid "invitePreviewTextMale"
+msgstr "ដើម្បីបង្ហាញឲឃើញថាវាមិនមែនជាការលេងសើច គាត់ប្រាប់អ្នកអំពីឃ្លាគន្លឹះមួយ ដូចជា"
+
+msgid "invitePreviewDearFemale"
+msgstr "សម្លាញ់ចិត្ត"
+
+msgid "invitePreviewDearMale"
+msgstr "សម្លាញ់ចិត្ត"
+
+msgid "invitePreviewCodeTitle"
+msgstr "ដើម្បីដឹងថានរណាចូលចិត្តអ្នក:"
+
+msgid "invitePreviewCodeVisitLink"
+msgstr "ចុចលើតំណនេះ"
+
+msgid "invitePreviewCodeLink"
+msgstr "ខ្ញុំត្រូវបានអញ្ជើញ"
+
+msgid "invitePreviewCodeSite"
+msgstr "ចូលក្នុងបណ្ដាញ"
+
+msgid "invitePreviewCodeTopRight"
+msgstr "នៅផ្នែកលើខាងស្ដាំខាងលើ"
+
+msgid "invitePreviewCodeType"
+msgstr "បញ្ចូលលេខកូដអញ្ជើញ"
+
+msgid "invitePreviewPostcardNote"
+msgstr ""
+"បោះពុម្ព​ និងnbsp;ដាក់ប្រៃសណីយបត្រនៅ&nbsp;កន្លែងដែលវា&apos;"
+"sអាចត្រូវបានគេស្វែងរកយ៉ាងពិតប្រាកដ ដូចជា នៅខាងក្រោមកញ្ចក់មុខរថយន្ដ នៅក្នុង&nbsp;ប្រអប់សំបុត្រ "
+"នៅក្នុង&nbsp;កាបូប​ នៅលើ&nbsp;តុ&nbsp; ... មានយោបល់អ្វីទៀតដែររឺទេ?"
+
+msgid "invitePreviewPhoneResendNote"
+msgstr "ប្រសិនបើអ្នកចង់ផ្ញើសារម្ដងទៀត សូមបញ្ចូលលេខទូរស័ព្ទ:"
+
+msgid "inviteResend"
+msgstr "ផ្ញើម្ដងទៀត"
+
+msgid "inviteSendInvite"
+msgstr "ផ្ញើការអញ្ជើញ"
+
+msgid "inviteResent"
+msgstr "បានផ្ញើម្ដងទៀត"
+
+msgid "inviteSummaryTitleColleagueFemale"
+msgstr "ផ្ញើការអញ្ជើញទៅកាន់សន្និដ្ឋិមិត្ដ&nbsp;ឈ្មោះ"
+
+msgid "inviteSummaryTitleNeighborFemale"
+msgstr "ផ្ញើការអញ្ជើញទៅកាន់អ្នកជិតខាង&nbsp;ឈ្មោះ"
+
+msgid "inviteSummaryTitleClassmateFemale"
+msgstr "ផ្ញើការអញ្ជើញទៅកាន់មិត្តរួមថ្នាក់&nbsp;ឈ្មោះ"
+
+msgid "inviteSummaryTitleFamiliarFemale"
+msgstr "ផ្ញើការអញ្ជើញទៅកាន់សន្និដ្ឋិមិត្ដ&nbsp;ឈ្មោះ"
+
+msgid "inviteSummaryTitleColleagueMale"
+msgstr "ផ្ញើការអញ្ជើញទៅកាន់សហសេវិក&nbsp;ឈ្មោះ"
+
+msgid "inviteSummaryTitleNeighborMale"
+msgstr "ផ្ញើការអញ្ជើញទៅកាន់អ្នកជិតខាង&nbsp;ឈ្មោះ"
+
+msgid "inviteSummaryTitleClassmateMale"
+msgstr "ផ្ញើការអញ្ជើញទៅកាន់មិត្តរួមថ្នាក់&nbsp;ឈ្មោះ"
+
+msgid "inviteSummaryTitleFamiliarMale"
+msgstr "ផ្ញើការអញ្ជើញទៅកាន់សន្និដ្ឋិមិត្ដ&nbsp;ឈ្មោះ"
+
+msgid "inviteSummaryStateAgree"
+msgstr "ត្រូវបានយល់ព្រម"
+
+msgid "inviteSummaryStateWait"
+msgstr "ត្រូវបានផ្ញើ"
+
+msgid "inviteSummaryNoKeyPhrase"
+msgstr "ដោយគ្មានឃ្លាគន្លឹះ"
+
+msgid "inviteFailCodeField"
+msgstr "គ្មានការអញ្ជើញទេ :( តើអ្នកមិនច្រឡំទេឬ?"
+
+msgid "inviteApplySuccess"
+msgstr "ការអញ្ជើញត្រូវបានយល់ព្រម"
+
+msgid "increaseInfoConfirm4MaleTitle"
+msgstr "%sបានចែករំលែកព័ត៌មានផ្ទាល់ខ្លួនច្រើនជាងអ្នក។"
+
+msgid "increaseInfoConfirm4FemaleTitle"
+msgstr "%sបានចែករំលែកព័ត៌មានផ្ទាល់ខ្លួនច្រើនជាងអ្នក។"
+
+msgid "needAddPhotoConfirmTitle"
+msgstr "អ្នកគួរតែបញ្ចូលរូបភាព"
+
+msgid "needAddPhotoConfirmNote"
+msgstr "ដើម្បីមើលរូបថតរបស់អ្នកដ៏ទៃ អ្នកត្រូវតែបញ្ចូលរូបភាពទម្រង់របស់អ្នក​ !"
+
+msgid "needAddPhotoConfirmYes"
+msgstr "បញ្ចូលរូបថត"
+
+msgid "needAddPhotoConfirmNo"
+msgstr "បដិសេធចោល"
+
+msgid "requiredFieldsAlertConfirmTitle"
+msgstr "មិនបានបំពេញ"
+
+msgid "requiredFieldsAlertConfirmText"
+msgstr ""
+"ព័ត៌មានខាងក្រោមត្រូវបានតម្រូវ: %s<br> សូមចូលទៅទម្រង់របស់អ្នក ហើយបំពេញព័ត៌មានដែលមិនទាន់បានបំពេញ។"
+
+msgid "requiredFieldsAlertConfirmYes"
+msgstr "ចូលទៅកាន់"
+
+msgid "noticeImageSizeLimit"
+msgstr "ការកំណត់ទំហំរូបភាព"
+
+msgid "noticeImageSizeLimitText"
+msgstr "ទំហំរូបភាពត្រូវតែតូចជាង 2 MB "
+
+msgid "emailConfirmTitle"
+msgstr "បញ្ជាក់អាសយដា្ឋនអ៊ីម៉ែល"
+
+msgid "emailConfirmAlertYes"
+msgstr "បញ្ជាក់"
+
+msgid "emailConfirmAlertNo"
+msgstr "លុបចោល"
+
+msgid "bannedInfoAlertTitle"
+msgstr "គណនីរបស់អ្នកត្រូវបានបង្ខាំង"
+
+msgid "bannedInfoAlertNotice"
+msgstr "ព័ត៌មានលម្អិតអាចស្វែងរកនៅលើទំព័រទម្រង់"
+
+msgid "bannedInfoAlertYes"
+msgstr "ទៅកាន់ទម្រង់"
+
+msgid "bannedInfoAlertNo"
+msgstr "ចាកចេញ"
+
+msgid "emailDomainsReplaceAlertTitle"
+msgstr "ប្ដូរអ៊ីម៉ែល"
+
+msgid "emailDomainsReplaceAlertText"
+msgstr ""
+"យើងបានប្ដូរអាសយដ្ឋានអ៊ីម៉ែលរបស់អ្នកទៅជា %s, ព្រោះទំនងជាវាយមិនបានត្រឹមត្រូវ។ បន្ត រឺ "
+"ប្ដូរវាត្រលប់មកវិញ?"
+
+msgid "emailDomainsReplaceAlertYes"
+msgstr "បន្ដ"
+
+msgid "emailDomainsReplaceAlertNo"
+msgstr "ត្រលប់វាមកវិញ"
+
+msgid "signinAction"
+msgstr "ចូល"
+
+msgid "signupAction"
+msgstr "ចុះឈ្មោះ"
+
+msgid "signinEmailEmptyError"
+msgstr "បញ្ចូលអ៊ីម៉ែល"
+
+msgid "signinEmailMaskError"
+msgstr "សូមបញ្ចូលអាស័យដ្ឋានអ៊ីម៉ែលដែលត្រឹមត្រូវរបស់អ្នក"
+
+msgid "signinPasswordEmptyError"
+msgstr "សូមបញ្ចូលលេខសម្ងាត់"
+
+msgid "signinCountryEmptyError"
+msgstr "ប្រទេស"
+
+msgid "signinCityEmptyError"
+msgstr "ទីក្រុង"
+
+msgid "signinErrorBirthDayEmpty"
+msgstr "ថ្ងៃ"
+
+msgid "signinErrorBirthMonthEmpty"
+msgstr "ខែ"
+
+msgid "signinErrorBirthYearEmpty"
+msgstr "ឆ្នាំ"
+
+msgid "signinErrorTooYoung"
+msgstr "ការចុះឈ្មោះអនុញ្ញាតចំពោះ&nbsp; អ្នកដែលគ្រប់អាយុ ១៨ឆ្នាំតែប៉ុណ្ណោះ។"
+
+msgid "citySelectDisabledTitle"
+msgstr "ជ្រើសរើសប្រទេស"
+
+msgid "signinPasswordMinLengthError"
+msgstr "លេខសម្ងាត់ត្រូវតែមានយ៉ាងតិចណាស់៥&nbsp;តួអក្សរ"
+
+msgid "signinErrorNameEmpty"
+msgstr "បញ្ចូលឈ្មោះរបស់អ្នក"
+
+msgid "signinErrorSex"
+msgstr "ជ្រើសរើសភេទរបស់អ្នក"
+
+msgid "loginVia"
+msgstr "%s"
+
+msgid "registerVia"
+msgstr "%s"
+
+msgid "timeToFindYourLove"
+msgstr "ដល់ពេលដែលអ្នកត្រូវស្វែងរកស្នេហារបស់អ្នក"
+
+msgid "socialLikeDescription"
+msgstr "ការចែចង់ដោយមិនបង្ហាញអត្តសញ្ញាណជាមួយសហសេវិក មិត្តរួមថ្នាក់ អ្នកជិតខាង និង​ សន្ទិដ្ឋ​មិត្ត..."
+
+msgid "showAll"
+msgstr "បង្ហាញទាំងអស់"
+
+msgid "actionMinimize"
+msgstr "បង្រួមអប្ប​បរមា"
+
+msgid "chatLoadingHistory"
+msgstr "ផ្ទុកសារមុនៗឡើងវិញ"
+
+msgid "chatCitationsAdd"
+msgstr "បញ្ចូល&nbsp;ទៅក្នុងសម្រង់"
+
+msgid "chatCitationsTitle"
+msgstr "សម្រង់"
+
+msgid "chatCitationsWelcome"
+msgstr ""
+"<p>សូមបញ្ចូលប្រយោគដែលប្រើជាញឹកញាប់ដើម្បីរហ័សបញ្ចូលប្រយោគទាំងនោះ&nbsp;in&nbsp;"
+"ទៅក្នុងការសន្ទនា</p><p>សម្រាប់ការដាក់បញ្ចូល សូមប្រើប៊ូតុង<span id=\"citations-welcome-"
+"button\"></span> បន្ថែមចូលក្នុងសម្រង់</p>"
+
+msgid "statusOnline"
+msgstr "ឥឡូវនេះនៅលើបណ្ដាញ"
+
+msgid "actionEdit"
+msgstr "កែសម្រួល"
+
+msgid "chatCitationsRestore"
+msgstr "ស្តារសម្រង់"
+
+msgid "chatNewMessageFrom"
+msgstr "សារថ្មីពី"
+
+msgid "chatEmptyTitle"
+msgstr "គ្មានសារនៅក្នុងការជជែកកំសាន្ដរបស់អ្នកទេ"
+
+msgid "chatEmptyText"
+msgstr ""
+"ដើម្បីបញ្ចូលមិត្តជិតស្និទ្ធិ សូមជ្រើសរើសអ្នកប្រើដែលអ្នកចូលចិត្ត ឧទាហរណ៍ ជ្រើសរើសពី <a href=\"/"
+"\">ស្វែងរក</a>, ហើយចុច \"ប្រភេទ\""
+
+msgid "formUploadFile"
+msgstr "បញ្ចូលឯកសារ"
+
+msgid "formDeleteFile"
+msgstr "លុបឯកសារ"
+
+msgid "socialLikeTitle"
+msgstr "តំបន់បណ្ដាញដ៏អស្ចារ្យ! Lovetime"
+
+msgid "About Yiinka"
+msgstr "អំពី Yiinke"
+
+msgid "systemInstruments"
+msgstr "ឧបករណ៍"
+
+msgid "Import CSV"
+msgstr "នាំចូលពី CSV"
+
+msgid "chatMessages"
+msgstr "សារ"
+
+msgid "profileMessages"
+msgstr "សារ"
+
+msgid "chatAll"
+msgstr "ទាំងអស់"
+
+msgid "chatOnline"
+msgstr "លើបណ្តាញ"
+
+msgid "correspondencesActions"
+msgstr "សកម្មភាព"
+
+msgid "actionMoveIn"
+msgstr "ប្ដូរទីតាំងទៅ:"
+
+msgid "actionBlacklist"
+msgstr "បញ្ជីខ្មៅ"
+
+msgid "chatEmptyFolder"
+msgstr "ថតទទេ"
+
+msgid "chatNoOnline"
+msgstr "ឥឡូវនេះ គូសន្ទនាទាំងអស់ស្ថិតនៅក្រៅបណ្ដាញ"
+
+msgid "correspondencesMessage"
+msgid_plural "correspondencesMessages"
+msgstr[0] "សារន"
+msgstr[1] "សារច្រើន"
+
+msgid "favoriteUsers"
+msgstr "អ្នកប្រើសំណព្វចិត្ត"
+
+msgid "favoriteLocation"
+msgstr ""
+"អ្នកអាចមើលអ្នកប្រើដែលអ្នកបាន \"រក្សាទុកជាសំណព្វចិត្ត\"​ នៅក្នុង \"ថតសំណព្វចិត្ត\" នៃ​ផ្នែក \"សារ"
+"\"។"
+
+msgid "favoriteHideTip"
+msgstr "បិទបាំងព័ត៌មានគន្លឺះ"
+
+msgid "favoriteNext"
+msgstr "បន្ទាប់"
+
+msgid "favoriteCancel"
+msgstr "បោះបង់"
+
+msgid "emailConfirmResultSuccess"
+msgstr "អាសយដ្ឋានអ៊ីម៉ែលរបស់អ្នកត្រូវបានបញ្ជាក់ដោយជោគជ័យ"
+
+msgid "emailConfirmAlreadyConfirmed"
+msgstr "អាសយដ្ឋានអ៊ីម៉ែលត្រូវបានបញ្ជាក់រួចហើយ"
+
+msgid "emailConfirmCheckYourEmailNow"
+msgstr "ឥឡូវនេះ សូមពិនិត្យមើលអ៊ីម៉ែលរបស់អ្នក"
+
+msgid "emailConfirmClickLinkForComplete"
+msgstr "ដើម្បីបញ្ចប់ការចុះឈ្មោះ សូមចុចលើតំណក្នុងអ៊ីម៉ែលដែលយើងបានផ្ញើទៅ <b>%email%</b>"
+
+msgid "mailOpen"
+msgstr "បើក"
+
+msgid "emailConfirmCantGetMessage"
+msgstr "មិនបានទទួលអ៊ីម៉ែល?"
+
+msgid "emailConfirmCheckYourEmailOrEnterAnother"
+msgstr "ផ្ទៀងផ្ទាត់អាសយដ្ឋានអ៊ីម៉ែលរបស់អ្នក ឬ បញ្ចូលអាសយដ្ឋានអ៊ីម៉ែលថ្មី"
+
+msgid "emailConfirmTypeValidEmail"
+msgstr "បញ្ចូលអាសយដ្ឋានអ៊ីម៉ែលដែលមានសុពលភាពរបស់អ្នក"
+
+msgid "emailConfirmSendAgain"
+msgstr "ផ្ញើម្ដងទៀត"
+
+msgid "profileGuests"
+msgstr "អ្នកចូលមើល"
+
+msgid "guestsFemaleStranger"
+msgstr "មនុស្សមិនដែលស្គាល់"
+
+msgid "guestsMaleStranger"
+msgstr "មនុស្សមិនដែលស្គាល់"
+
+msgid "guestsNo"
+msgstr "អ្នកមិនមានអ្នកចូលមើលក្នុងកំឡុងពេលជាក់លាក់។"
+
+msgid "catalogUsersCatalog"
+msgstr "បញ្ជីរាយឈ្មោះអ្នកប្រើ"
+
+msgid "formPasswordSent"
+msgstr "យើងបានផ្ញើការណែនាំអំពីការផ្លាស់ប្ដូរលេខសម្ងាត់ថ្មីទៅកាន់អាសយដ្ឋានអ៊ីម៉ែលរបស់អ្នក។"
+
+msgid "usersList"
+msgstr "បញ្ជីអ្នកប្រើ"
+
+msgid "likesNoData"
+msgstr "គ្មានទិន្នន័យ"
+
+msgid "guestsDataError"
+msgstr "បញ្ហាទិន្នន័យ"
+
+msgid "usersPhotoAlbumOf"
+msgstr "អ្នកប្រើ&apos;s អាល់ប៊ុម"
+
+msgid "actionUploadPhoto"
+msgstr "បញ្ចូលរូបថត"
+
+msgid "banProfileNotice"
+msgstr ""
+"ទម្រង់នេះមិនទាន់បញ្ចប់សព្វគ្រប់ ត្រូវបានបដិសេធចោលដោយអ្នកសម្របសម្រួល រឺមិនត្រូវបានអនុញ្ញាតឲ្យបើកមើល។ "
+"សូមព្យាយាមស្វែងរកអ្នកប្រើដទៃទៀត។"
+
+msgid "banProfileHome"
+msgstr "ផ្ទះ"
+
+msgid "usersWriteMessage"
+msgstr "សរសេរសារ"
+
+msgid "usersInviteToChat"
+msgstr "អញ្ជើញជជែកកំសាន្ដ"
+
+msgid "usersAlreadyToFavorite"
+msgstr "បានរក្សាទុកជាសំណព្វចិត្តរួចហើយ"
+
+msgid "carouselDistance"
+msgstr "នៅចម្ងាយ %s គីឡូម៉ែតពីអ្នក"
+
+msgid "carouselDistanceOn"
+msgstr "ពីចម្ងាយ"
+
+msgid "carouselDistanceUnknown"
+msgstr "ដើម្បីដឹង សូមបញ្ជាក់ទីតាំងរបស់អ្នក"
+
+msgid "porsonalInfo"
+msgstr "ព័ត៌មានផ្ទាល់ខ្លួន"
+
+msgid "userProfilePersonalInfoShow"
+msgstr "បង្ហាញ"
+
+msgid "formResetPassword"
+msgstr "ទទួលបានតំណដើម្បីកំណត់លេខសម្ងាត់សារជាថ្មី"
+
+msgid "carouselDisabledTitle"
+msgstr "តម្រូវឲ្យបញ្ចូលរូបថតរបស់អ្នក"
+
+msgid "uploadPhoto"
+msgstr "បញ្ចូលរូបថត"
+
+msgid "carouselDisabledText"
+msgstr ""
+"តើអ្នកត្រៀមខ្លួនធ្វើការណាត់ជួបជាមួយខ្មោចមែនឬទេ?មិនមែនទេ?អញ្ចឹងសូមបញ្ចូល&nbsp;យ៉ាងហោចណាស់&nbsp;"
+"រូបភាពទម្រង់មួយ។ ធានាថាការណាត់ជួបរបស់អ្នកនឹងបានជោគជ័យ!"
+
+msgid "backToPageDates"
+msgstr "ជ្រើសរើសដៃគូណាត់ជួប"
+
+msgid "profileRelations"
+msgstr "ការណាត់ជួប"
+
+msgid "profileLikesForMe"
+msgstr "ចង់ធ្វើការណាត់ជួប"
+
+msgid "profileMutualLikes"
+msgstr "ការស្រលាញ់គ្នាទៅវិញទៅមក"
+
+msgid "profileMyLikes"
+msgstr "ខ្ញុំចង់ណាត់ជួប"
+
+msgid "carouselHeYes"
+msgstr "គាត់បាននិយាយថា <strong>&laquo;យល់ព្រម&raquo;</strong>"
+
+msgid "carouselSheYes"
+msgstr "នាងបាននិយាយថា <strong>&laquo;យល់ព្រម&raquo;</strong>"
+
+msgid "carouselHeMaybe"
+msgstr "គាត់បាននិយាយថា<strong>&laquo;នឹងអាច&raquo;</strong>"
+
+msgid "carouselSheMaybe"
+msgstr "នាងបាននិយាយថា<strong>&laquo;នឹងអាច&raquo;</strong>"
+
+msgid "carouselAnswerYes"
+msgstr "យល់ព្រម!"
+
+msgid "carouselAnswerMaybe"
+msgstr "នឹងអាច"
+
+msgid "carouselAnswerNo"
+msgstr "ទេ"
+
+msgid "carouselMyYes"
+msgstr "អ្នកបាននិយាយថា <strong>&laquo;យល់ព្រម&raquo;</strong>"
+
+msgid "carouselYouMaybe"
+msgstr "អ្នកបាននិយាយថា <strong>&laquo;យល់ព្រម&raquo;</strong>"
+
+msgid "updatePass"
+msgstr "បញ្ចូលលេខសម្ងាត់ថ្មី"
+
+msgid "modelForgotpassChangePassword"
+msgstr "ប្ដូរលេខសម្ងាត់"
+
+msgid "nearTitle1"
+msgstr "អ្នកដែលនៅជិត"
+
+msgid "nearTitle2"
+msgstr "ខ្ញុំ"
+
+msgid "meOnMap"
+msgstr "ទីតាំង"
+
+msgid "userLocationNotFound"
+msgstr "ទីតាំងមិនត្រូវបានរកឃើញ"
+
+msgid "backToPageSearch"
+msgstr "ត្រលប់ទៅ&nbsp;ស្វែងរក"
+
+msgid "pageLocationTitle"
+msgstr "បញ្ជាក់ទីតាំងរបស់អ្នក"
+
+msgid "meOnMapText2"
+msgstr "អ្នកប្រើផ្សេងទៀតនឹងមិនឃើញទីតាំងរបស់អ្នក។ ត្រឹមតែចម្ងាយប្រហាក់ប្រហែលតែប៉ុណ្ណោះ។"
+
+msgid "userLocationPlaceholder"
+msgstr "សូមបញ្ចូលលេខផ្ទះ ឈ្មោះផ្លូវ និងទីក្រុង"
+
+msgid "userLocationFind"
+msgstr "ស្វែងរក"
+
+msgid "locationClear"
+msgstr "លុបកំណត់សម្គាល់ចោល"
+
+msgid "usersRefuseFromMails"
+msgstr "បដិសេធការជូនដំណឹងតាមអ៊ីម៉ែល"
+
+msgid "usersRefuseFromMailsOk"
+msgstr "អ្នកនឹងលែងទទួលបានការជូនដំណឹងតាមអ៊ីម៉ែលបន្ថែមទៀត"
+
+msgid "profileMySettings"
+msgstr "ការកំណត់"
+
+msgid "profileNotificationSettings"
+msgstr "ការកំណត់ការជូនដំណឹង"
+
+msgid "inviteIncognitoTitle"
+msgstr "បិទបាំងរូបថត:"
+
+msgid "loginWidgetIncognitoText"
+msgstr "រូបថតបិទបាំងពីអ្នកប្រើ"
+
+msgid "UTC-11:00"
+msgstr "(UTC-11:00) ពេលវេលាក្នុងទម្រង់ UTC គឺ 11"
+
+msgid "UTC-10:00"
+msgstr "(UTC-10:00) រដ្ឋហាវ៉ៃ"
+
+msgid "UTC-9:00"
+msgstr "(UTC-09:00) រដ្ឋអាឡាស្កា"
+
+msgid "UTC-8:00[1]"
+msgstr "(UTC-08:00) រដ្ឋបាចាកាលីហ្វញ៉ា"
+
+msgid "UTC-8:00[2]"
+msgstr "(UTC-08:00) Pacific Time (សហរដ្ឋអាមេរិក និង កាណាដា)"
+
+msgid "UTC-7:00[1]"
+msgstr "(UTC-07:00) រដ្ឋអារីហ្សូណា"
+
+msgid "UTC-7:00[2]"
+msgstr "(UTC-07:00) Mountain Time (សហរដ្ឋអាមេរិក និង កាណាដា)"
+
+msgid "UTC-7:00[3]"
+msgstr "(UTC-07:00) La Paz, Mazatlan, Chihuahua"
+
+msgid "UTC-6:00[1]"
+msgstr "(UTC-06:00) Guadalajara, Mexico City, Monterrey"
+
+msgid "UTC-6:00[2]"
+msgstr "(UTC-06:00) Saskatchewan, អាមេរិកកណ្ដាល"
+
+msgid "UTC-6:00[3]"
+msgstr "(UTC-06:00) Central Time (សហរដ្ឋអាមេរិក និង កាណាដា)"
+
+msgid "UTC-5:00[1]"
+msgstr "(UTC-05:00) ទីក្រុងបូហ្គោតា ទីក្រុងគីតូ ទីក្រុងលីម៉ា"
+
+msgid "UTC-5:00[2]"
+msgstr "(UTC-05:00) Eastern Time (សហរដ្ឋអាមេរិក and កាណាដា)"
+
+msgid "UTC-5:00[3]"
+msgstr "(UTC-05:00) អ៊ីនឌីអាណា (ខាងកើត)"
+
+msgid "UTC-4:30"
+msgstr "(UTC-04:30) ទីក្រុងការ៉ាកាស "
+
+msgid "UTC-4:00[1]"
+msgstr "(UTC-04:00) ទីក្រុងអាសង់ស្យុង "
+
+msgid "UTC-4:00[2]"
+msgstr "(UTC-04:00) Atlantic Time (កាណាដា)"
+
+msgid "UTC-4:00[3]"
+msgstr "(UTC-04:00) ទីក្រុងហ្ស៊កថោន ទីក្រុងឡាប៉ាស ទីក្រុងម៉ាណូស ទីក្រុងសាំងហ្សង់ "
+
+msgid "UTC-4:00[4]"
+msgstr "(UTC-04:00) Cuiaba"
+
+msgid "UTC-4:00[5]"
+msgstr "(UTC-04:00) ទីក្រុងសាន់ត្យាហ្គោ "
+
+msgid "UTC-3:30"
+msgstr "(UTC-03: 30) ញូហ្វោនលិន"
+
+msgid "UTC-3:00[1]"
+msgstr "(UTC-03:00) ប្រទេសប្រេស៊ីល"
+
+msgid "UTC-3:00[2]"
+msgstr "(UTC-03: 00) បូណេអូ អ៊ែរ"
+
+msgid "UTC-3:00[3]"
+msgstr "(UTC-03:00) ប្រទេសហ្គ្រោអង់ឡង់"
+
+msgid "UTC-3:00[4]"
+msgstr "(UTC-03:00) កាយែន ហ្វ័រតាលេហ្សា"
+
+msgid "UTC-3:00[5]"
+msgstr "(UTC-03:00) Montevideo"
+
+msgid "UTC-2:00[1]"
+msgstr "(UTC-02:00) ពេលវេលាក្នុងទម្រង់ UTC គឺ 02:00"
+
+msgid "UTC-2:00[2]"
+msgstr "(UTC-02:00) ពេលវេលាអាត្លង់ទិចកណ្ដាល"
+
+msgid "UTC-1:00[1]"
+msgstr "(UTC-01:00) អាហ្ស័រ"
+
+msgid "UTC-1:00[2]"
+msgstr "(UTC-01:00) កោះកាប់វែរ"
+
+msgid "UTC0[2]"
+msgstr "(UTC) Dublin, Lissabon, London, Edinburgh"
+
+msgid "UTC0[3]"
+msgstr "(UTC) Casablanca"
+
+msgid "UTC0[4]"
+msgstr "(UTC) Monrovia, Reykjavik"
+
+msgid "UTC+1[1]"
+msgstr "(UTC+01:00) Amsterdam, Berlin, Bern, Wien, Rom, Stockholm"
+
+msgid "UTC+1[2]"
+msgstr "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+
+msgid "UTC+1[3]"
+msgstr "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris"
+
+msgid "UTC+1[4]"
+msgstr "(UTC+01:00) Warsaw, Zagreb, Sarajevo, Skopje"
+
+msgid "UTC+1[5]"
+msgstr "(UTC+01:00) Windhoek"
+
+msgid "UTC+1[6]"
+msgstr "(UTC+01:00) West Central Africa"
+
+msgid "UTC+2[1]"
+msgstr "(UTC+02:00) Amman"
+
+msgid "UTC+2[2]"
+msgstr "(UTC+02:00) ទីក្រុងអាថែន ទីក្រុងប៊ុយការ៉េស "
+
+msgid "UTC+2[3]"
+msgstr "(UTC+02:00) ទីក្រុងបេរូត"
+
+msgid "UTC+2[4]"
+msgstr "(UTC+02:00) ទីក្រុងវីលនីញូស ទីក្រុងកៀវ ទីក្រុងរីហ្គាទីក្រុងសូហ៊្វីយ៉ា​ ទីក្រុងតាលិន ទីក្រុងហែលស៊ិនគី "
+
+msgid "UTC+2[5]"
+msgstr "(UTC+02:00) ទីក្រុងដាម៉ាស "
+
+msgid "UTC+2[6]"
+msgstr "(UTC+02:00) ទីក្រុងហ្ស៊េរុយសាឡិម "
+
+msgid "UTC+2[7]"
+msgstr "(UTC+02:00) ទីក្រុងគែរ"
+
+msgid "UTC+2[8]"
+msgstr "(UTC+02:00) ទីក្រុងនីកូស៊ី"
+
+msgid "UTC+2[9]"
+msgstr "(UTC+02:00) ទីក្រុងអ៊ីស្តាន់ប៊ុល"
+
+msgid "UTC+2[10]"
+msgstr "(UTC+02:00) ទីក្រុងហារ៉ារ៉េ ទីក្រុងប្រេតូរីយ៉ា "
+
+msgid "UTC+3[1]"
+msgstr "(UTC+03:00) ទីក្រុងបាកដាដ "
+
+msgid "UTC+3[2]"
+msgstr "(UTC+03:00) Kaliningrad, Minsk"
+
+msgid "UTC+3[3]"
+msgstr "(UTC+03:00) ប្រទេសកូវ៉ែត ទីក្រុងរីយ៉ាដ"
+
+msgid "UTC+3[4]"
+msgstr "(UTC+03:00) ទីក្រុងណៃរ៉ូប៊ី"
+
+msgid "UTC+3:30"
+msgstr "(UTC+03:30) ទីក្រុងតេអេរ៉ង់"
+
+msgid "UTC+4[1]"
+msgstr "(UTC+04:00) ទីក្រុងអាប៊ុយដាប៊ី ទីក្រុងម៉ាស្កាត"
+
+msgid "UTC+4[2]"
+msgstr "(UTC+04:00) ទីក្រុងបាគូ"
+
+msgid "UTC+4[3]"
+msgstr "(UTC+04:00) Volgograd, Moscow, St. Petersburg"
+
+msgid "UTC+4[4]"
+msgstr "(UTC +04:00) ទីក្រុងយ៉េរ៉េវ៉ាន់ "
+
+msgid "UTC+4[5]"
+msgstr "(UTC+04:00) ទីក្រុងប៊ីលីស៊ី"
+
+msgid "UTC+4:30"
+msgstr "(UTC+04:30) ទីក្រុងកាប៊ុល"
+
+msgid "UTC+5[1]"
+msgstr "(UTC+05:00) ទីក្រុងអ៊ីស្លាម៉ាបាដ ទីក្រុងការ៉ាឈី"
+
+msgid "UTC+5[2]"
+msgstr "(UTC+05:00) ទីក្រុងតាស្កិន "
+
+msgid "UTC+5:30"
+msgstr "(UTC+05:30) កុលកាតា ម៉ុមបៃ ញូដេលី ឆិនណៃ"
+
+msgid "UTC+5:45"
+msgstr "(UTC+05:45) Katmandu"
+
+msgid "UTC+6[1]"
+msgstr "(UTC+06:00) ទីក្រុងអាស្តាណា "
+
+msgid "UTC+6[2]"
+msgstr "(UTC+06:00) ទីក្រុងដាក្កា"
+
+msgid "UTC+6[3]"
+msgstr "(UTC+06:00) Yekaterinburg"
+
+msgid "UTC+6:30"
+msgstr "(UTC+06:30) ទីក្រុងយ៉ាំងហ៊្គូន"
+
+msgid "UTC+7[1]"
+msgstr "(UTC+07:00) ទីក្រុងបាងកក ទីក្រុងចាកាតា ទីក្រុងហាណូយ"
+
+msgid "UTC+7[2]"
+msgstr "(UTC+07:00) Novosibirsk"
+
+msgid "UTC+8[1]"
+msgstr "(UTC+08:00) ហុងកុង ប៉េកាំង អ៊ូរូមឈី ចុងឈីង"
+
+msgid "UTC+8[2]"
+msgstr "(UTC+08:00) Krasnoyarsk"
+
+msgid "UTC+8[3]"
+msgstr "(UTC+08:00) កូឡាឡាំពួ សិង្ហបុរី"
+
+msgid "UTC+8[4]"
+msgstr "(UTC+08:00) ភើថ"
+
+msgid "UTC+8[5]"
+msgstr "(UTC+08:00) តៃប៉ិ"
+
+msgid "UTC+8[6]"
+msgstr "(UTC+08:00) អ៊ូឡង់បាទ័រ "
+
+msgid "UTC+9[1]"
+msgstr "(UTC+09:00) Irkutsk"
+
+msgid "UTC+9[2]"
+msgstr "(UTC+09:00) អូសាកា សាប៉ូរ៉ូ តូក្យូ"
+
+msgid "UTC+9[3]"
+msgstr "(UTC+09:00) សេអ៊ូល"
+
+msgid "UTC+9:30[1]"
+msgstr "(UTC+09:30) អ៊ែដឹឡេដ"
+
+msgid "UTC+9:30[2]"
+msgstr "(UTC+09:30) ដាវីន"
+
+msgid "UTC+10[1]"
+msgstr "(UTC+10:00) ប្រ៊ីសបឹន"
+
+msgid "UTC+10[2]"
+msgstr "(UTC+10:00) ដែនដីគាំ ទីក្រុងព័រម៉ូរេសប៊ី "
+
+msgid "UTC+10[3]"
+msgstr "(UTC+10:00) កង់បេរ៉ា មែលបឹន​ ស៊ីដនី"
+
+msgid "UTC+10[4]"
+msgstr "(UTC+10:00) ហូបាត"
+
+msgid "UTC+10[5]"
+msgstr "(UTC+10:00) Yakutsk"
+
+msgid "UTC+11[1]"
+msgstr "(UTC+11:00) Vladivostok"
+
+msgid "UTC+11[2]"
+msgstr "(UTC+11:00) Solomon Islands, New Caledonia"
+
+msgid "UTC+12[1]"
+msgstr "(UTC+12:00) ទីក្រុងវែលីងតោន ទីក្រុងអកឡឹន"
+
+msgid "UTC+12[3]"
+msgstr "(UTC+12:00) ម៉ាហ្កាដាន់"
+
+msgid "UTC+12[4]"
+msgstr "(UTC+12:00) ប្រទេសហ៊្វីជី"
+
+msgid "UTC+13[1]"
+msgstr "(UTC+13:00) Nuku'alofa"
+
+msgid "UTC+13[2]"
+msgstr "(UTC+13:00) ប្រទេសសាម័រ"
+
+msgid "profileAdditional"
+msgstr "ជម្រើស (​(​ឥតបង្ខំ)"
+
+msgid "saved"
+msgstr "បានរក្សាទុក"
+
+msgid "userSettingsChangePassword"
+msgstr "ប្ដូរលេខសម្ងាត់"
+
+msgid "systemRegisterNew"
+msgstr "ការចុះឈ្មោះអ្នកប្រើថ្មី"
+
+msgid "systemRegisterChange"
+msgstr "ប្ដូរទម្រង់"
+
+msgid "registerSex"
+msgstr "ភេទ"
+
+msgid "siteRulesAccept"
+msgstr "ដោយចុចប៊ូតុងនេះ អ្នកយល់ព្រម"
+
+msgid "pagesRulesTitle"
+msgstr "កិច្ចព្រមព្រៀងអ្នកប្រើ"
+
+msgid "profileMyAnketa"
+msgstr "ទម្រង់"
+
+msgid "userProfileChangeCountry"
+msgstr ""
+"អ្នកបញ្ជាក់ពីប្រទេស <strong>%current_country%</strong>។​ទីតាំងបច្ចុប្បន្នរបស់អ្នក - "
+"<strong>%country_by_ip%</strong>។<a %href_extension% href='%link"
+"%'>ប្តូរប្រទេសនៅក្នុងទម្រង់</a>"
+
+msgid "iLookingFor"
+msgstr "ខ្ញុំកំពុងស្វែងរក"
+
+msgid "preferredAgeFrom"
+msgstr "ពី"
+
+msgid "preferredAgeTo"
+msgstr "ទៅ"
+
+msgid "aboutMe"
+msgstr "អំពីខ្ញុំ"
+
+msgid "userViewProfessionOrSphereOfActivity"
+msgstr "អាជីព/សកម្មភាព"
+
+msgid "contestUnselectAll"
+msgstr "មិនជ្រើសទាំងអស់"
+
+msgid "step"
+msgstr ""
+
+msgid "locationSavedOk"
+msgstr "ទីតាំងរបស់អ្នកត្រូវបានរក្សាទុក"
+
+msgid "locationClearedOk"
+msgstr "ព័ត៌មានលម្អិតនៃទីតាំងរបស់អ្នកត្រូវបានលុបចោល"
+
+msgid "locationSavedErr"
+msgstr "មានកំហុសឆ្គងក្នុងការរក្សាទុកទីតាំង"
+
+msgid "inviteCaptchaWrong"
+msgstr "លេខកូដមិនត្រឹមត្រូវ"
+
+msgid "formIncorrectLink"
+msgstr ""
+"អ្នកមិនអាចប្រើប្រាស់តំណភ្ជាប់ម្តងទៀតក្នងការកំណត់ពាក្យសម្ងាត់ឡើងវិញទេ<br />ដើម្បីកំណត់វា "
+"សូមចុចតំណភ្ជាប់"
+
+msgid "msgNoNearestNew"
+msgstr "ពុំមានអ្នកនៅក្បែរនេះនាពេលចុងក្រោយទេ។"
+
+msgid "msgNoNearestOnline"
+msgstr "សូមទោសពុំមានអ្នកនៅក្បែរនេះទេ។"
+
+msgid "msgNoNearestAll"
+msgstr "សូមទោសពុំមានអ្នកនៅក្បែរនេះទេ។"
+
+msgid "carouselUsersAreAbsent"
+msgstr "ពុំមានអ្នកប្រើផ្សេងទៀតឲ្យមើលទេ។"
+
+msgid "profileAgeStr"
+msgstr "%s ឆ្នាំ"
+
+msgid "complainSuccess"
+msgstr "បណ្តឹងរបស់អ្នកបានផ្ញើទៅកាន់អន្តរការីដោយជោគជ័យ"
+
+msgid "complainNoSuccess"
+msgstr "ខកខានមិនបានផ្ញើបណ្តឹងចេញ"
+
+msgid "complainAllPoles"
+msgstr "សូមបំពេញគ្រប់ព័ត៌មានទាំងអស់"
+
+msgid "feedbackFileError"
+msgstr "ទ្រង់ទ្រាយថតគ្មានសុពលភាព។ គាំទ្រទ្រង់ទ្រាយជាទម្រង់ jpg, png"
+
+msgid "feedbackSentError"
+msgstr "សារមិនបានរក្សាទុក។ សូមព្យាយាមលើកក្រោយម្តងទៀត។"
+
+msgid "feedbackSent"
+msgstr "សាររបស់អ្នកត្រូវបានផ្ញើចេញ"
+
+msgid "unsubscribeSuccess"
+msgstr "អ្នកឈប់ទទួលការជូនដំណឹងតាមរយៈអ៊ីម៉ែលដោយជោគជ័យ "
+
+msgid "unsubscribeNoSuchUser"
+msgstr "គ្មានអ្នកប្រើណាម្នាក់បានចុះឈ្មោះដោយប្រើអាសយដ្ឋានអ៊ីម៉ែលនោះទេ។"
+
+msgid "loginWidgetPhotoDidNotModeratedYet"
+msgstr "បញ្ចូលរូបថត"
+
+msgid "loginWidgetPhotoDidNotPassModerated"
+msgstr "រូបថតមិនអនុញ្ញាតដោយអន្តការី"
+
+msgid "chatSessionClose"
+msgstr "អ្នកអស់ពេលហើយ។​ សូមចូលម្តងទៀត។"
+
+msgid "searchNoResults"
+msgstr "គ្មានលទ្ធផល"
+
+msgid "loginWidgetAddPhoto"
+msgstr "បញ្ចូលរូបថត"
+
+msgid "systemExitConfirmTitle"
+msgstr "តើអ្នកប្រាកដទេថា អ្នកចង់ចា​កចេញ?"
+
+msgid "systemExitConfirmBody"
+msgstr "បន្ទាប់មក&nbsp; ដល់ពេលដែលអ្នកត្រូវបញ្ចូល ចូលនិង&nbsp;ពាក្យសម្ងាត់ម្តងទៀត"
+
+msgid "systemExitConfirmNo"
+msgstr "គ្មាន&nbsp;ចាកចេញ"

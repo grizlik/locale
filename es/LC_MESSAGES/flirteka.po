@@ -1,0 +1,4296 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-01 08:56+0000\n"
+"PO-Revision-Date: 2013-07-01 08:44+0200\n"
+"Last-Translator: Spanish <>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/jowee/Development/flirteka/trunk\n"
+
+msgid "lettersGiftTitle"
+msgstr "Tienes un regalo en %s."
+
+msgid "lettersHelloName"
+msgstr "Hola, %s"
+
+msgid "messageNewPresentLookAtButton"
+msgstr "Ver"
+
+msgid "lettersFindYourLoveMatch"
+msgstr "¡Encuentra el amor!"
+
+msgid "lettersUnsubscribe"
+msgstr ""
+"Si no deseas recibir notificaciones por correo electrónico, puedes "
+"actualizar tu <a href=\"%s\" style=\"color: #0072bc;\">suscripción</a>."
+
+msgid "lettersChangeDataByClickingTheLink"
+msgstr ""
+"Puedes modificar tus configuraciones pulsando <a href=\"%s\" style=\"color: "
+"#0072bc;\">aquí</a>."
+
+msgid "lettersUserSentGift"
+msgstr "<b><a href='%s'>%s</a></b> te envió un regalo."
+
+msgid "lettersBalanceIncreasedTitle"
+msgstr "Tu saldo ha sido recargado"
+
+msgid "lettersBalanceIncreased"
+msgid_plural "lettersBalanceIncreased"
+msgstr[0] "Tu saldo tiene un monto de %s monedas"
+msgstr[1] "Tu saldo tiene un monto de %s monedas"
+
+msgid "inviteCaptcha"
+msgstr "Código enhebrado"
+
+msgid "captchaNewCode"
+msgstr "Codigo nuevo"
+
+msgid "moderatorSpamers"
+msgstr "&nbsp;"
+
+msgid "formSearch"
+msgstr "Buscar"
+
+msgid "modelSpamersOneName"
+msgstr "&nbsp;"
+
+msgid "modelSpamersBack"
+msgstr "&nbsp;"
+
+msgid "modelSpamersBanTime"
+msgstr "&nbsp;"
+
+msgid "modelSpamersBanMessagesHeader"
+msgstr "&nbsp;"
+
+msgid "modelSpamersMessage"
+msgstr "&nbsp;"
+
+msgid "modelSpamersTranslate"
+msgstr "&nbsp;"
+
+msgid "modelSpamersDate"
+msgstr "&nbsp;"
+
+msgid "moderatorBannedUsers"
+msgstr "Usuarios bloqueados"
+
+msgid "moderatorBan"
+msgstr "Bloquear"
+
+msgid "moderatorUnban"
+msgstr "Desbloquear"
+
+msgid "statisticsMailchartsbytemplatesTemplateTitle"
+msgstr "Plantilla #%d (%s)"
+
+msgid "statisticsMailchartsbytemplatesQuantityChartTitle"
+msgstr "Cantidad"
+
+msgid "statisticsMailchartsbytemplateQuantityChartYAxis"
+msgstr "Cantidad"
+
+msgid "statisticsMailchartsbytemplatesPercentChartTitle"
+msgstr "Porcentajes"
+
+msgid "statisticsMailchartsbytemplatePercentChartYAxis"
+msgstr "Porcentajes"
+
+msgid "moderatorStatisticMenuMailTotal"
+msgstr "&nbsp;"
+
+msgid "moderatorStatisticMenuEximStats"
+msgstr "&nbsp;"
+
+msgid "statisticsMailTodayTitle"
+msgstr "Estadísticas de email – hoy"
+
+msgid "statisticsMailDomainsTitle"
+msgstr "Dominios"
+
+msgid "statisticsMailUniqueOpens"
+msgstr "descubrimientos únicos"
+
+msgid "statisticsMailUniqueClicks"
+msgstr "clics únicos"
+
+msgid "statisticsMailAll"
+msgstr "total"
+
+msgid "statisticsMailTemplateTitle"
+msgstr "Título del mensaje"
+
+msgid "statisticsMailchartsbydomainDisplayDomains"
+msgstr "Dominios a visualizar"
+
+msgid "statisticsMailchartsbydomainAllDomains"
+msgstr "todos"
+
+msgid "statisticsMailchartsbydomainDisplayCounters"
+msgstr "Visualizar"
+
+msgid "statisticsMailchartsbydomainSubmitButton"
+msgstr "Actualizar"
+
+msgid "statisticsMailchartsbydomainQuantityChartTitle"
+msgstr "Cantidad"
+
+msgid "statisticsMailchartsbydomainQuantityChartYAxis"
+msgstr "Cantidad"
+
+msgid "statisticsMailchartsbydomainPercentChartTitle"
+msgstr "Porcentajes"
+
+msgid "statisticsMailchartsbydomainPercentChartYAxis"
+msgstr "Porcentajes"
+
+msgid "moderatorRefusalOfInvitation"
+msgstr "Invitaciones declinadas"
+
+msgid "moderatorComplaintAboutUsers"
+msgstr "Reportes sobre usuarios"
+
+msgid "moderatorFeedBack"
+msgstr "Sugerencias"
+
+msgid "moderatorErrorMessages"
+msgstr "Mensajes de error"
+
+msgid "moderatorUsers"
+msgstr "Usuarios"
+
+msgid "moderatorContactsExclusion"
+msgstr "Contactos – Exclusión"
+
+msgid "moderatorPhotos"
+msgstr "Fotos"
+
+msgid "moderatorCarousel"
+msgstr "Carrusel"
+
+msgid "moderatorModeratingPhotos"
+msgstr "Moderación de fotos"
+
+msgid "moderatorEmailNotifications"
+msgstr "Notificaciones por email"
+
+msgid "moderatorBlackListForDeliveries"
+msgstr "Lista negra para distribuciones"
+
+msgid "moderatorUsernamesBlacklist"
+msgstr "Lista negra para nombres de usuarios"
+
+msgid "moderatorStatistic"
+msgstr "Estadística"
+
+msgid "moderatorStatisticOpenedClickedStats"
+msgstr "&nbsp;"
+
+msgid "moderatorStatisticMenuMailNumbers"
+msgstr "Correo – Datos estadísticos"
+
+msgid "moderatorStatisticMenuMailChartByDomain"
+msgstr "Correo – Tablas – Dominios"
+
+msgid "moderatorStatisticMenuMailChartByTemplate"
+msgstr "Correo – Tablas – Plantillas"
+
+msgid "moderatorRemovedRestoredUsers"
+msgstr "Perfiles borrados/restaurados"
+
+msgid "Advertising statistics"
+msgstr "&nbsp;"
+
+msgid "moderatorBalanceBilling"
+msgstr "Facturacion"
+
+msgid "moderatorMenuItemProducts"
+msgstr "Productos"
+
+msgid "moderatorMenuItemProductPresents"
+msgstr "Regalos"
+
+msgid "systemExit"
+msgstr "Cerrar sesión"
+
+msgid "systemUser"
+msgstr "Usuario"
+
+msgid "moderatorRemoveRecord"
+msgstr "Suprimir historial"
+
+msgid "moderatorMaxUsersOnline"
+msgstr "Usuarios en línea (máximo)"
+
+msgid "moderatorRegisteredStatistic"
+msgstr "&nbsp;"
+
+msgid "moderatorAudienceOfSystem"
+msgstr "Seguidores"
+
+msgid "moderatorInAll"
+msgstr "Total"
+
+msgid "moderatorQuantityOfBoys"
+msgstr "Número de hombres"
+
+msgid "moderatorQuantityOfGirls"
+msgstr "Número de mujeres"
+
+msgid "moderatorVisitsToday"
+msgstr "Visitas hoy"
+
+msgid "moderatorVisitsOnWeek"
+msgstr "Visitas esta semana"
+
+msgid "moderatorVisitsOnMonth"
+msgstr "Visitas este mes"
+
+msgid "moderatorUsersWithCoords"
+msgstr "Número de usuarios con coordenadas"
+
+msgid "moderatorUsersFillProfile"
+msgstr "Número de usuarios con perfil completado"
+
+msgid "moderatorUsersWithPhoto"
+msgstr "Usuarios con foto"
+
+msgid "moderatorPhotosToday"
+msgstr "Fotos de hoy"
+
+msgid "moderatorPhotosOnWeek"
+msgstr "Fotos de esta semana"
+
+msgid "moderatorPhotosOnMonth"
+msgstr "Fotos de este mes"
+
+msgid "moderatorDialogs"
+msgstr "Diálogos"
+
+msgid "moderatorAverageNumberOfMessages"
+msgstr "Número promedio de mensajes"
+
+msgid "moderatorQuantityDialogsStartedBoys"
+msgstr "Número de diálogos iniciados por hombres"
+
+msgid "moderatorQuantityDialogsStartedGirls"
+msgstr "Número de diálogos iniciados por mujeres"
+
+msgid "moderatorEmails"
+msgstr "Emails"
+
+msgid "moderatorEmailsConfirmed"
+msgstr "Confirmado:"
+
+msgid "moderatorEmailsNotConfirmed"
+msgstr "No confirmado:"
+
+msgid "moderatorRemovedRestoredCauses"
+msgstr "Motivos por la supresión"
+
+msgid "moderatorRemovedRestoredDivisionForSexAndTime"
+msgstr "División por género y por tiempo"
+
+msgid "guestsToday"
+msgstr "Hoy"
+
+msgid "guestsByWeek"
+msgstr "Últimos 7 días"
+
+msgid "guestsByMonth"
+msgstr "Últimos 30 días"
+
+msgid "male"
+msgstr "&nbsp;"
+
+msgid "female"
+msgstr "&nbsp;"
+
+msgid "moderatorProductPresentsTitle"
+msgstr "Regalo"
+
+msgid "yes"
+msgstr "sí"
+
+msgid "no"
+msgstr "no"
+
+msgid "moderatorProductPresentsCreateTitle"
+msgstr "Crear un regalo nuevo"
+
+msgid "moderatorProductPresentsUpdateTitle"
+msgstr "Actualizar el regalo"
+
+msgid "usersDeleteSelectedPhotos"
+msgstr "Suprimir seleccionados"
+
+msgid "usersDeletePhotoConfirm"
+msgstr "¿Estás seguro de querer suprimir esta foto?"
+
+msgid "moderatorBack"
+msgstr "Atrás"
+
+msgid "moderatorNext"
+msgstr "Siguiente"
+
+msgid "moderatorAddRecord"
+msgstr "Añadir una nota"
+
+msgid "actionSave"
+msgstr "Guardar"
+
+msgid "actionCancel"
+msgstr "Cancelar"
+
+msgid "moderatorChangeRecord"
+msgstr "Modificar una nota"
+
+msgid "moderatorRemove"
+msgstr "Suprimir"
+
+msgid "formOperatorsBegin"
+msgstr "en el comienzo de cada línea de búsqueda"
+
+msgid "formOperatorsEnd"
+msgstr "Puedes utilizar operadores de comparación"
+
+msgid "formAdvancedSearch"
+msgstr "Búsqueda avanzada"
+
+msgid "moderatorActionBanQuestion"
+msgstr "¿Bloquear?"
+
+msgid "formCreate"
+msgstr "Crear elemento"
+
+msgid "formRequired"
+msgstr "Los campos con * son obligatorios"
+
+msgid "formNoactive"
+msgstr "No"
+
+msgid "formActive"
+msgstr "Si"
+
+msgid "systemModerator"
+msgstr "Moderador"
+
+msgid "anketaPersonalsCustomLabel"
+msgstr "Otro"
+
+msgid "coin"
+msgid_plural "coins"
+msgstr[0] "moneda"
+msgstr[1] "monedas"
+
+msgid "moderatorUserFormBalanceChangeAlt"
+msgstr "Perfil"
+
+msgid "formSave"
+msgstr "Guardar cambios"
+
+msgid "formManage"
+msgstr "Gestión de elementos"
+
+msgid "formUpdate"
+msgstr "Modificar el elemento"
+
+msgid "formDelete"
+msgstr "Borrar el elemento"
+
+msgid "systemLogin"
+msgstr "Ingresar"
+
+msgid "moderatorComplaintsResolved"
+msgstr "Resuelto"
+
+msgid "moderatorComplaintsNew"
+msgstr "Nuevo"
+
+msgid "sexFemale"
+msgstr "Mujer"
+
+msgid "sexMale"
+msgstr "Hombre"
+
+msgid "formList"
+msgstr "Lista de elementos"
+
+msgid "formView"
+msgstr "Ver el elemento"
+
+msgid "moderatorSlider"
+msgstr "Deslizador"
+
+msgid "moderatorMosaic"
+msgstr "Mosaica"
+
+msgid "photosStatusNew"
+msgstr "Nueva"
+
+msgid "moderatorActions"
+msgstr "Acciones"
+
+msgid "moderatorAccept"
+msgstr "Aceptar"
+
+msgid "moderatorRefuse"
+msgstr "Denegar"
+
+msgid "moderatorModerating"
+msgstr "&nbsp;"
+
+msgid "moderatorPhotosVersions"
+msgstr "versiones de foto"
+
+msgid "moderatorStatus"
+msgstr "Estado"
+
+msgid "userID"
+msgstr "ID de usuario"
+
+msgid "moderatorPhotosSearchInTheWeb"
+msgstr "Buscar en la web"
+
+msgid "modelUsersSex"
+msgstr "Sexo"
+
+msgid "searchGo"
+msgstr "Buscar"
+
+msgid "moderatorRefuseReason"
+msgstr "Razon para rechazo"
+
+msgid "moderatorLastEditName"
+msgstr "&nbsp;"
+
+msgid "moderatorBalanceBillingGlobalCountersRegistrations"
+msgstr "Registracion en el sistema/confirmados/pagadores"
+
+msgid "moderatorBalanceBillingGlobalCountersExpense"
+msgstr "Total de pagos de Usuario"
+
+msgid "moderatorBalanceBillingGlobalCountersCurrent"
+msgstr "Balance actual"
+
+msgid "moderatorBalanceSetTitle"
+msgstr "Actualizar el balance de perfil"
+
+msgid "moderatorBalanceSetSuccessful"
+msgstr "Balance ha sido actualizado exitosamente"
+
+msgid "moderatorBalanceUserStatTitle"
+msgstr "estadisticas de balance"
+
+msgid "moderatorBalanceUserStatTableFieldTime"
+msgstr "fecha"
+
+msgid "moderatorBalanceUserStatTableFieldDescription"
+msgstr "descripcion"
+
+msgid "moderatorBalanceUserStatTableFieldAmount"
+msgstr "cantidad"
+
+msgid "moderatorBalanceUserStatTableFieldCurrent"
+msgstr "balance"
+
+msgid "moderatorRegisteredToday"
+msgstr "Total de registraciones hoy"
+
+msgid "bannedSecondChance"
+msgstr ""
+"De acuerdo, todo está claro, no volveré a romper ningún reglamento. Por "
+"favor, <a href='%s'>desbloqueen me</a>"
+
+msgid "bannedForever"
+msgstr ""
+"Por favor, crea una cuenta nueva y asegúrate de no volver a repetir estas "
+"acciones. Sino, tendremos que bloquear tu cuenta nuevamente."
+
+msgid "actionTranslate"
+msgstr "Traducir"
+
+msgid "chatSendByClickOn"
+msgstr "Enviar via"
+
+msgid "formPleaseFixErrors"
+msgstr "Por favor, corrige los errores siguientes:"
+
+msgid "userBalloonAddToFavorite"
+msgstr "Agregar a favoritos"
+
+msgid "ofPair"
+msgstr "Pareja"
+
+msgid "visitor"
+msgid_plural "visitors"
+msgstr[0] "visita"
+msgstr[1] "visitas"
+
+msgid "signupMe"
+msgstr "Yo soy"
+
+msgid "signupIAmSearching"
+msgstr "que busca un·a"
+
+msgid "bannedInfoTitle"
+msgstr ""
+"Tu cuenta ha sido bloqueada. La razón por esto es probablemente una de las "
+"siguientes:"
+
+msgid "bannedInfoCauseSendSpam"
+msgstr "&mdash; Envíos de mensajes de publicidad o de spam"
+
+msgid "bannedInfoCauseSendContacts"
+msgstr ""
+"&mdash; Envíos de mensajes que contienen detalles personales, e.g. número de "
+"teléfono, email, skype, etc."
+
+msgid "bannedInfoCauseWrongProfile"
+msgstr ""
+"&mdash; El perfil tiene contenido inapropiado, e.g. publicidad, enlaces "
+"externos, etc."
+
+msgid "bannedInfoCauseRudeAttitude"
+msgstr "&mdash; Comportamiento irrespetuoso hacia otros usuarios"
+
+msgid "bannedInfoRecommendation"
+msgstr ""
+"Sugerimos de leer nuestros <a href=\"http://lovetime.com/pages/rules"
+"\">Términos de usuario</a>"
+
+msgid "bannedInfoCreateNewAccount"
+msgstr ""
+"Por favor, crea una cuenta nueva y asegúrate de no volver a repetir estas "
+"acciones. Sino, tendremos que bloquear tu cuenta nuevamente."
+
+msgid "bannedInfoSendEmail"
+msgstr ""
+"Si piensas que tu cuenta fue bloqueada por error, por favor, escríbenos a <a "
+"href=\"mailto:info@lovetime.com?subject=Usuario bloqueado por error %id&"
+"\">info@lovetime.com</a>"
+
+msgid "loginErrorUserBanned"
+msgstr "Acceso denegado. Usuario %s esta bloqueado."
+
+msgid "messageFilterTitle"
+msgstr "Filtro de mensajes"
+
+msgid "messageFilterSuggestion"
+msgstr "Para determinar que tipo de mensajes quieres recibir…"
+
+msgid "messageFilterReceiveFromAll"
+msgstr "Todos los mensajes."
+
+msgid "messageFilterReceiveFromWoman"
+msgstr "Solamente los mensajes provenientes de mujeres."
+
+msgid "messageFilterReceiveFromMen"
+msgstr "Solamente los mensajes provenientes de hombres."
+
+msgid "messageFilterWithPhotoOnly"
+msgstr "Solamente los mensajes provenientes de usuarios con fotos."
+
+msgid "messageFilterAgedFrom"
+msgstr "La edad del usuario es de"
+
+msgid "messageFilterAgedTo"
+msgstr "a"
+
+msgid "messageFilterFromMyCountry"
+msgstr "Solamente los mensajes provenientes de usuarios del mismo país que yo."
+
+msgid "modelUsersFilterSex"
+msgstr "Filtrar por sexo."
+
+msgid "modelUsersFilterPhoto"
+msgstr "Solamente los usuarios con fotos."
+
+msgid "modelUsersFilterAgeFrom"
+msgstr "La edad del usuario es de"
+
+msgid "modelUsersFilterAgeTo"
+msgstr "a"
+
+msgid "modelUsersFilterCountry"
+msgstr "Solamente los usuarios del mismo país que yo."
+
+msgid "chatFilterMan"
+msgstr ""
+"a configurado su filtro de forma en que tu no puedas enviarle mensajes. "
+"Intenta chatear con otra persona."
+
+msgid "chatFilterWoman"
+msgstr ""
+"a configurado su filtro de forma en que tu no puedas enviarle mensajes. "
+"Intenta chatear con otra persona."
+
+msgid "chatImpossibleCompanionBanned"
+msgstr ""
+"No puedes enviar mensajes de chat a %s, porque este usuario ha sido "
+"bloqueado por el moderador o este usuario borró su perfil."
+
+msgid "lettersHiAndWelcome"
+msgstr "Hola, %name%! Administración de %host% le da la bienvenida!"
+
+msgid "lettersAlmostDone"
+msgstr "Falta un poco mas"
+
+msgid "lettersConfirm"
+msgstr "Confirma su email"
+
+msgid "lettersPersonalData"
+msgstr "Sus datos personales"
+
+msgid "lettersNick"
+msgstr "Nombre:"
+
+msgid "lettersEmail"
+msgstr "Email:"
+
+msgid "lettersAboutSite"
+msgstr ""
+"En nuestra pagina web Usted puede encontrar un compañero del alma, tener "
+"relaciones romanticas y coquetear con sus amigos y conocidos."
+
+msgid "lettersTryIt"
+msgstr "<a href=\"%s\">Pruebalo!</a> Es muy emocionante!"
+
+msgid "lettersTellAboutUs"
+msgstr "Comparta esta pagina con todos sus amigos."
+
+msgid "lettersThankYou"
+msgstr "Gracias."
+
+msgid "lettersYouCanChangeData"
+msgstr "Usted puede cambiar sus datos de perfil en:"
+
+msgid "removingProfileRemovingProfile"
+msgstr "Borrar perfil"
+
+msgid "removingProfileRemoveProfileAction"
+msgstr "Borrar "
+
+msgid "removingProfileQuestion"
+msgstr "Esta seguro de querer borrar su perfil?"
+
+msgid "removingProfileCauseManagedFindYourSoulMate"
+msgstr "Si, logre encontrar mi media naranja!"
+
+msgid "removingProfileCauseICanNotFindAnyone"
+msgstr "He estado aqui durante un tiempo, pero no he podido encontrar a nadie."
+
+msgid "removingProfileCauseIPlanGoBack"
+msgstr "Me voy temporalmente, pero volvere."
+
+msgid "removingProfileCauseIHaveAnotherProfile"
+msgstr "Tengo otro perfil."
+
+msgid "removingProfileCauseIWasInsultedByAnother"
+msgstr "He sido insultado por otro usuario."
+
+msgid "removingProfileCauseIReceiveOffersEroticServices"
+msgstr "He recibido invitaciones intimas."
+
+msgid "removingProfileCauseOther"
+msgstr "Otro."
+
+msgid "removingProfileIChangedMyMindAction"
+msgstr "No me hagan caso, me quedo."
+
+msgid "removingProfileNotification"
+msgstr ""
+"Presionando el boton de \"Delete\" un correo de confirmacion le sera enviado "
+"a (%email%). Siga el enlace del correo y confirma la anulacion de su perfil. "
+"Si Usted desea restaurar su cuenta (incluyendo fotos y listas de contactos), "
+"Usted lo puede hacer durante 30 dias."
+
+msgid "removingProfileRemoveAction"
+msgstr "Borrar"
+
+msgid "removingProfileCanselAction"
+msgstr "Cancelar"
+
+msgid "removingProfileEmailSendNotification"
+msgstr ""
+"A su correo electronico se ha enviado la confirmacion de cancelacion. Por "
+"favor procede a cumplir las instrucciones y pulse el enlace en este correo, "
+"para completar el proceso de cancelacion."
+
+msgid "removingProfileNextAction"
+msgstr "Siguiente"
+
+msgid "removingProfileEnterEmailAndCode"
+msgstr "Ingrese su correo electronico y el codigo que Usted ha recibido."
+
+msgid "removingProfileEmail"
+msgstr "Correo electronico"
+
+msgid "removingProfileEnterEmail"
+msgstr "Ingrese correo electronico"
+
+msgid "removingProfileCodeOfPost"
+msgstr "Codigo de correo"
+
+msgid "removingProfileEnterCodeOfPost"
+msgstr "Ingrese el codigo"
+
+msgid "removingProfileDoNotGo"
+msgstr "No te vayas! Estas personas le extranaran!"
+
+msgid "removingProfileCancelRemovingAction"
+msgstr "Cancelar"
+
+msgid "removingProfileContinueAction"
+msgstr "Continuar de todos modos"
+
+msgid "removingProfileRemovedStatus"
+msgstr "Estado de su cuenta &mdash; borrado"
+
+msgid "removingProfileRemovedMessage"
+msgstr ""
+"Su cuenta ahora esta marcada como borrada. Todos sus mensajes, contactos, "
+"fotografias y configuraciones podran ser recuperados durante un plazo de 30 "
+"dias, antes de ser borrados definitivamente de nuestro sistema."
+
+msgid "removingProfileRestoreProfileAction"
+msgstr "Restaurar la cuenta"
+
+msgid "modelUsersHobbies"
+msgstr "Acerca de ti"
+
+msgid "balanceChangesBuyProductDecreaseProductId"
+msgstr "Producto"
+
+msgid "balanceChangesByAdminUserId"
+msgstr "Usuario"
+
+msgid "balanceChangesPSIncreasePSId"
+msgstr "Sistema de pagos"
+
+msgid "BalanceIncreaseErrorTitle"
+msgstr "Error al incrementar el balance"
+
+msgid "everyDayBalanceIncreasingDesc"
+msgstr "Diario aumento de balance"
+
+msgid "invisibleSettingsFormButton"
+msgstr "Guardar"
+
+msgid "invisibleSettingsPageText"
+msgstr ""
+"Le aconsejamos que no utilice este modo demasiado a menudo. Seguro que es "
+"dificil de resistirlo, pero por favor recuerde, que aquellos quienes son "
+"visibles, tienden mas a hacer nuevos amigos, que los usuarios invisibles."
+
+msgid "invisibleSettingsPageTitle"
+msgstr "Modo invisible"
+
+msgid "modelUsersBalance"
+msgstr "saldo de cuenta"
+
+msgid "modelUsersInvisibleeWalk"
+msgstr ""
+"No aparecer bajo la lista &ldquo;Visitantes&rdquo; de los perfiles de otros "
+"usuarios"
+
+msgid "modelUsersInvisibleOnline"
+msgstr "Ocultar mi estado en línea de los demás usuarios"
+
+msgid "modelUsersInvisibleSuperstarStatus"
+msgstr "Ocultar mi estado de Superstar de los demás usuarios"
+
+msgid "moderatorProductPresentsAddButton"
+msgstr "Agregar un regalo"
+
+msgid "monetizationInfoPageSearchText"
+msgstr "Incrementar su posibilidad de una relacion feliz"
+
+msgid "monetizationInfoPageSearchTitle"
+msgstr "1 posicion en resultados de busqueda"
+
+msgid "monetizationInfoPageSuperstarButton"
+msgstr "Sea Superstar"
+
+msgid "monetizationInfoPageSuperstarText"
+msgstr "Prioridad en el juego \"Citas\""
+
+msgid "monetizationInfoPageSuperstarTitle"
+msgstr "Estado de Superstar"
+
+msgid "monetizationInfoPageText"
+msgstr ""
+"Usted puede <a href='#' id='%s'>comprar monedas</a> o encontrarlas en la "
+"pagina web."
+
+msgid "monetizationInfoPageText2"
+msgstr "Nosotros le regalamos una moneda gratis al dia."
+
+msgid "monetizationInfoPageTitle"
+msgstr "Utilize monedas para ser mas popular"
+
+msgid "monetizationInfoPageTopFacesButton"
+msgstr "Hacia el Top"
+
+msgid "monetizationInfoPageTopFacesText"
+msgstr ""
+"Nosotros consideramos sus preferencias y elegimos personas que pueden ser "
+"adecuadas en base a un algoritmo unico"
+
+msgid "monetizationInfoPageTopFacesTitle"
+msgstr "Posicion en Top"
+
+msgid "monetizationAboutTopTitle"
+msgstr "Promocionar perfil"
+
+msgid "monetizationAboutTopText"
+msgstr ""
+"Mejorar la posición en los resultados de búsquedas y en la barra de fotos"
+
+msgid "monetizationAboutTopButton"
+msgstr "Promover al TOP"
+
+msgid "monetizationAboutGiftsTitle"
+msgstr "Regalos"
+
+msgid "monetizationAboutGiftsText"
+msgstr "Aumentar tu popularidad"
+
+msgid "monetizationAboutUnlimitedTitle"
+msgstr "Ilimitado"
+
+msgid "monetizationAboutUnlimitedText"
+msgstr "Quitar todas las restricciones"
+
+msgid "monetizationAboutUnlimitedButton"
+msgstr "Quitar las restricciones"
+
+msgid "monetizationAboutVipTitle"
+msgstr "VIP"
+
+msgid "monetizationAboutVipText"
+msgstr "Mejorar la apariencia de tu perfil"
+
+msgid "monetizationAboutVipButton"
+msgstr "Convertirse en VIP"
+
+msgid "monetizationAboutIncognitoTitle"
+msgstr "Invisible"
+
+msgid "monetizationAboutIncognitoText"
+msgstr "Aparecer como invisible hacia otras personas"
+
+msgid "monetizationAboutIncognitoButton"
+msgstr "Aparecer fuera de línea"
+
+msgid "monetizationBalanceSendSMS"
+msgstr ""
+
+msgid "monetizationBalanceSum"
+msgstr ""
+
+msgid "monetizationBalancePhoneNumber"
+msgstr ""
+
+msgid "monetizationBalanceOrderNumber"
+msgstr ""
+
+msgid "monetizationBalanceYouPayOrder"
+msgstr ""
+
+msgid "monetizationBalanceCheckOrder"
+msgstr ""
+
+msgid "monetizationBalanceOperator"
+msgstr ""
+
+msgid "monetizationBalanceUpText"
+msgstr ""
+
+msgid "monetizationBalanceNumber"
+msgstr ""
+
+msgid "monetizationBalanceText"
+msgstr ""
+
+msgid "paymentDialogMessageSuperstarForSearch"
+msgstr ""
+"Para ver perfiles encontrados utilizando la busqueda avanzada, Usted "
+"necesita activar el estado Superstar"
+
+msgid "paymentDialogTitleDefault"
+msgstr "Aumentar el balance"
+
+msgid "paymentDialogTitleSuperstar"
+msgstr "Comprar estado Superstar"
+
+msgid "paymentDialogTitleTopFaces"
+msgstr "Agregar a Top"
+
+msgid "paymentDialogWidgetBuy"
+msgstr "pagar"
+
+msgid "paymentDialogWidgetTermsOfUse"
+msgstr "Terminos de uso"
+
+msgid "productPresentModelCodePatternMessage"
+msgstr ""
+"codigo de producto debe ser tipo 'present-*', donde * es uno o mas digitos o "
+"pequenas letras de alfabeto Latino"
+
+msgid "productPresentModelImageFieldLabel"
+msgstr "imagen"
+
+msgid "productSuperstar12PublicTitle"
+msgstr "Estado de Superstar por 12 meses"
+
+msgid "productSuperstar1PublicTitle"
+msgstr "Estado de Superstar por 1 mes"
+
+msgid "productSuperstar3PublicTitle"
+msgstr "Estado de Superstar por 3 meses"
+
+msgid "productSuperstar6PublicTitle"
+msgstr "Estado de Superstar por 6 meses"
+
+msgid "productSuperstarFriendly"
+msgstr "amigable"
+
+msgid "productSuperstarStatusModelFieldPeriod"
+msgstr "periodo de tiempo"
+
+msgid "productSuperstarStatusModelFieldType"
+msgstr "tipo"
+
+msgid "productSuperstarTypeRomantic"
+msgstr "romantico"
+
+msgid "productTopFacesPublicTitle"
+msgstr "Agregar al Top"
+
+msgid "publicFlashNotifierWidgetPresentBalanceWasChanged"
+msgstr "Balance de perfil fue reducido por %d %s"
+
+msgid "publicFlashNotifierWidgetPresentNotice"
+msgstr "Usted ha elegido el regalo"
+
+msgid "sendGiftDialogCommentLabel"
+msgstr "Su mensaje o cumplido"
+
+msgid "sendGiftDialogHiddenFieldLabel"
+msgstr "solo el recipiente puede ver el regalo"
+
+msgid "sendGiftDialogSubmit"
+msgstr "Enviar"
+
+msgid "sendGiftDialogText"
+msgstr "Esta es la mejor manera para llamar la atencion"
+
+msgid "sendGiftDialogTitle"
+msgstr "Enviar regalos"
+
+msgid "superstarModelAttributeBegin"
+msgstr "Inicio"
+
+msgid "superstarModelAttributeFinish"
+msgstr "FIn"
+
+msgid "superstarModelAttributeUser"
+msgstr "Usuario"
+
+msgid "topFacesDialogNotice"
+msgstr "Precio es %d %s"
+
+msgid "userRatingAndBalanceWidgetBecameSuperstar"
+msgstr "Ser Superstar"
+
+msgid "userRatingAndBalanceWidgetRatingExtraLow"
+msgstr "muy bajo"
+
+msgid "userRatingAndBalanceWidgetRatingLow"
+msgstr "bajo"
+
+msgid "userRatingAndBalanceWidgetRatingMiddle"
+msgstr "promedio"
+
+msgid "userRatingAndBalanceWidgetRatingHigh"
+msgstr "alto"
+
+msgid "userRatingAndBalanceWidgetRatingExtraHigh"
+msgstr "muy alto"
+
+msgid "userRatingAndBalanceWidgetFillUpBalance"
+msgstr "aumentar"
+
+msgid "userRatingAndBalanceWidgetIncrease"
+msgstr "incrementar"
+
+msgid "userRatingAndBalanceWidgetRatingAndVisitorsText"
+msgstr ""
+"Su posicion en la busqueda es <a href='%s'>%s</a> y hoy Usted tiene <a "
+"href='%s'>%d</a> %s"
+
+msgid "userRatingAndBalanceWidgetToTop"
+msgstr "Levantarse en Top"
+
+msgid "userRatingAndBalanceWidgetYourRating"
+msgstr "Su popularidad"
+
+msgid "userViewBalloonActivateSuperstar"
+msgstr "Activar el estado Superstar"
+
+msgid "userViewBalloonReturnToBasicSearch"
+msgstr "Atras a la busqueda"
+
+msgid "userViewBalloonTitle"
+msgstr ""
+"Para ver perfiles encontrados utilizando la busqueda avanzada, Usted "
+"necesita activar el Superpower"
+
+msgid "walletBalanceChangesAmount"
+msgstr "cantidad"
+
+msgid "walletBalanceChangesBalance"
+msgstr "balance actual"
+
+msgid "walletBalanceChangesCode"
+msgstr "codigo"
+
+msgid "walletBalanceChangesDescription"
+msgstr "descripcion"
+
+msgid "walletBalanceChangesPrice"
+msgstr "precio"
+
+msgid "walletBalanceChangesProductId"
+msgstr "producto"
+
+msgid "walletBalanceChangesTimestamp"
+msgstr "tiempo"
+
+msgid "walletBalanceChangesUserId"
+msgstr "usuario"
+
+msgid "walletProductsCode"
+msgstr "codigo"
+
+msgid "walletProductsCreatedAt"
+msgstr "fecha de creacion"
+
+msgid "walletProductsCreatedBy"
+msgstr "creado por"
+
+msgid "walletProductsDescription"
+msgstr "descripcion"
+
+msgid "walletProductsPrice"
+msgstr "precio"
+
+msgid "walletProductsTitle"
+msgstr "titulo"
+
+msgid "walletProductsUpdatedAt"
+msgstr "actualizado"
+
+msgid "walletProductsUpdatedBy"
+msgstr "actualizado por"
+
+msgid "YourBalanceWasIncreasedText"
+msgstr ""
+"Su balance de perfil fue incrementado por %d %s. Balance actual es %d %s."
+
+msgid "YourBalanceWasIncreasedTitle"
+msgstr "Aumentar el balance de perfil"
+
+msgid "YourPresentHasBeenSent"
+msgstr "Su regalo ha sido enviado"
+
+msgid "sendGiftDialogFilterAll"
+msgstr "Todos"
+
+msgid "sendGiftDialogFilterFriendly"
+msgstr "Amigable"
+
+msgid "sendGiftDialogFilterRomantic"
+msgstr "Romantico"
+
+msgid "paymentDialogBuyCoins"
+msgstr "Aumentar el balance"
+
+msgid "carouselNeedBuySuperstarNotice"
+msgstr ""
+"Para ver perfiles Usted necesita <a href=\"%s\">comprar</a> estado Superstar"
+
+msgid "leftMenuSearchPosition"
+msgstr "buscar posicion"
+
+msgid "leftMenuVisitorsToday"
+msgstr "%s por hoy"
+
+msgid "leftMenuButtonTop"
+msgstr "TOP"
+
+msgid "leftMenuButtonSuperstar"
+msgstr "Superstar"
+
+msgid "leftMenuBalance"
+msgstr "Balance"
+
+msgid "balanceChangeTitle"
+msgstr "Cambiar balance"
+
+msgid "balanceChangeBuyProductDecreaseTitle"
+msgstr "compra de articulos"
+
+msgid "balanceChangeByAdminTitle"
+msgstr "cambiado por administrador"
+
+msgid "balanceChangeDailyTitle"
+msgstr "cambios diarios"
+
+msgid "balanceChangePSIncreaseTitle"
+msgstr "aumentar balance por sistema de pagos"
+
+msgid "userProfileAddPresentBaitF"
+msgstr "Hagale un regalo y ella se dara cuenta de Usted"
+
+msgid "userProfileAddPresentBaitM"
+msgstr "Enviele un regalo y el notara a Usted!"
+
+msgid "mailTemplateTitleNewPresent"
+msgstr "%name%, Usted ha recibido un regalo nuevo de %sender_name% en %host%"
+
+msgid "mailTemplateBodyNewPresent"
+msgstr ""
+"<a href='%sender_profile_url%'>%sender_name%</a>  le ha enviado un regalo. "
+"Usted lo puede ver en su <a href='%profile_url%'>perfil</a>."
+
+msgid "balanceChangeBuyProductSuperstarDecreaseTitle"
+msgstr "Pago por activacion del estado Superstar."
+
+msgid "balanceChangeBuyProductPresentDecreaseTitle"
+msgstr "Pago por compra de regalo."
+
+msgid "balanceChangeBuyProductTopFacesDecreaseTitle"
+msgstr "Pago por aumento de su popularidad."
+
+msgid "userTransactionsPageTitle"
+msgstr "Su balance actual es de: %d %s"
+
+msgid "userTransactionsPageDescription"
+msgstr ""
+"Su perfil y el historial de compras en nuestra web. <br />En el \"Estado de "
+"cuenta\" Usted puede ver la lista de sus estados actuales de su cuenta y "
+"<br /> imprimir documentos relacionados. En \"Historial de compras\" Usted "
+"puede ver su listado de pagos y ultimas compras."
+
+msgid "userTransactionsPageLinkTypeExpenses"
+msgstr "Estado de cuenta"
+
+msgid "userTransactionsPageLinkTypeIncomes"
+msgstr "Historial de compras"
+
+msgid "userTransactionsPageTableHeaderCol1"
+msgstr "Transacciones"
+
+msgid "userTransactionsPageTableHeaderCol2"
+msgstr "Fecha"
+
+msgid "userTransactionsPageTableHeaderCol3"
+msgstr "Suma"
+
+msgid "userTransactionsPageLinkAll"
+msgstr "Ver todo"
+
+msgid "monetizationInfoPageLinkTransactions"
+msgstr "Pagos mutuos"
+
+msgid "SuperstarPaymentWasPurchasedTitle"
+msgstr "Usted ha activado exitosamente el estado Superstar!"
+
+msgid "monetizationInfoPageLinkRecharge"
+msgstr "Obtener monedas"
+
+msgid "messageNewPresentText"
+msgstr "&nbsp;"
+
+msgid "superstarInfoPageTitle"
+msgstr "Se un Superstar!"
+
+msgid "superstarInfoPageTitleNotice"
+msgstr ""
+"El modo de Superstar le ayuda a conocer mas personas de manera mas rapida."
+
+msgid "superstarInfoPageEncountersTitle"
+msgstr "Quieren conocerle"
+
+msgid "superstarInfoPageEncountersNotice"
+msgstr "Descubre quien dijo un \"Si\" en el juego de Encuentros!"
+
+msgid "superstarInfoPageAdvancedSearchTitle"
+msgstr "Busqueda avanzada"
+
+msgid "superstarInfoPageAdvancedSearchNotice"
+msgstr ""
+"Entre los millones de usuarios encuentre exactamente lo que esta buscando."
+
+msgid "superstarInfoPageInvisibleModeTitle"
+msgstr "Modo Invisible"
+
+msgid "superstarInfoPageInvisibleModeNotice"
+msgstr ""
+"Vea los perfiles de otros usuarios, desde modo Invisible! Ellos nunca se "
+"enteraran que Usted estuvo ahi..."
+
+msgid "superstarInfoPageLimitsTitle"
+msgstr "Sin limites"
+
+msgid "superstarInfoPageLimitsNotice"
+msgstr ""
+"Muestras ilimitadas en el juego de \"Carousel\", sin ninguna limitacion en "
+"busqueda y chat."
+
+msgid "superstarInfoPageButtonBuy"
+msgstr "Se un Superstar"
+
+msgid "superstarInfoPageButtonRun"
+msgstr "Intentalo de manera gratuita"
+
+msgid "or"
+msgstr "o"
+
+msgid "close"
+msgstr "Cerrar"
+
+msgid "YouHaveReceivedAGift"
+msgstr "Usted ha recibido un regalo"
+
+msgid "YouHaveMadeAGift"
+msgstr "Usted ha enviado un regalo"
+
+msgid "paymentDialogWidgetTermsOfUseText"
+msgstr ""
+"Presionando el '#button#', Usted permite a #ltd#  retirar de #paySystemName# "
+"#moneyAmount# #moneyCurrency# por #starAmount# #coins# que pueden ser usados "
+"en #domain# y Usted tambien acepta los siguientes Terminos de Uso de las "
+"Monedas #siteName#. Usted puede actualizar sus configuraciones si Usted "
+"desea cambiar el metodo de pago. <br/><br/> Terminos de uso de Monedas en "
+"#siteName#: <br/><br/>1. Cuando Usted compra o adquiere Monedas, Usted no es "
+"propietario de estas Monedas. Pero Usted tiene el derecho de usar estas "
+"Monedas para comprar cosas ofrecidas por # siteName # tales como Regalos, "
+"estado de Superstar y etc. <br/>2. Compras de Monedas no estan sujetas a "
+"devoluciones. <br/>3. Nosotros podemos cambiar el precio de venta de las "
+"Monedas en cualquier momento, asi como los modos de su uso en la pagina. "
+"Tambien nos reservamos el derecho de suspender el uso de Monedas. <br/>4. "
+"Monedas no estan sujetas a cambios por dinero en efectivo y  cualquier "
+"cantidad de dinero, si no otorgamos una autorizacion por escrito. <br/>5. "
+"Monedas sin uso pierned el valor en 6 meses. <br/>6. Si Usted cancela su "
+"cuenta o su cuenta sera borrada por el moderador de #siteName# por "
+"violoacion de los Terminos de Uso de #siteName#, Usted perdera sus Monedas "
+"ahorradas. <br/>7. Si Usted recibe Monedas gratuitas durante una campana "
+"publicitaria, nosotros tenemos derecho de devolvernos dichas monedas en "
+"cualquier momento. <br/><br/>Pagos se efectuan por #ltd#."
+
+msgid "payonlineTetmsOfUse"
+msgstr "&nbsp;"
+
+msgid "unsubscribeWrongEmail"
+msgstr "Correo electronico incorrecto"
+
+msgid "contestMain"
+msgstr "&nbsp;"
+
+msgid "contestFindYourLove"
+msgstr "Encuentra el amor"
+
+msgid "contestIncreaseChanceSuccess"
+msgstr "Aumenta tus posibilidades de éxito"
+
+msgid "contestOr"
+msgstr "O"
+
+msgid "contestFindLove"
+msgstr "Encuentra el amor"
+
+msgid "contestResult"
+msgstr "Resultado"
+
+msgid "contestSelectAll"
+msgstr "Seleccionar todo"
+
+msgid "contestPhotoPhrase1"
+msgstr "¿Sin fotos? ¡Sin regalos!"
+
+msgid "contestPhotoPhrase2"
+msgstr ""
+"Lo sentimos, solamente los usuarios verificados con fotos pueden obtener "
+"nuestros grandiosos premios,<br /> por favor agrega una foto."
+
+msgid "contestPhotoPhrase3"
+msgstr "Arrastra y suelta<br /> archivos de tu sistema<br /> aquí para subir"
+
+msgid "contestUploadPhoto"
+msgstr "Subir una foto"
+
+msgid "contestImportPhoto"
+msgstr "o importar una foto de"
+
+msgid "contestFbProfile"
+msgstr "Perfil de Facebook"
+
+msgid "contestGoogleProfile"
+msgstr "Perfil de Google+"
+
+msgid "contestInviteMorePhrase"
+msgstr ""
+"Invitaste <span>%d</span> usuarios…<br>¡Si alguno de ellos gana<br> "
+"<b>ganarás tu también un premio!</b><button class='n-d-more-button'>Aumenta "
+"tus posibilidades &rarr; <ins>¡Invita más personas</ins></button> o <a "
+"href='/' target='_blank'>busca el amor</a>!"
+
+msgid "contestAnnouncePhrase1"
+msgstr ""
+"¡Invitaste <strong class='announce-contest__highlight'>%d</strong> usuarios!"
+
+msgid "contestAnnouncePhrase2"
+msgstr "¡Si alguno de ellos gana"
+
+msgid "contestAnnouncePhrase3"
+msgstr "tú ganarás también un mismo premio!"
+
+msgid "contestAnnouncePhrase4"
+msgstr "Invita más personas"
+
+msgid "contestAnnouncePhrase5"
+msgstr "Aumenta tus posibilidades de ganar."
+
+msgid "contestAnnouncePhrase6"
+msgstr "¡Sorteo de premios Lovetime!"
+
+msgid "contestAnnouncePhrase7"
+msgstr "Los sueños si se hacen realidad…"
+
+msgid "contestAnnouncePhrase8"
+msgstr "Regístrate ahora y gana"
+
+msgid "contest"
+msgstr "Sorteo"
+
+msgid "step1"
+msgstr "Etapa 1"
+
+msgid "step2"
+msgstr "Etapa 2"
+
+msgid "step3"
+msgstr "Etapa 3"
+
+msgid "contestInviteByOtherServices"
+msgstr ""
+"¡Aumenta tus posibilidades de ganar! Conecta un buzón adicional (Hotmail, "
+"Yahoo!, Gmail) o <a href=\"%s\" target=\"_blank\">invita tus amigos de "
+"Facebook</a> o copia el enlace %s"
+
+msgid "cntTitle"
+msgstr ""
+
+msgid "cntRegister"
+msgstr ""
+
+msgid "cntInviteFriends"
+msgstr ""
+
+msgid "cntSamePrize"
+msgstr ""
+
+msgid "cntHigherChances"
+msgstr ""
+
+msgid "cntAddFriends"
+msgstr ""
+
+msgid "cntBannerUsersOnly"
+msgstr ""
+
+msgid "cntBannerParticipatePrizeDraw"
+msgstr ""
+
+msgid "cntBannerFbDescription"
+msgstr ""
+
+msgid "cntPhotoDrag"
+msgstr ""
+
+msgid "cntPhotoUpload"
+msgstr ""
+
+msgid "cntPhotoImport"
+msgstr ""
+
+msgid "cntNext"
+msgstr ""
+
+msgid "cntNotSelected"
+msgstr ""
+
+msgid "cntInvited"
+msgstr ""
+
+msgid "cntWinsSamePrize"
+msgstr ""
+
+msgid "cntIncreaseChances"
+msgstr ""
+
+msgid "cntDropHere"
+msgstr ""
+
+msgid "cntUnselectAll"
+msgstr ""
+
+msgid "cntSelectAll"
+msgstr ""
+
+msgid "cntHours"
+msgstr ""
+
+msgid "cntMinutes"
+msgstr ""
+
+msgid "cntSeconds"
+msgstr ""
+
+msgid "emailContestSubject"
+msgstr ""
+
+msgid "emailContestTitle"
+msgstr ""
+
+msgid "emailContestJoinUs"
+msgstr ""
+
+msgid "emailContestPrizesDescriptions"
+msgstr ""
+
+msgid "emailContestRegister"
+msgstr ""
+
+msgid "emailContestTerms"
+msgstr ""
+
+msgid "emailContestClickHere"
+msgstr ""
+
+msgid "emailContestPrizes"
+msgstr ""
+
+msgid "emailContestUnsubscribe"
+msgstr ""
+
+msgid "actionNote"
+msgstr "Hacer una nota"
+
+msgid "noteEdit"
+msgstr "Editar"
+
+msgid "noteRemove"
+msgstr "Borrar"
+
+msgid "noteSave"
+msgstr "Guardar"
+
+msgid "noteConfirmDelete"
+msgstr "Usted esta seguro de querer borrar esta nota?"
+
+msgid "lettersCheckSpamFolder"
+msgstr ""
+"Verifica tu carpeta de spam para asegurar que nuestro mensaje no haya sido "
+"marcado como tal. Si es el caso, por favor marcalo como no spam."
+
+msgid "lettersMarkEmailNotSpam"
+msgstr "y marca este email como no spam"
+
+msgid "pagesContacts"
+msgstr ""
+"<b>Direccion:</b><br /> 25/4 Soi Ratchadaphisak 36, Ratchadaphisak Rd., "
+"ChanKasem, Chatuchak BKK 10900 Tailandia <br /><br /><br />Phnom Penh Tower, "
+"12F, #445, 232/93 (Monivong Blvd), Phnom Penh, Cambodia, 12258 <br /><br /> "
+"<br /> Russia, Moscow, Svobody str. 50, Build. 3, 125364 <br /><br /> "
+"<b>Email:</b><br /><a href=\"mailto:info@lovetime.com\">info@lovetime.com</a>"
+
+msgid "seocatalogTitleInCity"
+msgstr "un sitio de encuentros para conocer mujeres y hombres en %city_title%"
+
+msgid "seocatalogH1InCity"
+msgstr "Encuentros en %city_title%"
+
+msgid "seocatalogSeeking"
+msgstr "Buscando"
+
+msgid "seocatalogAge"
+msgstr "Edad"
+
+msgid "seocatalogAppearance"
+msgstr "Apariencia"
+
+msgid "seocatalogOther"
+msgstr "Otros"
+
+msgid "seocatalogNext"
+msgstr "Más"
+
+msgid "seocatalogWoman"
+msgstr "mujer"
+
+msgid "seocatalogMen"
+msgstr "hombre"
+
+msgid "seocatalogLesbian"
+msgstr "lesbiana"
+
+msgid "seocatalogGay"
+msgstr "gay"
+
+msgid "seocatalogBisexual"
+msgstr "bisexual"
+
+msgid "seocatalogFriendship"
+msgstr "amistad y communicación"
+
+msgid "seocatalogRomanticRelations"
+msgstr "romance"
+
+msgid "seocatalogFlirt"
+msgstr "coqueteo"
+
+msgid "seocatalogSex"
+msgstr "sexo"
+
+msgid "seocatalogBlondes"
+msgstr "rubias"
+
+msgid "seocatalogBrunettes"
+msgstr "morenas"
+
+msgid "seocatalogBrownHair"
+msgstr "morenas"
+
+msgid "seocatalogAthletic"
+msgstr "atlético"
+
+msgid "seocatalogSlim"
+msgstr "delgado"
+
+msgid "seocatalogHeavy"
+msgstr "Pesado"
+
+msgid "seocatalogForeigner"
+msgstr "extranjero"
+
+msgid "seocatalogRich"
+msgstr "rico"
+
+msgid "seocatalogSingle"
+msgstr "soltero"
+
+msgid "seocatalogNoBadHabits"
+msgstr "Sin vicios"
+
+msgid "chatFilterManGifts"
+msgstr ""
+"%s estableció su configuración de filtro de mensajes de forma en que no sea "
+"posible para ti de enviarle mensajes. <b>Mándale un regalo</b> y esta "
+"restricción será omitida, así entonces podrás enviarle mensajes. Sino, "
+"intenta chatear con otra persona."
+
+msgid "chatFilterWomanGifts"
+msgstr ""
+"%s estableció su configuración de filtro de mensajes de forma en que no sea "
+"posible para ti de enviarle mensajes. <b>Mándale un regalo</b> y esta "
+"restricción será omitida, así entonces podrás enviarle mensajes. Sino, "
+"intenta chatear con otra persona."
+
+msgid "modelLoginFormEmailOrNick"
+msgstr "Email"
+
+msgid "modelLoginFormPassword"
+msgstr "Contraseña"
+
+msgid "modelLoginFormAlien"
+msgstr "Computadora compartida"
+
+msgid "loginErrorInvalidEmailOrPassword"
+msgstr "Email o contraseña inválidos"
+
+msgid "systemForgotPassword"
+msgstr "¿Olvidaste tu contraseña?"
+
+msgid "loginErrorUserNotVisible"
+msgstr "Acceso denegado para usuario %s."
+
+msgid "wrongEmail"
+msgstr "Correo electrónico inválido"
+
+msgid "errorEmailExists"
+msgstr "Introduce otro correo electrónico"
+
+msgid "citationsDefault1"
+msgstr "¡Hola! ¿Cómo estás?"
+
+msgid "citationsDefault2"
+msgstr "¡Hey! ¿Qué tal?"
+
+msgid "modelUsersValidateReservedNicks"
+msgstr "Por favor, elige otro apodo"
+
+msgid "registrationFormWrongDate"
+msgstr "Fecha inválida"
+
+msgid "months1"
+msgstr "Enero"
+
+msgid "months2"
+msgstr "Febrero"
+
+msgid "months3"
+msgstr "Marzo"
+
+msgid "months4"
+msgstr "Abril"
+
+msgid "months5"
+msgstr "Mayo"
+
+msgid "months6"
+msgstr "Junio"
+
+msgid "months7"
+msgstr "Julio"
+
+msgid "months8"
+msgstr "Agosto"
+
+msgid "months9"
+msgstr "Septiembre"
+
+msgid "months10"
+msgstr "Octubre"
+
+msgid "months11"
+msgstr "Noviembre"
+
+msgid "months12"
+msgstr "Diciembre"
+
+msgid "modelSmileCode"
+msgstr "Codigo"
+
+msgid "modelSmileImage"
+msgstr "Imagen"
+
+msgid "modelSmileVisible"
+msgstr "Visibilidad"
+
+msgid "Noactive"
+msgstr "No"
+
+msgid "modelSpamersName"
+msgstr "Spammer"
+
+msgid "modelUsersName"
+msgstr "Nombre"
+
+msgid "modelUsersEmail"
+msgstr "Email"
+
+msgid "modelComplaintsStatus"
+msgstr "Estado"
+
+msgid "modelSpamersTime"
+msgstr "&nbsp;"
+
+msgid "modelSpamersMessages"
+msgstr "&nbsp;"
+
+msgid "modelComplaintsSenderId"
+msgstr "Remitente"
+
+msgid "modelComplaintsCompanionId"
+msgstr "El acusado"
+
+msgid "modelComplaintsReasonText"
+msgstr "Razón"
+
+msgid "modelComplaintsComment"
+msgstr "Comentario"
+
+msgid "modelComplaintsCompanion"
+msgstr "El acusado"
+
+msgid "modelComplaintsSender"
+msgstr "Demandante"
+
+msgid "complainReason1"
+msgstr "Spam y/o publicidad"
+
+msgid "complainReason2"
+msgstr "Fraude"
+
+msgid "complainReason3"
+msgstr "Solicitudes inapropiadas"
+
+msgid "complainReason4"
+msgstr "Descortesía y/o amenazas"
+
+msgid "complainReason5"
+msgstr "Fotos no pertenecientes a este usuario"
+
+msgid "complainReason6"
+msgstr "Solicitaciones sexuales"
+
+msgid "photosRefuseReasonPicture"
+msgstr "dibujo, objeto o animal"
+
+msgid "photosRefuseReasonErotica"
+msgstr "erótica, insulto"
+
+msgid "photosRefuseReasonFamous"
+msgstr "celebridad"
+
+msgid "photosRefuseReasonSpam"
+msgstr "spam, publicidad"
+
+msgid "photosRefuseReasonPoorQuality"
+msgstr "imagen de mala calidad"
+
+msgid "photosRefuseReasonOnlyYouMustBeSeen"
+msgstr "sólo tú puedes aparecer en la foto"
+
+msgid "photosRefuseReasonNotVisibleFace"
+msgstr "rostro no es visible"
+
+msgid "photosRefuseReasonChildOnThePhoto"
+msgstr "un niño aparece en la foto"
+
+msgid "photosRefuseReasonExcessiveDecoration"
+msgstr "exceso de decoraciones"
+
+msgid "photosStatusAccept"
+msgstr "Aceptada"
+
+msgid "photosStatusRefuse"
+msgstr "Declinada"
+
+msgid "userName"
+msgstr "Nombre"
+
+msgid "feedbackText"
+msgstr "Texto"
+
+msgid "userWrongOldPasswError"
+msgstr "Contraseña incorrecta"
+
+msgid "userPasswTooShort"
+msgstr "Contraseña nueva es demasiado corta (minimo: {min} simbolos)"
+
+msgid "dateFormat"
+msgstr " Valored deben de ser indicados en formato de dd.mm.aaaa"
+
+msgid "modelUsersValidateRequireMessage"
+msgstr "Campo %s es obligatorio"
+
+msgid "modelUsersLookingFor"
+msgstr "Estoy buscando"
+
+msgid "modelUsersPassword"
+msgstr "Contraseña"
+
+msgid "modelUsersOldPassword"
+msgstr "Contraseña actual"
+
+msgid "modelUsersNewPassword"
+msgstr "Contraseña nueva"
+
+msgid "modelUsersVisible"
+msgstr "Visibilidad"
+
+msgid "modelUsersRole"
+msgstr "Grupo"
+
+msgid "modelUsersPhone"
+msgstr "Numero de telefono"
+
+msgid "modelUsersVkId"
+msgstr "ID Vkontakte"
+
+msgid "modelUsersFacebookId"
+msgstr "ID Facebook"
+
+msgid "modelUsersTwitterId"
+msgstr "ID Twitter"
+
+msgid "modelUsersAvatar"
+msgstr "Avatar"
+
+msgid "modelUsersDefaultAvatar"
+msgstr "Avatar estandar"
+
+msgid "modelUsersCity"
+msgstr "Ciudad"
+
+msgid "modelUsersCountry"
+msgstr "País"
+
+msgid "modelUsersResidence"
+msgstr "Ubicacion"
+
+msgid "modelUsersLat"
+msgstr "Latitud"
+
+msgid "modelUsersLng"
+msgstr "Longitud"
+
+msgid "modelUsersAbout"
+msgstr "Acerca de mí"
+
+msgid "profileStatus"
+msgstr "Estado"
+
+msgid "modelUsersIntroduceMyself"
+msgstr "Mi estado"
+
+msgid "modelUsersWantToMeet"
+msgstr "Quiero encontrar"
+
+msgid "modelUsersPreferredAge"
+msgstr "Edad preferida"
+
+msgid "dateofbirth"
+msgstr "Fecha de nacimiento"
+
+msgid "modelUsersHeight"
+msgstr "Estatura"
+
+msgid "modelUsersWeight"
+msgstr "Peso"
+
+msgid "modelUsersPhysique"
+msgstr "Tipo de cuerpo"
+
+msgid "modelUsersColor"
+msgstr "Color de pelo"
+
+msgid "modelUsersColorEyes"
+msgstr "Color de ojos"
+
+msgid "modelUsersSign"
+msgstr "Signo zodiacal"
+
+msgid "modelUsersType"
+msgstr "Propósito de citas"
+
+msgid "modelUsersAcquainted"
+msgstr "Estoy conociendo ..."
+
+msgid "modelUsersBed"
+msgstr "En sexo me gusta"
+
+msgid "modelUsersExcites"
+msgstr "Me emociona"
+
+msgid "modelUsersStatus"
+msgstr "Estado de relacion"
+
+msgid "modelUsersChildren"
+msgstr "Hijos"
+
+msgid "modelUsersOrientation"
+msgstr "Orientación sexual"
+
+msgid "modelUsersSmoking"
+msgstr "Fumador"
+
+msgid "modelUsersAlcohol"
+msgstr "Alcohol"
+
+msgid "modelUsersEducation"
+msgstr "Educación"
+
+msgid "modelUsersJob"
+msgstr "Trabajo"
+
+msgid "modelUsersIncome"
+msgstr "Ingresos"
+
+msgid "modelUsersLove_work"
+msgstr "En el trabajo me gusta"
+
+msgid "modelUsersLove_institute"
+msgstr "En la universidad me gusta"
+
+msgid "modelUsersLove_go"
+msgstr "Me gusta visitar"
+
+msgid "modelUsersLove_music"
+msgstr "Musica favorita"
+
+msgid "modelUsersBan"
+msgstr "Bloqueado"
+
+msgid "modelUsersSendEmails"
+msgstr "Recibir notificaciones por correo electrónico"
+
+msgid "modelUsersSounds"
+msgstr "Encender sonidos de mensajes"
+
+msgid "modelUsersShowPixeledImages"
+msgstr "Mostrar fotos distorcionadas a los desconocidos"
+
+msgid "modelUsersHideImages"
+msgstr "Esconder la foto"
+
+msgid "modelUsersTimeZone"
+msgstr "Huso horario"
+
+msgid "moduleUsersAutoSelectTimeZone"
+msgstr "Definir automáticamente"
+
+msgid "modelUsersRegistered"
+msgstr "Registrado"
+
+msgid "modelUsersInvitedBy"
+msgstr "Invitación"
+
+msgid "modelUsersLoginWithToken"
+msgstr "Ingresar automáticamente vía el enlace en el mensaje electrónico"
+
+msgid "physiqueSlim"
+msgstr "Delgado"
+
+msgid "physiqueAverage"
+msgstr "Regular"
+
+msgid "physiqueAthletic"
+msgstr "Atlético"
+
+msgid "physiqueMuscular"
+msgstr "Muscular"
+
+msgid "physiqueHeavy"
+msgstr "Robusto"
+
+msgid "physiqueFull"
+msgstr "Con unos kilos de más"
+
+msgid "colorEyesBrown"
+msgstr "Marrón"
+
+msgid "colorEyesGreen"
+msgstr "Verde"
+
+msgid "colorEyesBlue"
+msgstr "Azul"
+
+msgid "colorEyesGray"
+msgstr "Gris"
+
+msgid "colorEyesBlack"
+msgstr "Negro"
+
+msgid "colorEyesHazel"
+msgstr "Avellana"
+
+msgid "smokingDoNotSmoke"
+msgstr "No"
+
+msgid "smokingRarely"
+msgstr "A veces"
+
+msgid "smokingGiving"
+msgstr "Intentando de parar"
+
+msgid "smokingOften"
+msgstr "Frecuentemente"
+
+msgid "alcoholDoNotDrink"
+msgstr "No"
+
+msgid "alcoholILikeToDrink"
+msgstr "Frecuentemente"
+
+msgid "alcoholOnHolidays"
+msgstr "Socialmente"
+
+msgid "educationSecondary"
+msgstr "Secundaria / Liceo"
+
+msgid "educationTechnical"
+msgstr "Dos años de universidad / Escuela técnica"
+
+msgid "educationHigher"
+msgstr "Universidad / Estudios superiores"
+
+msgid "incomeLow"
+msgstr "Bajos"
+
+msgid "incomeMedium"
+msgstr "Medios"
+
+msgid "incomeHigh"
+msgstr "Altos"
+
+msgid "systemAdministrator"
+msgstr "Administrador"
+
+msgid "childrenNo"
+msgstr "No"
+
+msgid "childrenYes"
+msgstr "Sí"
+
+msgid "signAries"
+msgstr "Aries"
+
+msgid "signTaurus"
+msgstr "Tauro"
+
+msgid "signTwins"
+msgstr "Géminis"
+
+msgid "signCancer"
+msgstr "Cancer"
+
+msgid "signLion"
+msgstr "Leo"
+
+msgid "signVirgo"
+msgstr "Virgo"
+
+msgid "signLibra"
+msgstr "Libra"
+
+msgid "signScorpio"
+msgstr "Escorpión"
+
+msgid "signSagittarius"
+msgstr "Sagitario"
+
+msgid "signCapricorn"
+msgstr "Capricornio"
+
+msgid "signAquarius"
+msgstr "Acuario"
+
+msgid "signPisces"
+msgstr "Piscis"
+
+msgid "changeFieldInSearch"
+msgstr "En búsqueda"
+
+msgid "changeFieldHasAFriend"
+msgstr "En una relación"
+
+msgid "changeFieldMarried"
+msgstr "Casado/a"
+
+msgid "changeFieldNotInSearch"
+msgstr "No estoy buscando"
+
+msgid "changeFieldBreaked"
+msgstr "Divorciado/a"
+
+msgid "haircolorLight"
+msgstr "Rubio"
+
+msgid "haircolorDark"
+msgstr "Oscuro"
+
+msgid "haircolorRed"
+msgstr "Pelirrojo"
+
+msgid "haircolorTanned"
+msgstr "Mechones"
+
+msgid "haircolorBright"
+msgstr "Brillante"
+
+msgid "haircolorWhite"
+msgstr "Gris"
+
+msgid "haircolorSkin"
+msgstr "Rapado"
+
+msgid "haircolorBald"
+msgstr "Calvo"
+
+msgid "changeFieldHetero"
+msgstr "Heterosexual"
+
+msgid "changeFieldGay"
+msgstr "Gay / Lesbiana"
+
+msgid "changeFieldBi"
+msgstr "Bisexual"
+
+msgid "ofWoman"
+msgstr "Mujer"
+
+msgid "ofMan"
+msgstr "Hombre"
+
+msgid "introduceMyselfOnlyMyself"
+msgstr "Soltero/a"
+
+msgid "introduceMyselfAsPair"
+msgstr "Pareja"
+
+msgid "changeFieldFriendship"
+msgstr "Amistad y comunicación"
+
+msgid "changeFieldFlirt"
+msgstr "Coqueteo"
+
+msgid "changeFieldRomantic"
+msgstr "Relación romántica"
+
+msgid "changeFieldSex"
+msgstr "Sexo"
+
+msgid "changeFieldAtWork"
+msgstr "En el trabajo"
+
+msgid "changeFieldNeighbor"
+msgstr "En el vecindario"
+
+msgid "changeFieldSchool"
+msgstr "En el colegio / En la universidad"
+
+msgid "changeFieldStreet"
+msgstr "En la calle"
+
+msgid "changeFieldOral"
+msgstr "Sexo oral"
+
+msgid "changeFieldAnal"
+msgstr "Sexo anal"
+
+msgid "changeFieldGroup"
+msgstr "Sexo en grupo"
+
+msgid "changeFieldPublic"
+msgstr "Sexo en lugares extraños"
+
+msgid "changeFieldRoleplay"
+msgstr "Juegos de roles"
+
+msgid "changeFieldToys"
+msgstr "Juguetes"
+
+msgid "changeFieldBdsm"
+msgstr "Sadomasoquismo"
+
+msgid "changeFieldClassicSex"
+msgstr "Sexo clásico"
+
+msgid "changeFieldSmells"
+msgstr "Olores"
+
+msgid "changeFieldHighHair"
+msgstr "Mucho pelo"
+
+msgid "changeFieldTattoo"
+msgstr "Tatuajes y perforaciones"
+
+msgid "changeFieldDarkskin"
+msgstr "Piel oscura"
+
+msgid "changeFieldUnderwear"
+msgstr "Ropa interior"
+
+msgid "changeFieldUniform"
+msgstr "Uniformes"
+
+msgid "changeFieldStockings"
+msgstr "Medias con encaje"
+
+msgid "changeFieldFootwear"
+msgstr "Zapatos"
+
+msgid "changeFieldDominate"
+msgstr "Dominacion y submision"
+
+msgid "changeFieldBondage"
+msgstr "Bondage e inmobilizacion"
+
+msgid "changeFieldPain"
+msgstr "Dolor"
+
+msgid "monthsJan"
+msgstr "Enero"
+
+msgid "monthsFeb"
+msgstr "Febrero"
+
+msgid "monthsMar"
+msgstr "Marzo"
+
+msgid "monthsApr"
+msgstr "Abril"
+
+msgid "monthsMay"
+msgstr "Mayo"
+
+msgid "monthsJun"
+msgstr "Junio"
+
+msgid "monthsJul"
+msgstr "Julio"
+
+msgid "monthsAug"
+msgstr "Agosto"
+
+msgid "monthsSep"
+msgstr "Septiembre"
+
+msgid "monthsOct"
+msgstr "Octubre"
+
+msgid "monthsNov"
+msgstr "Noviembre"
+
+msgid "monthsDec"
+msgstr "Diciembre"
+
+msgid "removingProfileCauseIPlaGoBack"
+msgstr "Me voy por un tiempo, pero volvere"
+
+msgid "profileLastVisit"
+msgstr "Ultima visita"
+
+msgid "dateToday"
+msgstr "Hoy"
+
+msgid "dateYesterday"
+msgstr "ayer"
+
+msgid "date2DaysAgo"
+msgstr "anteayer"
+
+msgid "profileLastVisitAt"
+msgstr "a las"
+
+msgid "chatBigMessage"
+msgstr "El mensaje no puede sobrepasar el límite de 2000 caracteres."
+
+msgid "errorFolderCreate"
+msgstr "Ya tienes una carpeta con este nombre"
+
+msgid "foldersDeleteError"
+msgstr "Lo sentimos, no se pudo borrar la carpeta seleccionada :("
+
+msgid "noteErrorTooLong"
+msgstr "Esta nota sobrepasa el límite de 1000 caracteres."
+
+msgid "noteErrorTags"
+msgstr "Esta nota no puede contener etiquetas de HTML."
+
+msgid "guestsWasMan"
+msgid_plural "guestsWasWoman"
+msgstr[0] "Ultima visualización"
+msgstr[1] "Ultima visualización"
+
+msgid "guestsYear"
+msgid_plural "guestsYears"
+msgstr[0] "%d año"
+msgstr[1] "%d años"
+
+msgid "guestsMonth"
+msgid_plural "guestsMonths"
+msgstr[0] "%d mes"
+msgstr[1] "%d meses"
+
+msgid "guestsDay"
+msgid_plural "guestsDays"
+msgstr[0] "%d día"
+msgstr[1] "%d días"
+
+msgid "guestsHour"
+msgid_plural "guestsHours"
+msgstr[0] "%s hora"
+msgstr[1] "%s horas"
+
+msgid "guestsMinute"
+msgid_plural "guestsMinutes"
+msgstr[0] "%d minuto"
+msgstr[1] "%d minutos"
+
+msgid "guestsBack"
+msgstr "hace"
+
+msgid "topfacesMessageTooShort"
+msgstr "Este mensaje sobrepasa el límite de 140 caracteres."
+
+msgid "topfaceStatusInvalidValue"
+msgstr "El campo de estado contiene un valor inválido"
+
+msgid "formErrorNewPasswRepeat"
+msgstr "Contraseña incorrecta"
+
+msgid "modelLoginFormEmail"
+msgstr "Correo electrónico"
+
+msgid "modelForgotpassPassword"
+msgstr "Contraseña"
+
+msgid "modelForgotpassPasswordRepeat"
+msgstr "Reintroduce la contraseña"
+
+msgid "modelFogotpassEmailExists"
+msgstr "No hay ningún usuario registrado con este correo electrónico"
+
+msgid "modelFogotpassInvalidLink"
+msgstr "Enlace inválido"
+
+msgid "modelFogotpassPassDoNotMatch"
+msgstr "Las contraseñas no coinciden"
+
+msgid "visitors"
+msgstr "visitantes"
+
+msgid "facebookLikeShowUsYouLikeUs"
+msgstr "¡Comparte con nosotros un poco de amor!"
+
+msgid "systemRegisterSmall"
+msgstr "Registración"
+
+msgid "chatMoveIn"
+msgstr "Mover a"
+
+msgid "chatFoldersFirst"
+msgstr "General"
+
+msgid "chatFoldersSecond"
+msgstr "Favoritos"
+
+msgid "chatFoldersThird"
+msgstr "Ignorados"
+
+msgid "langRussian"
+msgstr "Ruso"
+
+msgid "yourPhotoHere"
+msgstr "¡Tu foto aquí!"
+
+msgid "topfacesAdd"
+msgstr "¡TOP!"
+
+msgid "topfacesItsYou"
+msgstr "¡Eres tú!"
+
+msgid "userBalloonChat"
+msgstr "Escribir un mensaje"
+
+msgid "userBalloonProfile"
+msgstr "Ver perfil"
+
+msgid "topfacesDialogTitle"
+msgstr "¡Agrégate al TOP!"
+
+msgid "topfacesDialogChoosePhoto"
+msgstr ""
+"Selecciona tu foto o puedes <a href=\"/users/view/%s\">subir</a>&nbsp;una "
+"nueva foto"
+
+msgid "topfacesDialogTypeMessage"
+msgstr "Escribe un mensaje corto"
+
+msgid "actionSend"
+msgstr "Enviar"
+
+msgid "topfacesDialogNoPhotos"
+msgstr ""
+"Para agregar una foto al TOP, primero tienes que <a href=\"/users/view/%s"
+"\">subir</a>&nbsp;una foto de perfil."
+
+msgid "TopFacesLimitExceeded"
+msgstr "Está permitido agregar solo una foto por hora. Por favor, espera."
+
+msgid "emailConfirmPleaseTitle"
+msgstr ""
+"El enlace de confirmación ha sido enviado a tu correo electrónico. Al haber "
+"confirmado tu dirección de correo electrónico, tendrás acceso a todas las "
+"funciones del sitio web. <a href='%link%'>¿No recibiste el enlace?</a>"
+
+msgid "emailConfirmCheckSpam"
+msgstr ""
+"Revisar su bandeja de Spam/Correo no deseado, nuestra carta pudo llegar ahi "
+"por error. Si es asi, por favor marcalo como <b>no es spam</b>."
+
+msgid "emailConfirmPleaseNotice"
+msgstr "&nbsp;"
+
+msgid "socialLikeStr"
+msgstr "Me gusta"
+
+msgid "complainHead"
+msgstr "Reportar"
+
+msgid "complainIgnore"
+msgstr "Bloquear"
+
+msgid "complainIgnoreDescription"
+msgstr ""
+"No recibirás mensajes provenientes de este usuario. Puedes anular esta "
+"acción más tarde si cambias de opinión."
+
+msgid "complainError1"
+msgstr "Especifica la razón de este reporte"
+
+msgid "complainSubmit"
+msgstr "Enviar"
+
+msgid "complainOr"
+msgstr "&nbsp;"
+
+msgid "complainClose"
+msgstr "Cancelar"
+
+msgid "menuFeedback"
+msgstr "Sugerencias"
+
+msgid "menuRules"
+msgstr "Términos"
+
+msgid "menuContacts"
+msgstr "Contáctanos"
+
+msgid "menuHelpUs"
+msgstr "Ayúdanos"
+
+msgid "flirtNear"
+msgstr "Cercanía"
+
+msgid "menuAbout"
+msgstr "Acerca de nosotros"
+
+msgid "menuSearch"
+msgstr "Buscar"
+
+msgid "flirtCarousel"
+msgstr "Encontrar"
+
+msgid "menuChat"
+msgstr "Chat"
+
+msgid "mainTitle"
+msgstr "Invita a tus conocidos, a tus colegas de trabajo y a tus vecinos…"
+
+msgid "mainTitle2"
+msgstr "y coquetea de manera anónima"
+
+msgid "menTitles1"
+msgstr "¿Te gusta tu vecina?"
+
+msgid "menTitles2"
+msgstr "¿Te gusta tu colega?"
+
+msgid "menTitles3"
+msgstr "¿Desearías coquetear con tu examiga?"
+
+msgid "menTitles4"
+msgstr "¿Estás aburrido?"
+
+msgid "womanTitles1"
+msgstr "¿Te gusta tu vecino?"
+
+msgid "womanTitles2"
+msgstr "¿Te gusta tu colega?"
+
+msgid "womanTitles3"
+msgstr "¿Desearías coquetear con tu examigo?"
+
+msgid "womanTitles4"
+msgstr "¿Estás aburrida?"
+
+msgid "menTexts1"
+msgstr ""
+"<a href=\"/\">Invítala</a> por tarjeta postal. Coloca la tarjeta postal "
+"debajo del parabrisas de su carro o en su buzón de correos."
+
+msgid "menTexts2"
+msgstr ""
+"Consigue su dirección de correo electrónico e <a href=\"/\">invítala</a> a "
+"registrarse en Lovetime."
+
+msgid "menTexts3"
+msgstr ""
+"Consigue su dirección de correo electrónico o su número de teléfono celular "
+"e <a href=\"/\">invítala</a> a registrarse en Lovetime."
+
+msgid "menTexts4"
+msgstr ""
+"Haz clic en &ldquo;<a href=\"/#flirt\" class=\"top-flirt\">Coquetear</"
+"a>&rdquo; para conocer gente."
+
+msgid "womanTexts1"
+msgstr ""
+"<a href=\"/\">Invítalo</a> por tarjeta postal. Coloca la tarjeta postal "
+"debajo del parabrisas de su carro o en su buzón de correos."
+
+msgid "womanTexts2"
+msgstr ""
+"Consigue su dirección de correo electrónico e <a href=\"/\">invítalo</a> a "
+"registrarse en Lovetime."
+
+msgid "womanTexts3"
+msgstr ""
+"Consigue su dirección de correo electrónico o su número de teléfono celular "
+"e <a href=\"/\">invítalo</a> a registrarse en Lovetime."
+
+msgid "womanTexts4"
+msgstr ""
+"Haz clic en &ldquo;<a href=\"/#flirt\" class=\"top-flirt\">Coquetear</"
+"a>&rdquo; para conocer gente."
+
+msgid "foldersTitle"
+msgstr "Ingresa un nombre para la carpeta"
+
+msgid "foldersCancel"
+msgstr "Cancelar"
+
+msgid "foldersCreate"
+msgstr "Crear"
+
+msgid "foldersRename"
+msgstr "Renombrar"
+
+msgid "userBalloonCarousel"
+msgstr "Encontrar"
+
+msgid "userBalloonExchange"
+msgstr "Intercambiar campos"
+
+msgid "chatBalloonMove"
+msgstr "Mover"
+
+msgid "chatBalloonSelect1"
+msgstr "Seleccionado"
+
+msgid "chatBalloonSelect2"
+msgstr "Seleccionado"
+
+msgid "chatBalloonSelect3"
+msgstr "Seleccionado"
+
+msgid "errorFolderEmpty"
+msgstr "Por favor, introduce un nombre para esta carpeta"
+
+msgid "dateDaysBefore"
+msgstr "días atrás"
+
+msgid "dateMomentAgo"
+msgstr "hace poco"
+
+msgid "dateSecondAgo_plural_1"
+msgstr "hace unos instantes"
+
+msgid "dateSecondAgo_plural_2"
+msgstr "hace algunos segundos"
+
+msgid "dateSecondAgo_plural_3"
+msgstr "hace algunos segundos"
+
+msgid "dateMinuteAgo_plural_1"
+msgstr "hace un minuto"
+
+msgid "dateMinuteAgo_plural_2"
+msgstr "minutos atrás"
+
+msgid "dateMinuteAgo_plural_3"
+msgstr "minutos atrás"
+
+msgid "dateCoupleMinutesAgo"
+msgstr "hace algunos minutos"
+
+msgid "dateHourAgo_plural_1"
+msgstr "hace una hora"
+
+msgid "dateHourAgo_plural_2"
+msgstr "hace algunas horas"
+
+msgid "dateHourAgo_plural_3"
+msgstr "hace algunas horas"
+
+msgid "messages_plural_1"
+msgstr "mensaje"
+
+msgid "messages_plural_2"
+msgstr "mensaje"
+
+msgid "messages_plural_3"
+msgstr "mensajes"
+
+msgid "usersAddToFavorite"
+msgstr "Agregar a Favoritos"
+
+msgid "actionBlock"
+msgstr "Bloquear"
+
+msgid "chatComplain"
+msgstr "Reportar"
+
+msgid "usersRemoveFromFavorite"
+msgstr "Eliminar de Favoritos"
+
+msgid "actionOr"
+msgstr "o"
+
+msgid "actionDelete"
+msgstr "Borrar"
+
+msgid "galleryClose"
+msgstr "Cerrar"
+
+msgid "galleryUploadError"
+msgstr "Hubo un error al subir este archivo. Por favor, intenta más tarde."
+
+msgid "galleryUploadFilesName"
+msgstr "Archivos de imágenes"
+
+msgid "galleryUploadPossibleFiles"
+msgstr "Puedes subir solamente archivos de imágenes. Formatos aceptados:"
+
+msgid "modelUsersHasPhoto"
+msgstr "Foto"
+
+msgid "modelUsersHasPhotoCondition"
+msgstr "Con&nbsp;foto"
+
+msgid "modelUsersHasNoPhotoCondition"
+msgstr "Sin foto"
+
+msgid "searchHair"
+msgstr "Color de cabello"
+
+msgid "requireRegistration4MaleTitle"
+msgstr "%s compartió mucho más detalles personales que ti."
+
+msgid "requireRegistration4FemaleTitle"
+msgstr "%s compartió mucho más detalles personales que ti."
+
+msgid "requireRegistrationNote"
+msgstr "Para poder ver otros perfiles, primero tienes que registrarte."
+
+msgid "requireRegistrationCancel"
+msgstr "Cancelar"
+
+msgid "requireRegistrationRegister"
+msgstr "Registrarse"
+
+msgid "increaseInfoConfirmNote"
+msgstr ""
+"Para ver los perfiles de otros usuarios, debes completar el tuyo al menos a "
+"50%."
+
+msgid "increaseInfoConfirmFillNow"
+msgstr "Completar ahora"
+
+msgid "increaseInfoConfirmCancel"
+msgstr "Cancelar"
+
+msgid "Credit Card"
+msgstr "Carta de crédito"
+
+msgid "registerHello"
+msgstr "Hey"
+
+msgid "registerForEnd"
+msgstr ""
+"Para finalizar la registracion, confirma que Usted tiene perfil en nuestra "
+"pagina?"
+
+msgid "registerYes"
+msgstr "Si"
+
+msgid "registerNo"
+msgstr "No"
+
+msgid "registerForEndYes"
+msgstr "Por favor ingrese su contraseña"
+
+msgid "registerBack"
+msgstr "Atras"
+
+msgid "registerForEndNo"
+msgstr "Revisar la informacion"
+
+msgid "registerUnderNick"
+msgstr ""
+"No utilices tu verdadero nombre o apodo, por los cuales puedes ser "
+"reconocido."
+
+msgid "registerEmailTip"
+msgstr "Nadie puede verlo"
+
+msgid "birthDay"
+msgstr "día"
+
+msgid "birthMonth"
+msgstr "mes"
+
+msgid "birthYear"
+msgstr "año"
+
+msgid "systemLoginAllRight"
+msgstr "Todo esta correcto"
+
+msgid "registerRequire"
+msgstr "Por favor llene todos los campos requeridos"
+
+msgid "socialAuthFailed"
+msgstr "Fallo de autorizacion"
+
+msgid "registerAuthOk"
+msgstr ""
+"Autorizacion completada. Ahora Usted sera dirigido a la pagina principal. O "
+"presione"
+
+msgid "registerAuthHere"
+msgstr "aqui"
+
+msgid "registerAuthNone"
+msgstr "Usuario no encontrado"
+
+msgid "registerAlreadyYes"
+msgstr "Usuario con tal correo electronico ya se habia registrado"
+
+msgid "registerAuthFailed"
+msgstr "Autorizacion fallo"
+
+msgid "registerCreateFailed"
+msgstr ""
+"Fallo al crear el usuario. Revise si todos los campos estan llenos "
+"correctamente"
+
+msgid "authFacebook"
+msgstr "Autorizarse utilizando Facebook"
+
+msgid "authVkontakte"
+msgstr "Autorizarse utilizando Vkontakte"
+
+msgid "citationNotExist"
+msgstr "Cita no encontrada"
+
+msgid "citationAccessDenied"
+msgstr "Cita no le pertenece"
+
+msgid "VIP"
+msgstr "VIP"
+
+msgid "questRegister"
+msgstr "inscripción"
+
+msgid "balanceChangeInQuest"
+msgstr "Modificar el saldo (búsqueda)"
+
+msgid "superstarModelAttributeIsReseted"
+msgstr "&nbsp;"
+
+msgid "payonlinesystemError3"
+msgstr ""
+"El pago es rechazado por su banco emisor de tarjeta de crédito. Es necesario "
+"ponerse en contacto con el banco para averiguar la razón de su pago ha sido "
+"rechazado y vuelva a intentarlo."
+
+msgid "payonlinesystemError2"
+msgstr ""
+"No es posible pagar con tarjeta de crédito. Usted tiene que usar otro método "
+"de pago."
+
+msgid "payonlinesystemError1"
+msgstr "Error técnico, por favor, inténtelo de nuevo más tarde."
+
+msgid "payonlinesystemError0"
+msgstr "Imposible a realizar el pago"
+
+msgid "seocatalogTitleDatingSite"
+msgstr "Un sitio de encuentros para conocer mujeres y hombres."
+
+msgid "seocatalogH1DatingSite"
+msgstr "un sitio de encuentros"
+
+msgid "seocatalogH1CountriesAndCities"
+msgstr "Países y ciudades"
+
+msgid "seocatalogTitleDatingWithWomen"
+msgstr "Encuentros con mujeres"
+
+msgid "seocatalogH1DatingWithWomen"
+msgstr "Encuentros con mujeres"
+
+msgid "seocatalogTitleDatingWithMen"
+msgstr "Encuentros con hombres"
+
+msgid "seocatalogH1DatingWithMen"
+msgstr "Encuentros con hombres"
+
+msgid "seocatalogTitleDatingWithLesbian"
+msgstr "Encuentros con lesbianas"
+
+msgid "seocatalogH1DatingWithLesbian"
+msgstr "Encuentros con lesbianas"
+
+msgid "seocatalogTitleDatingWithGays"
+msgstr "Encuentros con gays"
+
+msgid "seocatalogH1DatingWithGays"
+msgstr "Encuentros con gays"
+
+msgid "seocatalogTitleDatingWithBisexuals"
+msgstr "Encuentros con bisexuales"
+
+msgid "seocatalogH1DatingWithBisexuals"
+msgstr "Encuentros con bisexuales"
+
+msgid "seocatalogTitleGuysGirls_18_20"
+msgstr "Mujeres y hombres de 18‒20 años de edad"
+
+msgid "seocatalogH1GuysGirls_18_20"
+msgstr "Mujeres y hombres entre 18 a 20 años"
+
+msgid "seocatalogTitleGuysGirls_21_25"
+msgstr "Mujeres y hombres de 21‒25 años de edad"
+
+msgid "seocatalogH1GuysGirls_21_25"
+msgstr "Mujeres y hombres entre 21 a 25 años"
+
+msgid "seocatalogTitleGuysGirls_26_30"
+msgstr "Mujeres y hombres de 26‒30 años de edad"
+
+msgid "seocatalogH1GuysGirls_26_30"
+msgstr "Mujeres y hombres entre 26 a 30 años"
+
+msgid "seocatalogTitleGuysGirls_31_35"
+msgstr "Mujeres y hombres de 31‒35 años de edad"
+
+msgid "seocatalogH1GuysGirls_31_35"
+msgstr "Mujeres y hombres entre 31 a 35 años"
+
+msgid "seocatalogTitleGuysGirls_35_40"
+msgstr "Mujeres y hombres de 35‒40 años de edad"
+
+msgid "seocatalogH1GuysGirls_35_40"
+msgstr "Mujeres y hombres entre 35 a 40 años"
+
+msgid "seocatalogTitleMeetingForCommunication"
+msgstr "Encuentros para amistad y communicación"
+
+msgid "seocatalogH1MeetingForCommunication"
+msgstr "Encuentros para hacer communicación"
+
+msgid "seocatalogTitleMeetingRorRomanticRelations"
+msgstr "Encuentros para amistad y communicación"
+
+msgid "seocatalogH1MeetingRorRomanticRelations"
+msgstr "Encuentros para romance"
+
+msgid "seocatalogTitleMeetingForFlirt"
+msgstr "Encuentros para coquetear"
+
+msgid "seocatalogH1MeetingForFlirt"
+msgstr "Encuentros para coquetear"
+
+msgid "seocatalogTitleMeetingForCloseRelations"
+msgstr "Encuentros para relaciones íntimas y sexo"
+
+msgid "seocatalogH1MeetingForCloseRelations"
+msgstr "Encuentros para relaciones íntimas"
+
+msgid "seocatalogTitleBlondes"
+msgstr "Encuentros de rubias y rubios"
+
+msgid "seocatalogH1Blondes"
+msgstr "Rubios y rubias"
+
+msgid "seocatalogTitleBrunettes"
+msgstr "Encuentros de morenas y morenos"
+
+msgid "seocatalogH1Brunettes"
+msgstr "Morenos y morenas"
+
+msgid "seocatalogTitleBrownHaired"
+msgstr "Encuentros de rubios y pelirrojos"
+
+msgid "seocatalogH1BrownHaired"
+msgstr "Morenos y morenas"
+
+msgid "seocatalogTitleDatingWithAthletic"
+msgstr "Encuentros de hombres y mujeres atléticos"
+
+msgid "seocatalogH1DatingWithAthletic"
+msgstr "encuentros con hombres y mujeres atléticos"
+
+msgid "seocatalogTitleDatingWithSlim"
+msgstr "Encuentros de hombres y mujeres delgados"
+
+msgid "seocatalogH1DatingWithSlim"
+msgstr "encuentros con hombres y mujeres delgados"
+
+msgid "seocatalogTitleDatingWithHeavy"
+msgstr "Encuentros de mujeres y hombres pesados"
+
+msgid "seocatalogH1DatingWithHeavy"
+msgstr "encuentros con hombres y mujeres pesados"
+
+msgid "seocatalogTitleDatingWithForeigners"
+msgstr "Encuentros de personas de otros países"
+
+msgid "seocatalogH1DatingWithForeigners"
+msgstr "encuentros con personas de otros países"
+
+msgid "seocatalogTitleDatingWithRich"
+msgstr "Encuentros de personas ricas"
+
+msgid "seocatalogH1DatingWithRich"
+msgstr "encuentros con personas ricas"
+
+msgid "seocatalogTitleDatingWithSingles"
+msgstr "Encuentros de solteros y solteras"
+
+msgid "seocatalogH1DatingWithSingles"
+msgstr "encuentros con solteros y solteras"
+
+msgid "seocatalogTitleDatingWithPeopleHavingNoBadHabits"
+msgstr "Encuentros de personas sin vicios"
+
+msgid "seocatalogH1DatingWithPeopleHavingNoBadHabits"
+msgstr "encuentros con personas sin vicios"
+
+msgid "searchShowMore"
+msgstr "Mostrar mas"
+
+msgid "seocatalogTitleCountriesAndCities"
+msgstr "países y ciudades"
+
+msgid "age"
+msgstr "Edad"
+
+msgid "modelUsersSexWoman"
+msgstr "Femenino"
+
+msgid "modelUsersSexMan"
+msgstr "Masculino"
+
+msgid "modelUsersSexAny"
+msgstr "cualquier sexo"
+
+msgid "searchUsersRegion"
+msgstr "Region"
+
+msgid "actionFind"
+msgstr "Encontrar"
+
+msgid "mainTitle3Noa"
+msgstr "buscaparejas gratis en linea"
+
+msgid "clockNavExactSearch"
+msgstr "Búsqueda exacta"
+
+msgid "clockNavExactSearchSubtext"
+msgstr "Más de 20 parámetros de búsqueda"
+
+msgid "clockNavMeetings"
+msgstr "Haz un encuentro hoy día"
+
+msgid "clockNavMeetingsSubtext"
+msgstr ""
+"En cuestión de minutos empieza a enviar y a recibir <b>invitaciones para "
+"hacer un encuentro</b>"
+
+msgid "clockNavInstantCommunication"
+msgstr "Comunícate ahora mismo"
+
+msgid "clockNavInstantCommunicationSubtext"
+msgstr "Encuentra a alguien con quien <b>chatear en segundos</b>"
+
+msgid "clockNavWhosNear"
+msgstr "Encuentra gente cerca de ti"
+
+msgid "clockNavWhosNearSubtext"
+msgstr "Encuentra cientos de personas bonitas <b>a pocos kilómetros de ti</b>"
+
+msgid "clockNavHasContact"
+msgstr "Conoce personas de lugares diferentes"
+
+msgid "clockNavHasContactSubtext"
+msgstr "Traductor integrado en el chat <b>disponible en 64 idiomas</b>"
+
+msgid "clockNavperfectCouple"
+msgstr "Pareja perfecta"
+
+msgid "clockNavperfectCoupleSubtext"
+msgstr "<b>Selección automática de</b> posibles parejas"
+
+msgid "peopleHere"
+msgstr "Ya estan aqui"
+
+msgid "carouselFillAnketa0"
+msgstr "Para jugar Carusel"
+
+msgid "carouselFillAnketa1"
+msgstr "por favor, especifique"
+
+msgid "carouselFillAnketa2"
+msgstr "su edad, pais, ciudad y carga una foto"
+
+msgid "flirtSearch"
+msgstr "Busqueda"
+
+msgid "pagesAbout"
+msgstr ""
+"Casi todos hemos tenido la experiencia de que nos gustara un conocido. Pero "
+"mayormente tememos expresar libremente nuestros sentimientos.<br/><br/>El "
+"servicio resuelva este problema. Ahora Usted tiene la oportunidad de "
+"flirtear sin tener el miedo de ser rechazado.<br/><br/>&bull;  Usted esta "
+"sentado proximo a su colega y no sabe como acercarse? El servicio le "
+"ayudara<br/>&bull; Conocer la estrella de la escuela o universidad? Es "
+"simple.<br/>&bull; Le gusta su vecino? Preguntale si Usted le gusta.<br/><br/"
+">Que tipo de persona esta buscando Usted... amor o sexo? Si le gusta alguien "
+"en el trabajo, escuela y etc? Usted puede descubrirlo solo en un click."
+
+msgid "pagesRulesTitle2"
+msgstr "Reglas de registracion"
+
+msgid "pagesRules"
+msgstr ""
+"<h2>Colocando mi informacion personal en la pagina Lovetime (aqui y a "
+"continuacion denominado como Pagina) Yo estoy aceptando lo siguiente :</"
+"h2><ol><li>Yo confirmo que yo he leido los terminos y condiciones y estoy "
+"preparado a seguirlos. </li><li>Yo garantizo que mi edad esta por encima de "
+"18 anos. </li><li>Yo llevo la responsabilidad personal por el contenido o "
+"otra informacion publicada en la Pagina, para su integridad y confdencia  "
+"cual es necesaria para mi autorizacion en la pagina.</li><li> Estoy "
+"advertido que la Pagina puede contener informacion dirigida exclusivamente a "
+"mayores de edad.</li><li> Yo prometo utilizar la Pagina en acuerdo con las "
+"leyes locales </li><li>Me comprometo a no distribuir públicamente mensajes o "
+"direcciones de correo electrónico, números de teléfono, enlaces u otros "
+"detalles. </li> <li> Prometo no publicar insultos, calumnias, obscenidades, "
+"pornografía u otros materiales inmorales, los materiales que muestran o "
+"promueven la crueldad, el terrorismo o la violencia; materiales que ofenden "
+"la dignidad humana, así como otros materiales que están en contra de la ley. "
+"</li> <li> Me comprometo a no engañar a otros usuarios, así como de no "
+"perseguir y molestar a ellos. </li> <li> Me comprometo a no utilizar el "
+"Sitio para atraer la atención del usuario a los bienes, obras o servicios "
+"producidos , vendidos, realizados o prestados por mí o por otros. Además me "
+"comprometo a no utilizar el Sitio para anunciar o promover materiales "
+"ilegales.</li> <li> Soy consciente de que mi información colocada en el "
+"sitio puede ser accedido por otros usuarios de Internet para que las "
+"acciones de la administración del sitio no se hace responsable </li> <li> "
+"llevo toda la responsabilidad por las posibles consecuencias negativas "
+"causadas mediante el envío de mis invitaciones anónimas. </li> </ol> <h2> la "
+"administración del sitio no se hace responsable de:. </h2> <ol> <li> El "
+"contenido, la validez y la exactitud de la información publicada por los "
+"usuarios </li> <li> cualquier daño, perjuicio o pérdida de información "
+"causada a las personas que utilizan el sitio oa través de las comunicaciones "
+"móviles y de telecomunicaciones. </li> <li> Por la violación de los derechos "
+"de autor y otros derechos de usuario de terceros por la publicación de "
+"material que no cumpla con las leyes aplicables (incluidos el derecho de "
+"autor), añadidos por el usuario en el sitio </li> </ol>"
+
+msgid "error404"
+msgstr "Error 404"
+
+msgid "pageNotFound"
+msgstr "Pagina no encontrada"
+
+msgid "formMustFill"
+msgstr "Requerido"
+
+msgid "feedbackFile"
+msgstr "Impresion de pantalla"
+
+msgid "feedbackFileTip"
+msgstr "Usted puede anexar la impresion de pantalla con el error"
+
+msgid "siteCopyrightTh"
+msgstr "Lovetime.com"
+
+msgid "man"
+msgstr "Hombre"
+
+msgid "woman"
+msgstr "Mujer"
+
+msgid "countrySelectName"
+msgstr "Pais"
+
+msgid "citySelectName"
+msgstr "Ciudad"
+
+msgid "signupBirthDay"
+msgstr "Día"
+
+msgid "signupBirthMonth"
+msgstr "Mes"
+
+msgid "signupBirthYear"
+msgstr "Año"
+
+msgid "systemRegister"
+msgstr "Registrarse"
+
+msgid "signupLicenseNote"
+msgstr ""
+"Presionando &laquo;Ingresar&raquo; Usted&nbsp;confirma que Usted tiene mas "
+"de 18&nbsp;años de edad y&nbsp;acepta <a href=\"/pages/rules\">Terminos de "
+"Usuario</a>"
+
+msgid "searchExcite"
+msgstr "Factores exitantes"
+
+msgid "searchExcitesHe"
+msgstr "Exitado con"
+
+msgid "searchExcitesShe"
+msgstr "Exitada con"
+
+msgid "searchFrom"
+msgstr "De"
+
+msgid "searchTo"
+msgstr "Hasta"
+
+msgid "searchSm"
+msgstr "(cm)"
+
+msgid "searchKg"
+msgstr "(kg)"
+
+msgid "searchSkipCond"
+msgstr "Ignorar esta condicion"
+
+msgid "sexYears"
+msgstr "Años"
+
+msgid "searchHave"
+msgstr "Si"
+
+msgid "searchHaveNot"
+msgstr "No"
+
+msgid "searchHaveChildren"
+msgstr "Si"
+
+msgid "searchHaveNotChildren"
+msgstr "No"
+
+msgid "searchLocationUndefined"
+msgstr "Cualquier ubicacion"
+
+msgid "nearFilterOnline"
+msgstr "En linea"
+
+msgid "nearFilterNew"
+msgstr "Nuevos"
+
+msgid "nearFilterAll"
+msgstr "Todos"
+
+msgid "searchAddParams"
+msgstr "Opciones avanzadas"
+
+msgid "searchAddToSearch"
+msgstr "Agregar a&nbsp;busuqeda"
+
+msgid "searchChooseAddParam"
+msgstr "Elegir opciones avanzadas"
+
+msgid "carouselYes"
+msgstr "Yes"
+
+msgid "carouselMaybeYes"
+msgstr "Es probable"
+
+msgid "carouselNo"
+msgstr "No"
+
+msgid "carouselLikeHim"
+msgstr "Le gustaria encontrarse con&nbsp;el?"
+
+msgid "carouselLikeHer"
+msgstr "Le gustarial encontrarse con&nbsp;ella?"
+
+msgid "carouselMutualGreeting"
+msgstr "<strong>Felicidades!</strong> Ustedes tienen atraccion mutua"
+
+msgid "carouselMutualMessageFemale"
+msgstr "tambien quisiera&nbsp;encontrarse con Usted"
+
+msgid "carouselMutualMessageMale"
+msgstr "tambien quisiera&nbsp;encontrarse con Usted"
+
+msgid "chatWithHer"
+msgstr "Escribir a ella"
+
+msgid "chatWithHim"
+msgstr "Escribir a el"
+
+msgid "chatMutualGreeting_female"
+msgstr ""
+"%s Usted&nbsp;queria encontrarse, quiere encontrarse con Usted! Ella esta "
+"esperando su mensaje para organizar la&nbsp;reunion!"
+
+msgid "chatMutualGreeting_male"
+msgstr ""
+"%s Usted&nbsp;queria encontrarse, quiere encontrarse con Usted! El esta "
+"esperando su mensaje para organizar la&nbsp;reunion!"
+
+msgid "gallerySingleUploadBtn"
+msgstr "Subir foto"
+
+msgid "km"
+msgstr "km"
+
+msgid "profileMeet"
+msgstr "Encontrarse"
+
+msgid "wannaMeet"
+msgstr "Quiere encontrarse?"
+
+msgid "wannaMeetHer"
+msgstr "Quiere encontrarse&nbsp;con ella?"
+
+msgid "wannaMeetHim"
+msgstr "Quiere encontrarse&nbsp;con el?"
+
+msgid "locatorSpecifyLocationPart1"
+msgstr "Dinos dónde estás en el mapa "
+
+msgid "locatorSpecifyLocationPart2"
+msgstr " para que podamos mostrarte quién se encuentra cerca."
+
+msgid "locatorSpecifyLocationPart3"
+msgstr "Especificar"
+
+msgid "corrBlackListConfirm"
+msgstr ""
+"Usted esta seguro, que Usted quiere mover los mensajes a la lista negra?"
+
+msgid "corrBlackListConfirmNote"
+msgstr "Mas tarde, si es necesario, Usted podra devolverlos"
+
+msgid "actionMove"
+msgstr "Mover"
+
+msgid "actionDontMove"
+msgstr "No mover"
+
+msgid "corrDeleteFolderConfirm"
+msgstr "Usted esta seguro de querer borrar la carpeta?"
+
+msgid "corrDeleteFolderConfirmNote"
+msgstr ""
+"Mensajes contenidos &nbsp;aqui son no&nbsp;desaparecidos pero&nbsp;seran "
+"movidos hacia&nbsp;carpeta &laquo;General&raquo"
+
+msgid "actionDontDelete"
+msgstr "No borrar"
+
+msgid "guestsIgnoreOk"
+msgstr ""
+"Correspondencia con&nbsp;el usuario ha sido movida a&laquo;Ignorados&raquo;"
+
+msgid "guestsIgnoreNote"
+msgstr "Usted podra devolverla mas tarde."
+
+msgid "actionClose"
+msgstr "Cerrar"
+
+msgid "actionChat"
+msgstr "Chat"
+
+msgid "invitePreviewFromColleagueFemale"
+msgstr "su colega quiere encontrarse con&nbsp;Usted"
+
+msgid "invitePreviewFromNeighborFemale"
+msgstr "su vecino quiere encontrarse con&nbsp;Usted"
+
+msgid "invitePreviewFromClassmateFemale"
+msgstr "su compañero quiere encontrarse con&nbsp;Usted"
+
+msgid "invitePreviewFromFamiliarFemale"
+msgstr "alguien quiere encontrarse con&nbsp;Usted"
+
+msgid "invitePreviewFromColleagueMale"
+msgstr "su colega quiere encontrarse con&nbsp;Usted"
+
+msgid "invitePreviewFromNeighborMale"
+msgstr "su vecino quiere encontrarse con&nbsp;Usted"
+
+msgid "invitePreviewFromClassmateMale"
+msgstr "su compañero quiere encontrarse con&nbsp;Usted"
+
+msgid "invitePreviewFromFamiliarMale"
+msgstr "alguien quiere encontrarse con&nbsp;Usted"
+
+msgid "invitePreviewTextFemale"
+msgstr ""
+"Para&nbsp;probar que eso no es un&nbsp;relajo ella le dice la frase codigo"
+
+msgid "invitePreviewTextMale"
+msgstr ""
+"Para&nbsp;probar que eso no es un&nbsp;relajo el le dice la frase codigo"
+
+msgid "invitePreviewDearFemale"
+msgstr "Querida"
+
+msgid "invitePreviewDearMale"
+msgstr "Querido"
+
+msgid "invitePreviewCodeTitle"
+msgstr "Para saber a quien Usted le gusta:"
+
+msgid "invitePreviewCodeVisitLink"
+msgstr "Pulsea en&nbsp;enlace"
+
+msgid "invitePreviewCodeLink"
+msgstr "Yo he sido invitado"
+
+msgid "invitePreviewCodeSite"
+msgstr "Ingresa a&nbsp;la pagina"
+
+msgid "invitePreviewCodeTopRight"
+msgstr "arriba a la derecha"
+
+msgid "invitePreviewCodeType"
+msgstr "Ingresa el codigo de invitacion"
+
+msgid "invitePreviewPostcardNote"
+msgstr ""
+"Imprime y&nbsp;ponga una tarjeta en&nbsp;el lugar donde ella seguramente "
+"sera encontrada, por ejemplo bajo los limpiavidrios del carro, en&nbsp;el "
+"correo, en&nbsp;la cartera, en&nbsp;la mesa&nbsp;... alguna idea?"
+
+msgid "invitePreviewPhoneResendNote"
+msgstr ""
+"Si Usted quiere enviar un SMS de nuevo, por favor ingrese el numero de "
+"telefono:"
+
+msgid "inviteResend"
+msgstr "Enviar de nuevo"
+
+msgid "inviteSendInvite"
+msgstr "Enviar invitacion"
+
+msgid "inviteResent"
+msgstr "enviado nuevamente"
+
+msgid "inviteSummaryTitleColleagueFemale"
+msgstr "Invitacion a la conocida&nbsp;nombrada"
+
+msgid "inviteSummaryTitleNeighborFemale"
+msgstr "Invitacion al vecina&nbsp;nombrada"
+
+msgid "inviteSummaryTitleClassmateFemale"
+msgstr "Invitacion a la companera&nbsp;nombrada"
+
+msgid "inviteSummaryTitleFamiliarFemale"
+msgstr "Invitacion al conocida&nbsp;nombrada"
+
+msgid "inviteSummaryTitleColleagueMale"
+msgstr "Invitacion al colega&nbsp;nombrado"
+
+msgid "inviteSummaryTitleNeighborMale"
+msgstr "Invitacion al vecino&nbsp;nombrado"
+
+msgid "inviteSummaryTitleClassmateMale"
+msgstr "Invitacion al companero&nbsp;nombrado"
+
+msgid "inviteSummaryTitleFamiliarMale"
+msgstr "Invitacion al conocido&nbsp;nombrado"
+
+msgid "inviteSummaryStateAgree"
+msgstr "aceptado"
+
+msgid "inviteSummaryStateWait"
+msgstr "enviado"
+
+msgid "inviteSummaryNoKeyPhrase"
+msgstr "sin la frase codigo"
+
+msgid "inviteFailCodeField"
+msgstr "Esta invitación no existe :( ¿Quizás hubo alguna equivocación?"
+
+msgid "inviteApplySuccess"
+msgstr "Invitacion aceptada!"
+
+msgid "increaseInfoConfirm4MaleTitle"
+msgstr "%s ha compartido mucho mas informacion personal que Usted"
+
+msgid "increaseInfoConfirm4FemaleTitle"
+msgstr "%s ha compartido mucho mas informacion personal que Usted"
+
+msgid "needAddPhotoConfirmTitle"
+msgstr "Deberias subir una foto"
+
+msgid "needAddPhotoConfirmNote"
+msgstr "Para ver otras fotos Usted debe cargar su imagen de perfil"
+
+msgid "needAddPhotoConfirmYes"
+msgstr "Cargar foto"
+
+msgid "needAddPhotoConfirmNo"
+msgstr "Cancelar"
+
+msgid "requiredFieldsAlertConfirmTitle"
+msgstr "No completado"
+
+msgid "requiredFieldsAlertConfirmText"
+msgstr ""
+"Siguientes campos estan requeridos: %s<br>Por favor ve a su perfil y llene "
+"los campos que faltan"
+
+msgid "requiredFieldsAlertConfirmYes"
+msgstr "Ir a"
+
+msgid "noticeImageSizeLimit"
+msgstr "Limitaciones de tamaño de la imagen"
+
+msgid "noticeImageSizeLimitText"
+msgstr "Tamaño de imagen debe ser menor a 2 MB"
+
+msgid "emailConfirmTitle"
+msgstr "Confirmar correo electronico"
+
+msgid "emailConfirmAlertYes"
+msgstr "Confirmar"
+
+msgid "emailConfirmAlertNo"
+msgstr "Cancelar"
+
+msgid "bannedInfoAlertTitle"
+msgstr "Tu cuenta ha sido bloqueada"
+
+msgid "bannedInfoAlertNotice"
+msgstr "Puedes obtener más información en la página de tu perfil."
+
+msgid "bannedInfoAlertYes"
+msgstr "Ir"
+
+msgid "bannedInfoAlertNo"
+msgstr "Desconectarse"
+
+msgid "emailDomainsReplaceAlertTitle"
+msgstr "Cambiar correo electronico"
+
+msgid "emailDomainsReplaceAlertText"
+msgstr ""
+"Nosotros hemos cambiado su correo electronico a %s, porque parece que Usted "
+"habia cometido un error de digito. Continuar o cambiarlo de vuelta?"
+
+msgid "emailDomainsReplaceAlertYes"
+msgstr "Continuar"
+
+msgid "emailDomainsReplaceAlertNo"
+msgstr "Cambiar de vuelta"
+
+msgid "signinAction"
+msgstr "Ingresar"
+
+msgid "signupAction"
+msgstr "Regístrate"
+
+msgid "signinEmailEmptyError"
+msgstr "Ingresar correo electronico"
+
+msgid "signinEmailMaskError"
+msgstr "Ingresar un correo electronico válido"
+
+msgid "signinPasswordEmptyError"
+msgstr "Ingresar contraseña"
+
+msgid "signinCountryEmptyError"
+msgstr "Pais"
+
+msgid "signinCityEmptyError"
+msgstr "Ciudad"
+
+msgid "signinErrorBirthDayEmpty"
+msgstr "Dia"
+
+msgid "signinErrorBirthMonthEmpty"
+msgstr "Mes"
+
+msgid "signinErrorBirthYearEmpty"
+msgstr "Año"
+
+msgid "signinErrorTooYoung"
+msgstr ""
+"El registro está permitido sólo al llegar a&nbsp la edad de 18&nbsp;años."
+
+msgid "citySelectDisabledTitle"
+msgstr "Seleccionar pais"
+
+msgid "signinPasswordMinLengthError"
+msgstr "Contraseña debe ser al minimo 5&nbsp;caracteres"
+
+msgid "signinErrorNameEmpty"
+msgstr "Ingresa su nombre"
+
+msgid "signinErrorSex"
+msgstr "Seleccione su sexo"
+
+msgid "loginVia"
+msgstr "Ingresar vía %s"
+
+msgid "registerVia"
+msgstr "Registrarse vía %s"
+
+msgid "timeToFindYourLove"
+msgstr "Es tiempo de que encuentres el amor"
+
+msgid "socialLikeDescription"
+msgstr "Amar, flirtear, interactuar. Gratis y de manera anonima..."
+
+msgid "showAll"
+msgstr "Mostrar todo"
+
+msgid "actionMinimize"
+msgstr "Minimizar"
+
+msgid "chatLoadingHistory"
+msgstr "Cargando mensajes previos"
+
+msgid "chatCitationsAdd"
+msgstr "Añadir a&nbsp;citas"
+
+msgid "chatCitationsTitle"
+msgstr "Citas"
+
+msgid "chatCitationsWelcome"
+msgstr ""
+"<p>Por favor agregue aqui las frases que utiliza a menudo para insertarlas "
+"rapidamente &nbsp;en&nbsp;la conversacion</p><p>Para colocar, utiliza el "
+"boton<span id=\"citations-welcome-button\"></span>Agregar a citas</p>"
+
+msgid "statusOnline"
+msgstr "En linea Ahora"
+
+msgid "actionEdit"
+msgstr "Editar"
+
+msgid "chatCitationsRestore"
+msgstr "Restaurar cita"
+
+msgid "chatNewMessageFrom"
+msgstr "Nuevo mensaje de"
+
+msgid "chatEmptyTitle"
+msgstr "no hay mensajes en su chat"
+
+msgid "chatEmptyText"
+msgstr ""
+"Para agregar la persona, seleccione los usuarios que le gustan, por ejemplo "
+"de <a href=\"/\">Busqueda</a>, y haga el click en \"Escribir\""
+
+msgid "formUploadFile"
+msgstr "Cargar un archivo"
+
+msgid "formDeleteFile"
+msgstr "Borrar archivo"
+
+msgid "socialLikeTitle"
+msgstr "Pagina genial! Lovetime"
+
+msgid "About Yiinka"
+msgstr "Acerca de Yiinke"
+
+msgid "systemInstruments"
+msgstr "Herramientas"
+
+msgid "Import CSV"
+msgstr "Importar de CSV"
+
+msgid "chatMessages"
+msgstr "Mensajes"
+
+msgid "profileMessages"
+msgstr "Mensajes"
+
+msgid "chatAll"
+msgstr "Todo"
+
+msgid "chatOnline"
+msgstr "En línea"
+
+msgid "correspondencesActions"
+msgstr "Acciones"
+
+msgid "actionMoveIn"
+msgstr "Mover a:"
+
+msgid "actionBlacklist"
+msgstr "Lista negra"
+
+msgid "chatEmptyFolder"
+msgstr "Esta carpeta está vacía"
+
+msgid "chatNoOnline"
+msgstr "Todos interlocutores no estan en linea"
+
+msgid "correspondencesMessage"
+msgid_plural "correspondencesMessages"
+msgstr[0] "Mensaje"
+msgstr[1] "Mensajes"
+
+msgid "favoriteUsers"
+msgstr "Usuarios favoritos"
+
+msgid "favoriteLocation"
+msgstr ""
+"Usted puede ver al Usuario que Usted agrego a \"Favoritos\" en la carpeta de "
+"\"Favoritos\" en seccion de \"Mensajes\""
+
+msgid "favoriteHideTip"
+msgstr "Esconder el consejo"
+
+msgid "favoriteNext"
+msgstr "Proximo"
+
+msgid "favoriteCancel"
+msgstr "Cancelar"
+
+msgid "emailConfirmResultSuccess"
+msgstr "Su correo electronico ha sido confirmaod excitosamente"
+
+msgid "emailConfirmAlreadyConfirmed"
+msgstr "Su correo electronico ya habia sido confirmado"
+
+msgid "emailConfirmCheckYourEmailNow"
+msgstr "Revise su correo electronico ahora por favor"
+
+msgid "emailConfirmClickLinkForComplete"
+msgstr ""
+"Para completar la registracion, pulse en el enlace en el correo electronico "
+"que le enviemos a <b>%email%</b>"
+
+msgid "mailOpen"
+msgstr "Abrir"
+
+msgid "emailConfirmCantGetMessage"
+msgstr "No recibio el correo?"
+
+msgid "emailConfirmCheckYourEmailOrEnterAnother"
+msgstr "Verificar su correo electronico, o ingresar uno nuevo"
+
+msgid "emailConfirmTypeValidEmail"
+msgstr "Ingresa un correo electronico válido"
+
+msgid "emailConfirmSendAgain"
+msgstr "Enviar otra vez"
+
+msgid "profileGuests"
+msgstr "Visitantes"
+
+msgid "guestsFemaleStranger"
+msgstr "desconocida"
+
+msgid "guestsMaleStranger"
+msgstr "desconocido"
+
+msgid "guestsNo"
+msgstr "Usted no ha tenido visitas durante el periodo especificado"
+
+msgid "catalogUsersCatalog"
+msgstr "Catálogo de usuario"
+
+msgid "formPasswordSent"
+msgstr ""
+"Te acabamos de enviar un correo electrónico con las instrucciones para "
+"restablecer tu contraseña"
+
+msgid "usersList"
+msgstr "Lista de usuarios"
+
+msgid "likesNoData"
+msgstr "No hay data"
+
+msgid "guestsDataError"
+msgstr "Error de data"
+
+msgid "usersPhotoAlbumOf"
+msgstr "Album del usuario"
+
+msgid "actionUploadPhoto"
+msgstr "Cargar foto"
+
+msgid "banProfileNotice"
+msgstr ""
+"Este perfil no esta completado, y ha sido declinado por el moderador o no "
+"permitido para ver. Trate de ver otros usuarios."
+
+msgid "banProfileHome"
+msgstr "Inicio"
+
+msgid "usersWriteMessage"
+msgstr "Escribir un mensaje"
+
+msgid "usersInviteToChat"
+msgstr "Invitar al chat"
+
+msgid "usersAlreadyToFavorite"
+msgstr "Ya esta en favoritos"
+
+msgid "carouselDistance"
+msgstr "%s km de Usted"
+
+msgid "carouselDistanceOn"
+msgstr "en distancia"
+
+msgid "carouselDistanceUnknown"
+msgstr "para saber, especifique su ubicacion"
+
+msgid "porsonalInfo"
+msgstr "Informacion personal"
+
+msgid "userProfilePersonalInfoShow"
+msgstr "mostrar"
+
+msgid "formResetPassword"
+msgstr "Pincha aquí para recibir el enlace y restablecer la contraseña"
+
+msgid "carouselDisabledTitle"
+msgstr "¡Sube tu foto!"
+
+msgid "uploadPhoto"
+msgstr "Cargar foto"
+
+msgid "carouselDisabledText"
+msgstr ""
+"¿Vas a tener una cita fantasma? Sube, por lo menos, una foto de perfil y el "
+"amor tocará a tu puerta."
+
+msgid "backToPageDates"
+msgstr "Elegir el compañero para la cita"
+
+msgid "profileRelations"
+msgstr "Citas"
+
+msgid "profileLikesForMe"
+msgstr "Encuentros"
+
+msgid "profileMutualLikes"
+msgstr "Sentimientos mutuos"
+
+msgid "profileMyLikes"
+msgstr "Yo Quiero Una Cita"
+
+msgid "carouselHeYes"
+msgstr "El dijo <strong>&laquo;Si&raquo;</strong>"
+
+msgid "carouselSheYes"
+msgstr "Ella dijo <strong>&laquo;Si&raquo;</strong>"
+
+msgid "carouselHeMaybe"
+msgstr "El dijo <strong>&laquo;Probablemente&raquo;</strong>"
+
+msgid "carouselSheMaybe"
+msgstr "Ella dijo <strong>&laquo;Probablemente&raquo;</strong>"
+
+msgid "carouselAnswerYes"
+msgstr "Si!"
+
+msgid "carouselAnswerMaybe"
+msgstr "Probablemente"
+
+msgid "carouselAnswerNo"
+msgstr "No"
+
+msgid "carouselMyYes"
+msgstr "Usted dijo <strong>&laquo;Yes&raquo;</strong>"
+
+msgid "carouselYouMaybe"
+msgstr "Usted dijo <strong>&laquo;Probablemente&raquo;</strong>"
+
+msgid "updatePass"
+msgstr "Entrar contraseña nueva"
+
+msgid "modelForgotpassChangePassword"
+msgstr "Cambiar la contraseña"
+
+msgid "nearTitle1"
+msgstr "¿Quién está cerca de ti?"
+
+msgid "nearTitle2"
+msgstr "me"
+
+msgid "meOnMap"
+msgstr "Ubicación"
+
+msgid "userLocationNotFound"
+msgstr "Ubicacion no encontrada"
+
+msgid "backToPageSearch"
+msgstr "Volver a&nbsp;busqueda"
+
+msgid "pageLocationTitle"
+msgstr "Especifique su ubicacion"
+
+msgid "meOnMapText2"
+msgstr ""
+"Los otros usuarios no verán tu ubicación, solo la distancia aproximada."
+
+msgid "userLocationPlaceholder"
+msgstr "Inserta el nombre de la calle y el número"
+
+msgid "userLocationFind"
+msgstr "Encontrar"
+
+msgid "locationClear"
+msgstr "Borrar la marca"
+
+msgid "usersRefuseFromMails"
+msgstr "Declinar notificaciones de correo"
+
+msgid "usersRefuseFromMailsOk"
+msgstr "Usted no recibira mas mensajes por correo electronico"
+
+msgid "profileMySettings"
+msgstr "Configuración"
+
+msgid "profileNotificationSettings"
+msgstr "Configuración de las notificaciones"
+
+msgid "inviteIncognitoTitle"
+msgstr "Modo &laquo;&nbsp;Incógnito&nbsp;&raquo;"
+
+msgid "loginWidgetIncognitoText"
+msgstr ""
+"Si marcas esta casilla, tus fotos no serán visibles por los demás usuarios"
+
+msgid "UTC-11:00"
+msgstr "(UTC-11:00) Islas Midway"
+
+msgid "UTC-10:00"
+msgstr "(UTC-10:00) Hawaii"
+
+msgid "UTC-9:00"
+msgstr "(UTC-09:00) Alaska"
+
+msgid "UTC-8:00[1]"
+msgstr "(UTC-08:00) Baja California"
+
+msgid "UTC-8:00[2]"
+msgstr "(UTC-08:00) Hora Pacifica (EEUU y Canada)"
+
+msgid "UTC-7:00[1]"
+msgstr "(UTC-07:00) Arizona"
+
+msgid "UTC-7:00[2]"
+msgstr "(UTC-07:00) Horario de Montañas (EEUU y Canada)"
+
+msgid "UTC-7:00[3]"
+msgstr "(UTC-07:00) La Paz, Mazatlan, Chihuahua"
+
+msgid "UTC-6:00[1]"
+msgstr "(UTC-06:00) Guadalajara, Mexico City, Monterrey"
+
+msgid "UTC-6:00[2]"
+msgstr "(UTC-06:00) Saskatchewan, Central America"
+
+msgid "UTC-6:00[3]"
+msgstr "(UTC-06:00) Hora Central (EEUU y Canada)"
+
+msgid "UTC-5:00[1]"
+msgstr "(UTC-05:00) Bogota, Quito, Lima"
+
+msgid "UTC-5:00[2]"
+msgstr "(UTC-05:00) Tiempo Estandar de Este (EEUU y Canada)"
+
+msgid "UTC-5:00[3]"
+msgstr "(UTC-05:00) Indiana (Este)"
+
+msgid "UTC-4:30"
+msgstr "(UTC-04:30) Caracas"
+
+msgid "UTC-4:00[1]"
+msgstr "(UTC-04:00) Asuncion"
+
+msgid "UTC-4:00[2]"
+msgstr "(UTC-04:00) Hora Atlantica (Canada)"
+
+msgid "UTC-4:00[3]"
+msgstr "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+
+msgid "UTC-4:00[4]"
+msgstr "(UTC-04:00) Cuiaba"
+
+msgid "UTC-4:00[5]"
+msgstr "(UTC-04:00) Santiago"
+
+msgid "UTC-3:30"
+msgstr "(UTC-03: 30) Newfoundland"
+
+msgid "UTC-3:00[1]"
+msgstr "(UTC-03:00) Brazil"
+
+msgid "UTC-3:00[2]"
+msgstr "(UTC-03: 00) Buenos Aires"
+
+msgid "UTC-3:00[3]"
+msgstr "(UTC-03:00) Grenlandia"
+
+msgid "UTC-3:00[4]"
+msgstr "(UTC-03:00) Cayenne, Fortaleza"
+
+msgid "UTC-3:00[5]"
+msgstr "(UTC-03:00) Montevideo"
+
+msgid "UTC-2:00[1]"
+msgstr "(UTC-02:00) Bermudas"
+
+msgid "UTC-2:00[2]"
+msgstr "(UTC-02:00) Hora de Medio Atlantico"
+
+msgid "UTC-1:00[1]"
+msgstr "(UTC-01:00) Azores"
+
+msgid "UTC-1:00[2]"
+msgstr "(UTC-01:00) Cape Verde Islands"
+
+msgid "UTC0[2]"
+msgstr "(UTC) Dublin, London, Edinburgh"
+
+msgid "UTC0[3]"
+msgstr "(UTC) Casablanca"
+
+msgid "UTC0[4]"
+msgstr "(UTC) Monrovia, Reykjavik"
+
+msgid "UTC+1[1]"
+msgstr "(UTC+01:00) Amsterdam, Berlin, Bern, Vienna, Rome, Stockholm"
+
+msgid "UTC+1[2]"
+msgstr "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+
+msgid "UTC+1[3]"
+msgstr "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris"
+
+msgid "UTC+1[4]"
+msgstr "(UTC+01:00) Warsaw, Zagreb, Sarajevo, Skopje"
+
+msgid "UTC+1[5]"
+msgstr "(UTC+01:00) Windhoek"
+
+msgid "UTC+1[6]"
+msgstr "(UTC+01:00) Africa Central Oeste"
+
+msgid "UTC+2[1]"
+msgstr "(UTC+02:00) Amman"
+
+msgid "UTC+2[2]"
+msgstr "(UTC+02:00) Athens, Bucharest"
+
+msgid "UTC+2[3]"
+msgstr "(UTC+02:00) Beirut"
+
+msgid "UTC+2[4]"
+msgstr "(UTC+02:00) Vilnius, Kiev, Riga, Sofia, Tallinn, Helsinki"
+
+msgid "UTC+2[5]"
+msgstr "(UTC+02:00) Damascus"
+
+msgid "UTC+2[6]"
+msgstr "(UTC+02:00) Jerusalem"
+
+msgid "UTC+2[7]"
+msgstr "(UTC+02:00) Cairo"
+
+msgid "UTC+2[8]"
+msgstr "(UTC+02:00) Nicosia"
+
+msgid "UTC+2[9]"
+msgstr "(UTC+02:00) Istanbul"
+
+msgid "UTC+2[10]"
+msgstr "(UTC+02:00) Harare, Pretoria"
+
+msgid "UTC+3[1]"
+msgstr "(UTC+03:00) Baghdad"
+
+msgid "UTC+3[2]"
+msgstr "(UTC+03:00) Kaliningrad, Minsk"
+
+msgid "UTC+3[3]"
+msgstr "(UTC+03:00) Kuwait, Riyadh"
+
+msgid "UTC+3[4]"
+msgstr "(UTC+03:00) Kuwait, Riyadh"
+
+msgid "UTC+3:30"
+msgstr "(UTC+03:30) Tehran"
+
+msgid "UTC+4[1]"
+msgstr "(UTC+04:00) Abu Dhabi, Muscat"
+
+msgid "UTC+4[2]"
+msgstr "(UTC+04:00) Baku"
+
+msgid "UTC+4[3]"
+msgstr "(UTC+04:00) Volgograd, Moscu, St. Petersburg"
+
+msgid "UTC+4[4]"
+msgstr "(UTC +04:00) Yerevan"
+
+msgid "UTC+4[5]"
+msgstr "(UTC+04:00) Tbilisi"
+
+msgid "UTC+4:30"
+msgstr "(UTC+04:30) Kabul"
+
+msgid "UTC+5[1]"
+msgstr "(UTC+05:00) Islamabad, Karachi"
+
+msgid "UTC+5[2]"
+msgstr "(UTC+05:00) Tashkent"
+
+msgid "UTC+5:30"
+msgstr "(UTC+05:30) Kolkata, Mumbai, New Delhi, Chennai"
+
+msgid "UTC+5:45"
+msgstr "(UTC+05:45) Katmandu"
+
+msgid "UTC+6[1]"
+msgstr "(UTC+06:00) Astana"
+
+msgid "UTC+6[2]"
+msgstr "(UTC+06:00) Dacca"
+
+msgid "UTC+6[3]"
+msgstr "(UTC+06:00) Yekaterinburg"
+
+msgid "UTC+6:30"
+msgstr "(UTC+06:30) Yangon"
+
+msgid "UTC+7[1]"
+msgstr "(UTC+07:00) Bangkok, Jakarta, Hanoi"
+
+msgid "UTC+7[2]"
+msgstr "(UTC+07:00) Novosibirsk"
+
+msgid "UTC+8[1]"
+msgstr "(UTC+08:00) Hong Kong, Beijing, Urumqi, Chongqing"
+
+msgid "UTC+8[2]"
+msgstr "(UTC+08:00) Krasnoyarsk"
+
+msgid "UTC+8[3]"
+msgstr "(UTC+08:00) Kuala Lumpur, Singapore"
+
+msgid "UTC+8[4]"
+msgstr "(UTC+08:00) Perth"
+
+msgid "UTC+8[5]"
+msgstr "(UTC+08:00) Taipei"
+
+msgid "UTC+8[6]"
+msgstr "(UTC+08:00) Ulaanbaatar"
+
+msgid "UTC+9[1]"
+msgstr "(UTC+09:00) Irkutsk"
+
+msgid "UTC+9[2]"
+msgstr "(UTC+09:00) Osaka, Sapporo, Tokyo"
+
+msgid "UTC+9[3]"
+msgstr "(UTC+09:00) Seoul"
+
+msgid "UTC+9:30[1]"
+msgstr "(UTC+09:30) Adelaide"
+
+msgid "UTC+9:30[2]"
+msgstr "(UTC+09:30) Darwin"
+
+msgid "UTC+10[1]"
+msgstr "(UTC+10:00) Brisbane"
+
+msgid "UTC+10[2]"
+msgstr "(UTC+10:00) Guam, Port Moresby"
+
+msgid "UTC+10[3]"
+msgstr "(UTC+10:00) Canberra, Melbourne, Sydney"
+
+msgid "UTC+10[4]"
+msgstr "(UTC+10:00) Hobart"
+
+msgid "UTC+10[5]"
+msgstr "(UTC+10:00) Yakutsk"
+
+msgid "UTC+11[1]"
+msgstr "(UTC+11:00) Vladivostok"
+
+msgid "UTC+11[2]"
+msgstr "(UTC+11:00) Islas de Salomin, Nueva Caledonia"
+
+msgid "UTC+12[1]"
+msgstr "(UTC+12:00) Wellington, Auckland"
+
+msgid "UTC+12[3]"
+msgstr "(UTC+12:00) Magadan"
+
+msgid "UTC+12[4]"
+msgstr "(UTC+12:00) Fiji"
+
+msgid "UTC+13[1]"
+msgstr "(UTC+13:00) Nuku&apos;alofa"
+
+msgid "UTC+13[2]"
+msgstr "(UTC+13:00) Samoa"
+
+msgid "profileAdditional"
+msgstr "Facultativo"
+
+msgid "saved"
+msgstr "Guardado"
+
+msgid "userSettingsChangePassword"
+msgstr "Cambiar contraseña"
+
+msgid "systemRegisterNew"
+msgstr "Registracion de nuevo usuario"
+
+msgid "systemRegisterChange"
+msgstr "Editar el perfil"
+
+msgid "registerSex"
+msgstr "Sexo"
+
+msgid "siteRulesAccept"
+msgstr "Al presionar el botón, aceptas"
+
+msgid "pagesRulesTitle"
+msgstr "Acuerdo de usuario"
+
+msgid "profileMyAnketa"
+msgstr "Perfil"
+
+msgid "userProfileChangeCountry"
+msgstr ""
+"Especificaste <strong>%current_country%</strong> como país. Tu ubicación "
+"actual &ndash; <strong>%country_by_ip%</strong>. <a %href_extension% "
+"href='%link%'>Actualizar país de tu perfil</a>"
+
+msgid "iLookingFor"
+msgstr "Estoy buscando"
+
+msgid "preferredAgeFrom"
+msgstr "de"
+
+msgid "preferredAgeTo"
+msgstr "a"
+
+msgid "aboutMe"
+msgstr "Acerca de mi"
+
+msgid "userViewProfessionOrSphereOfActivity"
+msgstr "Ocupación/actividad"
+
+msgid "contestUnselectAll"
+msgstr "Deseleccionar todo"
+
+msgid "step"
+msgstr "&nbsp;"
+
+msgid "locationSavedOk"
+msgstr "Su ubicacion ha sido guardada"
+
+msgid "locationClearedOk"
+msgstr "Datos de su ubicacion han sido borrados"
+
+msgid "locationSavedErr"
+msgstr "Hubo un error al guardar su ubicacion"
+
+msgid "inviteCaptchaWrong"
+msgstr "Código inválido"
+
+msgid "formIncorrectLink"
+msgstr ""
+"Usted no puede utilizar el enlace otra vez para restablecer la contraseña."
+"<br />Para hacerlo pulsea el enlace"
+
+msgid "msgNoNearestNew"
+msgstr "Nadie aparecio cerca recientemente. "
+
+msgid "msgNoNearestOnline"
+msgstr "Perdona no hay nadie cerca"
+
+msgid "msgNoNearestAll"
+msgstr "Perdona, no hay nadie cerca."
+
+msgid "carouselUsersAreAbsent"
+msgstr "No hay mas usuarios para ver"
+
+msgid "profileAgeStr"
+msgstr "%s años"
+
+msgid "complainSuccess"
+msgstr "Tu reporte ha sido enviado al moderador"
+
+msgid "complainNoSuccess"
+msgstr "No se pudo enviar el reporte al moderador"
+
+msgid "complainAllPoles"
+msgstr "Por favor, llena todos los campos"
+
+msgid "feedbackFileError"
+msgstr "Formato de archivo inválido. Formatos permitidos: jpg,png."
+
+msgid "feedbackSentError"
+msgstr "El mensaje no ha sido guardado. Intentalo mas tarde."
+
+msgid "feedbackSent"
+msgstr "Su mensaje ha sido enviado"
+
+msgid "unsubscribeSuccess"
+msgstr "Usted se ha cancelado existosamente de la lista de envios."
+
+msgid "unsubscribeNoSuchUser"
+msgstr "No hay usuarios registrado con tal correo electronico."
+
+msgid "loginWidgetPhotoDidNotModeratedYet"
+msgstr "La foto aun no ha sido aprobada"
+
+msgid "loginWidgetPhotoDidNotPassModerated"
+msgstr "La foto no fue aprobada por:"
+
+msgid "chatSessionClose"
+msgstr "Su sesión ha sido finalizada. Por favor ingrese de nuevo"
+
+msgid "searchNoResults"
+msgstr "No hay resultados"
+
+msgid "loginWidgetAddPhoto"
+msgstr "Agregar foto"
+
+msgid "systemExitConfirmTitle"
+msgstr "¿Estás seguro de querer desconectarte?"
+
+msgid "systemExitConfirmBody"
+msgstr ""
+"Al volver, tendrás&nbsp;que ingresar de nuevo tu nombre de usuario y tu&nbsp;"
+"contraseña."
+
+msgid "systemExitConfirmNo"
+msgstr "Continuar&nsbp;en&nbsp;sesión"
+
